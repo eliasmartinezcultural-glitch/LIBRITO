@@ -1,5 +1,14 @@
-# Documentos originales autorizados
+# Archivos de la colección
 
-Esta carpeta está reservada exclusivamente para copias completas y fieles de obras preexistentes cuya redistribución esté autorizada y documentada.
+Esta carpeta contiene exclusivamente documentos PDF completos, legibles, descargables e imprimibles cuya publicación está autorizada o se encuentra amparada por una base jurídica documentada.
 
-No subir aquí candidatos, archivos parciales, materiales con derechos pendientes ni versiones intervenidas. Registrar cada incorporación en el inventario y el catálogo público. Consultar `../LEY-MUNDIAL.md` antes de publicar.
+No subir:
+- enlaces, páginas web ni accesos a otros portales;
+- videos, audios o archivos que no sean PDF;
+- documentos parciales, ilegibles o dañados;
+- copias alteradas, reconstruidas o remaquetadas;
+- obras con derechos o permisos pendientes.
+
+Cada PDF publicado debe tener un registro en `../catalogo.json`, estado `Publicado`, autorización confirmada y suma SHA-256 verificada.
+
+La carpeta puede permanecer vacía mientras no existan archivos que cumplan todas las condiciones. No se incorporan materiales para completar una cifra.
