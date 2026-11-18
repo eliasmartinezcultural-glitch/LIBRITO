@@ -8,7 +8,7 @@
   let categoriaActiva = "Todas";
 
   const texto = (valor) => typeof valor === "string" ? valor : "";
-  const permitido = (ruta) => /^documentos\/[A-Za-z0-9._/-]+$/.test(texto(ruta)) && !ruta.split("/").includes("..");
+  const permitido = (ruta) => /^documentos\/[A-Za-z0-9._/-]+\.pdf$/i.test(texto(ruta)) && !ruta.split("/").includes("..");
 
   function crear(tag, clase, contenido) {
     const nodo = document.createElement(tag);
