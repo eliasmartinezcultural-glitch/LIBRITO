@@ -62,3 +62,15 @@ La investigación reciente agregó seis registros internos (CND-031 a CND-036):
 - Ordenanza 1479/25 Rendición de Cuentas 2024, con estados contables y anexos pendientes de recuperar.
 
 Todos estos registros permanecen fuera del catálogo público hasta recuperar copias completas, comprobar anexos, verificar permisos y revisar datos personales. La prioridad es obtener los archivos individuales de las ordenanzas, no publicar compilaciones completas de boletines.
+
+
+## Nuevos hallazgos verificados en boletines oficiales
+
+Se amplió el inventario con tres normas prioritarias adicionales (CND-037 a CND-039):
+- Ordenanza 1527/25, presupuesto municipal 2026: publicada en Boletín Oficial 4535, páginas impresas 42–44. El texto remite a Anexos I y II que no están en esas páginas; falta obtener el documento completo.
+- Ordenanza 1437/24, higiene de terrenos baldíos y espacios públicos, y Decreto 1944/24: publicada en Boletín Oficial 4368, páginas impresas 275–276 y siguientes; falta verificar la totalidad de fojas y recuperar el archivo individual.
+- Ordenanza 1554/26, rendición de cuentas del ejercicio 2025: identificada en Boletín Oficial 4575; falta recuperar el texto íntegro y anexos.
+
+La edición 4435 confirma la Ordenanza 1442/24 en páginas impresas 156–163 y la Ordenanza 1445/24 en páginas 163–164. La edición 4466 confirma la Ordenanza 1479/25 y el Decreto 762/2025 en páginas 118–121. En ambos casos, las normas remiten a anexos o documentación contable que no debe considerarse recuperada por haber encontrado el texto principal.
+
+Se creó PEDIDO-DE-ARCHIVOS.md para solicitar copias individuales, anexos y versiones públicas, junto con condiciones explícitas de reproducción. No se publica ninguna de estas nuevas referencias hasta completar la recuperación y autorización.
