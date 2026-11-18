@@ -70,3 +70,16 @@ main{width:min(1120px,calc(100% - 44px));margin:auto}
 @media(max-width:700px){.barra{min-height:74px}.barra-nota{font-size:8px;letter-spacing:.1em}.hero{min-height:450px;padding:68px 0 76px}.hero:after{width:250px;height:250px;right:-100px;top:110px}.hero-sello{right:8px;bottom:28px;width:76px;height:76px}.hero-sello span{font-size:25px}.hero-sello small{font-size:6px}.hero-texto{max-width:90%;font-size:14px}.principio{grid-template-columns:1fr;gap:14px;padding:48px 0}.seccion-cabecera{display:block}.seccion-ayuda{margin-top:10px}.coleccion-seccion{padding:54px 0 62px}.coleccion-lista{grid-template-columns:1fr}.pasos{grid-template-columns:repeat(2,1fr);gap:25px 18px}.como{padding-top:54px;padding-bottom:58px}.pie-final{display:grid}}
 @media(max-width:380px){.barra-nota{display:none}.hero h1{font-size:37px}.pasos{grid-template-columns:1fr}.busqueda kbd{display:none}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{transition:none!important}}
+
+.rescate{width:min(1120px,calc(100% - 44px));margin:0 auto;padding:64px 0 72px;border-top:1px solid var(--linea)}
+.rescate-cabecera{display:grid;grid-template-columns:1.1fr .9fr;gap:40px;align-items:end;margin-bottom:28px}
+.rescate h2{font:500 clamp(30px,4vw,44px)/1.15 var(--serif);letter-spacing:-.03em;margin:8px 0 0}
+.rescate h2 em{color:var(--verde-2);font-weight:500}
+.rescate-aviso{max-width:460px;margin:0 0 4px;color:#59645b;font-size:14px}
+.rescate-lista{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 34px;border-top:1px solid var(--linea)}
+.rescate-lista li{padding:13px 0;border-bottom:1px solid var(--linea);display:flex;flex-direction:column;gap:2px;min-width:0}
+.rescate-lista strong{font:500 16px var(--serif);color:var(--tinta)}
+.rescate-lista span{font-size:11px;color:var(--muted)}
+.rescate-pie{margin:24px 0 0;font-size:12px;color:#5e695f;line-height:1.9}
+.rescate-pie a{color:var(--verde);font-weight:700;text-decoration-thickness:1px;text-underline-offset:3px}
+@media(max-width:700px){.rescate{padding:48px 0 56px}.rescate-cabecera{grid-template-columns:1fr;gap:12px}.rescate-lista{grid-template-columns:1fr}.rescate-lista li{padding:12px 0}}
