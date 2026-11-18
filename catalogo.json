@@ -1,7 +1,19 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 1,
+  "version": 2,
   "descripcion": "Colección de obras y documentos preexistentes relacionados con San Patricio del Chañar.",
   "regla": "La biblioteca reúne obras terminadas; no crea ni modifica obras de terceros.",
+  "categorias": [
+    "Memoria e historia",
+    "Biblioteca de autores",
+    "Educación y conocimiento",
+    "Producción y trabajo",
+    "Territorio y arquitectura",
+    "Hemeroteca",
+    "Cultura y patrimonio",
+    "Archivo visual",
+    "Juegos y entretenimiento",
+    "Instituciones y vida comunitaria"
+  ],
   "documentos": []
 }
