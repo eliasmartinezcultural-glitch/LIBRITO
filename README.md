@@ -6,7 +6,7 @@ Proyecto independiente de **Ocarina Producciones** para reunir y ofrecer documen
 
 LIBRITO es una **biblioteca de archivos**, no un buscador, directorio, portal de noticias ni catálogo de enlaces.
 
-La colección pública contiene exclusivamente archivos que se pueden:
+La colección pública contiene exclusivamente documentos PDF que se pueden:
 - leer en su totalidad;
 - descargar directamente desde esta biblioteca;
 - imprimir;
@@ -27,7 +27,8 @@ El catálogo público permanece vacío hasta contar con archivos completos, legi
 - `index.html`: única portada pública.
 - `catalogo.json`: catálogo de los archivos publicados.
 - `web/`: estilos y funcionamiento de la biblioteca.
-- `documentos/`: archivos originales autorizados para descarga.
+- `documentos/`: archivos PDF originales autorizados para descarga.
+- `scripts/validar_biblioteca.py`: control automático de integridad, rutas, permisos y enlaces externos.
 - `INVENTARIO-MAESTRO.csv` y documentos de relevamiento: control interno de investigación; no son parte de la colección pública.
 
 ## Incorporación de un archivo
@@ -38,6 +39,7 @@ El catálogo público permanece vacío hasta contar con archivos completos, legi
 4. Confirmar licencia o permiso de redistribución.
 5. Guardarlo sin alteraciones en `documentos/`.
 6. Incorporarlo al catálogo con sus datos y ruta de descarga.
-7. Probar lectura, descarga e impresión desde celular y computadora.
+7. Registrar SHA-256 y probar lectura, descarga e impresión desde celular y computadora.
+8. Ejecutar `python3 scripts/validar_biblioteca.py`; la publicación no debe pasar si falta el archivo, el hash no coincide o hay enlaces externos.
 
 **La biblioteca solo anuncia lo que efectivamente entrega: archivos completos, accesibles y autorizados.**
