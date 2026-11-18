@@ -20,7 +20,7 @@ La biblioteca no crea, reescribe ni modifica obras de terceros. Reúne documento
 
 ## Estado actual
 
-La colección ya cuenta con **1 documento PDF publicado**: la Carta Orgánica Municipal de San Patricio del Chañar (edición oficial de 2006, 44 páginas). El archivo está alojado en `documentos/`, tiene SHA-256 registrado y ofrece lectura, descarga e impresión desde la portada. Los demás candidatos siguen fuera de la colección hasta cumplir las mismas verificaciones.
+La colección ya cuenta con **2 documentos PDF publicados**: la Carta Orgánica Municipal (2006, 44 páginas) y la Ordenanza Municipal 1536/25 junto al Decreto 2253/2025 (3 páginas). Ambos originales están alojados en `documentos/`, tienen SHA-256 registrado y ofrecen lectura, descarga e impresión desde la portada. Los demás candidatos siguen fuera de la colección hasta cumplir las mismas verificaciones.
 
 ## Sitio
 
