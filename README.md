@@ -10,6 +10,15 @@ No escribe ni modifica obras de terceros. Cada archivo debe conservar su integri
 
 Leé la [Ley Mundial](LEY-MUNDIAL.md) antes de incorporar cualquier material.
 
+## Estado documental — 18 de noviembre de 2026
+
+- **3 candidatos identificados** en el primer relevamiento.
+- **0** archivos recuperados y verificados localmente.
+- **0** autorizaciones de redistribución confirmadas.
+- **0 obras publicadas** para descarga.
+
+El detalle y las fuentes de investigación están en [CANDIDATOS-INICIALES.md](CANDIDATOS-INICIALES.md) y en [INVENTARIO-MAESTRO.csv](INVENTARIO-MAESTRO.csv). Los candidatos no forman parte de la colección pública y no deben anunciarse como obras incorporadas.
+
 ## Sitio web
 
 La portada pública está en `index.html`. GitHub Pages debe configurarse para publicar desde la rama `main`, carpeta `/(root)`. La interfaz también se conserva en `web/` como copia de trabajo.
@@ -23,8 +32,9 @@ Solo los documentos en estado **Publicado**, con autorización confirmada y arch
 ## Estructura
 
 - `LEY-MUNDIAL.md`: reglas obligatorias.
-- `INVENTARIO-MAESTRO.csv`: seguimiento de candidatos y documentos.
-- `catalogo.json`: catálogo público; comienza vacío.
+- `CANDIDATOS-INICIALES.md`: primer relevamiento de materiales existentes.
+- `INVENTARIO-MAESTRO.csv`: seguimiento documental.
+- `catalogo.json`: catálogo público; permanece vacío hasta que existan obras autorizadas.
 - `index.html`: portada para GitHub Pages.
 - `web/`: interfaz y archivos de trabajo.
 - `documentos/`: archivos originales autorizados para descarga.
@@ -41,4 +51,4 @@ Solo los documentos en estado **Publicado**, con autorización confirmada y arch
 
 No se contabilizan referencias, enlaces externos, fichas sin archivo, archivos parciales ni materiales con derechos pendientes como parte de la colección pública.
 
-**Estado inicial:** estructura de trabajo. No hay obras publicadas todavía.
+**La prioridad es la autenticidad, integridad, pertinencia y situación legal; nunca inflar el volumen de la colección.**
