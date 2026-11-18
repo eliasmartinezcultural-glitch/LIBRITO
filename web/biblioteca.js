@@ -50,11 +50,16 @@
     if (texto(item.descripcion)) articulo.append(crear("p", "documento-descripcion", item.descripcion));
     const pie = crear("div", "documento-pie");
     pie.append(crear("span", "", texto(item.formato).toUpperCase() || "ARCHIVO DIGITAL"));
-    const enlace = crear("a", "descarga", "Descargar ↗");
-    enlace.href = item.archivo;
-    enlace.setAttribute("download", "");
-    enlace.setAttribute("aria-label", "Descargar " + (texto(item.titulo) || "documento"));
-    pie.append(enlace);
+    const lectura = crear("a", "descarga", "Leer / imprimir ↗");
+    lectura.href = item.archivo;
+    lectura.target = "_blank";
+    lectura.rel = "noopener noreferrer";
+    lectura.setAttribute("aria-label", "Leer e imprimir " + (texto(item.titulo) || "documento"));
+    const descarga = crear("a", "descarga", "Descargar PDF ↓");
+    descarga.href = item.archivo;
+    descarga.setAttribute("download", "");
+    descarga.setAttribute("aria-label", "Descargar " + (texto(item.titulo) || "documento"));
+    pie.append(lectura, descarga);
     articulo.append(pie);
     return articulo;
   }
@@ -72,7 +77,7 @@
     if (!resultados.length) {
       const mensaje = documentos.length
         ? "No hay documentos que coincidan. Probá con otras palabras o elegí otra categoría."
-        : "Los documentos aparecerán aquí cuando estén recuperados, verificados y autorizados para su descarga.";
+        : "Acá solo se publican documentos PDF completos, legibles, descargables e imprimibles.";
       mostrarVacio(documentos.length ? "No encontramos coincidencias" : "La colección está en preparación", mensaje);
       return;
     }
