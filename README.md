@@ -12,12 +12,12 @@ Leé la [Ley Mundial](LEY-MUNDIAL.md) antes de incorporar cualquier material.
 
 ## Estado documental — 18 de noviembre de 2026
 
-- **20 registros identificados** en el relevamiento ampliado de obras y documentos vinculados con San Patricio del Chañar.
-- **0** archivos recuperados y verificados localmente en esta ampliación.
-- **0** autorizaciones de redistribución confirmadas en esta ampliación.
-- **0 obras nuevas publicadas** para descarga.
+- **27 registros de investigación** en el inventario: 20 obras/producciones identificadas y 7 recursos documentales oficiales incorporados.
+- **0** copias nuevas alojadas localmente y verificadas para redistribución.
+- **0** autorizaciones de redistribución confirmadas para los nuevos registros.
+- **0 obras nuevas publicadas** para descarga directa.
 
-El relevamiento ampliado está en [RELEVAMIENTO-20-OBRAS-CHANARENSES.md](RELEVAMIENTO-20-OBRAS-CHANARENSES.md). Se incorporaron siete nuevas fuentes oficiales al [INVENTARIO-MAESTRO.csv](INVENTARIO-MAESTRO.csv), documentadas en [RECURSOS-OFICIALES.md](RECURSOS-OFICIALES.md) y presentadas en la página [Fuentes documentales](fuentes.html). Los registros son investigación y consulta en origen: no forman parte de la colección pública ni deben anunciarse como descargas alojadas por la biblioteca.
+El relevamiento de obras está en [RELEVAMIENTO-20-OBRAS-CHANARENSES.md](RELEVAMIENTO-20-OBRAS-CHANARENSES.md). Las siete fuentes oficiales están documentadas en [RECURSOS-OFICIALES.md](RECURSOS-OFICIALES.md) y presentadas en la página [Fuentes documentales](fuentes.html). Los registros son investigación y consulta en origen: no forman parte de la colección pública ni deben anunciarse como descargas alojadas por la biblioteca.
 
 ## Sitio web
 
