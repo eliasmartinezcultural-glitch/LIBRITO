@@ -42,9 +42,19 @@ La experiencia pública debe permitir descargar los materiales incorporados dire
 
 La colección descargable no puede consistir en una lista de enlaces que envíen a otros portales para conseguir las obras. Las referencias externas pueden utilizarse internamente como fuentes de investigación, pero no cuentan como documentos incorporados.
 
+El formato público de la colección será exclusivamente **PDF**. Cada documento deberá abrirse para lectura, permitir la descarga directa y resultar apto para impresión. No se publicarán videos, audios, páginas web, enlaces externos, fichas de obras pendientes ni archivos incompletos.
+
 Si no es legal o técnicamente posible ofrecer una copia descargable propia, el material no se presentará como parte de la colección pública.
 
-## 6. Criterios de inclusión
+## 6. Textos normativos oficiales
+
+Las leyes, decretos, ordenanzas, resoluciones y demás textos oficiales de carácter normativo pueden tratarse como textos oficiales no protegidos por derecho de autor, de acuerdo con la clasificación publicada por InfoLEG y la explicación de CADRA sobre leyes, decretos, sentencias y dictámenes de organismos públicos. Esta regla se limita al texto oficial de la norma: no se extiende automáticamente a fotografías, mapas, ilustraciones, estudios, informes, comentarios, compilaciones creativas ni al diseño de publicaciones que lo contengan.
+
+Para publicar una norma, se debe conservar la copia oficial íntegra, identificar el organismo emisor, número, fecha y publicación, y evitar incorporar anexos de terceros o datos personales innecesarios. Cuando la publicación original mezcle normas con otros contenidos, se deberá evaluar el archivo completo antes de reproducirlo.
+
+Referencia institucional de trabajo: InfoLEG, *Base de Datos*, apartado sobre datos no protegidos: https://www.infoleg.gob.ar/basehome/base_datos.pdf. Referencia complementaria: CADRA, licencias y obras no protegidas: https://cadra.org.ar/licencias/.
+
+## 7. Criterios de inclusión
 
 Se consideran candidatos:
 - Obras dedicadas específicamente a San Patricio del Chañar.
@@ -54,7 +64,7 @@ Se consideran candidatos:
 
 La mera mención incidental del nombre de la localidad no alcanza para justificar la inclusión.
 
-## 7. Relevancia territorial
+## 8. Relevancia territorial
 
 Cada candidato tendrá una clasificación interna:
 - **A — Específico:** dedicado principalmente a San Patricio del Chañar.
@@ -63,13 +73,13 @@ Cada candidato tendrá una clasificación interna:
 
 La categoría no reemplaza la verificación de integridad ni de derechos.
 
-## 8. Catalogación profesional
+## 9. Catalogación profesional
 
 Cada registro debe consignar únicamente datos comprobados. Cuando un dato no esté disponible se indicará **“No determinado”**, sin completarlo por inferencia.
 
 Los campos mínimos son: identificador, título, autoría, institución, fecha, edición, tipo documental, temática, relevancia territorial, idioma, formato, extensión, procedencia, fuente de adquisición, titular de derechos, licencia o autorización, huella digital del archivo y estado documental.
 
-## 9. Estados documentales obligatorios
+## 10. Estados documentales obligatorios
 
 Todo candidato debe atravesar estos estados:
 
@@ -83,7 +93,7 @@ Solo el estado **Publicado** cuenta como parte de la colección pública descarg
 
 Una ficha, un enlace externo, una referencia bibliográfica, un archivo parcial o un permiso pendiente nunca se contabilizan como obra publicada.
 
-## 10. Prohibición de inflar la colección
+## 11. Prohibición de inflar la colección
 
 No se anunciarán como incorporados materiales que solo fueron localizados, mencionados, citados o solicitados.
 
@@ -91,29 +101,29 @@ No se duplicará una misma obra para aparentar mayor volumen. Las distintas edic
 
 La cantidad nunca tendrá prioridad sobre la autenticidad, integridad, pertinencia y situación legal.
 
-## 11. Independencia y neutralidad
+## 12. Independencia y neutralidad
 
 La biblioteca debe describir los documentos con lenguaje claro, verificable y respetuoso. No alterará el contenido para favorecer o perjudicar personas, instituciones, gobiernos, empresas, organizaciones o posiciones particulares.
 
 La inclusión documental no implica adhesión de la biblioteca a las opiniones expresadas en una obra.
 
-## 12. Preservación y seguridad
+## 13. Preservación y seguridad
 
 Se conservará una copia maestra sin modificaciones y se registrará, cuando sea posible, su suma de verificación SHA-256. Las copias de consulta deben corresponder fielmente al original.
 
 No se publicarán archivos dañados, incompletos, ilegibles, maliciosos o cuya procedencia no pueda establecerse razonablemente.
 
-## 13. Identidad institucional
+## 14. Identidad institucional
 
 La Biblioteca Digital Chañarense es un proyecto independiente de **Ocarina Producciones**. Esta identidad institucional no reemplaza ni desplaza la autoría, los créditos o la identidad de las instituciones titulares de cada obra.
 
-## 14. Correcciones, reclamos y retiro
+## 15. Correcciones, reclamos y retiro
 
 La biblioteca debe ofrecer un canal de contacto para comunicar errores de catalogación, problemas de integridad, atribuciones incorrectas o reclamos de derechos.
 
 Ante un reclamo razonable sobre derechos o procedencia, la descarga podrá suspenderse preventivamente mientras se revisa la documentación. Toda corrección debe quedar registrada. Nunca se modificará silenciosamente el contenido de una obra.
 
-## 15. Prioridad permanente
+## 16. Prioridad permanente
 
 Ante cualquier duda, se priorizará no publicar antes que publicar incorrectamente. La ausencia de un documento es preferible a una atribución falsa, una copia alterada o una redistribución no autorizada.
 
