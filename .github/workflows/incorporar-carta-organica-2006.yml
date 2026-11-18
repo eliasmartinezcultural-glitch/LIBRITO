@@ -1,0 +1,86 @@
+name: Incorporar Carta Orgánica 2006
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/incorporar-carta-organica-2006.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  incorporar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Recuperar PDF desde el portal provincial
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p documentos
+          curl --fail --location --retry 3 --retry-delay 2 \
+            "https://www.economianqn.gob.ar/contenido/file/2755" \
+            --output "documentos/Carta-Organica-Municipal-San-Patricio-del-Chanar-2006.pdf"
+          test "$(head -c 5 documentos/Carta-Organica-Municipal-San-Patricio-del-Chanar-2006.pdf)" = "%PDF-"
+          test "$(stat -c%s documentos/Carta-Organica-Municipal-San-Patricio-del-Chanar-2006.pdf)" -gt 20000
+          python3 -m pip install --quiet pypdf
+          python3 - <<'PY'
+          from pypdf import PdfReader
+          from pathlib import Path
+          path = Path("documentos/Carta-Organica-Municipal-San-Patricio-del-Chanar-2006.pdf")
+          pdf = PdfReader(str(path))
+          assert len(pdf.pages) == 44, f"Se esperaban 44 páginas, se encontraron {len(pdf.pages)}"
+          text = " ".join((page.extract_text() or "") for page in pdf.pages[:3])
+          assert "CARTA ORG" in text.upper() and "SAN PATRICIO DEL CHAÑAR" in text.upper(), "El contenido no coincide con la Carta Orgánica"
+          print(f"PDF verificado: {len(pdf.pages)} páginas, {path.stat().st_size} bytes")
+          PY
+          sha256sum documentos/Carta-Organica-Municipal-San-Patricio-del-Chanar-2006.pdf
+
+      - name: Incorporar al catálogo público
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import hashlib, json
+          from pathlib import Path
+
+          file = Path("documentos/Carta-Organica-Municipal-San-Patricio-del-Chanar-2006.pdf")
+          digest = hashlib.sha256(file.read_bytes()).hexdigest()
+          catalog_path = Path("catalogo.json")
+          catalog = json.loads(catalog_path.read_text(encoding="utf-8"))
+          catalog["documentos"] = [d for d in catalog.get("documentos", []) if d.get("id") != "carta-organica-2006"]
+          catalog["documentos"].append({
+              "id": "carta-organica-2006",
+              "titulo": "Carta Orgánica Municipal de San Patricio del Chañar",
+              "autoria": "Convención Municipal de San Patricio del Chañar",
+              "institucion": "Convención Municipal de San Patricio del Chañar",
+              "fecha": "2006-09-29",
+              "categoria": "Normativa y documentos públicos",
+              "tematica": "Identidad local, autonomía municipal, derechos, territorio, cultura y patrimonio",
+              "descripcion": "Texto normativo municipal publicado como anexo del Boletín Oficial de la Provincia del Neuquén, edición 3001, del 29 de septiembre de 2006. PDF oficial íntegro de 44 páginas.",
+              "formato": "PDF",
+              "archivo": str(file),
+              "estado": "Publicado",
+              "autorizacion": {
+                  "estado": "confirmada",
+                  "base": "Texto oficial normativo no protegido por derecho de autor; la documentación institucional de InfoLEG clasifica leyes, decretos y ordenanzas entre los textos oficiales no protegidos.",
+                  "referencia": "InfoLEG, Base de Datos, apartado sobre datos no protegidos; publicación oficial del Boletín Oficial de Neuquén."
+              },
+              "procedencia": "Boletín Oficial de la Provincia del Neuquén, anexo, edición 3001, 29-09-2006.",
+              "integridad": "Copia binaria descargada del portal oficial provincial; 44 páginas comprobadas y SHA-256 calculado.",
+              "sha256": digest
+          })
+          catalog["documentos"].sort(key=lambda d: d.get("titulo", "").casefold())
+          catalog_path.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+          PY
+
+      - name: Guardar archivo y catálogo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add documentos/Carta-Organica-Municipal-San-Patricio-del-Chanar-2006.pdf catalogo.json
+          git commit -m "Incorporar Carta Orgánica Municipal 2006"
+          git push
