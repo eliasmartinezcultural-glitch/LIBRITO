@@ -49,7 +49,8 @@
     articulo.append(crear("p", "documento-datos", datos.join(" · ") || "Datos bibliográficos en verificación"));
     if (texto(item.descripcion)) articulo.append(crear("p", "documento-descripcion", item.descripcion));
     const pie = crear("div", "documento-pie");
-    pie.append(crear("span", "", texto(item.formato).toUpperCase() || "ARCHIVO DIGITAL"));
+    const detallesArchivo = [texto(item.formato).toUpperCase() || "PDF", Number.isInteger(item.paginas) && item.paginas > 0 ? item.paginas + (item.paginas === 1 ? " página" : " páginas") : ""].filter(Boolean).join(" · ");
+    pie.append(crear("span", "", detallesArchivo));
     const lectura = crear("a", "descarga", "Leer / imprimir ↗");
     lectura.href = item.archivo;
     lectura.target = "_blank";
