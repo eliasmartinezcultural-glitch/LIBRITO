@@ -12,12 +12,12 @@ Leé la [Ley Mundial](LEY-MUNDIAL.md) antes de incorporar cualquier material.
 
 ## Estado documental — 18 de noviembre de 2026
 
-- **3 candidatos identificados** en el primer relevamiento.
-- **0** archivos recuperados y verificados localmente.
-- **0** autorizaciones de redistribución confirmadas.
-- **0 obras publicadas** para descarga.
+- **20 registros identificados** en el relevamiento ampliado de obras y documentos vinculados con San Patricio del Chañar.
+- **0** archivos recuperados y verificados localmente en esta ampliación.
+- **0** autorizaciones de redistribución confirmadas en esta ampliación.
+- **0 obras nuevas publicadas** para descarga.
 
-El detalle y las fuentes de investigación están en [CANDIDATOS-INICIALES.md](CANDIDATOS-INICIALES.md) y en [INVENTARIO-MAESTRO.csv](INVENTARIO-MAESTRO.csv). Los candidatos no forman parte de la colección pública y no deben anunciarse como obras incorporadas.
+El relevamiento ampliado está en [RELEVAMIENTO-20-OBRAS-CHANARENSES.md](RELEVAMIENTO-20-OBRAS-CHANARENSES.md). El seguimiento detallado continúa en [INVENTARIO-MAESTRO.csv](INVENTARIO-MAESTRO.csv) y [CANDIDATOS-INICIALES.md](CANDIDATOS-INICIALES.md). Los veinte registros son investigación documental: no forman parte de la colección pública ni deben anunciarse como descargas incorporadas.
 
 ## Sitio web
 
