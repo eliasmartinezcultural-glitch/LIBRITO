@@ -26,12 +26,13 @@ Ambos originales están alojados en la carpeta documentos, tienen SHA-256 regist
 
 ## Investigación documental ampliada
 
-El inventario interno alcanza 36 registros (CND-001 a CND-036). Se incorporaron seis nuevas líneas de investigación normativa: ediciones 4435 y 4466 del Boletín Oficial; Ordenanzas 1442/24, 1533/25, 1445/24 y 1479/25. Estos materiales están identificados, no publicados. Los boletines completos requieren revisión de derechos, datos personales y anexos; se prioriza recuperar los documentos normativos individuales.
+El inventario interno alcanza 39 registros (CND-001 a CND-039). Se incorporaron seis nuevas líneas de investigación normativa: ediciones 4435 y 4466 del Boletín Oficial; Ordenanzas 1442/24, 1533/25, 1445/24 y 1479/25. Estos materiales están identificados, no publicados. Los boletines completos requieren revisión de derechos, datos personales y anexos; se prioriza recuperar los documentos normativos individuales.
 
 Documentación interna de crecimiento y control:
 - MAPA-DE-COLECCION.md: líneas temáticas, prioridades y fuentes de investigación.
 - PROTOCOLO-DE-PUBLICACION.md: recepción, integridad, derechos, privacidad y publicación.
 - MODELO-DE-AUTORIZACION.md: modelo orientativo para solicitar permisos a autores y titulares.
+- PEDIDO-DE-ARCHIVOS.md: documentos municipales prioritarios y modelo de solicitud de copias oficiales.
 
 ## Arquitectura
 
