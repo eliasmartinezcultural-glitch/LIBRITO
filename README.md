@@ -1,45 +1,80 @@
 # Biblioteca Digital Chañarense
 
-Proyecto independiente de **Ocarina Producciones** para reunir y ofrecer documentos completos relacionados con San Patricio del Chañar, Neuquén, Argentina.
+Proyecto independiente de **Ocarina Producciones** dedicado a reunir y ofrecer documentos completos relacionados con San Patricio del Chañar, Neuquén, Argentina.
 
-## Qué es y qué no es
+## Identidad y propósito
 
-LIBRITO es una **biblioteca de archivos**, no un buscador, directorio, portal de noticias ni catálogo de enlaces.
+LIBRITO es una biblioteca de archivos, no un buscador, directorio, portal de noticias ni catálogo de enlaces. Su misión es facilitar el acceso y la conservación de documentos que permiten conocer la historia, memoria, cultura, instituciones y territorio local.
 
-La colección pública contiene exclusivamente documentos PDF que se pueden:
-- leer en su totalidad;
-- descargar directamente desde esta biblioteca;
-- imprimir;
-- conservar con sus créditos, autoría y procedencia.
+La experiencia debe ser cálida, editorial, clara y especialmente sencilla desde un teléfono. El visitante debe poder reconocer qué contiene la biblioteca, encontrar un documento y abrirlo o descargarlo sin pasos innecesarios.
 
-No se publican videos, audios, enlaces a sitios externos, referencias a materiales que no estén disponibles como archivo, fichas de obras pendientes ni contenido incompleto.
+## Regla pública innegociable
 
-## Regla documental
+La colección pública contiene exclusivamente documentos PDF que se pueden leer en su totalidad, descargar directamente desde esta biblioteca, imprimir y conservar con sus créditos, autoría y procedencia.
 
-La biblioteca no crea, reescribe ni modifica obras de terceros. Reúne documentos terminados y conserva su integridad. La atribución no reemplaza el permiso: antes de alojar y ofrecer una copia debe existir una licencia o autorización válida para su redistribución.
+No se publican videos, audios, enlaces externos, referencias a materiales que no estén disponibles como archivo, fichas de obras pendientes ni contenido incompleto.
 
-## Estado actual
+La biblioteca no crea, reescribe, resume ni modifica obras ajenas. La atribución no reemplaza el permiso: antes de alojar y ofrecer una copia debe existir una licencia o autorización válida para su redistribución, o una base jurídica documentada.
 
-La colección ya cuenta con **2 documentos PDF publicados**: la Carta Orgánica Municipal (2006, 44 páginas) y la Ordenanza Municipal 1536/25 junto al Decreto 2253/2025 (3 páginas). Ambos originales están alojados en `documentos/`, tienen SHA-256 registrado y ofrecen lectura, descarga e impresión desde la portada. Los demás candidatos siguen fuera de la colección hasta cumplir las mismas verificaciones.
+## Colección actual
 
-## Sitio
+Hay **2 documentos PDF publicados**:
+1. Carta Orgánica Municipal de San Patricio del Chañar (2006, 44 páginas).
+2. Ordenanza Municipal 1536/25 y Decreto Municipal 2253/2025 (3 páginas).
 
-- `index.html`: única portada pública.
-- `catalogo.json`: catálogo de los archivos publicados.
-- `web/`: estilos y funcionamiento de la biblioteca.
-- `documentos/`: archivos PDF originales autorizados para descarga.
-- `scripts/validar_biblioteca.py`: control automático de integridad, rutas, permisos y enlaces externos.
-- `INVENTARIO-MAESTRO.csv` y documentos de relevamiento: control interno de investigación; no son parte de la colección pública.
+Ambos originales están alojados en la carpeta documentos, tienen SHA-256 registrado y ofrecen lectura, descarga e impresión desde la portada. Los candidatos restantes siguen fuera de la colección hasta cumplir las mismas verificaciones.
+
+## Arquitectura
+
+- index.html: portada pública principal.
+- catalogo.json: fuente única de los metadatos públicos.
+- web/estilos.css: sistema visual responsive.
+- web/biblioteca.js: buscador, filtros y fichas documentales.
+- web/index.html: vista secundaria sincronizada para la carpeta web.
+- documentos/: originales PDF completos autorizados para descarga.
+- scripts/validar_biblioteca.py: controles automáticos de integridad, rutas, permisos y enlaces externos.
+- INVENTARIO-MAESTRO.csv: registro interno de investigación y estados; no se muestra en la portada pública.
+- LEY-MUNDIAL.md: criterios jurídicos y de publicación.
+
+## Organización temática prevista
+
+Las categorías son una herramienta de navegación, no una promesa de que ya existan materiales publicados: Historia y memoria; Normativa y documentos públicos; Cultura y patrimonio; Educación y conocimiento; Informes y estadísticas; Territorio y cartografía; Hemeroteca y prensa; Libros y publicaciones.
+
+Una categoría solo aparece como filtro cuando tiene documentos publicados.
+
+## Estados documentales
+
+1. Identificado: existe evidencia de que la obra o documento existe.
+2. Archivo recuperado: se obtuvo una copia completa.
+3. Verificado: se revisaron integridad, legibilidad, páginas, autoría y procedencia.
+4. Autorizado: existe una licencia o permiso de redistribución, o base jurídica suficiente y registrada.
+5. Publicado: el PDF local está incorporado al catálogo, validado y disponible.
+
+Solo el estado Publicado aparece en la web. Un archivo encontrado en internet no se considera automáticamente libre para redistribuir.
 
 ## Incorporación de un archivo
 
-1. Recuperar el documento completo y original.
-2. Comprobar que sea legible y apto para impresión.
-3. Verificar autoría, créditos, integridad y procedencia.
+1. Recuperar el documento completo y original desde una fuente legítima.
+2. Comprobar que sea legible, íntegro y apto para impresión.
+3. Verificar autoría, créditos, institución, fecha y procedencia.
 4. Confirmar licencia o permiso de redistribución.
-5. Guardarlo sin alteraciones en `documentos/`.
-6. Incorporarlo al catálogo con sus datos y ruta de descarga.
-7. Registrar SHA-256 y probar lectura, descarga e impresión desde celular y computadora.
-8. Ejecutar `python3 scripts/validar_biblioteca.py`; la publicación no debe pasar si falta el archivo, el hash no coincide o hay enlaces externos.
+5. Guardarlo sin alteraciones en documentos/.
+6. Incorporarlo a catalogo.json con metadatos suficientes.
+7. Registrar SHA-256 y número de páginas.
+8. Probar lectura, descarga e impresión desde celular y computadora.
+9. Ejecutar python3 scripts/validar_biblioteca.py.
+
+La publicación debe detenerse si falta el archivo, no coincide el hash, no se confirma la autorización o el documento no es un PDF local.
+
+## Principios de experiencia
+
+- Primero los documentos, no la decoración.
+- Una búsqueda visible y filtros comprensibles.
+- Títulos legibles y datos bibliográficos claros.
+- Dos acciones principales: leer/imprimir y descargar.
+- Créditos y procedencia accesibles en cada ficha.
+- Diseño adaptable a celulares, pantallas pequeñas y escritorio.
+- Sin cuentas, formularios, rastreadores ni dependencias externas para mostrar el catálogo.
+- Sin páginas vacías ni categorías que aparenten contenido inexistente.
 
 **La biblioteca solo anuncia lo que efectivamente entrega: archivos completos, accesibles y autorizados.**
