@@ -50,3 +50,15 @@ La identidad se apoya en verde profundo, papel cálido, acentos arena, tipograf�
 ## Próxima etapa
 
 Priorizar la recuperación de normas municipales oficiales completas y documentos institucionales cuyo régimen permita alojarlos. Para libros, fotografías, revistas y trabajos de autor, contactar al titular y conservar la autorización. No crear documentos sustitutivos ni convertir materiales ajenos en productos propios.
+
+## Hallazgos añadidos al inventario
+
+La investigación reciente agregó seis registros internos (CND-031 a CND-036):
+- Boletín Oficial 4435, 09-05-2025: contiene la Ordenanza 1445/24 y el presupuesto municipal 2025.
+- Boletín Oficial 4466, 01-08-2025: contiene el Decreto Municipal 762/2025 y la Ordenanza 1479/25 sobre rendición de cuentas 2024.
+- Ordenanza 1442/24 Impositiva, listada por el índice oficial provincial.
+- Ordenanza 1533/25 Impositiva, listada por el índice provincial y publicada en el Boletín Oficial 4535.
+- Ordenanza 1445/24 Presupuesto 2025, con anexos I y II pendientes de recuperar como archivo individual.
+- Ordenanza 1479/25 Rendición de Cuentas 2024, con estados contables y anexos pendientes de recuperar.
+
+Todos estos registros permanecen fuera del catálogo público hasta recuperar copias completas, comprobar anexos, verificar permisos y revisar datos personales. La prioridad es obtener los archivos individuales de las ordenanzas, no publicar compilaciones completas de boletines.
