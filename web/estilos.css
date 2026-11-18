@@ -54,7 +54,7 @@ main{width:min(1120px,calc(100% - 44px));margin:auto}
 .documento-pie{margin-top:auto;padding-top:13px;border-top:1px solid var(--linea);display:flex;justify-content:space-between;gap:10px;align-items:center;font-size:11px;color:var(--muted)}
 .descarga{color:var(--verde);font-weight:700;text-decoration:none}.descarga:hover{text-decoration:underline}
 .sin-resultados{grid-column:1/-1;padding:28px;background:var(--arena);font-size:13px;color:var(--muted)}
-.como{background:#e9e7dc;margin:0 calc((1120px - 100vw)/2);padding:70px max(22px,calc((100vw - 1120px)/2)) 76px}
+.como{background:#e9e7dc;margin:0 -22px;padding:70px 22px 76px}
 .como h2{margin-bottom:34px}
 .pasos{display:grid;grid-template-columns:repeat(4,1fr);gap:24px}
 .pasos article{border-top:1px solid #b9c2b4;padding-top:15px}
@@ -66,6 +66,6 @@ main{width:min(1120px,calc(100% - 44px));margin:auto}
 .pie-marca strong,.pie-marca small{display:block}.pie-marca strong{font:500 16px var(--serif)}.pie-marca small{font-size:10px;color:#bdc9bd;margin-top:3px}
 .pie-final{border-top:1px solid #ffffff2b;margin-top:24px;padding-top:17px;display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap;font-size:10px;color:#c2cec2}
 .pie-final a{color:#e7e0c9;text-decoration:none}.pie-final a:hover{text-decoration:underline}
-@media(max-width:700px){.barra{min-height:74px}.barra-nota{font-size:8px;letter-spacing:.1em}.hero{min-height:450px;padding:68px 0 76px}.hero:after{width:250px;height:250px;right:-100px;top:110px}.hero-sello{right:8px;bottom:28px;width:76px;height:76px}.hero-sello span{font-size:25px}.hero-sello small{font-size:6px}.hero-texto{max-width:90%;font-size:14px}.principio{grid-template-columns:1fr;gap:14px;padding:48px 0}.seccion-cabecera{display:block}.seccion-ayuda{margin-top:10px}.coleccion-seccion{padding:54px 0 62px}.coleccion-lista{grid-template-columns:1fr}.pasos{grid-template-columns:repeat(2,1fr);gap:25px 18px}.como{padding-top:54px;padding-bottom:58px}.pie-final{display:grid}}
+@media(min-width:1164px){.como{margin:0 calc((1120px - 100vw)/2);padding:70px calc((100vw - 1120px)/2) 76px}}\n@media(max-width:700px){.barra{min-height:74px}.barra-nota{font-size:8px;letter-spacing:.1em}.hero{min-height:450px;padding:68px 0 76px}.hero:after{width:250px;height:250px;right:-100px;top:110px}.hero-sello{right:8px;bottom:28px;width:76px;height:76px}.hero-sello span{font-size:25px}.hero-sello small{font-size:6px}.hero-texto{max-width:90%;font-size:14px}.principio{grid-template-columns:1fr;gap:14px;padding:48px 0}.seccion-cabecera{display:block}.seccion-ayuda{margin-top:10px}.coleccion-seccion{padding:54px 0 62px}.coleccion-lista{grid-template-columns:1fr}.pasos{grid-template-columns:repeat(2,1fr);gap:25px 18px}.como{padding-top:54px;padding-bottom:58px}.pie-final{display:grid}}
 @media(max-width:380px){.barra-nota{display:none}.hero h1{font-size:37px}.pasos{grid-template-columns:1fr}.busqueda kbd{display:none}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{transition:none!important}}
