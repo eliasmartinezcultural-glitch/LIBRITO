@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f1e8">
+  <meta name="description" content="Biblioteca Digital Chañarense: documentos y obras sobre San Patricio del Chañar.">
+  <title>Biblioteca Digital Chañarense</title>
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <header class="encabezado">
+    <p class="identidad">OCARINA PRODUCCIONES PRESENTA</p>
+    <h1>Biblioteca Digital<br><span>Chañarense</span></h1>
+    <p class="bajada">Un espacio para encontrar, preservar y descargar documentos y obras sobre San Patricio del Chañar.</p>
+  </header>
+
+  <main>
+    <section class="regla" aria-labelledby="regla-titulo">
+      <h2 id="regla-titulo">Una biblioteca que reúne</h2>
+      <p>No creamos ni modificamos las obras. Buscamos materiales terminados, respetamos a sus autores y publicamos únicamente archivos cuya descarga está autorizada.</p>
+    </section>
+
+    <section class="busqueda" aria-label="Buscar en la biblioteca">
+      <label for="buscador">¿Qué estás buscando?</label>
+      <input id="buscador" type="search" placeholder="Título, autor, tema o institución…" autocomplete="off">
+      <p id="contador" class="contador" aria-live="polite"></p>
+    </section>
+
+    <section>
+      <div id="coleccion" class="coleccion" aria-live="polite">
+        <div class="vacio">
+          <h2>La colección está en preparación</h2>
+          <p>Estamos verificando archivos, autorías, procedencias y permisos. Preferimos publicar menos materiales y hacerlo correctamente.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Biblioteca Digital Chañarense · Proyecto independiente de Ocarina Producciones</p>
+    <a href="../LEY-MUNDIAL.md">Consultar la Ley Mundial</a>
+  </footer>
+  <script src="biblioteca.js"></script>
+</body>
+</html>
