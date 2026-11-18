@@ -17,7 +17,7 @@ Leé la [Ley Mundial](LEY-MUNDIAL.md) antes de incorporar cualquier material.
 - **0** autorizaciones de redistribución confirmadas en esta ampliación.
 - **0 obras nuevas publicadas** para descarga.
 
-El relevamiento ampliado está en [RELEVAMIENTO-20-OBRAS-CHANARENSES.md](RELEVAMIENTO-20-OBRAS-CHANARENSES.md). El seguimiento detallado continúa en [INVENTARIO-MAESTRO.csv](INVENTARIO-MAESTRO.csv) y [CANDIDATOS-INICIALES.md](CANDIDATOS-INICIALES.md). Los veinte registros son investigación documental: no forman parte de la colección pública ni deben anunciarse como descargas incorporadas.
+El relevamiento ampliado está en [RELEVAMIENTO-20-OBRAS-CHANARENSES.md](RELEVAMIENTO-20-OBRAS-CHANARENSES.md). Se incorporaron siete nuevas fuentes oficiales al [INVENTARIO-MAESTRO.csv](INVENTARIO-MAESTRO.csv), documentadas en [RECURSOS-OFICIALES.md](RECURSOS-OFICIALES.md) y presentadas en la página [Fuentes documentales](fuentes.html). Los registros son investigación y consulta en origen: no forman parte de la colección pública ni deben anunciarse como descargas alojadas por la biblioteca.
 
 ## Sitio web
 
@@ -33,6 +33,9 @@ Solo los documentos en estado **Publicado**, con autorización confirmada y arch
 
 - `LEY-MUNDIAL.md`: reglas obligatorias.
 - `CANDIDATOS-INICIALES.md`: primer relevamiento de materiales existentes.
+- `RELEVAMIENTO-20-OBRAS-CHANARENSES.md`: veinte obras y producciones identificadas.
+- `RECURSOS-OFICIALES.md`: fuentes primarias y recursos oficiales verificados.
+- `fuentes.html`: página pública para consultar los originales en sus organismos de origen.
 - `INVENTARIO-MAESTRO.csv`: seguimiento documental.
 - `catalogo.json`: catálogo público; permanece vacío hasta que existan obras autorizadas.
 - `index.html`: portada para GitHub Pages.
