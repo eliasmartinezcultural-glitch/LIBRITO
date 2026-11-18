@@ -12,7 +12,7 @@ La colección pública contiene exclusivamente documentos PDF que se pueden:
 - imprimir;
 - conservar con sus créditos, autoría y procedencia.
 
-No se publican videos, enlaces a sitios externos, referencias a materiales que no estén disponibles como archivo, fichas de obras pendientes ni contenido incompleto.
+No se publican videos, audios, enlaces a sitios externos, referencias a materiales que no estén disponibles como archivo, fichas de obras pendientes ni contenido incompleto.
 
 ## Regla documental
 
@@ -20,7 +20,7 @@ La biblioteca no crea, reescribe ni modifica obras de terceros. Reúne documento
 
 ## Estado actual
 
-El catálogo público permanece vacío hasta contar con archivos completos, legibles y autorizados. No se mostrarán candidatos ni investigaciones internas en la página pública.
+La colección ya cuenta con **1 documento PDF publicado**: la Carta Orgánica Municipal de San Patricio del Chañar (edición oficial de 2006, 44 páginas). El archivo está alojado en `documentos/`, tiene SHA-256 registrado y ofrece lectura, descarga e impresión desde la portada. Los demás candidatos siguen fuera de la colección hasta cumplir las mismas verificaciones.
 
 ## Sitio
 
