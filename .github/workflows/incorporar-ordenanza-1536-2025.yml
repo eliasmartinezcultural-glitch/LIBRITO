@@ -1,0 +1,87 @@
+name: Incorporar Ordenanza 1536 2025
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/incorporar-ordenanza-1536-2025.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  incorporar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Recuperar y comprobar el documento oficial
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p documentos
+          curl --fail --location --retry 3 --retry-delay 2 \
+            "https://www.economianqn.gob.ar/contenido/file/12304" \
+            --output "documentos/Ordenanza-1536-25-y-Decreto-2253-2025-San-Patricio-del-Chanar.pdf"
+          test "$(head -c 5 documentos/Ordenanza-1536-25-y-Decreto-2253-2025-San-Patricio-del-Chanar.pdf)" = "%PDF-"
+          test "$(stat -c%s documentos/Ordenanza-1536-25-y-Decreto-2253-2025-San-Patricio-del-Chanar.pdf)" -gt 10000
+          python3 -m pip install --quiet pypdf
+          python3 - <<'PY'
+          from pypdf import PdfReader
+          from pathlib import Path
+          path = Path("documentos/Ordenanza-1536-25-y-Decreto-2253-2025-San-Patricio-del-Chanar.pdf")
+          pdf = PdfReader(str(path))
+          assert len(pdf.pages) == 3, f"Se esperaban 3 páginas, se encontraron {len(pdf.pages)}"
+          text = " ".join((page.extract_text() or "") for page in pdf.pages)
+          upper = text.upper()
+          assert "1536/25" in upper and "2253-2025" in upper and "SAN PATRICIO DEL CHAÑAR" in upper, "El contenido no coincide con las normas esperadas"
+          print(f"PDF verificado: {len(pdf.pages)} páginas, {path.stat().st_size} bytes")
+          PY
+          sha256sum documentos/Ordenanza-1536-25-y-Decreto-2253-2025-San-Patricio-del-Chanar.pdf
+
+      - name: Incorporar al catálogo público
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import hashlib, json
+          from pathlib import Path
+
+          file = Path("documentos/Ordenanza-1536-25-y-Decreto-2253-2025-San-Patricio-del-Chanar.pdf")
+          digest = hashlib.sha256(file.read_bytes()).hexdigest()
+          catalog_path = Path("catalogo.json")
+          catalog = json.loads(catalog_path.read_text(encoding="utf-8"))
+          catalog["documentos"] = [d for d in catalog.get("documentos", []) if d.get("id") != "ordenanza-1536-2025"]
+          catalog["documentos"].append({
+              "id": "ordenanza-1536-2025",
+              "titulo": "Ordenanza Municipal 1536/25 y Decreto Municipal 2253/2025",
+              "autoria": "Honorable Concejo Deliberante y Departamento Ejecutivo Municipal",
+              "institucion": "Municipalidad de San Patricio del Chañar",
+              "fecha": "2025-12-22",
+              "categoria": "Normativa y documentos públicos",
+              "tematica": "Normativa municipal, tasas, higiene de terrenos baldíos y espacios públicos",
+              "descripcion": "Publicación oficial de tres páginas que contiene el Decreto Municipal 2253/2025 y la Ordenanza Municipal 1536/25, sancionada el 22 de diciembre de 2025.",
+              "formato": "PDF",
+              "archivo": str(file),
+              "estado": "Publicado",
+              "autorizacion": {
+                  "estado": "confirmada",
+                  "base": "Textos oficiales normativos no protegidos por derecho de autor; clasificación institucional de InfoLEG para leyes, decretos y ordenanzas.",
+                  "referencia": "InfoLEG, Base de Datos, apartado sobre datos no protegidos; publicación oficial provincial."
+              },
+              "procedencia": "Portal oficial del Ministerio de Economía, Producción e Industria del Neuquén; documento municipal de 22-12-2025.",
+              "integridad": "Copia binaria descargada del portal oficial; 3 páginas verificadas y SHA-256 calculado.",
+              "sha256": digest
+          })
+          catalog["documentos"].sort(key=lambda d: d.get("titulo", "").casefold())
+          catalog_path.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+          PY
+
+      - name: Guardar archivo y catálogo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add documentos/Ordenanza-1536-25-y-Decreto-2253-2025-San-Patricio-del-Chanar.pdf catalogo.json
+          git commit -m "Incorporar Ordenanza Municipal 1536/25"
+          git push
