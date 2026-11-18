@@ -13,5 +13,27 @@
     "Normativa y documentos públicos",
     "Cultura y patrimonio"
   ],
-  "documentos": []
+  "documentos": [
+    {
+      "id": "carta-organica-2006",
+      "titulo": "Carta Orgánica Municipal de San Patricio del Chañar",
+      "autoria": "Convención Municipal de San Patricio del Chañar",
+      "institucion": "Convención Municipal de San Patricio del Chañar",
+      "fecha": "2006-09-29",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Identidad local, autonomía municipal, derechos, territorio, cultura y patrimonio",
+      "descripcion": "Texto normativo municipal publicado como anexo del Boletín Oficial de la Provincia del Neuquén, edición 3001, del 29 de septiembre de 2006. PDF oficial íntegro de 44 páginas.",
+      "formato": "PDF",
+      "archivo": "documentos/Carta-Organica-Municipal-San-Patricio-del-Chanar-2006.pdf",
+      "estado": "Publicado",
+      "autorizacion": {
+        "estado": "confirmada",
+        "base": "Texto oficial normativo no protegido por derecho de autor; la documentación institucional de InfoLEG clasifica leyes, decretos y ordenanzas entre los textos oficiales no protegidos.",
+        "referencia": "InfoLEG, Base de Datos, apartado sobre datos no protegidos; publicación oficial del Boletín Oficial de Neuquén."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, anexo, edición 3001, 29-09-2006.",
+      "integridad": "Copia binaria descargada del portal oficial provincial; 44 páginas comprobadas y SHA-256 calculado.",
+      "sha256": "45a4c05e598dafb9548929e4f0b49a2edb55a0224665e3c44c0c7f8ff51fd7e9"
+    }
+  ]
 }
