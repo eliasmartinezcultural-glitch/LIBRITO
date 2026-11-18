@@ -1,0 +1,19 @@
+name: Validar biblioteca documental
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+      - name: Validar catálogo, archivos y portada
+        run: python3 scripts/validar_biblioteca.py
