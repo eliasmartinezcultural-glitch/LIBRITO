@@ -4,7 +4,15 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#f3efe4">
-<meta name="description" content="LIBRITO reúne obras, documentos y noticias sobre San Patricio del Chañar.">
+<meta name="description" content="LIBRITO reúne obras, documentos, investigaciones y noticias sobre San Patricio del Chañar. Un archivo abierto para familias, escuelas y comunidad.">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="es_AR">
+<meta property="og:site_name" content="LIBRITO · Biblioteca Digital Chañarense">
+<meta property="og:title" content="LIBRITO · Biblioteca de San Patricio del Chañar">
+<meta property="og:description" content="Documentos, investigaciones, mapas y memoria periodística de San Patricio del Chañar, reunidos en un solo lugar.">
+<meta property="og:url" content="https://eliasmartinezcultural-glitch.github.io/LIBRITO/">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/b/bf/San_Patricio_del_Cha%C3%B1ar.png">
+<meta name="twitter:card" content="summary_large_image">
 <meta name="color-scheme" content="light">
 <title>LIBRITO · Biblioteca de San Patricio del Chañar</title>
 <link rel="stylesheet" href="web/estilos.css?v=20261119-ocarina-creditos1">
@@ -45,6 +53,22 @@
 </a>
 </nav>
 
+
+<section class="uso-escuela" aria-labelledby="titulo-escuela">
+  <div class="uso-escuela-cabecera">
+    <p class="sobrelinea">PARA COMPARTIR Y APRENDER</p>
+    <h2 id="titulo-escuela">LIBRITO también puede entrar al aula.</h2>
+    <p>Una puerta de consulta para docentes, estudiantes y familias que quieran investigar San Patricio del Chañar a partir de documentos, publicaciones y noticias reales.</p>
+  </div>
+  <div class="uso-escuela-pasos">
+    <article><span>01</span><h3>Elegir una pregunta</h3><p>¿Cómo creció la localidad? ¿Qué sabemos de las escuelas, el riego, la producción, la cultura o el territorio?</p></article>
+    <article><span>02</span><h3>Consultar las fuentes</h3><p>Buscar materiales en Obras y comparar noticias de distintos años en la Hemeroteca.</p></article>
+    <article><span>03</span><h3>Leer, conversar y citar</h3><p>Registrar quién publicó cada material, cuándo, qué información aporta y qué preguntas quedan abiertas.</p></article>
+  </div>
+  <p class="uso-escuela-nota"><strong>Una aclaración importante:</strong> LIBRITO es un archivo de consulta, no un programa curricular ni una fuente que reemplaza al documento original. Cada docente puede adaptar su uso a la edad, el curso y los objetivos de enseñanza.</p>
+  <div class="uso-escuela-acciones"><a href="obras.html">Buscar documentos y materiales</a><a href="hemeroteca.html">Investigar noticias por año</a></div>
+</section>
+
 <section class="donativo" aria-labelledby="titulo-donativo">
 <div class="donativo-texto">
 <p class="donativo-sobrelinea">UN APORTE VOLUNTARIO</p>
@@ -62,11 +86,16 @@
 
 
 
+<section class="compartir-portada" aria-label="Compartir LIBRITO">
+  <div><strong>¿Conocés a alguien a quien le pueda servir?</strong><span>Compartí la biblioteca con tu familia, una escuela o un vecino.</span></div>
+  <div class="compartir-portada-acciones"><a class="boton-compartir whatsapp" href="https://wa.me/?text=Te%20comparto%20LIBRITO%2C%20la%20Biblioteca%20Digital%20Chañarense%3A%20https%3A%2F%2Feliasmartinezcultural-glitch.github.io%2FLIBRITO%2F" target="_blank" rel="noopener noreferrer">Compartir por WhatsApp</a><button class="boton-compartir copiar" type="button" data-copiar-url="https://eliasmartinezcultural-glitch.github.io/LIBRITO/">Copiar enlace</button><span class="estado-copiar" aria-live="polite"></span></div>
+</section>
 <section class="nota-biblioteca nota-inicio" aria-label="Cómo funciona LIBRITO">
 <p><strong>Un archivo para compartir.</strong> LIBRITO reúne materiales existentes, conserva sus créditos y procedencias y facilita el acceso a las fuentes originales. No se apropia de las obras ni modifica sus originales.</p>
 </section>
 </main>
 <footer class="pie"><div class="contenedor pie-interior"><span>LIBRITO · Biblioteca Digital Chañarense</span><span class="pie-creditos"><strong>Desarrollo y realización digital por</strong><b>Ocarina Producciones</b></span></div></footer>
+<script src="web/compartir.js?v=20261119-escuelas-compartir1"></script>
 <script>
 (() => {
   const button = document.getElementById("copiar-alias");
