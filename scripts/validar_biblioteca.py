@@ -162,7 +162,7 @@ try:
             fail(f"{prefix}: ID duplicado '{news_id}'.")
         else:
             news_ids.add(news_id)
-        if not re.fullmatch(r"\\d{4}-\\d{2}-\\d{2}", str(item.get("fecha", ""))):
+        if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", str(item.get("fecha", ""))):
             fail(f"{prefix}: fecha debe tener formato AAAA-MM-DD.")
         if not valid_url(item.get("url")):
             fail(f"{prefix}: URL original inválida.")
