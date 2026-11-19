@@ -1,6 +1,6 @@
 {
   "nombre": "Recursos de LIBRITO · San Patricio del Chañar",
-  "version": 20,
+  "version": 21,
   "descripcion": "Índice de fotografías, mapas, planos, archivos audiovisuales y otros materiales de consulta relacionados con San Patricio del Chañar.",
   "criterio": "Se registran recursos existentes y se enlaza a sus custodios o fuentes originales. La inclusión no implica autorización para descargar, copiar, republicar, adaptar o usar comercialmente. Cada ficha informa el estado de derechos conocido y el modo de acceso. Si las condiciones no están claras, el recurso se ofrece solo como referencia externa.",
   "recursos": [
@@ -1350,6 +1350,34 @@
         "fotografías de viñedos",
         "cartografía temática",
         "2024"
+      ]
+    },
+    {
+      "id": "mindat-bodega-familia-schroeder-paleontological-locality-global-database",
+      "titulo": "Bodega Familia Schroeder · registro paleontológico en Mindat, base internacional de localidades fósiles",
+      "categoria": "Registros científicos internacionales",
+      "tipo": "Ficha de localidad paleontológica en base de datos global",
+      "fecha": "Registro consultado en noviembre de 2026; fecha de alta no indicada",
+      "autor": "Mindat.org · ficha de localidad paleontológica; datos agregados con referencias a Calvo y Porfiri (2010) y bases de datos paleobiológicas",
+      "descripcion": "La base internacional Mindat mantiene una ficha específica para “Bodega Familia Schroeder”, en el departamento Confluencia, Neuquén. La ubica mediante coordenadas aproximadas (-38.4515, -68.6883), la asigna a la unidad estratigráfica Malargüe–Allen y registra Panamericansaurus schroederi entre los fósiles asociados. La ficha cita el trabajo de Calvo y Porfiri (2010), que describe el material recuperado a unos 3 km al oeste de San Patricio del Chañar. Es una referencia llamativa porque una localidad paleontológica vinculada a una bodega chañarense aparece catalogada en una base internacional especializada. La propia plataforma advierte que sus páginas paleontológicas están en desarrollo y que las coordenadas fueron estimadas a partir de mapas; por ello debe utilizarse como índice de consulta y no como fuente primaria ni como georreferenciación catastral.",
+      "url": "https://www.mindat.org/paleo_loc.php?id=52554",
+      "fuente": "Mindat.org, Paleontological locality: Bodega Familia Schroeder, Confluencia Department, Neuquén Province, Argentina. La ficha declara datos procedentes de Paleobiology Database (PBDB), GBIF, iDigBio y Encyclopedia of Life, y cita Calvo, J. O. y Porfiri, J. D. (2010), Brazilian Geographical Journal, 1:100–115.",
+      "acceso": "Consulta web de la ficha internacional. El registro puede consultarse en inglés y en la versión del sitio con interfaz china. La página informa que el conjunto de datos paleontológicos está en fase beta.",
+      "derechos_estado": "Ficha de base de datos con fuentes de datos y licencias heterogéneas",
+      "derechos": "La ficha no concede derechos sobre fósiles, fotografías ni publicaciones citadas. Mindat atribuye parte de sus datos a PBDB bajo CC BY, a GBIF con licencias variables, iDigBio y EOL con condiciones propias. Verificar la licencia de cada dato o imagen en su fuente de origen antes de reutilizarlo. Citar Mindat y la publicación científica original.",
+      "licencia": "No se identifica una licencia única para toda la ficha; las fuentes subyacentes tienen condiciones distintas.",
+      "etiquetas": [
+        "San Patricio del Chañar",
+        "Bodega Familia Schroeder",
+        "Mindat",
+        "paleontología",
+        "Panamericansaurus schroederi",
+        "Formación Allen",
+        "Cretácico Superior",
+        "base de datos internacional",
+        "Confluencia",
+        "Neuquén",
+        "coordenadas aproximadas"
       ]
     }
   ]
