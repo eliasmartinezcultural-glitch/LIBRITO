@@ -1,6 +1,6 @@
 (() => {
 "use strict";
-const input=document.querySelector("#buscador-hemeroteca"),list=document.querySelector("#lista-hemeroteca"),count=document.querySelector("#contador-hemeroteca");
+const input=document.querySelector("#buscador-hemeroteca"),list=document.querySelector("#lista-hemeroteca"),count=document.querySelector("#contador-hemeroteca"),total=document.querySelector("#total-noticias");
 if(!input||!list||!count)return;
 const norm=v=>String(v||"").toLocaleLowerCase("es").normalize("NFD").replace(/[\\u0300-\\u036f]/g,"");
 const safeUrl=v=>{try{const u=new URL(v);return ["https:","http:"].includes(u.protocol)&&!!u.hostname&&!u.username&&!u.password}catch(_){return false}};
@@ -10,7 +10,7 @@ let news=[];
 function draw(){
  const q=norm(input.value.trim());
  const found=news.filter(n=>norm([n.titulo,n.fecha,n.medio,n.autor,n.descripcion,...(n.etiquetas||[])].join(" ")).includes(q));
- count.textContent=q?found.length+" noticias encontradas":news.length+" noticias registradas · ordenadas por año, de la más reciente a la más antigua";
+ total.textContent=String(news.length);\n count.textContent=q?found.length+" resultados de "+news.length+" noticias registradas": "Colección completa · "+news.length+" noticias ordenadas por año, de la más reciente a la más antigua";
  list.replaceChildren();list.setAttribute("aria-busy","false");
  if(!found.length){list.append(el("p","estado","No encontramos noticias con esa búsqueda. Probá con otra palabra o un año."));return}
  const frag=document.createDocumentFragment();
@@ -63,7 +63,7 @@ async function start(){
   const data=await r.json();if(!data||!Array.isArray(data.noticias))throw new Error("Formato inválido.");
   news=data.noticias.filter(n=>n&&n.id&&n.titulo&&n.fecha&&n.medio&&safeUrl(n.url)).sort((a,b)=>String(b.fecha).localeCompare(String(a.fecha)));
   draw();
- }catch(e){count.textContent="No se pudo cargar la hemeroteca.";list.replaceChildren(el("p","estado","Revisá tu conexión e intentá nuevamente."));console.error("LIBRITO Hemeroteca:",e)}
+ }catch(e){if(total)total.textContent="—";count.textContent="No se pudo cargar la hemeroteca.";list.replaceChildren(el("p","estado","Revisá tu conexión e intentá nuevamente."));console.error("LIBRITO Hemeroteca:",e)}
 }
 input.addEventListener("input",draw);start();
 })();
