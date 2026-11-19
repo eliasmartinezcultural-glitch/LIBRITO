@@ -1,6 +1,6 @@
 {
   "nombre": "Hemeroteca de LIBRITO · San Patricio del Chañar",
-  "version": 17,
+  "version": 18,
   "descripcion": "Índice de noticias y páginas periodísticas que mencionan expresamente San Patricio del Chañar, de distintos diarios, años y formatos.",
   "criterio": "Se incorpora una noticia cuando el texto identifica expresamente a San Patricio del Chañar o trata sobre la localidad. Se conserva título, medio, autoría disponible, fecha, enlace original y una descripción breve. No se reproduce el cuerpo periodístico.",
   "noticias": [
@@ -2346,6 +2346,50 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "Se conserva referencia bibliográfica y descripción propia; consultar noticia en el medio original."
+    },
+    {
+      "id": "rn-2016-12-23-erika-barion-memoria-pionera",
+      "titulo": "Erika Barion, incansable mujer hacedora",
+      "fecha": "2016-12-23",
+      "medio": "Diario Río Negro",
+      "autor": "Beatriz Carolina Chávez",
+      "descripcion": "Perfil construido a partir de una conversación con Erika Barion y del recuerdo de su nieta. La nota recoge su llegada a El Chañar en 1973 junto con su esposo, la vida inicial en la chacra, el trabajo docente, su participación en iniciativas comunitarias y su colaboración en gestiones vinculadas con la escuela, el hospital y la capilla. Se incorpora como testimonio periodístico de memoria oral; no reemplaza actas, registros escolares ni documentación institucional.",
+      "url": "https://www.rionegro.com.ar/erika-barion-incansable-mujer-hacedora-BM1871223/",
+      "etiquetas": [
+        "2016",
+        "memoria oral",
+        "primeros pobladores",
+        "mujeres",
+        "escuela",
+        "hospital",
+        "vida comunitaria",
+        "historia local"
+      ],
+      "tipo": "articulo_web",
+      "estado": "Disponible en origen",
+      "derechos": "Artículo y fotografías pertenecen a Diario Río Negro y a sus respectivos titulares. LIBRITO conserva la referencia y el enlace; no reproduce el contenido."
+    },
+    {
+      "id": "rn-2025-12-06-norberto-serventi-recuerdos-chanar-1971",
+      "titulo": "Un testigo de los primeros trabajos recuerda cómo era El Chañar en 1971",
+      "fecha": "2025-12-06",
+      "medio": "Diario Río Negro",
+      "autor": "Alan Agustini",
+      "descripcion": "Entrevista al ingeniero agrónomo Norberto Serventi, quien relata que conoció San Patricio del Chañar en 1971, cuando comenzaban los trabajos de nivelación de tierras y la plantación de las primeras chacras. Aporta recuerdos sobre los caminos, el riego, las primeras superficies productivas y la transformación de los montes frutales. Se incorpora como testimonio retrospectivo de un protagonista regional, que conviene contrastar con planos, expedientes y documentación de obra.",
+      "url": "https://www.rionegro.com.ar/rural/recorre-los-valles-de-rio-negro-y-neuquen-desde-hace-53-anos-y-anticipa-su-futuro-ya-esta-sucediendo/",
+      "etiquetas": [
+        "2025",
+        "1971",
+        "memoria oral",
+        "fruticultura",
+        "riego",
+        "primeras chacras",
+        "Roberto Gasparri",
+        "historia productiva"
+      ],
+      "tipo": "entrevista",
+      "estado": "Disponible en origen",
+      "derechos": "Artículo y fotografías pertenecen a Diario Río Negro y a sus respectivos titulares. LIBRITO conserva la referencia y el enlace; no reproduce el contenido."
     }
   ]
 }
