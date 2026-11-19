@@ -1,6 +1,6 @@
 {
   "nombre": "Hemeroteca de LIBRITO · San Patricio del Chañar",
-  "version": 14,
+  "version": 15,
   "descripcion": "Índice de noticias y páginas periodísticas que mencionan expresamente San Patricio del Chañar, de distintos diarios, años y formatos.",
   "criterio": "Se incorpora una noticia cuando el texto identifica expresamente a San Patricio del Chañar o trata sobre la localidad. Se conserva título, medio, autoría disponible, fecha, enlace original y una descripción breve. No se reproduce el cuerpo periodístico.",
   "noticias": [
@@ -1825,6 +1825,104 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "Publicación institucional de Neuquén Informa. LIBRITO conserva metadatos y una descripción propia; no reproduce fotografías ni contenido completo."
+    },
+    {
+      "id": "rn-2004-05-24-aniversario-31",
+      "titulo": "Colorido festejo en el aniversario de El Chañar",
+      "fecha": "2004-05-24",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Crónica del 31.º aniversario de San Patricio del Chañar. Describe la participación de niños y estudiantes, murgas y carrozas, el desfile comunitario, la inauguración de una sede del Banco Provincia del Neuquén y pavimento en la zona norte. También registra un homenaje a los primeros pobladores y a Roberto Gasparri. La nota permite reconstruir aspectos de las celebraciones y de la vida pública local en 2004.",
+      "url": "https://www.rionegro.com.ar/colorido-festejo-en-el-aniversario-de-el-chanar-KCHRN04052419242006/?amp=1",
+      "etiquetas": [
+        "hemeroteca histórica",
+        "2004",
+        "aniversario",
+        "vida comunitaria",
+        "primeros pobladores"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva metadatos y una descripción propia; la publicación completa se consulta en el medio original."
+    },
+    {
+      "id": "rn-2009-05-22-hospital-aniversario-36",
+      "titulo": "El hospital se terminará en agosto",
+      "fecha": "2009-05-22",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Cobertura del acto por el 36.º aniversario de San Patricio del Chañar. Registra anuncios oficiales sobre la finalización y el equipamiento del hospital, proyectos de gasoducto y cloacas, mejoras del CEF 10 y transporte para estudiantes universitarios. Se conserva como testimonio de los anuncios realizados en esa fecha; no acredita por sí sola que las obras se hayan ejecutado en los plazos anunciados.",
+      "url": "https://www.rionegro.com.ar/el-hospital-se-terminara-en-agosto-CEHRN1242961025147/",
+      "etiquetas": [
+        "hemeroteca",
+        "2009",
+        "aniversario",
+        "salud",
+        "infraestructura",
+        "servicios"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva metadatos y una descripción propia; los anuncios se atribuyen a sus protagonistas y no se presentan como obras concluidas."
+    },
+    {
+      "id": "educacion-neuquen-2017-02-22-epea3-comunidad",
+      "titulo": "La comunidad educativa de la EPEA 3 fue recibida por la presidenta del Consejo Provincial de Educación",
+      "fecha": "2017-02-22",
+      "medio": "Educación Neuquén",
+      "autor": "Ministerio de Educación de la Provincia del Neuquén",
+      "descripcion": "Registro institucional de una reunión entre familias, estudiantes y docentes de la EPEA N.º 3 de San Patricio del Chañar y autoridades del Consejo Provincial de Educación. La publicación aborda necesidades del establecimiento, la finalización de dos aulas, la gestión de comedor y cocina, viandas, transporte y mobiliario. Los compromisos y obras se describen según lo informado por el organismo en esa fecha.",
+      "url": "https://www.neuquen.edu.ar/la-comunidad-educativa-de-la-epea-3-fue-recibida-por-la-presidenta-del-consejo-provincial-de-educacion/",
+      "etiquetas": [
+        "hemeroteca",
+        "2017",
+        "educación",
+        "EPEA 3",
+        "comunidad educativa"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación institucional de Educación Neuquén. LIBRITO conserva referencia y descripción propia; no reproduce fotografías ni el contenido íntegro."
+    },
+    {
+      "id": "educacion-neuquen-2025-07-21-escuela-342-reapertura",
+      "titulo": "Se entregó la escuela 342 lista para el regreso a clases",
+      "fecha": "2025-07-21",
+      "medio": "Educación Neuquén",
+      "autor": "Ministerio de Educación de la Provincia del Neuquén",
+      "descripcion": "Cobertura institucional de la puesta nuevamente en funcionamiento de la totalidad del edificio de la Escuela Primaria N.º 342 de San Patricio del Chañar, luego de los trabajos realizados tras el incendio ocurrido en marzo de 2025. La nota detalla intervenciones edilicias, la continuidad pedagógica durante las reparaciones y la participación de la comunidad educativa. La referencia a la causa del incendio conserva el carácter presunto utilizado en la publicación.",
+      "url": "https://www.neuquen.edu.ar/se-entrego-la-escuela-342-lista-para-el-regreso-a-clases/",
+      "etiquetas": [
+        "hemeroteca",
+        "2025",
+        "educación",
+        "Escuela 342",
+        "infraestructura escolar",
+        "comunidad"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación institucional de Educación Neuquén. LIBRITO conserva metadatos y una descripción propia; las fotografías y el artículo completo permanecen en el sitio original."
+    },
+    {
+      "id": "rn-2026-05-21-demografia-migracion",
+      "titulo": "Aniversario de San Patricio del Chañar: casi la mitad de sus habitantes llegó desde otras provincias",
+      "fecha": "2026-05-21",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Informe periodístico sobre los cambios demográficos y migratorios de San Patricio del Chañar. La nota reúne datos atribuidos al Censo 2022 y a la Dirección Provincial de Estadística y Censos, y relaciona el crecimiento poblacional con la expansión urbana, el empleo y la demanda de servicios. Las cifras se conservan como datos citados por el artículo y deben contrastarse con las publicaciones estadísticas originales para usos de investigación.",
+      "url": "https://www.rionegro.com.ar/sociedad/aniversario-de-san-patricio-del-chanar-casi-la-mitad-de-sus-habitantes-llego-desde-otras-provincias/",
+      "etiquetas": [
+        "hemeroteca",
+        "2026",
+        "aniversario",
+        "demografía",
+        "migraciones",
+        "estadísticas"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo y fotografías pertenecen a Diario Río Negro y sus autores. LIBRITO conserva metadatos y una descripción propia; las cifras se atribuyen a las fuentes mencionadas en la nota."
     }
   ]
 }
