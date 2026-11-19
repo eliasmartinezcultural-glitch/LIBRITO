@@ -1,7 +1,7 @@
 {
   "nombre": "Conocimiento especializado de San Patricio del Chañar",
   "id": "chanar-especialista",
-  "version": 1,
+  "version": 2,
   "fecha_corte": "2026-11-19",
   "proposito": "Base estructurada para orientar búsquedas documentales, ampliar vocabulario, reconocer conexiones locales e internacionales y verificar candidatos antes de incorporarlos a LIBRITO.",
   "ambito": {
@@ -28,11 +28,11 @@
     "advertencia": "El Chañar y Chañar son topónimos comunes. Nunca atribuir un resultado a la localidad neuquina solo por coincidencia nominal. Exigir Neuquén, Añelo, río Neuquén, RP 7/8, referencias locales o una conexión documental inequívoca."
   },
   "estado_de_conocimiento": {
-    "catalogo_obras": 170,
-    "hemeroteca": 181,
-    "recursos": 61,
+    "catalogo_obras": 176,
+    "hemeroteca": 205,
+    "recursos": 71,
     "fecha_de_conteo": "2026-11-19",
-    "nota": "Conteos observados en los archivos del repositorio en esta fecha; pueden cambiar. Antes de sumar, volver a consultar catalogo.json, hemeroteca.json y recursos.json."
+    "nota": "Conteos verificados en la rama principal del repositorio el 19-11-2026. Antes de cada nueva incorporación, volver a consultar los tres archivos y comprobar IDs, URLs y posibles duplicados semánticos."
   },
   "perfil_territorial": {
     "descripcion": "Localidad del departamento Añelo, provincia del Neuquén, en el valle del río Neuquén. Su historia reciente está ligada a la transformación de tierras áridas en una colonia agrícola mediante obras de captación, bombeo, riego y drenaje; luego se consolidaron fruticultura, vitivinicultura, bodegas y, en el contexto regional, actividades hidrocarburíferas vinculadas a Vaca Muerta.",
@@ -343,6 +343,194 @@
       ],
       "relacion": "Contexto económico y demográfico regional contemporáneo; buscar efectos concretos sobre empleo, vivienda, rutas, servicios, ambiente y actividad comercial de Chañar.",
       "cautela": "No etiquetar toda noticia de Vaca Muerta como noticia local. Exigir que trate sobre la localidad o sus habitantes, territorio o instituciones."
+    },
+    {
+      "id": "chacra-municipal-chanar",
+      "nombre": "Chacra Municipal de San Patricio del Chañar",
+      "clase": "unidad_productiva_y_formativa",
+      "alias": [
+        "Chacra Municipal",
+        "Chacra Municipal del Chañar",
+        "Municipal Chacra San Patricio del Chañar"
+      ],
+      "relacion": "Unidad productiva y espacio de formación y agroturismo incluido en investigaciones de campo 2024–2026; aparece en publicaciones científicas sobre huertas, mujeres rurales y producción de agroalimentos.",
+      "cautela": "No confundir con la Chacra Municipal de Centenario ni atribuir a Chañar todas las experiencias de agroturismo relevadas en el valle."
+    },
+    {
+      "id": "puesto-capacitacion-chanar",
+      "nombre": "Puesto de Capacitación del Chañar",
+      "clase": "espacio_de_formacion_y_produccion",
+      "alias": [
+        "Puesto de Capacitación del Chañar",
+        "Puesto del Chañar",
+        "huertas del Puesto de Capacitación"
+      ],
+      "relacion": "Espacio vinculado a huertas y capacitación agroecológica, mencionado específicamente en el artículo científico de Santamarina y Trpin (2026)."
+    },
+    {
+      "id": "cfpa2",
+      "nombre": "Centro de Formación Profesional Agropecuaria N.º 2",
+      "clase": "institucion_educativa_agropecuaria",
+      "alias": [
+        "CFPA N.º 2",
+        "CFPA 2",
+        "Centro de Formación Profesional Agropecuaria 2"
+      ],
+      "relacion": "Institución de formación agropecuaria vinculada a capacitación, huertas, procesamiento de agroalimentos y agroturismo en los departamentos Añelo y Confluencia.",
+      "cautela": "Distinguir sede, área de influencia y proyectos compartidos entre localidades."
+    },
+    {
+      "id": "red-agroturismo-neuquen",
+      "nombre": "Red de Agroturismo de Neuquén",
+      "clase": "red_productiva_y_turistica",
+      "alias": [
+        "Red de Agroturismo",
+        "Red de Agroturismo Inteligente",
+        "agroturismo rural"
+      ],
+      "relacion": "Red de experiencias de producción, visitas a predios, elaboración y comercialización de agroalimentos; investigaciones de 2026 incluyen a la Chacra Municipal de San Patricio del Chañar y experiencias de localidades vecinas.",
+      "cautela": "No atribuir a Chañar todos los emprendimientos ni integrantes de la red; distinguir localidades y unidades productivas."
+    },
+    {
+      "id": "epea3",
+      "nombre": "Escuela Provincial de Educación Agropecuaria N.º 3",
+      "clase": "institucion_educativa",
+      "alias": [
+        "EPEA 3",
+        "EPEA N.º 3",
+        "escuela agropecuaria de San Patricio del Chañar"
+      ],
+      "relacion": "Institución local vinculada a formación agropecuaria, concursos ganaderos, participación estudiantil, centros de estudiantes y actividades rurales.",
+      "busqueda": [
+        "EPEA 3 San Patricio del Chañar",
+        "site:chanardigital.com.ar EPEA 3",
+        "EPEA N° 3 Chañar Concurso Tromen"
+      ]
+    },
+    {
+      "id": "club-san-patricio",
+      "nombre": "Club San Patricio",
+      "clase": "institucion_deportiva",
+      "alias": [
+        "San Patricio",
+        "El Santo",
+        "Club Atlético San Patricio",
+        "Lifune"
+      ],
+      "relacion": "Institución deportiva local y equipo de fútbol que participa en competencias de la Liga de Fútbol del Neuquén y Copa Neuquén.",
+      "cautela": "No confundir el club con el nombre de la localidad ni con equipos homónimos."
+    },
+    {
+      "id": "bomberos-central31",
+      "nombre": "Asociación de Bomberos Voluntarios · Central 31",
+      "clase": "institucion_comunitaria",
+      "alias": [
+        "Bomberos Voluntarios de San Patricio del Chañar",
+        "Central 31",
+        "Cuartel de Bomberos Central 31"
+      ],
+      "relacion": "Institución comunitaria fundada en 2015; inauguró sede propia en noviembre de 2026 y sumó una autobomba con alcance local y regional.",
+      "cautela": "Distinguir fecha de creación institucional, comienzo de actividad, inauguración del cuartel y fecha de incorporación de equipamiento."
+    },
+    {
+      "id": "cuervo-viejo",
+      "nombre": "Cuervo Viejo",
+      "clase": "banda_musical_local",
+      "alias": [
+        "Cuervo Viejo rock",
+        "Espiral Lúgubre"
+      ],
+      "relacion": "Banda de rock de San Patricio del Chañar; lanzó su primer álbum de estudio Espiral Lúgubre en julio de 2026."
+    },
+    {
+      "id": "aprinsur",
+      "nombre": "Asociación de Pilotos y Preparadores de Rally del Sur (APRINSUR)",
+      "clase": "organizacion_deportiva",
+      "alias": [
+        "APRINSUR",
+        "Rally Neuquino",
+        "Rally de San Patricio del Chañar"
+      ],
+      "relacion": "Organización vinculada a la realización de fechas del Rally Neuquino y competencias en caminos de San Patricio del Chañar.",
+      "cautela": "Verificar la denominación oficial de la asociación y no confundir el rally automovilístico con el Rally Zona 2 de Mountain Bike."
+    },
+    {
+      "id": "centro-cultural-erika-werro",
+      "nombre": "Centro Cultural Erika Werro",
+      "clase": "espacio_cultural",
+      "alias": [
+        "Centro Cultural Erika Werro",
+        "Erika Werro"
+      ],
+      "relacion": "Espacio de actividades culturales y presentaciones teatrales en San Patricio del Chañar."
+    },
+    {
+      "id": "sala-elaboracion-alimentos",
+      "nombre": "Sala comunitaria de elaboración de alimentos de San Patricio del Chañar",
+      "clase": "infraestructura_productiva",
+      "alias": [
+        "Sala de elaboración de alimentos",
+        "Sala comunitaria de alimentos"
+      ],
+      "relacion": "Proyecto de infraestructura productiva articulado entre municipio, Centro PyME-ADENEU y empresa privada para que emprendedores locales elaboren alimentos bajo condiciones higiénico-sanitarias y agreguen valor a la producción primaria.",
+      "cautela": "Distinguir anuncios de obra, porcentajes de avance, habilitación y funcionamiento efectivo."
+    },
+    {
+      "id": "escuela364",
+      "nombre": "Escuela Primaria N.º 364",
+      "clase": "institucion_educativa",
+      "alias": [
+        "Escuela 364",
+        "EP 364"
+      ],
+      "relacion": "Institución educativa local creada en 2017; inauguró su edificio propio en marzo de 2026."
+    },
+    {
+      "id": "cef10",
+      "nombre": "Centro de Educación Física N.º 10",
+      "clase": "institucion_deportiva_y_educativa",
+      "alias": [
+        "CEF 10",
+        "CEF N.º 10"
+      ],
+      "relacion": "Institución de educación física y deporte local; en 2026 se anunciaron obras de mejora del playón y de instalaciones."
+    },
+    {
+      "id": "chanar-digital",
+      "nombre": "Chañar Digital",
+      "clase": "medio_de_comunicacion_local",
+      "alias": [
+        "Chañar Digital",
+        "chanardigital.com.ar",
+        "Acá Todo Pasa"
+      ],
+      "relacion": "Medio local con noticias, entrevistas, crónicas, agenda cultural, deportes, audiovisuales y cobertura de vida comunitaria. Sus publicaciones son fuente periodística, no documentación oficial por sí solas."
+    },
+    {
+      "id": "kera-yvoty",
+      "nombre": "Kera yvoty · Revista de Ciencias Sociales",
+      "clase": "revista_academica_internacional",
+      "alias": [
+        "Kera yvoty",
+        "Facultad de Ciencias Sociales UNA",
+        "SciELO Paraguay"
+      ],
+      "relacion": "Revista científica de la Facultad de Ciencias Sociales de la Universidad Nacional de Asunción (Paraguay). Publicó en 2026 un artículo revisado por pares sobre agroturismo y género que incluye trabajo de campo en San Patricio del Chañar.",
+      "busqueda": [
+        "site:scielo.iics.una.py \"San Patricio del Chañar\"",
+        "\"Entre la tierra y la feria\" Santamarina Trpin"
+      ]
+    },
+    {
+      "id": "pasos-editora",
+      "nombre": "PASOS · Revista de Turismo y Patrimonio Cultural / Colección PASOS Edita",
+      "clase": "editorial_y_repositorio_academico",
+      "alias": [
+        "PASOS Edita",
+        "PASOS Revista de Turismo y Patrimonio Cultural",
+        "PSEdita27"
+      ],
+      "relacion": "Editorial académica con sede editorial en Tenerife, España. Publicó en 2020 un capítulo revisado por pares sobre el circuito de agroalimentos y la feria De la Tierra a tu Mesa en San Patricio del Chañar."
     }
   ],
   "cronologia_base": [
@@ -512,6 +700,31 @@
         "https://www.sanpatricio.gob.ar/identidad",
         "https://exportargentina.org.ar/companies/6573",
         "https://exportargentina.org.ar/companies/3266"
+      ]
+    },
+    {
+      "periodo": "2010",
+      "hecho": "Inicio del proyecto de circuito de producción de agroalimentos y feria De la Tierra a tu Mesa, según capítulo académico publicado en 2020.",
+      "estado": "publicación académica que documenta el proyecto; distinguir inicio del proyecto y fechas de sus distintas ediciones",
+      "fuentes": [
+        "https://www.pasosonline.org/Publicados/pasosoedita/PSEdita27.pdf"
+      ]
+    },
+    {
+      "periodo": "2024-2026",
+      "hecho": "Investigación de campo sobre agroturismo y producción agroalimentaria en los departamentos Añelo y Confluencia; se realizaron 23 entrevistas y se incluyeron la Chacra Municipal de San Patricio del Chañar, sus huerteras y las huertas del Puesto de Capacitación del Chañar.",
+      "estado": "artículo científico revisado por pares publicado en septiembre de 2026; el estudio incluye varias localidades y no todas las experiencias son de Chañar",
+      "fuentes": [
+        "https://scielo.iics.una.py/pdf/ky/v11/2788-9572-ky-11-e6655.pdf"
+      ]
+    },
+    {
+      "periodo": "2026",
+      "hecho": "Nuevas fuentes de memoria visual, cultura y deporte local: muestra Huellas, Agua y Tierra; lanzamiento de Cuervo Viejo; competencias de ajedrez, Rally Neuquino y Rally Zona 2; y apertura del cuartel propio de Bomberos Central 31.",
+      "estado": "eventos documentados por medios locales; cada noticia o video debe conservar fecha y atribución",
+      "fuentes": [
+        "https://www.chanardigital.com.ar/articulo/2026/10/san-patricio-del-chanar-recupera-su-memoria-inauguraron-la-muestra-fotografica-huellas-agua-y-tierra.php",
+        "https://chanardigital.com.ar/"
       ]
     }
   ],
@@ -881,6 +1094,93 @@
         "guías turísticos",
         "mapas y catálogos de turismo"
       ]
+    },
+    {
+      "tema": "Agroturismo, huertas y mujeres rurales",
+      "terminos": [
+        "Chacra Municipal de San Patricio del Chañar",
+        "Puesto de Capacitación del Chañar",
+        "CFPA N.º 2",
+        "huerteras",
+        "mujeres rurales",
+        "Red de Agroturismo",
+        "agroturismo inteligente",
+        "agroecología",
+        "producción de alimentos frescos",
+        "agroalimentos",
+        "elaboradoras artesanales",
+        "ferias locales",
+        "circuitos cortos",
+        "De la Tierra a tu Mesa",
+        "soberanía alimentaria",
+        "trabajo de cuidados"
+      ],
+      "buscar_en": [
+        "SciELO",
+        "Kera yvoty",
+        "TeseoPress",
+        "PASOS Edita",
+        "UNCo",
+        "IPEHCS-CONICET",
+        "CFPA",
+        "municipio",
+        "INTA"
+      ],
+      "cautela": "Distinguir experiencias ubicadas en Chañar de las de Centenario, Vista Alegre y otras localidades; no trasladar al municipio cifras regionales."
+    },
+    {
+      "tema": "Educación agropecuaria, juventud y deporte",
+      "terminos": [
+        "EPEA 3",
+        "Concurso Tromen",
+        "Expo Bovinos",
+        "Centros de Estudiantes",
+        "ajedrez",
+        "Club San Patricio",
+        "Copa Neuquén",
+        "Lifune",
+        "Rally Neuquino",
+        "APRINSUR",
+        "Rally Zona 2",
+        "mountain bike",
+        "CEF 10",
+        "Escuela 364"
+      ],
+      "buscar_en": [
+        "escuelas",
+        "CPE Neuquén",
+        "Chañar Digital",
+        "clubes",
+        "ligas deportivas",
+        "organizadores de eventos",
+        "medios regionales"
+      ],
+      "cautela": "Distinguir competencia, entrenamiento, anuncio, clasificación y resultado final."
+    },
+    {
+      "tema": "Cultura local, música y espacios comunitarios",
+      "terminos": [
+        "Cuervo Viejo",
+        "Espiral Lúgubre",
+        "rock chañarense",
+        "Centro Cultural Erika Werro",
+        "La casa de Bernarda Alba",
+        "Chañar Gaming Cup",
+        "Bomberos Central 31",
+        "Huellas Agua y Tierra",
+        "Gustavo Celayes",
+        "muestra fotográfica",
+        "memoria visual"
+      ],
+      "buscar_en": [
+        "Chañar Digital",
+        "radios locales",
+        "centros culturales",
+        "archivos audiovisuales",
+        "bandas y músicos locales",
+        "asociaciones comunitarias"
+      ],
+      "cautela": "Conservar autoría, créditos, fecha de publicación y derechos de videos y fotografías."
     }
   ],
   "vocabulario_multilingue": {
@@ -905,7 +1205,13 @@
       "San Patricio del Chañar vineyard",
       "Panamericansaurus schroederi type locality",
       "Bodega Familia Schroeder fossil site",
-      "Neuquén Patagonia fruit production"
+      "Neuquén Patagonia fruit production",
+      "San Patricio del Chañar agritourism women farmers",
+      "Chacra Municipal San Patricio del Chañar",
+      "Puesto de Capacitación del Chañar",
+      "CFPA No. 2 Neuquen",
+      "irrigated valleys Neuquen agrifood tourism",
+      "women rural producers Neuquen Patagonia"
     ],
     "it": [
       "San Patricio del Chañar Argentina",
@@ -930,7 +1236,11 @@
       "colônia agrícola japonesa El Chañar",
       "produção de frutas Neuquén Argentina",
       "vinícolas San Patricio del Chañar",
-      "Panamericansaurus schroederi Argentina"
+      "Panamericansaurus schroederi Argentina",
+      "agroturismo San Patricio del Chañar",
+      "hortas agroecológicas Neuquén",
+      "mulheres rurais produtoras de alimentos Patagonia",
+      "turismo rural agroalimentar Neuquén"
     ],
     "fr": [
       "San Patricio del Chañar Argentine",
@@ -1128,6 +1438,48 @@
       "url": "https://scielo.org/",
       "alcance": "Artículos científicos de América Latina, incluyendo estudios sobre paisaje agrario y circuitos agroalimentarios.",
       "nivel": "biblioteca científica"
+    },
+    {
+      "nombre": "Kera yvoty · artículo de agroturismo y género (2026)",
+      "url": "https://scielo.iics.una.py/scielo.php?lng=es&nrm=iso&pid=S2788-95722026000100212&script=sci_arttext&tlng=es",
+      "alcance": "Artículo revisado por pares con 23 entrevistas y referencias específicas a la Chacra Municipal y al Puesto de Capacitación del Chañar; licencia CC BY 4.0.",
+      "nivel": "publicación científica primaria de investigación"
+    },
+    {
+      "nombre": "TeseoPress · Entre chacras y huertas (2024)",
+      "url": "https://www.teseopress.com/saludambienteydesigualdades/chapter/entre-chacras-y-huertas-agroalimentos-en-los-bordes-de-vaca/",
+      "alcance": "Capítulo de Verónica Trpin sobre agroalimentos, horticultura y territorios irrigados; incluye el corredor de San Patricio del Chañar.",
+      "nivel": "publicación académica"
+    },
+    {
+      "nombre": "PASOS Edita · circuito De la Tierra a tu Mesa (2020)",
+      "url": "https://www.pasosonline.org/Publicados/pasosoedita/PSEdita27.pdf",
+      "alcance": "Capítulo 14, páginas impresas 295–318, sobre turismo rural, circuito de agroalimentos y feria De la Tierra a tu Mesa en San Patricio del Chañar.",
+      "nivel": "libro académico revisado por pares"
+    },
+    {
+      "nombre": "Chañar Digital",
+      "url": "https://chanardigital.com.ar/",
+      "alcance": "Medio local para noticias, entrevistas, crónicas, agenda cultural, deporte y audiovisuales. Verificar cada publicación y distinguir opinión de información.",
+      "nivel": "fuente periodística local"
+    },
+    {
+      "nombre": "NeuquenNews",
+      "url": "https://neuquennews.com.ar/",
+      "alcance": "Cobertura periodística regional, incluida política y gestión municipal de San Patricio del Chañar.",
+      "nivel": "fuente periodística regional"
+    },
+    {
+      "nombre": "Televisión Pública Argentina · Aire de Campo Express",
+      "url": "https://www.youtube.com/watch?v=vsl2_ceLwRg",
+      "alcance": "Informe audiovisual regional sobre la cadena frutícola entre San Patricio del Chañar y Chichinales; contextual, no exclusivamente local.",
+      "nivel": "medio público audiovisual"
+    },
+    {
+      "nombre": "Vaca Muerta News",
+      "url": "https://www.youtube.com/watch?v=lgxLpyouJ_c",
+      "alcance": "Entrevista audiovisual al intendente Gonzalo Núñez en marzo de 2024; fuente testimonial y política, contrastar con documentación.",
+      "nivel": "fuente audiovisual periodística"
     }
   ],
   "consultas_modelo": [
@@ -1202,6 +1554,34 @@
     {
       "objetivo": "Búsqueda en japonés",
       "consulta": "(\"エル・チャニャール\" OR \"サン・パトリシオ・デル・チャニャール\") アルゼンチン JICA 農業 移住"
+    },
+    {
+      "objetivo": "Agroturismo y huertas",
+      "consulta": "(\"San Patricio del Chañar\" OR \"Chacra Municipal\" OR \"Puesto de Capacitación del Chañar\") (agroturismo OR huerteras OR huertas OR agroecología OR agroalimentos)"
+    },
+    {
+      "objetivo": "Investigación científica 2024-2026",
+      "consulta": "(\"San Patricio del Chañar\" OR \"Chacra Municipal del Chañar\") (mujeres rurales OR agroturismo OR huerteras OR producción de alimentos) 2024 2025 2026"
+    },
+    {
+      "objetivo": "Educación agropecuaria",
+      "consulta": "(\"EPEA 3\" OR \"CFPA 2\" OR \"Centro de Formación Profesional Agropecuaria\") \"San Patricio del Chañar\""
+    },
+    {
+      "objetivo": "Cultura y música local",
+      "consulta": "(\"San Patricio del Chañar\" OR Chañar) (banda local OR rock OR música OR teatro OR centro cultural OR audiovisual)"
+    },
+    {
+      "objetivo": "Instituciones comunitarias",
+      "consulta": "(\"Central 31\" OR \"Bomberos Voluntarios\" OR \"Centro Cultural Erika Werro\") \"San Patricio del Chañar\""
+    },
+    {
+      "objetivo": "Deportes y competencias",
+      "consulta": "(\"San Patricio del Chañar\" OR \"Club San Patricio\") (Rally Neuquino OR APRINSUR OR mountain bike OR ajedrez OR Lifune OR Copa Neuquén)"
+    },
+    {
+      "objetivo": "Búsqueda de prensa local",
+      "consulta": "site:chanardigital.com.ar/articulo/2026 \"San Patricio del Chañar\""
     }
   ],
   "reglas_de_inclusion": [
