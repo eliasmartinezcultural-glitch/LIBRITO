@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 42,
+  "version": 43,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -3272,6 +3272,138 @@
         "Concejo Deliberante",
         "Ejecutivo municipal"
       ]
+    },
+    {
+      "id": "ordenanza-1527-2025-presupuesto-municipal-2026",
+      "titulo": "Ordenanza 1527/25 · Presupuesto general municipal para el ejercicio 2026",
+      "autoria": "Honorable Concejo Deliberante de San Patricio del Chañar",
+      "institucion": "Municipalidad de San Patricio del Chañar · Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2025-11-27",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Presupuesto municipal, recursos públicos, gastos, administración financiera y obras",
+      "descripcion": "La Ordenanza 1527/25 fija para el ejercicio 2026 el cálculo de recursos y el total de erogaciones municipales en $28.445.458.000. Autoriza modificaciones de hasta el 20% en partidas y establece condiciones para comprometer regalías en garantía de préstamos destinados a obras, maquinaria y equipamiento. El registro remite a la norma presupuestaria publicada; no reemplaza la lectura de sus anexos ni acredita por sí mismo cómo se ejecutaron los fondos.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/Boletines/boletin_4535.pdf",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar Boletín Oficial original",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Se enlaza el ejemplar oficial del Boletín Oficial provincial; LIBRITO conserva la referencia y no aloja ni redistribuye el PDF.",
+        "referencia": "Boletín Oficial de la Provincia del Neuquén, edición 4535, 16-01-2026, páginas impresas 42–44."
+      },
+      "procedencia": "Dirección del Boletín Oficial y Archivo de la Provincia del Neuquén; sección de normas legales de la Municipalidad de San Patricio del Chañar.",
+      "integridad": "Ejemplar oficial consultado. La Ordenanza 1527/25 comienza en la página impresa 42 y continúa hasta la página 44; sus anexos presupuestarios se identifican como parte integrante de la norma."
+    },
+    {
+      "id": "ordenanza-1533-2025-estructura-tributaria-servicios-municipales",
+      "titulo": "Ordenanza 1533/25 · Modificaciones al régimen tributario y a las tasas municipales",
+      "autoria": "Honorable Concejo Deliberante de San Patricio del Chañar",
+      "institucion": "Municipalidad de San Patricio del Chañar · Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2025-12-11",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Tributos municipales, agua, cloacas, higiene de baldíos, comercio y propiedad automotor",
+      "descripcion": "La Ordenanza 1533/25 modifica artículos de las ordenanzas 1346/23 y 1442/24. Entre otros puntos, establece módulos para servicios municipales según tipo de usuario, modifica valores vinculados al servicio de agua domiciliaria y cloacas, fija una tasa trimestral para baldíos y obras interrumpidas y cambia la denominación del tributo sobre vehículos a Impuesto a la Propiedad Automotor. La Ordenanza 1536/25, también publicada en el mismo ejemplar, modifica luego un aspecto de la tasa de baldíos; ambas normas deben leerse en conjunto para ese punto. No se presentan estos valores como tarifas actuales fuera de su contexto normativo.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/Boletines/boletin_4535.pdf",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar Boletín Oficial original",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Se enlaza el ejemplar oficial del Boletín Oficial provincial; LIBRITO conserva la referencia y no aloja ni redistribuye el PDF.",
+        "referencia": "Boletín Oficial de la Provincia del Neuquén, edición 4535, 16-01-2026, páginas impresas 44–55; ver también Ordenanza 1536/25 en páginas 55–56."
+      },
+      "procedencia": "Dirección del Boletín Oficial y Archivo de la Provincia del Neuquén; sección de normas legales de la Municipalidad de San Patricio del Chañar.",
+      "integridad": "Ejemplar oficial consultado. La Ordenanza 1533/25 está publicada desde la página impresa 44 y desarrolla sus modificaciones y cuadros tarifarios en las páginas siguientes."
+    },
+    {
+      "id": "ordenanza-1399-2024-rendicion-cuentas-ejercicio-2023",
+      "titulo": "Ordenanza 1399/24 · Rendición de cuentas municipal del ejercicio 2023",
+      "autoria": "Honorable Concejo Deliberante de San Patricio del Chañar",
+      "institucion": "Municipalidad de San Patricio del Chañar · Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2024-04-24",
+      "categoria": "Informes y estadísticas",
+      "tematica": "Rendición de cuentas, estados contables, presupuesto, recursos y gastos municipales",
+      "descripcion": "La Ordenanza 1399/24 aprueba los estados contables de la Municipalidad correspondientes al ejercicio económico cerrado el 31 de diciembre de 2023. Enumera siete anexos: balance general, estados contables y económicos, ejecución de gastos por objeto, ejecución de recursos por rubro, balance de sumas y saldos y reportes de modificación final. El Boletín Oficial indica que el anexo consta de 73 fojas. El registro acredita la aprobación normativa de la rendición; para analizar cifras y movimientos deben consultarse los anexos completos y no inferir resultados a partir del texto de la ordenanza.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/Boletines/bol.firmado.240830%274337%2030%20agosto.pdf",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar Boletín Oficial original",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Se enlaza el ejemplar oficial del Boletín Oficial provincial; LIBRITO conserva la referencia y no aloja ni redistribuye el PDF.",
+        "referencia": "Boletín Oficial de la Provincia del Neuquén, edición 4337, 30-08-2024, páginas impresas 86–88."
+      },
+      "procedencia": "Dirección del Boletín Oficial y Archivo de la Provincia del Neuquén; ordenanza municipal publicada en Normas Legales.",
+      "integridad": "PDF oficial consultado. La Ordenanza 1399/24 se publica en las páginas impresas 86–88; el artículo 1 enumera anexos de rendición por 73 fojas."
+    },
+    {
+      "id": "decreto-municipal-1597-2025-red-gas-347-lotes",
+      "titulo": "Decreto Municipal 1597/2025 · Obra de red de gas para 347 lotes",
+      "autoria": "Departamento Ejecutivo Municipal de San Patricio del Chañar",
+      "institucion": "Municipalidad de San Patricio del Chañar · Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2025-09-03",
+      "categoria": "Infraestructura y servicios",
+      "tematica": "Red de gas, loteo 347, infraestructura urbana, contribución por mejoras y vivienda",
+      "descripcion": "El Decreto Municipal 1597/2025 aprueba la ejecución de la obra de red de gas para 347 lotes, bajo el régimen de contribución por mejoras y mediante administración municipal, con adquisición de materiales por el Municipio y aporte de mano de obra municipal. El texto publicado incluye el detalle de manzanas, un plazo previsto de 90 días, un costo total informado de $395.517.429,24 y un costo prorrateado por lote de $1.139.819,68, además de modalidades de pago y registro de oposición. Se trata de la aprobación y condiciones de la obra; el decreto no prueba por sí solo su finalización ni la conexión efectiva de cada lote.",
+      "formato": "Página oficial",
+      "acceso": "origen",
+      "urlOriginal": "https://boletinoficial.neuquen.gov.ar/BoletinDetalle?Id=1802",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar publicación oficial",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Se enlaza la publicación oficial del Boletín Oficial provincial; LIBRITO conserva la referencia y no aloja ni redistribuye documentos.",
+        "referencia": "Boletín Oficial de la Provincia del Neuquén, edición 4484, publicación del Decreto Municipal 1597/2025; páginas impresas 164–167 en la reimpresión por fe de erratas del 19-09-2025."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén; publicación de normativa del Municipio de San Patricio del Chañar.",
+      "integridad": "Texto del decreto consultado en la publicación oficial y en su reimpresión por fe de erratas. Se enlaza la ficha del Boletín Oficial que contiene el texto completo."
+    },
+    {
+      "id": "informe-gestion-neuquen-2024-referencias-chanar",
+      "titulo": "Informe de Gestión 2024 · Acciones provinciales con referencias a San Patricio del Chañar",
+      "autoria": "Gobierno de la Provincia del Neuquén",
+      "institucion": "Gobierno de la Provincia del Neuquén · presentado ante la Legislatura provincial",
+      "fecha": "2024",
+      "categoria": "Informes y estadísticas",
+      "tematica": "Educación, tecnología, formación, comunicación pública e infraestructura local",
+      "descripcion": "Informe institucional provincial que reúne referencias concretas a San Patricio del Chañar dentro del balance de gestión 2024. Entre ellas, menciona a la Escuela Primaria 364 como obra en ejecución, al nuevo edificio de la EPET 26 como obra licitada con financiamiento nacional, un taller de robótica para niños realizado en la localidad y asistencia técnica a la radio municipal por parte de Radio y Televisión del Neuquén. Es un informe general de toda la provincia: LIBRITO destaca únicamente los pasajes locales y conserva el contexto y la etapa que el documento atribuye a cada acción. No acredita que las obras mencionadas hayan finalizado.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://www.legislaturaneuquen.gob.ar/SVRFILES/Neuleg/DiariosSesion/DS_Anexo_P_64_R2403_86976.pdf",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar informe original",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Documento institucional público enlazado desde el sitio de la Legislatura provincial. No se presume autorización para alojar o redistribuir el PDF.",
+        "referencia": "Informe de Gestión 2024 del Gobierno de la Provincia del Neuquén; referencias locales en páginas impresas 20, 47 y apartados de educación y comunicación."
+      },
+      "procedencia": "Gobierno de la Provincia del Neuquén; anexo documental publicado en el sitio oficial de la Legislatura.",
+      "integridad": "PDF institucional completo consultado. Se identificaron menciones locales en el apartado de robótica y acciones locales, infraestructura escolar y asistencia técnica a radios municipales."
+    },
+    {
+      "id": "decreto-provincial-1566-2026-centro-deportivo-comunitario-chanar",
+      "titulo": "Decreto Provincial 1566/2026 · Adjudicación del nuevo Centro Deportivo Comunitario",
+      "autoria": "Poder Ejecutivo de la Provincia del Neuquén",
+      "institucion": "Ministerio de Infraestructura · Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2026-10-05",
+      "categoria": "Infraestructura y servicios",
+      "tematica": "Centro Deportivo Comunitario, infraestructura deportiva, licitación pública y obra pública",
+      "descripcion": "El Decreto Provincial 1566/2026 aprueba las actuaciones de la Licitación Pública 08/26 para construir el nuevo edificio del Centro Deportivo Comunitario de San Patricio del Chañar y adjudica la contratación a Blackhall Construcciones S.R.L. La ficha oficial identifica el expediente y la documentación técnica aprobada por el Ministerio de Infraestructura, con un presupuesto oficial informado de $4.681.507.895. Se registra como adjudicación de la obra: no debe confundirse con inicio, avance físico ni finalización de los trabajos.",
+      "formato": "Página oficial",
+      "acceso": "origen",
+      "urlOriginal": "https://boficial.neuquen.gov.ar/LeyesDecretosDetalle?Id=426178",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar decreto oficial",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Se enlaza la ficha oficial de un decreto provincial publicada por el Boletín Oficial; LIBRITO conserva la referencia y no aloja ni redistribuye documentos.",
+        "referencia": "Decreto Provincial 1566/2026, 05-10-2026, Boletín Oficial N° 4621."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén; ficha oficial de Leyes y Decretos.",
+      "integridad": "Ficha oficial consultada, con fecha, número de decreto, referencia de la licitación y adjudicataria. Se enlaza la publicación oficial del texto normativo."
     }
   ]
 }
