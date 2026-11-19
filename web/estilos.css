@@ -245,3 +245,19 @@ h2{margin:0;color:var(--verde-oscuro);font:normal clamp(30px,4vw,42px)/1.12 var(
 .seccion-obras .documento-imagen img:not([src]){display:none}
 @media(max-width:650px){.seccion-obras .documento-imagen{margin-bottom:12px}}
 @media print{.seccion-obras .documento-imagen{break-inside:avoid}}
+
+/* Más información por ficha: lectura ampliada sin añadir pantallas ni alterar la estructura global. */
+.seccion-obras .documento-tematica{margin:0 0 9px;padding-left:10px;border-left:2px solid #c9b58f;color:#657164;font-size:12px;line-height:1.45}
+.seccion-obras .documento-detalle p{overflow-wrap:anywhere}
+.seccion-hemeroteca .noticia-etiquetas{display:flex;flex-wrap:wrap;gap:6px;margin:1px 0 13px}
+.seccion-hemeroteca .noticia-etiquetas span{display:inline-flex;align-items:center;min-height:25px;padding:4px 8px;border:1px solid #e6d9c9;border-radius:30px;background:#f8f0e7;color:#775b46;font-size:10px;line-height:1.2}
+.seccion-hemeroteca .noticia-detalle{width:100%;margin-top:9px;padding-top:8px;border-top:1px solid #e9dfd3}
+.seccion-hemeroteca .noticia-detalle summary{min-height:34px;display:flex;align-items:center;cursor:pointer;color:#655b50;font-size:12px;font-weight:700}
+.seccion-hemeroteca .noticia-detalle p{margin:5px 0;color:#697167;font-size:11px;line-height:1.5}
+@media(max-width:650px){
+ .seccion-hemeroteca .noticia-etiquetas{gap:5px}
+ .seccion-hemeroteca .noticia-etiquetas span{font-size:10px}
+}
+@media print{
+ .seccion-hemeroteca .noticia-detalle{display:block}
+}
