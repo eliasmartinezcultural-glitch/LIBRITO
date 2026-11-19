@@ -1,6 +1,6 @@
 {
   "nombre": "Recursos de LIBRITO · San Patricio del Chañar",
-  "version": 15,
+  "version": 16,
   "descripcion": "Índice de fotografías, mapas, planos, archivos audiovisuales y otros materiales de consulta relacionados con San Patricio del Chañar.",
   "criterio": "Se registran recursos existentes y se enlaza a sus custodios o fuentes originales. La inclusión no implica autorización para descargar, copiar, republicar, adaptar o usar comercialmente. Cada ficha informa el estado de derechos conocido y el modo de acceso. Si las condiciones no están claras, el recurso se ofrece solo como referencia externa.",
   "recursos": [
@@ -1090,6 +1090,34 @@
         "riego",
         "1968",
         "1973"
+      ]
+    },
+    {
+      "id": "david-rumsey-gobernacion-neuquen-mapa-1888",
+      "titulo": "Gobernación del Neuquén · mapa histórico de 1888 conservado en Estados Unidos",
+      "categoria": "Mapas y planos históricos",
+      "tipo": "Mapa provincial histórico digitalizado en una colección cartográfica internacional",
+      "fecha": "1888",
+      "autor": "Mariano Felipe Paz Soldán; grabado e impreso por Erhard Hermanos, París; publicado por Félix Lajouane, Buenos Aires",
+      "descripcion": "Mapa coloreado de la Gobernación del Neuquén, publicado en el Atlas Geográfico Argentino de 1888 y hoy catalogado en la David Rumsey Historical Map Collection, Estados Unidos. Representa relieve, colonias agrícolas, fortines y líneas telegráficas a escala provincial. Se incorpora como fuente cartográfica internacional de contexto para estudiar el territorio neuquino en el siglo XIX y contrastar la geografía histórica regional con otras fuentes. No es un plano de San Patricio del Chañar ni demuestra por sí solo la ubicación de un asentamiento específico en el área de la localidad actual.",
+      "url": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~20654~570031:Gobernacion-de-Neuquen-",
+      "fuente": "David Rumsey Historical Map Collection · Stanford University Libraries / colección de David Rumsey",
+      "acceso": "Ficha catalográfica, visualización ampliable y descarga de imagen de alta resolución en formato MrSID desde el registro de la colección.",
+      "derechos_estado": "Condiciones de reutilización deben verificarse en la ficha de la colección",
+      "derechos": "La ficha atribuye la obra cartográfica a Paz Soldán y registra su publicación en Buenos Aires en 1888 y su impresión por Erhard Hermanos en París. La conservación y digitalización en una colección estadounidense no cambia la autoría histórica. Verificar las condiciones de uso de la imagen digital antes de reproducirla.",
+      "licencia": "No se asigna una licencia abierta en esta ficha. Referencia para consulta y estudio.",
+      "etiquetas": [
+        "Estados Unidos",
+        "David Rumsey Map Collection",
+        "cartografía histórica",
+        "Gobernación del Neuquén",
+        "1888",
+        "Paz Soldán",
+        "Erhard Hermanos",
+        "fortines",
+        "colonias agrícolas",
+        "telégrafo",
+        "contexto regional"
       ]
     }
   ]
