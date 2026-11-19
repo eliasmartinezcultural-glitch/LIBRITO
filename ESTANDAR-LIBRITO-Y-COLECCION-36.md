@@ -308,3 +308,38 @@ Indicadores secundarios: documentos identificados, fuentes externas, permisos so
 - Fondo Nacional de las Artes, trámite de uso de obras de dominio público: https://www.argentina.gob.ar/servicio/tramitar-el-uso-de-obras-de-dominio-publico
 
 Esta política se aplica a cada nueva incorporación y a futuras mejoras de la interfaz. La cantidad no justifica infringir derechos ni reducir la integridad documental.
+
+
+## 14. Ley mundial de LIBRITO: compartir el conocimiento chañarense sin apropiarse de las obras
+
+La misión editorial de LIBRITO es reunir, hacer visible y facilitar el acceso a **todo archivo, documento, publicación, imagen, mapa, registro sonoro, audiovisual, testimonio o investigación que trate sobre San Patricio del Chañar y aporte valor a su conocimiento, memoria, historia, cultura, territorio, vida comunitaria, educación o actividad productiva**.
+
+La pertinencia local no se limita a obras dedicadas exclusivamente a la localidad. También se incluyen obras regionales, provinciales, nacionales o internacionales cuando contienen una sección, capítulo, mapa, fotografía, dato, referencia histórica o investigación sustantiva sobre San Patricio del Chañar, Tratayén, el valle del Neuquén o su entorno directamente relacionado. La ficha debe explicar con precisión cuál es el aporte local; no se incluirán materiales por mera coincidencia de palabras.
+
+### Compartir no es apropiarse
+- LIBRITO no se atribuye la autoría, titularidad ni creación de ninguna obra ajena.
+- Se conservan el archivo original, su título, autoría, institución, fecha, créditos, procedencia, identificadores y licencia o condiciones de uso.
+- No se elimina marca de agua, firma, crédito, aviso de derechos ni información de procedencia.
+- No se altera el contenido para presentarlo como original. Si se genera una copia técnica para accesibilidad o preservación, debe documentarse y no sustituir silenciosamente el original.
+- Siempre que sea posible, se enlaza también la publicación original y su ficha institucional, incluso cuando LIBRITO aloja una copia autorizada.
+- Se distingue claramente quién creó la obra, quién la conserva, dónde se publicó y quién facilita el acceso.
+
+### Tres formas legítimas de compartir
+1. **Copia íntegra alojada en LIBRITO:** cuando una licencia, autorización del titular o fundamento jurídico comprobado permite reproducir y ofrecer el archivo para descarga. Se respetan todas las condiciones, incluida atribución, uso no comercial, compartir igual o prohibición de obras derivadas, según corresponda.
+2. **Acceso directo al original:** cuando el archivo está disponible en una fuente pública, institucional o del autor, pero LIBRITO no tiene permiso claro para alojar una copia. Se ofrece un enlace directo al archivo cuando sea estable y un enlace a su ficha original. Se informa que el archivo se descarga desde la fuente.
+3. **Referencia documental con gestión de acceso:** cuando el archivo existe pero no está publicado para descarga, está en un catálogo, archivo físico o fondo institucional, o requiere autorización. Se conserva la referencia y se procura obtener una copia o permiso mediante consulta a la institución, autor o titular.
+
+Ninguna obra pertinente debe descartarse simplemente porque no podamos alojar una copia. La restricción de alojamiento cambia la forma de acceso, no la importancia documental del hallazgo.
+
+### Créditos obligatorios y trazabilidad
+Cada registro debe procurar incluir: autor o autores; fotógrafo, cartógrafo, traductor o responsable específico cuando corresponda; título original; institución editora o custodio; fecha; colección, serie o número; enlace a la ficha original; enlace al archivo original; licencia o condición de acceso; y nota concreta sobre su relación con San Patricio del Chañar. Si un dato no se conoce, se declara como no identificado: nunca se inventa.
+
+### Derechos: regla de cuidado, no excusa para dejar de buscar
+Dar crédito es obligatorio, pero por sí solo no concede permiso para reproducir una obra protegida. La disponibilidad gratuita en Internet tampoco equivale a autorización de republicación. LIBRITO debe buscar activamente licencias abiertas, permisos institucionales, autorizaciones de autores y titulares, y fundamentos legales aplicables. Ante una duda, se mantiene el acceso al original o la referencia y se solicita permiso; no se presenta la copia como autorizada sin evidencia.
+
+La política de LIBRITO es compartir ampliamente el conocimiento, no forzar que todos los materiales se descarguen desde nuestro propio servidor. El indicador de archivos locales mide únicamente copias alojadas y aprobadas; no mide la riqueza total del catálogo ni el volumen de conocimiento compartido mediante enlaces y referencias.
+
+### Regla de búsqueda ampliada
+La búsqueda debe continuar en bibliotecas, hemerotecas, archivos públicos y privados, universidades, repositorios científicos, museos, organismos técnicos, medios, colecciones familiares, asociaciones culturales, archivos escolares, fondos fotográficos, mapotecas y archivos audiovisuales. Debe utilizar variantes históricas y geográficas del topónimo y buscar también dentro de obras regionales o nacionales. Se prioriza el archivo completo, pero se registra toda pista verificable que permita llegar al original.
+
+Esta ley editorial complementa la prioridad de descargas reales de la sección 13: **primero compartir el conocimiento; cuando los derechos lo permiten, ofrecer además la copia íntegra desde LIBRITO.**
