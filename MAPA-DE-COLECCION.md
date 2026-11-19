@@ -90,6 +90,19 @@ Estas direcciones son puntos de investigación del equipo y no se muestran como 
 - Bibliotecas y archivos públicos: catálogos bibliográficos, ejemplares y colecciones históricas.
 - Autores, fotógrafos, editoriales, escuelas y asociaciones: permisos y originales.
 
+### G. Estadística y documentación presupuestaria — nueva línea de recuperación
+
+Se localizaron seis PDF individuales oficiales, todavía no publicados:
+
+- Información Municipal Básica 1999–2000: ficha de San Patricio del Chañar, actualización 2001 (CND-040).
+- Formulación Presupuestaria 2025: Recursos por Rubro (CND-041).
+- Estado de Ejecución de Gastos 2024 (CND-042).
+- Estado de Ejecución de Recursos 2024 (CND-043).
+- Estado de Ejecución de Gastos 2025 (CND-044).
+- Estado de Ejecución de Recursos 2025 (CND-045).
+
+Los seis archivos están identificados en el inventario interno con sus URL oficiales. Falta recuperar la copia binaria en el entorno de trabajo, verificar páginas, legibilidad, integridad y privacidad, y confirmar la autorización de alojamiento y redistribución. No contar estos seis candidatos como publicaciones.
+
 ## 4. Cómo debe crecer la biblioteca
 
 1. Recuperar documentos de alta relevancia territorial y bajo riesgo jurídico.
