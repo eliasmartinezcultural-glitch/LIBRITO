@@ -195,3 +195,19 @@ h2{margin:0;color:var(--verde-oscuro);font:normal clamp(30px,4vw,42px)/1.12 var(
 .seccion-hemeroteca .noticia:nth-of-type(3n+2){border-top-color:#8a9a75}
 .seccion-hemeroteca .noticia:nth-of-type(3n){border-top-color:#c39b62}
 .seccion-hemeroteca .noticia-meta{color:#946044}
+
+/* Acabado editorial de la colección de Obras: solo presentación, sin cambios funcionales. */
+.seccion-obras .cabecera-seccion{position:relative}
+.seccion-obras .cabecera-seccion:after{content:"";display:block;width:86px;height:3px;margin-top:20px;border-radius:3px;background:linear-gradient(90deg,var(--tierra),var(--oro),var(--oliva))}
+.seccion-obras .documento{background:linear-gradient(155deg,#fffefa 0%,#fffdf8 72%,#f8f5ec 100%);border-radius:7px 20px 7px 20px}
+.seccion-obras .documento-meta{display:inline-flex;max-width:100%;padding:5px 9px;border:1px solid #e8decd;border-radius:30px;background:#f7f0e4;color:#875b40;letter-spacing:.055em}
+.seccion-obras .documento:has(.estado-acceso.local){border-left:4px solid #6e8664;background:linear-gradient(145deg,#f0f5eb 0%,#fffdf8 78%)}
+.seccion-obras .documento:focus-within{outline:2px solid rgba(110,134,100,.38);outline-offset:2px}
+.seccion-obras .estado-acceso{display:inline-block;padding:5px 9px;border-radius:30px;background:#edf1e8}
+.seccion-obras .estado-acceso.externo{background:#f5eee5;color:#80573e}
+.seccion-obras .estado-acceso.local{background:#e5eee0;color:#28543a}
+.seccion-obras .grupo-ayuda{padding:8px 12px;border-left:2px solid #c7b58f;border-radius:0 8px 8px 0;background:rgba(248,245,236,.8)}
+@media(max-width:650px){
+ .seccion-obras .documento{padding:19px 17px}
+ .seccion-obras .documento-meta{font-size:10px}
+}
