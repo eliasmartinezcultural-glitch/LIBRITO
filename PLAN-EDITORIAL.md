@@ -1,76 +1,102 @@
-# Plan editorial y de crecimiento — LIBRITO
+# Plan editorial — LIBRITO
 
-## Visión
+## Norte
 
-Construir la biblioteca digital de referencia para documentos terminados vinculados con San Patricio del Chañar. La colección debe ser útil para una familia, una escuela, un investigador, un vecino o una institución. Debe permitir conservar documentos importantes sin convertir la web en una lista de enlaces.
+Construir una biblioteca digital sencilla y confiable para San Patricio del Chañar. Reunir lecturas, documentos, publicaciones y recursos educativos que ya existen. No crear obras ni sustituir a autores, escuelas, instituciones, editoriales o archivos.
 
-## Qué significa «mucho contenido»
+La web debe ser entendible para abuelos, niños, familias y personas con baja experiencia digital. Su tarea principal es entregar un archivo real.
 
-No significa inflar el catálogo con enlaces, referencias o archivos sin permisos. Significa ampliar de manera sostenida el volumen de documentos auténticos que pueden alojarse legalmente, y ofrecer una experiencia de lectura y descarga excelente.
+## Cómo debe sentirse
 
-## Líneas prioritarias de adquisición
+Como una pequeña biblioteca de casa, de escuela o de pueblo: papel claro, verde oscuro, tipografía grande, fichas ordenadas y pocos elementos.
 
-1. Normativa municipal: cartas orgánicas, ordenanzas, decretos, resoluciones y anexos oficiales completos.
-2. Memoria institucional: publicaciones oficiales terminadas cuya reproducción esté autorizada.
-3. Historia local: libros, revistas y cuadernillos con permiso expreso de sus autores, editoriales o titulares.
-4. Educación y conocimiento: materiales didácticos o institucionales con licencia abierta o autorización verificable.
-5. Cultura y patrimonio: catálogos, programas, inventarios y publicaciones completas autorizadas.
-6. Territorio: documentos cartográficos o informes únicamente cuando sus condiciones permitan redistribución.
+No debe parecer un portal institucional, una revista de diseño, un buscador técnico ni una red social.
 
-## No publicar
+## Experiencia pública
 
-- Videos, audios, streaming o enlaces a otros portales.
-- Una ficha que prometa un archivo que no está alojado.
-- Obras incompletas o reconstruidas por la biblioteca.
-- Libros, fotografías, mapas o revistas por el solo hecho de estar disponibles en internet.
-- Archivos con datos personales que no hayan sido revisados.
-- Documentos cuya autorización o licencia sea dudosa.
+1. El visitante entiende de inmediato que está en la biblioteca del Chañar.
+2. Ve la cantidad real de archivos disponibles.
+3. Puede escribir una palabra sencilla o recorrer la lista.
+4. Cada ficha presenta título, autor/institución, año, descripción corta y páginas.
+5. Tiene dos acciones grandes: leer/imprimir y descargar.
+6. Puede consultar procedencia y créditos sin que esa información estorbe la lectura.
+7. Si no encuentra algo, recibe un mensaje claro.
 
-## Producto documental terminado
+## Contenido
 
-Cada entrada pública debe tener: archivo PDF original completo; título exacto y autoría/institución; fecha o edición, cuando conste; descripción breve y fiel; procedencia documentada; base de publicación registrada; número de páginas; SHA-256; acciones de lectura/impresión y descarga comprobadas.
+Áreas que pueden crecer cuando existan documentos reales:
+- Historia y memoria.
+- Escuela y educación.
+- Cultura y patrimonio.
+- Territorio, agua y producción.
+- Naturaleza y ambiente.
+- Libros y publicaciones.
+- Normativa e instituciones.
+- Estadística y conocimiento.
 
-## Objetivos de control
+Las áreas no se muestran vacías. Se crean como filtros únicamente cuando tienen archivos publicados.
 
-- Cero enlaces externos en la portada pública.
-- Cero documentos sin archivo local.
-- Cero PDFs sin registro en catálogo.
-- Cero publicaciones con autorización pendiente.
-- Cero alteraciones del original.
-- Cada nuevo archivo debe superar la validación automática y una revisión humana.
+## Qué se acepta
 
-## Indicadores de crecimiento
+- PDF completo, original o copia fiel autorizada.
+- Libros, revistas, informes, artículos, mapas, cuadernillos y documentos educativos.
+- Archivos legibles, descargables e imprimibles.
+- Material de San Patricio del Chañar o recursos regionales/nacionales que ayuden a comprender el territorio y estén claramente identificados.
 
-Medir cantidad de PDFs publicados, páginas preservadas, categorías con contenido, documentos incorporados por trimestre y solicitudes de autorización enviadas. No medir el éxito por cantidad de fichas identificadas o enlaces acumulados.
+## Qué no se acepta
 
-## Identidad visual
+- Videos, audios o publicaciones de redes sociales.
+- Noticias sueltas como sustituto de documentos.
+- Fichas bibliográficas sin archivo.
+- Enlaces externos como descarga alternativa.
+- Archivos incompletos, dañados, recortados o reconstruidos.
+- Obras con derechos o permisos sin resolver.
+- Material que requiera registrarse en otro sitio para obtener el archivo.
+- Duplicados sin una razón documental.
 
-La identidad se apoya en verde profundo, papel cálido, acentos arena, tipografía serif editorial y una gráfica territorial abstracta inspirada en paisaje, suelo y surcos. La estética acompaña; nunca compite con la lectura.
+## Investigación y adquisición
 
-## Próxima etapa
+Buscar primero en archivos y repositorios primarios:
+1. Municipalidad y Concejo Deliberante.
+2. Boletín Oficial de Neuquén.
+3. COPADE y Ministerio de Economía.
+4. Dirección Provincial de Estadística y Censos.
+5. Consejo Provincial de Educación y CeDIE.
+6. Biblioteca Popular y archivos locales.
+7. INTA, Universidad Nacional del Comahue y repositorios académicos.
+8. Consejo Federal de Inversiones y organismos nacionales.
+9. Catálogos universitarios y repositorios internacionales.
 
-Priorizar la recuperación de normas municipales oficiales completas y documentos institucionales cuyo régimen permita alojarlos. Para libros, fotografías, revistas y trabajos de autor, contactar al titular y conservar la autorización. No crear documentos sustitutivos ni convertir materiales ajenos en productos propios.
+La búsqueda debe usar variantes de nombre: San Patricio del Chañar, San Patricio del Chanar, El Chañar, Chañar NQN, Añelo y valle inferior del río Neuquén.
 
-## Hallazgos añadidos al inventario
+## Estados de cada obra
 
-La investigación reciente agregó seis registros internos (CND-031 a CND-036):
-- Boletín Oficial 4435, 09-05-2025: contiene la Ordenanza 1445/24 y el presupuesto municipal 2025.
-- Boletín Oficial 4466, 01-08-2025: contiene el Decreto Municipal 762/2025 y la Ordenanza 1479/25 sobre rendición de cuentas 2024.
-- Ordenanza 1442/24 Impositiva, listada por el índice oficial provincial.
-- Ordenanza 1533/25 Impositiva, listada por el índice provincial y publicada en el Boletín Oficial 4535.
-- Ordenanza 1445/24 Presupuesto 2025, con anexos I y II pendientes de recuperar como archivo individual.
-- Ordenanza 1479/25 Rendición de Cuentas 2024, con estados contables y anexos pendientes de recuperar.
+Identificado → Archivo recuperado → Verificado → Autorizado → Publicado.
 
-Todos estos registros permanecen fuera del catálogo público hasta recuperar copias completas, comprobar anexos, verificar permisos y revisar datos personales. La prioridad es obtener los archivos individuales de las ordenanzas, no publicar compilaciones completas de boletines.
+Solo el último estado entra en el catálogo público.
 
+## Indicadores reales
 
-## Nuevos hallazgos verificados en boletines oficiales
+- Número de PDFs públicos.
+- Número de páginas legibles disponibles.
+- Porcentaje de documentos con permisos confirmados.
+- Documentos pendientes de recuperación.
+- Documentos pendientes de anexos.
+- Colecciones temáticas con contenido real.
+- Descargas que funcionan en celular y computadora.
 
-Se amplió el inventario con tres normas prioritarias adicionales (CND-037 a CND-039):
-- Ordenanza 1527/25, presupuesto municipal 2026: publicada en Boletín Oficial 4535, páginas impresas 42–44. El texto remite a Anexos I y II que no están en esas páginas; falta obtener el documento completo.
-- Ordenanza 1437/24, higiene de terrenos baldíos y espacios públicos, y Decreto 1944/24: publicada en Boletín Oficial 4368, páginas impresas 275–276 y siguientes; falta verificar la totalidad de fojas y recuperar el archivo individual.
-- Ordenanza 1554/26, rendición de cuentas del ejercicio 2025: identificada en Boletín Oficial 4575; falta recuperar el texto íntegro y anexos.
+No usar la cantidad de resultados web ni de registros de inventario como indicador de biblioteca publicada.
 
-La edición 4435 confirma la Ordenanza 1442/24 en páginas impresas 156–163 y la Ordenanza 1445/24 en páginas 163–164. La edición 4466 confirma la Ordenanza 1479/25 y el Decreto 762/2025 en páginas 118–121. En ambos casos, las normas remiten a anexos o documentación contable que no debe considerarse recuperada por haber encontrado el texto principal.
+## Prioridades actuales
 
-Se creó PEDIDO-DE-ARCHIVOS.md para solicitar copias individuales, anexos y versiones públicas, junto con condiciones explícitas de reproducción. No se publica ninguna de estas nuevas referencias hasta completar la recuperación y autorización.
+1. Recuperar el artículo INTA de 2008 sobre productores del Chañar, cuya ficha identifica licencia CC BY-NC-SA 4.0.
+2. Recuperar y verificar la ficha estadística provincial 1999–2000.
+3. Obtener el Estatuto Municipal 2023 en versión final.
+4. Obtener el Plan de Ordenamiento Territorial COPADE 2025 y confirmar licencia.
+5. Recuperar la revista del Cincuentenario, memoria 2019–2023 y libro de testimonios con permisos.
+6. Conseguir originales y permisos de artículos académicos.
+7. Continuar la colección normativa sin publicar compilaciones con datos personales o anexos ausentes.
+
+## Criterio final
+
+La biblioteca crece cuando incorpora archivos que cualquier persona puede abrir, guardar y leer sin depender de otra página. La sencillez de la web y la calidad documental tienen prioridad sobre la cantidad aparente.
