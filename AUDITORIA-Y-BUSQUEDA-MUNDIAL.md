@@ -197,12 +197,12 @@ La validación automática comprueba estructura, existencia, firma básica del P
 
 ## 7. Estado actual — catálogo versión 6
 
-La segunda pasada amplió el catálogo desde 11 a **20 materiales visibles**.
+La segunda pasada amplió el catálogo desde 11 a **21 materiales visibles**.
 
-- **Materiales visibles:** 20.
+- **Materiales visibles:** 21.
 - **PDF alojados físicamente en LIBRITO:** 2.
-- **Accesos directos a PDF, imágenes, mapas o fichas de origen:** 18.
-- **Nuevos registros incorporados en esta pasada:** 9.
+- **Accesos directos a PDF, imágenes, mapas o fichas de origen:** 19.
+- **Nuevos registros incorporados en esta pasada:** 10.
 - **Criterio:** los enlaces externos abren la fuente original. No se cuentan como archivos alojados ni como copias descargables desde el servidor de LIBRITO.
 
 ### Nuevos materiales incorporados
@@ -252,3 +252,5 @@ La interfaz de LIBRITO se amplió para admitir imágenes y planos originales ext
 9. **Gobernación del Neuquén · mapa histórico de 1887.** Recurso cartográfico de la colección histórica de la Mapoteca Digital provincial, enlazado al archivo de descarga del organismo. Se incluye como contexto histórico provincial del siglo XIX, no como plano del ejido actual del Chañar. La Mapoteca restringe la descarga e impresión al uso personal y prohíbe la reproducción comercial sin autorización expresa. [Abrir mapa histórico](https://catastro.neuquen.gov.ar/site/Itc.services/Services/FileDownload.aspx?IDTipoArchivo=0&codigo=437536-668487) · [Mapoteca Digital](https://dpc.neuquen.gob.ar/Mapa).
 
 La interfaz también admite ahora el tipo de material “MAPA” para distinguirlo de PDF e imágenes corrientes. El archivo sigue alojado por la institución provincial y no se copia a LIBRITO.
+
+10. **De Buenos Aires al Neuquén · reseña geográfica, industrial y administrativa** (1902), Gabriel Carrasco. Libro de 116 páginas, fuente primaria de época sobre el territorio neuquino y el viaje desde la Confluencia hacia el norte. Se incorpora como lectura histórica regional complementaria, no como obra dedicada exclusivamente a San Patricio del Chañar. Google Play Books informa una edición digital gratuita; la Biblioteca Florentino Ameghino de la UNLP conserva el registro bibliográfico de la edición impresa. [Leer edición digital](https://play.google.com/store/books/details/Gabriel_Carrasco_De_Buenos_Aires_al_Neuqu%C3%A9n?id=Qg5bAAAAMAAJ) · [Registro bibliográfico UNLP](https://www.bfa.fcnym.unlp.edu.ar/id/15516). LIBRITO no aloja una copia PDF.
