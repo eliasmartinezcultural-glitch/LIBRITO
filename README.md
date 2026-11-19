@@ -1,41 +1,37 @@
-# Fuentes de investigación documental — uso interno de LIBRITO
+# LIBRITO · Biblioteca Digital Chañarense
 
-**Fecha de actualización:** 18 de noviembre de 2026.  
-Este documento es interno. Sus direcciones sirven para localizar originales, consultar registros y solicitar permisos. No es una sección pública de enlaces.
+Una biblioteca sencilla para encontrar documentos, historias, mapas y publicaciones de San Patricio del Chañar, Neuquén.
 
-## Fuentes locales
+**Entrar a la biblioteca:** https://eliasmartinezcultural-glitch.github.io/LIBRITO/
 
-- Municipalidad — identidad e historia: https://www.sanpatricio.gob.ar/identidad
-- Boletín Oficial Municipal 2019: https://sanpatricio.gob.ar/BOLETIN_OFICIAL_2019.pdf
-- Estatuto Municipal anunciado en 2023: https://bit.ly/EstatutoMunicipal
-- Publicaciones municipales del Cincuentenario y Gestión 2019–2023: identificadas en la comunicación institucional del 05-12-2023; solicitar originales y créditos.
-- Libro testimonial de primeros pobladores: presentación durante el 50.º aniversario; identificar autores y solicitar permisos.
-- Centro de Documentación e Información Educativa — Escuela 273: https://bibliotecacedie.neuquen.edu.ar/bib/19898
+## Cómo se usa
 
-## Fuentes provinciales y regionales
+1. Abrí la biblioteca desde un celular, tablet o computadora.
+2. Escribí una palabra en el buscador o elegí un tema.
+3. Abrí el material que te interesa.
+4. Si dice **Descarga directa desde LIBRITO**, el PDF está alojado en esta biblioteca.
+5. Si indica **fuente original**, se abrirá la página de la institución o publicación que lo comparte.
 
-- Ministerio de Economía — ficha municipal e informes: https://www.economianqn.gob.ar/municipios/contenido/san-patricio-del-chanar
-- Dirección Provincial de Estadística — Información Municipal Básica 1999–2000: https://www.estadisticaneuquen.gob.ar/static/archivos/Publicaciones/InfMunBasica/Basica99-00/Cartografia/San%20Patricio.PDF
-- COPADE — Plan de Ordenamiento Territorial 2025, registro 7657, 367 páginas: https://www.copade.gob.ar/centro-documentacion/app/publicacion/publicacion-view/5469
+No hace falta registrarse ni instalar aplicaciones.
 
-## Fuentes nacionales
+## Qué reúne
 
-- INTA Digital — “Cuando los productores se organizan”, Kiessling y Calí, 2008. Licencia CC BY-NC-SA 4.0 según el registro: https://repositoriosdigitales.sicyt.gob.ar/vufind/Record/INTADig_2859921be929d377f0cddbc17d361e67
-- Argentina.gob.ar — Estudios Estratégicos para el Desarrollo Territorial de la Región de Vaca Muerta: https://www.argentina.gob.ar/sites/default/files/estudios_estrategicos_para_el_desarrollo_territorial_de_la_region_de_vacamuerta.pdf
-- IGN — Recursos educativos ANIDA: https://www.ign.gob.ar/content/recursos-educativos-del-atlas-nacional-interactivo-de-argentina
+- Historia y memoria local.
+- Normativa y documentos públicos.
+- Territorio, mapas y cartografía.
+- Producción, educación y conocimiento.
+- Cultura, patrimonio y publicaciones.
 
-## Repositorios académicos
+La colección incorpora materiales existentes. Conserva los créditos, la procedencia y las condiciones de uso de cada obra. Un enlace a una fuente externa no se presenta como una copia alojada por LIBRITO.
 
-- UNCo / REVELE — Finessi y Groch, “Dinámica del paisaje agrario de San Patricio del Chañar”, 2012: https://revele.uncoma.edu.ar/index.php/geografia/article/view/69
-- UNCo — Montero, “Turismo del vino en Neuquén”, 2009: https://rdi.uncoma.edu.ar/handle/uncomaid/18431
-- CFI — Proyecto integral de residuos sólidos urbanos, 2003: http://biblioteca.cfi.org.ar/documento/proyecto-integral-para-la-gestion-de-los-r-s-u-de-san-patricio-del-chanar-provincia-del-neuquen/
+## Criterios de publicación
 
-## Reglas
+Solo se alojan archivos completos, revisados y con autorización o fundamento de uso documentado. Los demás materiales se consultan desde sus fuentes originales. No se publican documentos con datos personales innecesarios ni se reconstruyen obras incompletas.
 
-1. Un enlace no es un documento incorporado.
-2. Un PDF descargable en un portal no es automáticamente redistribuible.
-3. La licencia del propio documento prevalece sobre fichas secundarias contradictorias hasta aclaración.
-4. No copiar materiales con restricciones del CFI sin autorización.
-5. No publicar boletines compilados con datos personales sin revisión.
-6. No publicar mapas con restricciones de uso.
-7. No mostrar estas direcciones como botones de descarga en la portada pública.
+## Tecnología
+
+Sitio estático HTML, CSS y JavaScript. No requiere cuenta, base de datos ni instalación. Los documentos alojados se guardan en `documentos/` y se describen en `catalogo.json`.
+
+## Proyecto
+
+LIBRITO es una iniciativa independiente de Ocarina Producciones, dedicada a facilitar el acceso a materiales sobre San Patricio del Chañar.
