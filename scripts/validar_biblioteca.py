@@ -137,6 +137,42 @@ for number, item in enumerate(documents, start=1):
     if item.get("urlFicha") and not valid_url(item.get("urlFicha")):
         fail(f"{prefix}: urlFicha no es una URL HTTP/HTTPS válida.")
 
+
+# Validación independiente de la hemeroteca periodística
+HEMEROTECA = ROOT / "hemeroteca.json"
+try:
+    hemeroteca = json.loads(HEMEROTECA.read_text(encoding="utf-8"))
+    news = hemeroteca.get("noticias")
+    if not isinstance(news, list):
+        fail("hemeroteca.json debe contener una lista 'noticias'.")
+        news = []
+    news_ids = set()
+    for number, item in enumerate(news, start=1):
+        prefix = f"Noticia #{number}"
+        if not isinstance(item, dict):
+            fail(f"{prefix}: registro inválido.")
+            continue
+        for field in ("id", "titulo", "fecha", "medio", "descripcion", "url", "derechos"):
+            if not item.get(field):
+                fail(f"{prefix}: falta el campo '{field}'.")
+        news_id = item.get("id")
+        if not isinstance(news_id, str) or not news_id.strip():
+            fail(f"{prefix}: ID vacío o inválido.")
+        elif news_id in news_ids:
+            fail(f"{prefix}: ID duplicado '{news_id}'.")
+        else:
+            news_ids.add(news_id)
+        if not re.fullmatch(r"\\d{4}-\\d{2}-\\d{2}", str(item.get("fecha", ""))):
+            fail(f"{prefix}: fecha debe tener formato AAAA-MM-DD.")
+        if not valid_url(item.get("url")):
+            fail(f"{prefix}: URL original inválida.")
+        if item.get("estado") != "enlace_al_original":
+            fail(f"{prefix}: la noticia debe enlazar al medio original.")
+        if item.get("tipo") not in ("articulo_web", "pagina_digitalizada"):
+            fail(f"{prefix}: tipo de material periodístico desconocido.")
+except Exception as exc:
+    fail(f"No se pudo validar hemeroteca.json: {exc}")
+
 actual_files = {p.resolve() for p in DOCS.rglob("*") if p.is_file() and p.suffix.lower() == ".pdf"}
 for path in sorted(actual_files - listed_files):
     fail(f"PDF sin registro en catalogo.json: {path.relative_to(ROOT)}")
