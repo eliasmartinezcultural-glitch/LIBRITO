@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 8,
+  "version": 9,
   "descripcion": "Colección de documentos locales completos y accesos directos a originales institucionales y académicos, con autoría, procedencia y condiciones de uso visibles.",
   "regla": "Los PDF alojados en LIBRITO se distinguen de los documentos que se abren en su fuente original. Nunca se presenta una ficha como archivo alojado.",
   "categorias": [
@@ -528,6 +528,38 @@
         "Neuquén",
         "cartografía",
         "siglo XIX"
+      ]
+    },
+    {
+      "id": "carrasco-buenos-aires-neuquen-1902",
+      "titulo": "De Buenos Aires al Neuquén · reseña geográfica, industrial y administrativa",
+      "autoria": "Gabriel Carrasco",
+      "institucion": "Taller Tipográfico de la Penitenciaría Nacional · edición digital en Google Play Books",
+      "fecha": "1902",
+      "categoria": "Historia y memoria",
+      "tematica": "Viaje histórico por el territorio del Neuquén, geografía, caminos, pobladores y antecedentes regionales",
+      "descripcion": "Libro histórico de 116 páginas publicado en 1902. Es un testimonio de época sobre el territorio neuquino y su recorrido desde la Confluencia hacia el norte. No es un libro dedicado exclusivamente a San Patricio del Chañar; se incorpora como fuente histórica regional complementaria.",
+      "formato": "PDF",
+      "acceso": "ficha",
+      "urlOriginal": "https://play.google.com/store/books/details/Gabriel_Carrasco_De_Buenos_Aires_al_Neuqu%C3%A9n?id=Qg5bAAAAMAAJ",
+      "urlFicha": "https://www.bfa.fcnym.unlp.edu.ar/id/15516",
+      "accionExterna": "Leer libro digital gratuito",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Edición original de 1902. LIBRITO enlaza la versión digital disponible en Google Play Books y el registro bibliográfico de la Biblioteca Florentino Ameghino; no aloja ni redistribuye una copia.",
+        "referencia": "Google Play Books, edición digital gratuita; Biblioteca Florentino Ameghino, UNLP, registro bibliográfico de la edición de 1902."
+      },
+      "procedencia": "Google Play Books; registro bibliográfico de la Biblioteca Florentino Ameghino, Facultad de Ciencias Naturales y Museo, Universidad Nacional de La Plata.",
+      "integridad": "Registro bibliográfico de una edición de 116 páginas; lectura digital en Google Play Books, no PDF alojado por LIBRITO.",
+      "etiquetas": [
+        "Gabriel Carrasco",
+        "1902",
+        "viaje",
+        "Neuquén antiguo",
+        "Confluencia",
+        "historia regional",
+        "territorio"
       ]
     }
   ]
