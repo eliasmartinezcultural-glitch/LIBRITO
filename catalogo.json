@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 39,
+  "version": 40,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -2925,6 +2925,69 @@
       },
       "procedencia": "Poder Ejecutivo de la Provincia del Neuquén; portal InfoLEG provincial.",
       "integridad": "Ficha oficial de la norma con texto y referencia administrativa disponibles en la página de consulta."
+    },
+    {
+      "id": "legislatura-proyecto-12793-2019-emergencia-educativa-chanar",
+      "titulo": "Proyecto 12.793/2019 · emergencia educativa y edilicia en San Patricio del Chañar",
+      "autoria": "Nanci María Agustina Parrilli, Guillermo Oscar Carnaghi y María Ayelén Gutiérrez",
+      "institucion": "Honorable Legislatura de la Provincia del Neuquén",
+      "fecha": "2019-09-11",
+      "categoria": "Educación y conocimiento",
+      "tematica": "Emergencia educativa, infraestructura escolar, vacantes, transporte y edificios educativos",
+      "descripcion": "Proyecto de Declaración presentado en septiembre de 2019 que propone declarar la emergencia educativa y edilicia en todos los niveles y modalidades de San Patricio del Chañar. Sus fundamentos reúnen reclamos de familias, docentes y directivos, y mencionan problemas de edificios, falta de docentes, transporte y vacantes. También refiere que más de cincuenta niños estaban en lista de espera para sala de cuatro años y que la Escuela Primaria 364 funcionaba en el Centro Cultural Municipal. Se cataloga como proyecto legislativo y testimonio documental de los reclamos expuestos en 2019; no debe confundirse con una declaración aprobada ni con una auditoría independiente de las cifras.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://www.legislaturaneuquen.gob.ar/SVRFILES/hln/documentos/DiaSesio/XLVIII/Reunion16_.pdf",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Documento legislativo publicado en el sitio oficial de la Legislatura del Neuquén. LIBRITO enlaza el original y no aloja una copia.",
+        "referencia": "XLVIII Período Legislativo, Reunión 16, 11-09-2019, Proyecto 12.793, expediente D-389/19."
+      },
+      "procedencia": "Honorable Legislatura de la Provincia del Neuquén, Diario de Sesiones.",
+      "integridad": "PDF oficial. Proyecto y fundamentos localizados en las páginas impresas 178–179."
+    },
+    {
+      "id": "bo-neuquen-4023-2022-ordenanzas-1269-1270-epet26-agua-potable",
+      "titulo": "Boletín Oficial · ordenanzas 1269/22 y 1270/22 sobre escuela técnica y agua potable",
+      "autoria": "Honorable Concejo Deliberante de San Patricio del Chañar",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2022-04-08",
+      "categoria": "Educación y conocimiento",
+      "tematica": "EPET 26, suelo para infraestructura educativa, sistema de agua potable, cisterna y tanque elevado",
+      "descripcion": "El ejemplar oficial registra dos decisiones municipales relevantes. La Ordenanza 1269 transfiere gratuitamente un inmueble de 13.841,73 m² al Consejo Provincial de Educación para construir la EPET 26 u otros establecimientos educativos. La Ordenanza 1270 reserva un espacio verde de 3.375 m² para un proyecto de readecuación del sistema de agua potable, que contempla una cisterna de 1.000 m³ y un tanque elevado de 250 m³. El registro documenta las disposiciones publicadas; no demuestra por sí solo la ejecución posterior de las obras.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/Boletines/bol2204084023.pdf",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Se enlaza el ejemplar oficial del Boletín Oficial provincial; LIBRITO no aloja ni redistribuye el PDF.",
+        "referencia": "Boletín Oficial de la Provincia del Neuquén, edición 4023, 08-04-2022."
+      },
+      "procedencia": "Dirección del Boletín Oficial y Archivo de la Provincia del Neuquén.",
+      "integridad": "PDF oficial del Boletín Oficial, con las ordenanzas municipales 1269 y 1270 en el sumario de normas legales."
+    },
+    {
+      "id": "bo-neuquen-especial-2022-decreto-municipal-633-340-lotes",
+      "titulo": "Decreto municipal 633/2022 · licitación de infraestructura para 340 lotes",
+      "autoria": "Departamento Ejecutivo de la Municipalidad de San Patricio del Chañar",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén · edición especial",
+      "fecha": "2022-04-11",
+      "categoria": "Territorio e infraestructura",
+      "tematica": "Urbanización, agua potable, cloacas, red vial y pluvial, gas y electricidad",
+      "descripcion": "El Decreto Municipal 633/2022 dispone el llamado a Licitación Pública 003/2022 para contratar mano de obra, materiales, herramientas y equipos destinados a ejecutar infraestructura para 340 lotes entre Picada 5 y Picada 6. El texto enumera redes de agua potable, cloacas, red vial y pluvial, gas, electricidad y obras complementarias. Se incorpora como antecedente de planificación y contratación pública; la publicación del llamado no equivale a certificación de obra terminada.",
+      "formato": "PÁGINA WEB",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/BoletinDetalle?Id=205",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Publicación oficial consultable en el portal de InfoLEG Neuquén. LIBRITO enlaza la fuente y no aloja una copia.",
+        "referencia": "Boletín Oficial de la Provincia del Neuquén, edición especial, 04-05-2022, páginas impresas 2–3."
+      },
+      "procedencia": "Municipalidad de San Patricio del Chañar; publicación en el Boletín Oficial provincial.",
+      "integridad": "Página oficial de detalle del Boletín Oficial que reproduce el decreto municipal y sus fundamentos."
     }
   ]
 }
