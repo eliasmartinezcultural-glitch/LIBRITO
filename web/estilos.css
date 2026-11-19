@@ -1731,3 +1731,35 @@ a:hover{text-decoration-thickness:2px}
   .documento:hover,.noticia:hover,.puerta:hover{transform:none!important}
   a{color:#111;text-decoration:underline}
 }
+
+/* Sección 03 · Recursos: estilos aditivos, sin alterar Obras ni Hemeroteca. */
+.puertas-principales{grid-template-columns:repeat(3,minmax(0,1fr))}
+.puerta-recursos{background:linear-gradient(135deg,#edf0e8,#e3ebe6)!important}
+.seccion-recursos .cabecera-recursos{border-bottom-color:#cbd9ce}
+.seccion-recursos .cabecera-recursos:after{content:"";display:block;width:86px;height:3px;margin-top:20px;border-radius:3px;background:linear-gradient(90deg,#6f927c,#c5aa72)}
+.recursos-coleccion{padding-top:28px}
+.recursos-filtros{display:grid;gap:10px;margin:20px 0 14px;padding:20px;border:1px solid #d3ded2;border-radius:6px 20px 6px 20px;background:linear-gradient(120deg,#edf1e9,#f7f6ee)}
+.recursos-filtros>label{font-weight:800;color:var(--verde-oscuro)}
+.recursos-filtros input{width:100%;min-height:48px;padding:12px 14px;border:1px solid #cbd5c9;border-radius:7px;background:#fffefa;color:var(--tinta);font:inherit;font-size:16px}
+.recursos-controles{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.recursos-contador{margin:14px 0;color:var(--suave);font-size:13px}
+.recursos-lista{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;align-items:start}
+.recurso{min-width:0;padding:21px;border:1px solid #dce2d8;border-top:4px solid #7d9a83;border-radius:6px 18px 6px 18px;background:linear-gradient(155deg,#fffefa 0%,#fffdf8 72%,#f3f5ed 100%);box-shadow:var(--sombra)}
+.recurso-meta{margin:0 0 9px;color:#597661;font-size:11px;font-weight:800;letter-spacing:.07em;text-transform:uppercase}
+.recurso h3{margin:0 0 10px;color:var(--verde-oscuro);font-family:var(--serif);font-size:23px;line-height:1.2}
+.recurso-descripcion{margin:0 0 15px;color:#4d5a50;font-size:14px;line-height:1.6}
+.recurso-datos{display:grid;gap:8px;margin:0 0 14px}
+.recurso-dato{padding-top:8px;border-top:1px solid #e5e8df}
+.recurso-dato dt{margin-bottom:3px;color:#68766b;font-size:11px;font-weight:800}
+.recurso-dato dd{margin:0;color:#344238;font-size:13px;line-height:1.5}
+.recurso-etiquetas{display:flex;flex-wrap:wrap;gap:6px;margin:12px 0}
+.recurso-etiquetas span{padding:4px 8px;border:1px solid #dce5d9;border-radius:20px;background:#f1f5ed;color:#536a57;font-size:10px}
+.recurso-derechos{margin:13px 0;padding:11px 12px;border:1px solid #e2e5dc;border-radius:8px;background:#f7f8f2;color:#566358;font-size:12px;line-height:1.55}
+.recurso-derechos summary{color:#385842;font-weight:800;cursor:pointer}
+.recurso-derechos p{margin:9px 0}
+.recurso-fuente{display:inline-block;margin-top:4px;color:#385842;font-weight:700;text-underline-offset:3px}
+.seccion-recursos .accion{display:inline-flex;margin-top:7px}
+.recursos-criterio{margin-top:22px}
+@media(max-width:760px){.recursos-lista{grid-template-columns:1fr}.puertas-principales{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:650px){.recursos-controles{grid-template-columns:1fr}.recursos-filtros{padding:15px}.recurso{padding:17px}.puertas-principales{grid-template-columns:1fr}}
+@media print{.recursos-filtros,.recursos-contador,.acciones-compartir,.seccion-recursos .accion,.recurso-derechos summary{display:none!important}.recursos-lista{display:block}.recurso{break-inside:avoid;margin-bottom:12px;box-shadow:none}.recurso-derechos{display:block}}
