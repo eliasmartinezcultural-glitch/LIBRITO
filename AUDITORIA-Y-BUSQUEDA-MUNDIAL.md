@@ -71,6 +71,11 @@ Se realizaron búsquedas en varios niveles geográficos y tipos de repositorio, 
 - El catálogo del Centro de Documentación e Información Educativa del Consejo Provincial de Educación registra documentación histórica de la Escuela Primaria N.º 273 “Carlos Julio Sang”. Es una pista de archivo, no un PDF descargable confirmado.
 - Fuente: https://bibliotecacedie.neuquen.edu.ar/bib/19898
 
+**Publicaciones institucionales de 2023**
+- Revista Cincuentenario: enlace de Google Drive difundido por el Municipio el 06-12-2023: https://bit.ly/RevistaCincuentenario
+- Memoria Gestión 2019–2023: enlace de Google Drive difundido por el Municipio el 06-12-2023: https://bit.ly/Gestion2019-2023
+- Se muestran como documentos en su origen; LIBRITO no aloja copias ni atribuye licencias que no estén indicadas.
+
 ### B. Fuentes regionales y provinciales
 
 **Dirección Provincial de Estadística y Censos**
@@ -192,12 +197,12 @@ La validación automática comprueba estructura, existencia, firma básica del P
 
 ## 7. Resultado actual — catálogo versión 4
 
-- **Materiales visibles en la web:** 9.
+- **Materiales visibles en la web:** 11.
 - **PDF alojados en LIBRITO:** 2.
-- **Accesos a PDF o fichas de origen:** 7, identificados como externos.
+- **Accesos a PDF o fichas de origen:** 9, identificados como externos.
 - **Registros internos del inventario:** 61.
 - **Portada:** diseño simple, una columna, tipografía grande, búsqueda tolerante a tildes y filtros que solo aparecen cuando aportan valor.
-- **Fuentes externas:** se incorporan únicamente enlaces directos o fichas institucionales que permiten llegar al documento original. No se presentan como copias locales.
+- **Fuentes externas:** se incorporan enlaces directos o fichas institucionales que permiten llegar al documento original. Se sumaron la revista Cincuentenario y la memoria de Gestión 2019–2023, difundidas por el Municipio mediante Google Drive. No se presentan como copias locales.
 - **Licencias:** se identifican explícitamente los casos CC BY 4.0 y CC BY-NC-SA 4.0. En los documentos sin licencia de redistribución identificada, solo se enlaza la fuente original.
 - **Privacidad:** el Boletín Oficial Municipal 2019 fue revisado y no se incorporó como descarga destacada porque contiene DNI y otros datos personales. Debe tratarse con revisión específica antes de exponerlo en una biblioteca para todo público.
 - **Videos y audios:** excluidos de la biblioteca.
