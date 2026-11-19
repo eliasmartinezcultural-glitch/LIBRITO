@@ -1,6 +1,6 @@
 {
   "nombre": "Hemeroteca de LIBRITO · San Patricio del Chañar",
-  "version": 24,
+  "version": 25,
   "descripcion": "Índice de noticias y páginas periodísticas que mencionan expresamente San Patricio del Chañar, de distintos diarios, años y formatos.",
   "criterio": "Se incorpora una noticia cuando el texto identifica expresamente a San Patricio del Chañar o trata sobre la localidad. Se conserva título, medio, autoría disponible, fecha, enlace original y una descripción breve. No se reproduce el cuerpo periodístico.",
   "noticias": [
@@ -606,6 +606,83 @@
       "derechos": "Artículo y fotografías pertenecen a Diario Río Negro y a sus respectivos titulares. LIBRITO conserva la referencia y el enlace; no reproduce el contenido."
     },
     {
+      "id": "ni-2025-12-03-creditos-mujeres",
+      "titulo": "Más mujeres acceden a créditos para impulsar sus emprendimientos",
+      "fecha": "2025-12-03",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación",
+      "descripcion": "Nota sobre cinco mujeres de San Patricio del Chañar que accedieron a financiamiento provincial para comprar maquinaria e insumos y desarrollar emprendimientos. La publicación describe la línea Neuquén Financia y la articulación con el área municipal de mujeres. Se conserva como registro de políticas de crédito y trabajo independiente en la localidad.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2025/12/03/253321-mas-mujeres-acceden-a-creditos-para-impulsar-sus-emprendimientos",
+      "etiquetas": [
+        "2025",
+        "mujeres",
+        "emprendimientos",
+        "créditos",
+        "trabajo local"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "lmneuquen-2025-10-07-fabrica-textil",
+      "titulo": "Nueva fábrica de ropa para Vaca Muerta toma mujeres",
+      "fecha": "2025-10-07",
+      "medio": "La Mañana de Neuquén",
+      "autor": "Redacción",
+      "descripcion": "Artículo sobre la apertura de una fábrica textil en San Patricio del Chañar dedicada a confeccionar mamelucos y ropa de trabajo para la industria hidrocarburífera. La nota informa la incorporación prevista de mujeres jefas de hogar capacitadas mediante talleres municipales y la articulación local para radicar el emprendimiento. Se conserva como registro de empleo y diversificación productiva.",
+      "url": "https://media.lmneuquen.com/adjuntos/195/documentos/008/044/0008044795.pdf",
+      "etiquetas": [
+        "2025",
+        "trabajo",
+        "mujeres",
+        "industria textil",
+        "Vaca Muerta",
+        "producción local"
+      ],
+      "tipo": "pdf_prensa",
+      "estado": "enlace_al_original",
+      "derechos": "Edición periodística e imágenes pertenecen a La Mañana de Neuquén. LIBRITO conserva referencia y enlace al PDF publicado por el medio."
+    },
+    {
+      "id": "lmneuquen-2025-09-05-viviendas-fallas",
+      "titulo": "Les entregaron las casas hace 4 meses y ya están rotas",
+      "fecha": "2025-09-05",
+      "medio": "La Mañana de Neuquén",
+      "autor": "Redacción",
+      "descripcion": "Cobertura de reclamos de vecinos del barrio 128 Viviendas por filtraciones, fallas en conexiones e instalaciones y otros problemas constructivos que, según los testimonios publicados, aparecieron poco después de la entrega. Se conserva como registro de denuncias vecinales y de la respuesta que se reclamaba a los organismos responsables, sin presentar las fallas como peritadas de manera independiente.",
+      "url": "https://media.lmneuquen.com/adjuntos/195/documentos/008/011/0008011877.pdf",
+      "etiquetas": [
+        "2025",
+        "vivienda",
+        "128 Viviendas",
+        "reclamo vecinal",
+        "infraestructura"
+      ],
+      "tipo": "pdf_prensa",
+      "estado": "enlace_al_original",
+      "derechos": "Edición periodística e imágenes pertenecen a La Mañana de Neuquén. LIBRITO conserva referencia y enlace al PDF publicado por el medio."
+    },
+    {
+      "id": "ni-2025-08-14-registro-civil",
+      "titulo": "El Registro Civil garantiza la atención en San Patricio del Chañar",
+      "fecha": "2025-08-14",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación",
+      "descripcion": "Nota sobre el plan de atención del Registro Civil en la localidad y el acuerdo para habilitar una oficina exclusiva en calle Michay al 100. También informa operativos móviles y digitales realizados durante 2025. Se conserva como registro de la reorganización de un servicio público local y de los anuncios oficiales de esa fecha.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2025/08/14/250762-el-registro-civil-garantiza-la-atencion-en-san-patricio-del-chanar",
+      "etiquetas": [
+        "2025",
+        "servicios públicos",
+        "Registro Civil",
+        "municipio",
+        "atención ciudadana"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
+    },
+    {
       "id": "educacion-neuquen-2025-07-21-escuela-342-reapertura",
       "titulo": "Se entregó la escuela 342 lista para el regreso a clases",
       "fecha": "2025-07-21",
@@ -624,6 +701,44 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "Publicación institucional de Educación Neuquén. LIBRITO conserva metadatos y una descripción propia; las fotografías y el artículo completo permanecen en el sitio original."
+    },
+    {
+      "id": "ni-2025-07-14-reapertura-escuela342",
+      "titulo": "Tras el receso se entregarán las escuelas intervenidas 207, 223 y 342",
+      "fecha": "2025-07-14",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación",
+      "descripcion": "Nota sobre la finalización prevista de intervenciones en la Escuela Primaria 342 de San Patricio del Chañar tras el incendio ocurrido en marzo de 2025. Detalla trabajos de reparación y adecuación y la inversión informada por el gobierno provincial. Se conserva como registro de la respuesta al siniestro y del cronograma anunciado para el regreso a clases.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2025/07/14/250227-tras-el-receso-se-entregaran-las-escuelas-intervenidas-207-223-y-342",
+      "etiquetas": [
+        "2025",
+        "educación",
+        "Escuela 342",
+        "infraestructura escolar",
+        "incendio"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "ni-2025-06-27-capacitacion-agroturismo",
+      "titulo": "Docentes de escuelas técnicas se capacitan para desarrollar proyectos sustentables",
+      "fecha": "2025-06-27",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación",
+      "descripcion": "Cobertura de una capacitación en áreas naturales protegidas y agroturismo con participación de docentes de escuelas técnicas de Centenario y San Patricio del Chañar. La propuesta abordó patrimonio cultural, ambiente y desarrollo de proyectos institucionales. Se conserva como registro de formación docente y articulación educativa regional.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2025/06/27/249983-docentes-de-escuelas-tecnicas-se-capacitan-para-desarrollar-proyectos-sustentables",
+      "etiquetas": [
+        "2025",
+        "educación",
+        "agroturismo",
+        "patrimonio cultural",
+        "ambiente"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
     },
     {
       "id": "copade-2025-05-27-desarrollo-territorial",
@@ -660,6 +775,25 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio original; no se copia ni republica."
+    },
+    {
+      "id": "ni-2025-05-23-ampliacion-centro-dia",
+      "titulo": "Ampliarán el Centro de Día en San Patricio del Chañar",
+      "fecha": "2025-05-23",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación",
+      "descripcion": "Información sobre el convenio entre el Ministerio de Salud y el municipio para ampliar el Centro de Día con un salón de usos múltiples destinado a actividades grupales y terapias. La nota también registra mejoras en el hospital y equipamiento odontológico y sanitario. Se conserva como anuncio de obras y equipamiento, no como constancia de ejecución finalizada.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2025/05/23/249483-ampliaran-el-centro-de-dia-en-san-patricio-del-chanar",
+      "etiquetas": [
+        "2025",
+        "salud",
+        "Centro de Día",
+        "infraestructura",
+        "servicios comunitarios"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
     },
     {
       "id": "rn-2025-05-21",
@@ -715,6 +849,45 @@
       "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
     },
     {
+      "id": "rionegro-2025-05-21-reconocimiento-turismo",
+      "titulo": "San Patricio del Chañar gana reconocimiento nacional por su desarrollo turístico integral",
+      "fecha": "2025-05-21",
+      "medio": "Diario Río Negro",
+      "autor": "Silvia Fernández Machado",
+      "descripcion": "Artículo sobre la organización de una propuesta turística local que integra bodegas, producción, río, naturaleza y experiencias culturales. Describe la creación del área municipal de Turismo y el trabajo para ordenar atractivos, prestadores y circuitos. Se conserva como cobertura periodística del desarrollo turístico en 2025, con las valoraciones atribuidas a las fuentes entrevistadas.",
+      "url": "https://www.rionegro.com.ar/sociedad/san-patricio-del-chanar-gana-reconocimiento-nacional-por-su-desarrollo-turistico-integral/",
+      "etiquetas": [
+        "2025",
+        "turismo",
+        "identidad local",
+        "bodegas",
+        "naturaleza",
+        "cultura"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "rionegro-2025-05-07-convenio-700-viviendas",
+      "titulo": "Convenio en San Patricio del Chañar: harán 700 viviendas para empleados de Vaca Muerta",
+      "fecha": "2025-05-07",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Cobertura de un convenio urbanístico anunciado por el municipio y un desarrollo inmobiliario para construir viviendas destinadas a trabajadores vinculados con Vaca Muerta, junto con infraestructura deportiva. Se conserva como registro de un proyecto y de los compromisos comunicados; no acredita que las viviendas hayan sido construidas o entregadas.",
+      "url": "https://www.rionegro.com.ar/politica/construiran-700-departamentos-para-los-trabajadores-de-vaca-muerta-en-san-patricio-del-chanar-como-es-el-convenio-4117510/",
+      "etiquetas": [
+        "2025",
+        "vivienda",
+        "urbanización",
+        "Vaca Muerta",
+        "convenio urbanístico"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva referencia y descripción propia."
+    },
+    {
       "id": "neuquen-informa-2025-04-16-sala-comunitaria-alimentos",
       "titulo": "San Patricio del Chañar tendrá su sala comunitaria de alimentos",
       "fecha": "2025-04-16",
@@ -731,6 +904,25 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio original; no se copia ni republica."
+    },
+    {
+      "id": "ni-2025-03-17-camino-vino-relevamiento",
+      "titulo": "Relevaron el trazado del proyecto del Camino del Vino",
+      "fecha": "2025-03-17",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación",
+      "descripcion": "Nota sobre el relevamiento del trazado previsto para el Camino del Vino de San Patricio del Chañar, que busca conectar bodegas y viñedos mediante el acceso por Picada 1. Describe la participación de áreas de Turismo, Obras Públicas y Vialidad. Se cataloga como avance de planificación y no como obra concluida.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2025/03/17/248420-relevaron-el-trazado-del-proyecto-del-camino-del-vino",
+      "etiquetas": [
+        "2025",
+        "turismo",
+        "bodegas",
+        "Camino del Vino",
+        "producción vitivinícola"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
     },
     {
       "id": "neuquen-informa-2025-01-29-relevamiento-escuelas",
@@ -751,6 +943,44 @@
       "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el medio que la publicó; no se copia ni republica."
     },
     {
+      "id": "ni-2025-01-13-camping-balneario",
+      "titulo": "Habilitaron camping en San Patricio del Chañar",
+      "fecha": "2025-01-13",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación",
+      "descripcion": "Cobertura de la habilitación de un balneario y camping sobre el río Neuquén, con sectores de acampe, parrillas, sanitarios, piletas y espacios deportivos. La publicación informa capacidad y servicios previstos para la temporada estival 2025; se conserva como registro de infraestructura recreativa y turística anunciada.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2025/01/13/247652-habilitaron-camping-en-san-patricio-del-chanar",
+      "etiquetas": [
+        "2025",
+        "turismo",
+        "río Neuquén",
+        "balneario",
+        "camping"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "ni-2024-08-28-circuito-bodegas",
+      "titulo": "Buscan consolidar un circuito que conecte las bodegas en San Patricio del Chañar",
+      "fecha": "2024-08-28",
+      "medio": "Neuquén Informa",
+      "autor": "Redacción",
+      "descripcion": "Nota sobre el proyecto de integración del circuito enoturístico local y las obras hídricas y de conectividad previstas para vincular bodegas mediante el acceso por Picada 1. Se registra como etapa de planificación y coordinación entre áreas provinciales; no como circuito ya terminado.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2024/08/28/242381-buscan-consolidar-un-circuito-que-conecte-las-bodegas-en-san-patricio-del-chanar",
+      "etiquetas": [
+        "2024",
+        "turismo",
+        "enoturismo",
+        "bodegas",
+        "infraestructura rural"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
+    },
+    {
       "id": "educacion-neuquen-2024-08-12-dia-educacion-agropecuaria-epea3",
       "titulo": "Celebraron el Día de la Educación Agropecuaria en la EPEA 3",
       "fecha": "2024-08-12",
@@ -769,6 +999,44 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "La publicación pertenece al Consejo Provincial de Educación. LIBRITO conserva metadatos y descripción propia; no reproduce el texto ni las imágenes."
+    },
+    {
+      "id": "ni-2024-06-26-reactivacion-escuela364",
+      "titulo": "Reactivarán obras en tres escuelas",
+      "fecha": "2024-06-26",
+      "medio": "Neuquén Informa",
+      "autor": "Redacción",
+      "descripcion": "Información oficial sobre la renegociación de contratos para retomar la construcción de la Escuela Primaria 364 de San Patricio del Chañar, junto con obras en Chos Malal y Añelo. La nota documenta la decisión administrativa de reactivar los trabajos y no debe confundirse con la finalización del edificio.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2024/06/26/237495-reactivaran-obras-en-tres-escuelas",
+      "etiquetas": [
+        "2024",
+        "educación",
+        "Escuela 364",
+        "infraestructura escolar",
+        "obra pública"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "rionegro-2024-04-06-crisis-hospital",
+      "titulo": "Renunció el director del hospital de San Patricio del Chañar, en medio de una crisis por falta de médicos",
+      "fecha": "2024-04-06",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Cobertura de la renuncia del director médico del hospital Dra. Alicia Cruz en un contexto de reclamos por falta de profesionales para guardias y emergencias, insumos y funcionamiento de servicios. Se conserva como registro periodístico de una crisis sanitaria informada en abril de 2024; las declaraciones y diagnósticos se atribuyen a trabajadores, autoridades y fuentes citadas por el medio.",
+      "url": "https://www.rionegro.com.ar/sociedad/renuncio-el-director-del-hospital-de-san-patricio-del-chanar-en-medio-de-una-crisis-por-falta-de-medicos-3507135/",
+      "etiquetas": [
+        "2024",
+        "salud",
+        "hospital",
+        "servicios públicos",
+        "reclamos"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva referencia y descripción propia."
     },
     {
       "id": "turismo-neuquen-2024-regreso-fiesta-pelon",
