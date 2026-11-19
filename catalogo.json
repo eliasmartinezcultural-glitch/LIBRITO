@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 53,
+  "version": 54,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -921,21 +921,30 @@
       "fecha": "2020",
       "categoria": "Libros y publicaciones",
       "tematica": "Turismo rural, agroalimentos, educación agropecuaria, productores y feria local",
-      "descripcion": "Capítulo 14 del libro Casos de planeación y gestión turística: comportamientos, problemas y avances. Analiza el circuito interpretativo de producción de agroalimentos y la feria De la Tierra a tu Mesa, experiencia iniciada en 2010 en San Patricio del Chañar. El trabajo aparece dentro de una publicación académica de alcance latinoamericano alojada en un repositorio universitario mexicano.",
+      "descripcion": "Capítulo 14 del libro Casos de planeación y gestión turística. Comportamientos, problemas y avances (PASOS Edita n.º 27, primera edición, junio de 2020). El capítulo, páginas impresas 295–318, analiza la experiencia de turismo rural, el circuito interpretativo de producción de agroalimentos y la feria “De la Tierra a tu Mesa” en San Patricio del Chañar. Estudia la articulación entre producción, educación, turismo y comercialización local a partir de un proyecto iniciado en 2010. El libro completo fue sometido a evaluación por pares doble ciego. El repositorio UAEMex previamente consignado se conserva como referencia alternativa.",
       "formato": "PDF",
       "acceso": "origen",
-      "urlOriginal": "https://ri.uaemex.mx/bitstream/handle/20.500.11799/109818/Libro_Completo.pdf?isAllowed=y&sequence=1",
-      "urlFicha": "https://ri.uaemex.mx/handle/20.500.11799/109818",
+      "urlOriginal": "https://www.pasosonline.org/Publicados/pasosoedita/PSEdita27.pdf",
+      "urlFicha": "https://www.pasosonline.org/Publicados/pasosoedita/PSEdita27.pdf",
       "estado": "Disponible en origen",
       "idioma": "Español",
       "alcance": "Internacional · México",
       "autorizacion": {
         "estado": "solo_enlace",
-        "base": "Se enlaza el libro completo alojado por el repositorio universitario. No se copia ni redistribuye el PDF desde LIBRITO; verificar las condiciones editoriales antes de reutilizarlo.",
-        "referencia": "PASOS Edita, Colección PASOS Edita n.º 27, 2020; repositorio institucional UAEMex."
+        "base": "PDF completo disponible en el sitio editorial de PASOS; no se identificó una licencia abierta específica. LIBRITO enlaza la edición editorial y no redistribuye el archivo.",
+        "referencia": "PASOS Edita n.º 27, 2020, ISBN electrónico 978-84-88429-43-8."
       },
-      "procedencia": "Repositorio Institucional de la Universidad Autónoma del Estado de México; libro coordinado por Nora Leticia Bringas Rábago, Maribel Osorio García y Ana Pricila Sosa Ferreira.",
-      "integridad": "PDF del libro completo; el capítulo local comienza en la sección identificada como capítulo 14."
+      "procedencia": "PASOS, Revista de Turismo y Patrimonio Cultural, Colección PASOS Edita n.º 27, Tenerife, España; libro coordinado por Nora L. Bringas Rábago, Maribel Osorio García y Ana Pricila Sosa Ferreira.",
+      "integridad": "PDF original de 354 páginas consultado en el sitio de PASOS. El capítulo local es el n.º 14 y comienza en la página impresa 295; el capítulo siguiente comienza en la 319.",
+      "etiquetas": [
+        "turismo rural",
+        "De la Tierra a tu Mesa",
+        "circuito de agroalimentos",
+        "feria",
+        "PASOS Edita",
+        "2020",
+        "San Patricio del Chañar"
+      ]
     },
     {
       "id": "municipalidad-identidad-historia-actualizada",
@@ -4524,6 +4533,84 @@
         "2023",
         "2025",
         "San Patricio del Chañar"
+      ]
+    },
+    {
+      "id": "trpin-entre-chacras-y-huertas-salud-ambiente-desigualdades-2024",
+      "titulo": "Entre chacras y huertas · Agroalimentos en los bordes de Vaca Muerta, Patagonia argentina",
+      "autoria": "Verónica Trpin",
+      "institucion": "Editorial Teseo · libro Salud, ambiente y desigualdades, coordinado por Ayelén Dichdji y Sandra Goñi",
+      "fecha": "2024-12-12",
+      "categoria": "Libros y publicaciones",
+      "tematica": "San Patricio del Chañar, horticultura, huertas, producción de agroalimentos, economía social, Vaca Muerta, tierra y agua",
+      "descripcion": "Capítulo de investigación incluido en el libro Salud, ambiente y desigualdades (Teseo, 2024). Analiza la producción de alimentos frescos en los valles irrigados del río Neuquén y menciona expresamente el corredor que incluye San Patricio del Chañar, Vista Alegre y Centenario. Aborda horticultura de pequeña escala, huertas, agricultura familiar, mujeres huerteras, circuitos locales de comercialización y tensiones por tierra y agua ante la expansión urbana e hidrocarburífera. El estudio cubre un territorio regional: no todos los datos cuantitativos corresponden exclusivamente a Chañar. La lectura del capítulo está disponible en línea; la descarga del libro completo requiere registro en la plataforma.",
+      "formato": "Capítulo digital en línea",
+      "acceso": "lectura_web",
+      "urlOriginal": "https://www.teseopress.com/saludambienteydesigualdades/chapter/entre-chacras-y-huertas-agroalimentos-en-los-bordes-de-vaca/",
+      "urlFicha": "https://www.teseopress.com/saludambienteydesigualdades/",
+      "estado": "Disponible para lectura en origen",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "La página permite lectura en línea, pero no se identificó una licencia abierta específica para el capítulo. No redistribuir el texto.",
+        "referencia": "Dichdji, Ayelén y Goñi, Sandra (coords.), Salud, ambiente y desigualdades, Editorial Teseo, 12-12-2024."
+      },
+      "procedencia": "Editorial TeseoPress; capítulo de Verónica Trpin.",
+      "integridad": "Página del capítulo consultada en la plataforma editorial. La publicación general contiene 180 páginas; el capítulo se ofrece en lectura web.",
+      "etiquetas": [
+        "Verónica Trpin",
+        "agroalimentos",
+        "Entre chacras y huertas",
+        "huertas",
+        "horticultura",
+        "mujeres rurales",
+        "agricultura familiar",
+        "Vaca Muerta",
+        "valle del río Neuquén",
+        "San Patricio del Chañar",
+        "economía social",
+        "tierra",
+        "agua",
+        "2024"
+      ]
+    },
+    {
+      "id": "santamarina-trpin-entre-la-tierra-y-la-feria-agroturismo-genero-2026",
+      "titulo": "Entre la tierra y la feria · Agroturismo y género en las ruralidades de valles irrigados de Neuquén (2024–2026)",
+      "autoria": "María Luján Santamarina y Verónica Trpin",
+      "institucion": "Kera yvoty · Facultad de Ciencias Sociales, Universidad Nacional de Asunción (Paraguay) · SciELO",
+      "fecha": "2026-09-15",
+      "categoria": "Educación y conocimiento",
+      "tematica": "San Patricio del Chañar, agroturismo, mujeres rurales, huertas, chacra municipal, CFPA N.º 2, agroecología, circuitos cortos y producción de alimentos",
+      "descripcion": "Artículo científico original publicado en Kera yvoty, volumen 11 (2026), e6655, DOI 10.54549/ky.2026.11.e6655. Presenta investigación de campo realizada entre 2024 y febrero de 2026 en los departamentos Añelo y Confluencia. Incluye entrevistas a personal y huerteras de la Chacra Municipal de San Patricio del Chañar y al equipo local de Producción, además del CFPA N.º 2; sistematiza diez experiencias de agroturismo regionales y señala específicamente la Chacra Municipal del Chañar y las huertas del Puesto de Capacitación del Chañar. No atribuir todas las diez experiencias a la localidad: el estudio abarca más de un municipio. Publicación con revisión por pares y licencia CC BY 4.0.",
+      "formato": "PDF y artículo HTML",
+      "acceso": "origen",
+      "urlOriginal": "https://scielo.iics.una.py/pdf/ky/v11/2788-9572-ky-11-e6655.pdf",
+      "urlFicha": "https://scielo.iics.una.py/scielo.php?lng=es&nrm=iso&pid=S2788-95722026000100212&script=sci_arttext&tlng=es",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "licencia_confirmada",
+        "base": "Creative Commons Atribución 4.0 Internacional (CC BY 4.0). Permite compartir y adaptar con atribución a las autoras y la fuente.",
+        "referencia": "Kera yvoty, política de acceso abierto y licencia CC BY 4.0; artículo e6655, volumen 11, 2026."
+      },
+      "procedencia": "SciELO Paraguay; Kera yvoty, Facultad de Ciencias Sociales, Universidad Nacional de Asunción.",
+      "integridad": "PDF original de 21 páginas consultado. Referencias específicas a Chañar en páginas impresas 2–3 y desarrollo del estudio en páginas posteriores.",
+      "etiquetas": [
+        "agroturismo",
+        "mujeres rurales",
+        "huerteras",
+        "Chacra Municipal",
+        "Puesto de Capacitación del Chañar",
+        "CFPA 2",
+        "Red de Agroturismo",
+        "agroecología",
+        "circuitos cortos",
+        "agroalimentos",
+        "género",
+        "Vaca Muerta",
+        "Añelo",
+        "Confluencia",
+        "San Patricio del Chañar",
+        "2026"
       ]
     }
   ]
