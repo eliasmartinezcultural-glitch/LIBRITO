@@ -1,71 +1,41 @@
-# LIBRITO — Biblioteca Digital Chañarense
+# Fuentes de investigación documental — uso interno de LIBRITO
 
-Biblioteca digital independiente dedicada a reunir documentos y lecturas existentes sobre San Patricio del Chañar, Neuquén, Argentina.
+**Fecha de actualización:** 18 de noviembre de 2026.  
+Este documento es interno. Sus direcciones sirven para localizar originales, consultar registros y solicitar permisos. No es una sección pública de enlaces.
 
-## La idea
+## Fuentes locales
 
-Una biblioteca sencilla, como la de una casa o una escuela de pueblo. Debe poder usarla una persona mayor, un niño, una familia o alguien con poca experiencia digital: entrar, encontrar un documento y leerlo o descargarlo sin instrucciones complicadas.
+- Municipalidad — identidad e historia: https://www.sanpatricio.gob.ar/identidad
+- Boletín Oficial Municipal 2019: https://sanpatricio.gob.ar/BOLETIN_OFICIAL_2019.pdf
+- Estatuto Municipal anunciado en 2023: https://bit.ly/EstatutoMunicipal
+- Publicaciones municipales del Cincuentenario y Gestión 2019–2023: identificadas en la comunicación institucional del 05-12-2023; solicitar originales y créditos.
+- Libro testimonial de primeros pobladores: presentación durante el 50.º aniversario; identificar autores y solicitar permisos.
+- Centro de Documentación e Información Educativa — Escuela 273: https://bibliotecacedie.neuquen.edu.ar/bib/19898
 
-LIBRITO no crea obras, no reescribe documentos, no produce videos ni convierte referencias en publicaciones. Reúne archivos completos de sus autores e instituciones, conserva créditos y procedencia y facilita su lectura, descarga e impresión.
+## Fuentes provinciales y regionales
 
-## La regla pública
+- Ministerio de Economía — ficha municipal e informes: https://www.economianqn.gob.ar/municipios/contenido/san-patricio-del-chanar
+- Dirección Provincial de Estadística — Información Municipal Básica 1999–2000: https://www.estadisticaneuquen.gob.ar/static/archivos/Publicaciones/InfMunBasica/Basica99-00/Cartografia/San%20Patricio.PDF
+- COPADE — Plan de Ordenamiento Territorial 2025, registro 7657, 367 páginas: https://www.copade.gob.ar/centro-documentacion/app/publicacion/publicacion-view/5469
 
-La web muestra exclusivamente PDF completos, legibles, verificables y habilitados para redistribución. Cada ficha conduce a un archivo alojado dentro de este repositorio.
+## Fuentes nacionales
 
-No hay videos, audios, enlaces a otros portales, catálogos de enlaces, estanterías vacías ni fichas de obras pendientes. Si un documento no está alojado y no puede descargarse desde LIBRITO, no se anuncia como disponible.
+- INTA Digital — “Cuando los productores se organizan”, Kiessling y Calí, 2008. Licencia CC BY-NC-SA 4.0 según el registro: https://repositoriosdigitales.sicyt.gob.ar/vufind/Record/INTADig_2859921be929d377f0cddbc17d361e67
+- Argentina.gob.ar — Estudios Estratégicos para el Desarrollo Territorial de la Región de Vaca Muerta: https://www.argentina.gob.ar/sites/default/files/estudios_estrategicos_para_el_desarrollo_territorial_de_la_region_de_vacamuerta.pdf
+- IGN — Recursos educativos ANIDA: https://www.ign.gob.ar/content/recursos-educativos-del-atlas-nacional-interactivo-de-argentina
 
-La disponibilidad de un PDF en otro sitio no implica automáticamente permiso para alojar una copia. Se respetan licencias, derechos, autorías, privacidad y condiciones de uso.
+## Repositorios académicos
 
-## Estado de la colección
+- UNCo / REVELE — Finessi y Groch, “Dinámica del paisaje agrario de San Patricio del Chañar”, 2012: https://revele.uncoma.edu.ar/index.php/geografia/article/view/69
+- UNCo — Montero, “Turismo del vino en Neuquén”, 2009: https://rdi.uncoma.edu.ar/handle/uncomaid/18431
+- CFI — Proyecto integral de residuos sólidos urbanos, 2003: http://biblioteca.cfi.org.ar/documento/proyecto-integral-para-la-gestion-de-los-r-s-u-de-san-patricio-del-chanar-provincia-del-neuquen/
 
-**2 documentos PDF públicos y descargables.**
+## Reglas
 
-1. Carta Orgánica Municipal de San Patricio del Chañar (2006, 44 páginas).
-2. Ordenanza Municipal 1536/25 y Decreto Municipal 2253/2025 (3 páginas).
-
-Los candidatos nuevos siguen en investigación hasta recuperar sus originales, verificar su integridad y confirmar la base jurídica para redistribuirlos.
-
-## La página
-
-- Portada breve, sin introducciones largas.
-- Estética de biblioteca casera y rural: papel, verde, tinta y detalles discretos.
-- Letra grande y contraste claro.
-- Una columna de documentos, fácil de recorrer desde el teléfono.
-- Buscador que no distingue tildes.
-- Filtros solo cuando hay más de un tema real.
-- Dos acciones evidentes: “Leer e imprimir” y “Descargar PDF”.
-- Mensajes simples cuando no hay resultados o no carga el catálogo.
-- Sin cuentas, formularios, publicidad, videos ni enlaces externos.
-
-## Archivos del proyecto
-
-- `index.html`: portada pública.
-- `catalogo.json`: catálogo único de documentos publicados.
-- `web/estilos.css`: diseño adaptable y accesible.
-- `web/biblioteca.js`: búsqueda y fichas documentales.
-- `web/index.html`: espejo de la portada en /web.
-- `documentos/`: archivos PDF completos autorizados.
-- `INVENTARIO-MAESTRO.csv`: investigación interna; no es el catálogo público.
-- `AUDITORIA-Y-BUSQUEDA-MUNDIAL.md`: auditoría, hallazgos, fuentes y prioridades.
-- `MAPA-DE-COLECCION.md`: áreas y prioridades de adquisición.
-- `PROTOCOLO-DE-PUBLICACION.md`: recepción, control y publicación.
-- `MODELO-DE-AUTORIZACION.md`: solicitud de permisos.
-- `PEDIDO-DE-ARCHIVOS.md`: pedidos de copias a organismos y titulares.
-- `LEY-MUNDIAL.md`: marco de derechos y criterios de reutilización.
-- `RECURSOS-OFICIALES.md`: fuentes institucionales de investigación, uso interno.
-
-## Estados documentales
-
-1. Identificado.
-2. Archivo recuperado.
-3. Verificado.
-4. Autorizado.
-5. Publicado.
-
-Solo los documentos en estado Publicado aparecen en la página.
-
-## Próxima prioridad
-
-No seguir acumulando nombres. Recuperar los PDF originales prioritarios, obtener permisos cuando correspondan, revisar privacidad y convertir cada candidato viable en una descarga real. La biblioteca debe crecer en archivos útiles, no en promesas.
-
-**Proyecto independiente de Ocarina Producciones.**
+1. Un enlace no es un documento incorporado.
+2. Un PDF descargable en un portal no es automáticamente redistribuible.
+3. La licencia del propio documento prevalece sobre fichas secundarias contradictorias hasta aclaración.
+4. No copiar materiales con restricciones del CFI sin autorización.
+5. No publicar boletines compilados con datos personales sin revisión.
+6. No publicar mapas con restricciones de uso.
+7. No mostrar estas direcciones como botones de descarga en la portada pública.
