@@ -60,3 +60,18 @@ San Patricio del Chañar, Neuquén
 Para cada pedido anotar: organismo receptor, fecha de envío, número de expediente o constancia, documentos solicitados, respuesta, archivos recibidos, condiciones de uso y responsable de verificar el permiso.
 
 **No marcar un documento como Autorizado por el solo hecho de haber recibido una copia.** La autorización para consultar o recibir un archivo no equivale necesariamente a permiso de alojamiento y descarga pública.
+
+
+## Nuevos pedidos documentales surgidos de la búsqueda del 18-11-2026
+
+Solicitar copia original completa y condiciones de redistribución para:
+
+1. **INTA (2008):** “Cuando los productores se organizan: la experiencia de San Patricio del Chañar”, Kiessling y Calí. El registro identifica CC BY-NC-SA 4.0; pedir el PDF original y confirmar que el uso de LIBRITO cumple la condición no comercial.
+2. **Dirección Provincial de Estadística:** Información Municipal Básica 1999–2000, ficha de San Patricio del Chañar.
+3. **COPADE:** Plan de Ordenamiento Territorial de San Patricio del Chañar, registro 7657, año 2025, 367 páginas.
+4. **Municipalidad:** Estatuto Municipal 2023, versión definitiva firmada.
+5. **Municipalidad / Comisión Aniversario:** revista del Cincuentenario 2023, memoria de Gestión 2019–2023 y libro de testimonios de primeros pobladores.
+6. **Universidad Nacional del Comahue:** autorización para alojar el artículo Finessi–Groch (2012) y aclaración de licencia de la tesina de Victoria Montero (2009).
+7. **Consejo Federal de Inversiones:** permiso expreso para redistribuir el Proyecto Integral de Gestión de Residuos Sólidos Urbanos de 2003 y sus cinco volúmenes.
+
+En todos los casos solicitar: PDF completo, número de páginas, anexos, créditos, autoría, institución responsable, licencia o autorización expresa para alojar el archivo en LIBRITO y permitir su descarga gratuita. Si hay datos personales, pedir una versión pública aprobada por el organismo.
