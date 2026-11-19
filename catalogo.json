@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 16,
+  "version": 17,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -1073,6 +1073,150 @@
       },
       "procedencia": "Sitio oficial de la Municipalidad de San Patricio del Chañar.",
       "integridad": "Página web institucional enlazada en su ubicación original."
+    },
+    {
+      "id": "archivo-historico-rio-negro-hemeroteca",
+      "titulo": "Hemeroteca del Archivo Histórico de Río Negro · colecciones periodísticas",
+      "autoria": "Archivo Histórico de Río Negro",
+      "institucion": "Archivo Histórico de Río Negro",
+      "fecha": "Fondos documentales: 1870–2018 · consulta según colección",
+      "categoria": "Archivos y fuentes históricas",
+      "tematica": "Diarios regionales, prensa antigua y búsqueda de noticias sobre el Alto Valle y San Patricio del Chañar",
+      "descripcion": "Guía de fondos y secciones del Archivo Histórico de Río Negro. La sección Hemeroteca informa que conserva colecciones de Río Negro de 1970–1991, La Voz Rionegrina de 1935–1965, El Provincial de 1971–1975 y otros periódicos históricos. Es una vía concreta para localizar ejemplares antiguos; no equivale a una colección digital completa ni confirma que una nota determinada sobre San Patricio del Chañar esté disponible en línea.",
+      "formato": "PÁGINA WEB",
+      "acceso": "origen",
+      "urlOriginal": "https://marcosvig2010.wixsite.com/archivo-historico/hemeroteca-boletines-oficiales",
+      "urlFicha": "https://marcosvig2010.wixsite.com/archivo-historico/fondos-y-secciones",
+      "estado": "Disponible en origen",
+      "idioma": "Español",
+      "alcance": "Regional · Río Negro y Norpatagonia",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Se enlaza la guía archivística original. La consulta de ejemplares, reproducción y digitalización dependen del archivo y de las condiciones de cada documento.",
+        "referencia": "Archivo Histórico de Río Negro, fondos y secciones / Hemeroteca."
+      },
+      "procedencia": "Guía de fondos y secciones del Archivo Histórico de Río Negro.",
+      "integridad": "Instrumento descriptivo de consulta; no es una noticia ni un ejemplar periodístico."
+    },
+    {
+      "id": "siusa-archivo-comune-torre-san-patrizio",
+      "titulo": "Archivo histórico del Comune di Torre San Patrizio · inventario 1457–1983",
+      "autoria": "Comune di Torre San Patrizio · SIUSA / Ministerio de Cultura de Italia",
+      "institucion": "Sistema Informativo Unificato per le Soprintendenze Archivistiche (SIUSA)",
+      "fecha": "1457–1983",
+      "categoria": "Fuentes internacionales",
+      "tematica": "Archivo municipal de Torre San Patrizio, localidad vinculada en fuentes argentinas con los orígenes familiares de Roberto Gasparri",
+      "descripcion": "Registro archivístico italiano que describe el fondo del Comune di Torre San Patrizio, con documentación fechada entre 1457 y 1983 y referencias a un inventario histórico actualizado. Se incorpora como pista para futuras investigaciones sobre el contexto local y migratorio de la familia Gasparri. La ficha no identifica por sí misma documentos de la familia ni prueba un vínculo documental directo con San Patricio del Chañar.",
+      "formato": "PÁGINA WEB",
+      "acceso": "origen",
+      "urlOriginal": "https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?Chiave=155544&RicDimF=2&RicExtInquisizione=on&TipoPag=comparc",
+      "urlFicha": "https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?Chiave=14291&RicProgetto=reg-mar&TipoPag=prodente",
+      "estado": "Disponible en origen",
+      "idioma": "Italiano",
+      "alcance": "Internacional · Marche, Italia",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Se enlaza el registro descriptivo del sistema archivístico italiano. No se descargan ni reproducen documentos del fondo.",
+        "referencia": "SIUSA, Comune di Torre San Patrizio; Archivio di Stato / sistema archivístico de Italia."
+      },
+      "procedencia": "SIUSA · Sistema Informativo Unificato per le Soprintendenze Archivistiche, Ministerio de Cultura de Italia.",
+      "integridad": "Descripción archivística del fondo municipal; no es un documento familiar individual."
+    },
+    {
+      "id": "siusa-comune-campofilone",
+      "titulo": "Comune di Campofilone · perfil histórico y fondos archivísticos",
+      "autoria": "Comune di Campofilone · SIUSA",
+      "institucion": "Sistema Informativo Unificato per le Soprintendenze Archivistiche (SIUSA)",
+      "fecha": "Historia institucional: desde el siglo XI",
+      "categoria": "Fuentes internacionales",
+      "tematica": "Historia institucional de Campofilone, provincia de Fermo, Marche; lugar mencionado en fuentes sobre el origen del nombre San Patricio del Chañar",
+      "descripcion": "Ficha institucional italiana que reúne una síntesis histórica del municipio de Campofilone y señala sus fondos archivísticos. Se incorpora como fuente de contexto para investigar el territorio de origen asociado a la historia local chañarense. La ficha no contiene una referencia comprobada a San Patricio del Chañar ni identifica por sí sola a integrantes de la familia Gasparri.",
+      "formato": "PÁGINA WEB",
+      "acceso": "origen",
+      "urlOriginal": "https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?Chiave=7669&RicProgetto=reg-mar&TipoPag=prodente",
+      "urlFicha": "https://siusa-archivi.cultura.gov.it/cgi-bin/siusa/pagina.pl?Chiave=7669&RicProgetto=reg-mar&TipoPag=prodente",
+      "estado": "Disponible en origen",
+      "idioma": "Italiano",
+      "alcance": "Internacional · Marche, Italia",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Se conserva el enlace al registro institucional italiano; no se reproduce contenido ni documentación archivística.",
+        "referencia": "SIUSA, Comune di Campofilone."
+      },
+      "procedencia": "SIUSA · Sistema Informativo Unificato per le Soprintendenze Archivistiche, Italia.",
+      "integridad": "Ficha de autoridad archivística e institucional; fuente contextual, no prueba genealógica."
+    },
+    {
+      "id": "regione-marche-archivo-emigracion-marchigiana",
+      "titulo": "Archivio Storico dell’Emigrazione Marchigiana · referencia institucional",
+      "autoria": "Regione Marche",
+      "institucion": "Regione Marche · Centro regionale per i Beni Culturali",
+      "fecha": "Referencia institucional publicada en 1999",
+      "categoria": "Fuentes internacionales",
+      "tematica": "Cartas, diarios, fotografías, pasaportes, contratos y otros documentos sobre la emigración desde Marche, Italia",
+      "descripcion": "Comunicado institucional que presenta la creación del Archivo Histórico de la Emigración de Marche y describe tipos de materiales que podían incorporarse: cartas, diarios, fotografías, películas, guías para emigrantes, pasaportes y contratos de trabajo en el exterior. La fuente aporta una vía de investigación sobre la emigración marchigiana hacia Argentina; no confirma la existencia de un expediente Gasparri ni una mención a San Patricio del Chañar en sus fondos.",
+      "formato": "PÁGINA WEB",
+      "acceso": "origen",
+      "urlOriginal": "https://www.regione.marche.it/In-Primo-Piano/ComunicatiStampa//id/10198/p/2144/NASCE-LARCHIVIO-STORICO-DELLEMIGRAZIONE-MARCHIGIANA-AVRA-SEDE-AD-ANCONA-PRESSO-IL-CENTRO-REGIONALE-PER-I-BENI-CULTURALI",
+      "urlFicha": "https://www.regione.marche.it/In-Primo-Piano/ComunicatiStampa//id/10198/p/2144/NASCE-LARCHIVIO-STORICO-DELLEMIGRAZIONE-MARCHIGIANA-AVRA-SEDE-AD-ANCONA-PRESSO-IL-CENTRO-REGIONALE-PER-I-BENI-CULTURALI",
+      "estado": "Disponible en origen",
+      "idioma": "Italiano",
+      "alcance": "Internacional · Región Marche, Italia",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Se enlaza el comunicado institucional de la Regione Marche. No se alojan ni reproducen archivos personales o documentos del fondo.",
+        "referencia": "Regione Marche, comunicado sobre el Archivio Storico dell’Emigrazione Marchigiana."
+      },
+      "procedencia": "Sitio institucional de la Regione Marche, Italia.",
+      "integridad": "Referencia institucional sobre un archivo de emigración; no es un expediente de una persona o familia."
+    },
+    {
+      "id": "boletin-neuquen-ley-2435-2003",
+      "titulo": "Ley Provincial 2435/2003 · jerarquía municipal de San Patricio del Chañar",
+      "autoria": "Legislatura de la Provincia del Neuquén",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2003-08-15",
+      "categoria": "Documentos breves y normativa",
+      "tematica": "Reconocimiento de San Patricio del Chañar como municipio de primera categoría",
+      "descripcion": "Publicación oficial de la Ley Provincial 2435, sancionada el 31 de julio de 2003 y promulgada en agosto de ese año. Es un documento normativo breve para consultar un hito institucional de la localidad. El enlace conduce al Boletín Oficial, donde la ley aparece dentro de una edición más amplia.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/BoletinDetalle?id=368",
+      "urlFicha": "https://infoleg.neuquen.gov.ar/BoletinDetalle?id=368",
+      "estado": "Disponible en origen",
+      "idioma": "Español",
+      "alcance": "Provincial · documento oficial",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Se enlaza la publicación oficial original; LIBRITO no aloja ni modifica el boletín.",
+        "referencia": "Boletín Oficial de la Provincia del Neuquén, Ley 2435."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, edición de agosto de 2003.",
+      "integridad": "Registro de una norma dentro de una edición oficial completa; no se ofrece un recorte independiente."
+    },
+    {
+      "id": "boletin-neuquen-decreto-1149-2006-plano",
+      "titulo": "Decreto Municipal 1149/06 · concurso público y anteproyecto para un lote municipal",
+      "autoria": "Departamento Ejecutivo de San Patricio del Chañar",
+      "institucion": "Municipalidad de San Patricio del Chañar · Boletín Oficial del Neuquén",
+      "fecha": "2006-05-19",
+      "categoria": "Documentos breves y normativa",
+      "tematica": "Concurso público de inversores, anteproyecto arquitectónico y documentación de un lote urbano",
+      "descripcion": "Decreto municipal publicado en el Boletín Oficial provincial del 9 de junio de 2006. Aprueba un concurso público de inversores y anteproyecto arquitectónico para un lote de la manzana 16a, e indica que un plano forma parte del decreto. Se conserva como pista documental para estudiar decisiones urbanas y materiales gráficos oficiales; el enlace abre la edición completa del Boletín Oficial.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/Boletines/2985%2009-06-2006.pdf",
+      "urlFicha": "https://infoleg.neuquen.gov.ar/BoletinDetalle?Id=518",
+      "estado": "Disponible en origen",
+      "idioma": "Español",
+      "alcance": "Local · publicación oficial provincial",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Se enlaza la edición oficial del Boletín Oficial. No se extrae ni redistribuye el plano adjunto.",
+        "referencia": "Boletín Oficial del Neuquén, edición 2985, 09-06-2006, Decreto Municipal 1149/06."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, edición 2985, páginas 49–50.",
+      "integridad": "Documento localizado dentro de una edición oficial de varias páginas; el plano se menciona como anexo integrante y debe consultarse en el original."
     }
   ]
 }
