@@ -166,8 +166,6 @@
       "url": "https://dpc.neuquen.gov.ar/dpcasp/mapoteca_digital/cartas_topograficas.asp",
       "fuente": "https://dpc.neuquen.gov.ar/dpcasp/mapoteca_digital/cartas_topograficas.asp",
       "acceso": "Consulta del índice institucional. La hoja 3969-11 está identificada por nombre; no se recuperó un enlace individual de descarga.",
-      "direitos_estado": "Condiciones de reproducción de la cartografía no verificadas para esta hoja individual",
-      "direitos": "Conservar la atribución a la Dirección Provincial de Catastro e Información Territorial. Antes de reproducir o redistribuir el mapa, consultar las condiciones vigentes de la Mapoteca y del organismo productor. La publicación del índice no equivale a una licencia abierta.",
       "licencia": "No identificada para la hoja individual. Consultar al organismo antes de reutilizar.",
       "etiquetas": [
         "carta topográfica",
@@ -176,7 +174,9 @@
         "cartografía oficial",
         "Neuquén",
         "hoja local"
-      ]
+      ],
+      "derechos_estado": "Condiciones de reproducción de la cartografía no verificadas para esta hoja individual",
+      "derechos": "Conservar la atribución a la Dirección Provincial de Catastro e Información Territorial. Antes de reproducir o redistribuir el mapa, consultar las condiciones vigentes de la Mapoteca y del organismo productor. La publicación del índice no equivale a una licencia abierta."
     }
   ]
 }
