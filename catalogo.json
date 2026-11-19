@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 44,
+  "version": 45,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -3558,6 +3558,75 @@
       },
       "procedencia": "Agencia de Desarrollo Urbano Sustentable (ADUS), pliego oficial de Licitación Pública 011/2026; Boletín Oficial provincial, edición 4634.",
       "integridad": "Aviso oficial y página del pliego consultados; se verificaron objeto, ubicación, presupuesto, plazo y fechas de recepción y apertura de ofertas."
+    },
+    {
+      "id": "neuquen-informe-gestion-2015-2019-modernizacion-riego-chanar",
+      "titulo": "Informe de gestión 2015–2019 · Modernización del sistema de riego de San Patricio del Chañar",
+      "autoria": "Ministerio de Producción e Industria de la Provincia del Neuquén",
+      "institucion": "Gobierno de la Provincia del Neuquén",
+      "fecha": "2015-2019",
+      "categoria": "Informes y estadísticas",
+      "tematica": "Sistema de riego y drenaje, infraestructura productiva, agricultura bajo riego y producción frutícola y vitivinícola",
+      "descripcion": "El informe de síntesis de gestión 2015–2019 incluye una sección específica sobre el proyecto de Modernización del Sistema de Riego de San Patricio del Chañar. Informa un monto total de USD 32.436.511, 145 explotaciones agropecuarias intensivas como beneficiarias directas y una superficie bajo riego aproximada de 8.500 hectáreas. Describe como componentes principales 35 kilómetros de canales rectangulares de hormigón armado, 2,5 kilómetros de nuevos drenajes, 7 kilómetros de limpieza de drenajes y la instalación de compuertas automáticas de nivel constante. Los datos se reproducen como fueron presentados por el Ministerio en su informe de gestión; no deben confundirse con los montos de cierre de obra informados por otras fuentes y períodos.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://produccioneindustria.neuquen.gov.ar/wp-content/uploads/2023/11/Informe-de-Gestion-2015-2019.pdf",
+      "urlFicha": "https://produccioneindustria.neuquen.gov.ar/wp-content/uploads/2023/11/Informe-de-Gestion-2015-2019.pdf",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar informe oficial",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Informe institucional público alojado por el Gobierno de la Provincia del Neuquén. LIBRITO enlaza el documento original y no aloja ni redistribuye una copia.",
+        "referencia": "Ministerio de Producción e Industria de Neuquén, Informe de Gestión 2015–2019, sección Desarrollo de Infraestructura Productiva, apartado Modernización del Sistema de Riego de San Patricio del Chañar."
+      },
+      "procedencia": "Ministerio de Producción e Industria de la Provincia del Neuquén, síntesis institucional de gestión 2015–2019.",
+      "integridad": "PDF consultado; se verificó el apartado específico del proyecto de riego y sus cifras descriptivas en el texto del informe."
+    },
+    {
+      "id": "decreto-neuquen-868-2026-aporte-reintegrable-red-gas-347-lotes",
+      "titulo": "Decreto provincial 868/2026 · Aporte reintegrable para la red de gas de 347 lotes",
+      "autoria": "Poder Ejecutivo de la Provincia del Neuquén",
+      "institucion": "Gobierno de la Provincia del Neuquén · Ministerio de Economía, Producción e Industria",
+      "fecha": "2026-06-23",
+      "categoria": "Infraestructura y servicios",
+      "tematica": "Gas natural, red de gas, 347 lotes, financiamiento provincial y obras urbanas",
+      "descripcion": "El Decreto provincial 868/2026 modifica el Presupuesto General vigente y otorga a la Municipalidad de San Patricio del Chañar un aporte reintegrable de $488.907.063, destinado de manera exclusiva a la ejecución de la obra Red de Gas 347 Lotes. La norma vincula el financiamiento con las Ordenanzas Municipales 1539/2025 y 1557/2026 y con el Decreto Municipal 1797/2025, que había aprobado la ejecución bajo el régimen de contribución por mejoras. Este registro documenta el instrumento provincial de financiamiento; por sí solo no acredita el avance físico, la finalización ni la conexión efectiva del servicio.",
+      "formato": "Página oficial",
+      "acceso": "origen",
+      "urlOriginal": "https://boletinoficial.neuquen.gov.ar/LeyesDecretosDetalle?Id=425471",
+      "urlFicha": "https://boletinoficial.neuquen.gov.ar/LeyesDecretosDetalle?Id=425471",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar decreto oficial",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Norma provincial publicada en el Boletín Oficial de Neuquén. LIBRITO enlaza la ficha oficial y no aloja una copia.",
+        "referencia": "Decreto provincial 868/2026, 23 de junio de 2026; Boletín Oficial de la Provincia del Neuquén, edición 4589."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, ficha oficial de Leyes y Decretos.",
+      "integridad": "Ficha oficial consultada mediante el resultado del Boletín Oficial; se verificaron fecha, destino y monto del aporte. La descarga directa presentó un error temporal durante esta revisión."
+    },
+    {
+      "id": "decreto-neuquen-1843-2026-aporte-cordon-cuneta-barrio-jardin",
+      "titulo": "Decreto provincial 1843/2026 · Aporte para cordón cuneta en Barrio Jardín",
+      "autoria": "Poder Ejecutivo de la Provincia del Neuquén",
+      "institucion": "Gobierno de la Provincia del Neuquén · Ministerio de Economía, Producción e Industria",
+      "fecha": "2026-11-05",
+      "categoria": "Infraestructura y territorio",
+      "tematica": "Obra urbana, cordón cuneta, Barrio Jardín, financiamiento provincial y responsabilidad social empresaria",
+      "descripcion": "El Decreto provincial 1843/2026 modifica el Presupuesto General y otorga a la Municipalidad de San Patricio del Chañar un aporte no reintegrable para gastos de capital de hasta $484.380.661,23, destinado a la obra Cordón Cuneta - Barrio Jardín, manzanas VIII a XXX. La norma indica que los fondos provienen de aportes en concepto de Responsabilidad Social Empresaria correspondientes al área Narambuena. El decreto acredita la asignación prevista del aporte y su destino; no demuestra por sí solo el inicio, avance, recepción ni finalización de los trabajos.",
+      "formato": "Página oficial",
+      "acceso": "origen",
+      "urlOriginal": "https://boletinoficial.neuquen.gov.ar/LeyesDecretosDetalle?Id=426467",
+      "urlFicha": "https://boletinoficial.neuquen.gov.ar/LeyesDecretosDetalle?Id=426467",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar decreto oficial",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Norma provincial publicada en el Boletín Oficial de Neuquén. LIBRITO enlaza la ficha oficial y no aloja una copia.",
+        "referencia": "Decreto provincial 1843/2026, 5 de noviembre de 2026; Boletín Oficial de la Provincia del Neuquén, edición 4630."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, ficha oficial de Leyes y Decretos.",
+      "integridad": "Ficha oficial consultada; se verificaron número, fecha, destino y monto máximo del aporte. La norma no permite afirmar que la obra esté ejecutada."
     }
   ]
 }
