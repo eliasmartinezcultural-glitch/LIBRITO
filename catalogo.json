@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 31,
+  "version": 32,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -2544,6 +2544,38 @@
         "administración local",
         "decreto",
         "archivo histórico"
+      ]
+    },
+    {
+      "id": "neuquen-el-desafio-discurso-ferraresso-1974",
+      "titulo": "8 de abril de 1974 · palabras del gobernador en la puesta en funciones de la Comisión de Fomento",
+      "autoria": "Pedro Salvatori, según la transcripción publicada",
+      "institucion": "Neuquén el Desafío · archivo de discursos y documentos",
+      "fecha": "1974-04-08",
+      "categoria": "Historia y memoria",
+      "tematica": "Primeras autoridades, urbanización, escuela, juzgado, comisaría, salud, riego y fundación institucional",
+      "descripcion": "Transcripción web de las palabras pronunciadas durante el acto del 8 de abril de 1974, cuando se pusieron en funciones las primeras autoridades de la Comisión de Fomento y se inauguraron obras. El texto menciona a Tulio Ferraresso, enumera servicios y edificios en construcción o habilitados y describe el proyecto de riego y colonización frutícola. Es una transcripción publicada en un sitio secundario, no una imagen del discurso original ni una copia certificada del acta; conviene cotejarla con archivos provinciales y municipales.",
+      "formato": "Página web",
+      "acceso": "origen",
+      "urlOriginal": "https://www.neuqueneldesafio.com.ar/blog/62-san-patricio-del-chanar/",
+      "estado": "Transcripción secundaria disponible en origen",
+      "accionExterna": "Leer transcripción",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Se enlaza la transcripción publicada por su sitio de origen. LIBRITO no copia ni redistribuye el texto.",
+        "referencia": "Neuquén el Desafío, entrada 62 – San Patricio del Chañar, publicada el 09/10/2014; texto atribuido al acto del 08/04/1974."
+      },
+      "procedencia": "Neuquén el Desafío, publicación web del 9 de octubre de 2014.",
+      "integridad": "Transcripción web consultada. No se localizó en esta búsqueda el registro sonoro, manuscrito, mecanografiado o acta original del acto.",
+      "etiquetas": [
+        "1974",
+        "8 de abril",
+        "Pedro Salvatori",
+        "Tulio Ferraresso",
+        "Comisión de Fomento",
+        "primeras obras",
+        "riego",
+        "escuela"
       ]
     }
   ]
