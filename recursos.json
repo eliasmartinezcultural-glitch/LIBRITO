@@ -1,6 +1,6 @@
 {
   "nombre": "Recursos de LIBRITO · San Patricio del Chañar",
-  "version": 21,
+  "version": 22,
   "descripcion": "Índice de fotografías, mapas, planos, archivos audiovisuales y otros materiales de consulta relacionados con San Patricio del Chañar.",
   "criterio": "Se registran recursos existentes y se enlaza a sus custodios o fuentes originales. La inclusión no implica autorización para descargar, copiar, republicar, adaptar o usar comercialmente. Cada ficha informa el estado de derechos conocido y el modo de acceso. Si las condiciones no están claras, el recurso se ofrece solo como referencia externa.",
   "recursos": [
@@ -1378,6 +1378,60 @@
         "Confluencia",
         "Neuquén",
         "coordenadas aproximadas"
+      ]
+    },
+    {
+      "id": "open-paleo-panamericansaurus-schroederi-registro-taxonomico-2026",
+      "titulo": "Panamericansaurus schroederi · ficha taxonómica en Open Paleo",
+      "categoria": "Registros científicos internacionales",
+      "tipo": "Registro taxonómico digital en base de datos paleontológica",
+      "fecha": "Versión 2026.11",
+      "autor": "Open Paleo contributors",
+      "descripcion": "Registro internacional del género Panamericansaurus y de su especie tipo Panamericansaurus schroederi. La ficha identifica el holotipo MUCPv-417, conservado en la Universidad Nacional del Comahue, enumera los restos fósiles y sitúa el hallazgo a 3 km al oeste de San Patricio del Chañar, Neuquén. Vincula el registro con la Formación Allen y cita como referencia primaria el artículo de Calvo y Porfiri publicado en 2010 en Brazilian Geographical Journal. Es una base secundaria mantenida por colaboradores y respaldada en literatura publicada; resulta útil como índice taxonómico y punto de entrada a otras bases, no como sustituto de la descripción científica original.",
+      "url": "https://open-paleo.org/genus/panamericansaurus/",
+      "fuente": "Open Paleo, ficha Panamericansaurus, versión 2026.11. Open Paleo contributors. La página cita Calvo, J. O. y Porfiri, J. D. (2010), Brazilian Geographical Journal, 1:100–115.",
+      "acceso": "Consulta web abierta; ficha disponible en inglés. Incluye referencias bibliográficas y enlaces a bases taxonómicas externas.",
+      "derechos_estado": "Licencia declarada para los datos de Open Paleo",
+      "derechos": "El sitio declara que los datos de Open Paleo están bajo licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0). Esta licencia corresponde al contenido de la base según su aviso; no se extiende automáticamente a los artículos, imágenes ni materiales de terceros enlazados.",
+      "licencia": "Creative Commons Attribution 4.0 International (CC BY 4.0), según el aviso de Open Paleo.",
+      "etiquetas": [
+        "San Patricio del Chañar",
+        "Panamericansaurus schroederi",
+        "Open Paleo",
+        "paleontología",
+        "taxonomía",
+        "MUCPv-417",
+        "Formación Allen",
+        "Cretácico Superior",
+        "base de datos internacional",
+        "Brasil"
+      ]
+    },
+    {
+      "id": "wikispecies-panamericansaurus-schroederi-localidad-tipo",
+      "titulo": "Panamericansaurus schroederi · registro taxonómico internacional en Wikispecies",
+      "categoria": "Registros científicos internacionales",
+      "tipo": "Ficha taxonómica colaborativa con localidad tipo",
+      "fecha": "Última edición indicada: 19 de diciembre de 2024",
+      "autor": "Colaboradores de Wikispecies · Wikimedia Foundation",
+      "descripcion": "Ficha taxonómica de Panamericansaurus schroederi que identifica el holotipo MUCPv-417 y especifica la localidad tipo: Formación Allen, a 3 km al oeste de la ciudad de San Patricio del Chañar, provincia del Neuquén. Incluye la referencia bibliográfica primaria de Calvo y Porfiri (2010) y enlaza identificadores de bases taxonómicas internacionales como Encyclopedia of Life, Fossilworks, GBIF y Wikidata. Es un índice colaborativo para localizar identificadores y bibliografía; los datos deben contrastarse con la publicación científica original y los repositorios institucionales.",
+      "url": "https://species.wikimedia.org/wiki/Panamericansaurus_schroederi",
+      "fuente": "Wikispecies, Panamericansaurus schroederi. Página taxonómica colaborativa; cita Calvo, J. O. y Porfiri, J. D. (2010), Brazilian Geographical Journal, 1:100–115.",
+      "acceso": "Consulta web abierta, en inglés. Contiene enlaces a identificadores taxonómicos y a la publicación original.",
+      "derechos_estado": "Contenido colaborativo con licencia declarada por Wikimedia",
+      "derechos": "El texto de Wikispecies se ofrece bajo Creative Commons Atribución-CompartirIgual; los identificadores y enlaces externos conservan las condiciones de sus respectivas bases. No reutilizar imágenes o contenidos externos sin comprobar sus licencias.",
+      "licencia": "Creative Commons Attribution-ShareAlike (CC BY-SA), según el aviso de Wikispecies.",
+      "etiquetas": [
+        "San Patricio del Chañar",
+        "Panamericansaurus schroederi",
+        "Wikispecies",
+        "Wikimedia",
+        "paleontología",
+        "taxonomía",
+        "MUCPv-417",
+        "Formación Allen",
+        "localidad tipo",
+        "Neuquén"
       ]
     }
   ]
