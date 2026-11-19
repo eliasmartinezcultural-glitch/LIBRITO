@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 19,
+  "version": 20,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -1311,6 +1311,52 @@
       },
       "procedencia": "Banco de Información de Ciencia y Tecnología del CONICET (BICYT).",
       "integridad": "Registro bibliográfico institucional consultado; la ficha no permitió verificar una descarga pública del informe completo."
+    },
+    {
+      "id": "inta-malla-antigranizo-frutales-2022",
+      "titulo": "Malla para proteger los frutales del granizo · beneficios para la cadena frutícola",
+      "autoria": "Héctor Zubeldía, Mariela Teixe y Patricia Villarreal",
+      "institucion": "Instituto Nacional de Tecnología Agropecuaria · EEA Alto Valle y Ministerio de Producción e Industria del Neuquén",
+      "fecha": "2022",
+      "categoria": "Informes y estadísticas",
+      "tematica": "Fruticultura, mallas antigranizo, protección de cultivos, economía agraria y cadena productiva",
+      "descripcion": "Informe técnico conjunto de INTA y el Gobierno del Neuquén que analiza los beneficios productivos y económicos de las mallas antigranizo. El estudio señala que, según informantes consultados en 2021, más del 80% de la superficie neuquina cubierta con malla se encontraba en San Patricio del Chañar. Se ofrece el enlace al documento original, sin alojar una copia en LIBRITO.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://repositorio.inta.gob.ar/bitstream/handle/20.500.12123/14080/INTA_CRPatagoniaNorte_EEAAltoValle_Villarreal_PL_Malla_para_proteger_frutales_granizo.pdf?isAllowed=y&sequence=1",
+      "urlFicha": "https://repositoriosdigitales.sicyt.gob.ar/vufind/Record/INTADig_729203bee36459b972dafbd1c8e3f41b",
+      "estado": "Disponible en origen",
+      "accionExterna": "Abrir informe original",
+      "autorizacion": {
+        "estado": "licencia_identificada_sin_copia_local",
+        "base": "El repositorio identifica licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 (CC BY-NC-SA 4.0). LIBRITO enlaza el original y no redistribuye el archivo.",
+        "referencia": "INTA Digital, registro 20.500.12123/14080; ficha de repositorios digitales SICYT."
+      },
+      "procedencia": "INTA Digital · Estación Experimental Agropecuaria Alto Valle; trabajo conjunto con el Ministerio de Producción e Industria del Neuquén.",
+      "integridad": "PDF de 68 páginas enlazado desde el repositorio institucional. La ficha bibliográfica registra publicación en 2022."
+    },
+    {
+      "id": "sedici-pgzyme-sidra-cfpa2-2018",
+      "titulo": "Evaluación de la aplicación de PGzyme en diferentes etapas del proceso de elaboración de sidra",
+      "autoria": "María Luisa Franchi, Priscila López Maldonado, Sebastián Zapata, Fermín Porley y Sebastián Cavalitto",
+      "institucion": "Universidad Nacional de Río Negro · Centro de Formación Profesional Agropecuaria N.º 2 · CINDEFI (CONICET–UNLP)",
+      "fecha": "2018",
+      "categoria": "Educación y conocimiento",
+      "tematica": "Elaboración de sidra, manzana, tecnología alimentaria, formación agropecuaria e investigación aplicada",
+      "descripcion": "Trabajo presentado en CLICAP 2018. Describe una experiencia piloto de elaboración de sidra realizada en el Centro de Formación Profesional Agropecuaria N.º 2 de San Patricio del Chañar, donde se evaluó la aplicación de la enzima PGzyme en distintas etapas del proceso. El registro incluye el resumen y el PDF completo.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://sedici.unlp.edu.ar/bitstream/handle/10915/154231/Documento_completo.pdf-PDFA.pdf?isAllowed=y&sequence=1",
+      "urlFicha": "https://sedici.unlp.edu.ar/handle/10915/154231?show=full",
+      "estado": "Disponible en origen",
+      "accionExterna": "Abrir trabajo completo",
+      "autorizacion": {
+        "estado": "licencia_identificada_sin_copia_local",
+        "base": "El repositorio identifica licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 (CC BY-NC-SA 4.0). LIBRITO enlaza el original y no redistribuye el archivo.",
+        "referencia": "SEDICI, Universidad Nacional de La Plata, registro 10915/154231."
+      },
+      "procedencia": "SEDICI · Repositorio institucional de la Universidad Nacional de La Plata; Memorias del Congreso Latinoamericano de Ingeniería y Ciencias Aplicadas (CLICAP 2018).",
+      "integridad": "PDF original de una página, correspondiente al resumen extendido del trabajo, disponible en el repositorio institucional."
     }
   ]
 }
