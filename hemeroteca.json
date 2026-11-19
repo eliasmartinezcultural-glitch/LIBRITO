@@ -1,6 +1,6 @@
 {
   "nombre": "Hemeroteca de LIBRITO · San Patricio del Chañar",
-  "version": 18,
+  "version": 19,
   "descripcion": "Índice de noticias y páginas periodísticas que mencionan expresamente San Patricio del Chañar, de distintos diarios, años y formatos.",
   "criterio": "Se incorpora una noticia cuando el texto identifica expresamente a San Patricio del Chañar o trata sobre la localidad. Se conserva título, medio, autoría disponible, fecha, enlace original y una descripción breve. No se reproduce el cuerpo periodístico.",
   "noticias": [
@@ -2388,6 +2388,27 @@
         "historia productiva"
       ],
       "tipo": "entrevista",
+      "estado": "Disponible en origen",
+      "derechos": "Artículo y fotografías pertenecen a Diario Río Negro y a sus respectivos titulares. LIBRITO conserva la referencia y el enlace; no reproduce el contenido."
+    },
+    {
+      "id": "rn-2018-10-27-cultura-productiva-resiste",
+      "titulo": "La cultura productiva resiste en El Chañar frente a Vaca Muerta",
+      "fecha": "2018-10-27",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Cobertura sobre la convivencia entre la fruticultura, la formación agropecuaria y la expansión hidrocarburífera en San Patricio del Chañar. Incluye testimonios de integrantes de la comunidad educativa de la EPEA 3, referencias al trabajo en chacras y datos de planificación urbana de 2018. Se conserva como registro periodístico de una etapa de transformación local; las cifras corresponden al momento de publicación, no a la situación actual.",
+      "url": "https://www.rionegro.com.ar/la-cultura-productiva-resiste-en-el-chanar-frente-a-vaca-muerta-DJ5902533/",
+      "etiquetas": [
+        "2018",
+        "fruticultura",
+        "EPEA 3",
+        "producción",
+        "memoria productiva",
+        "educación",
+        "territorio"
+      ],
+      "tipo": "articulo_web",
       "estado": "Disponible en origen",
       "derechos": "Artículo y fotografías pertenecen a Diario Río Negro y a sus respectivos titulares. LIBRITO conserva la referencia y el enlace; no reproduce el contenido."
     }
