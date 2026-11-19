@@ -1,7 +1,7 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 13,
-  "descripcion": "Colección de documentos locales completos y accesos directos a obras, archivos y recursos educativos en sus fuentes originales, con autoría, procedencia y condiciones de uso visibles.",
+  "version": 14,
+  "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
     "Historia y memoria",
@@ -825,6 +825,86 @@
       },
       "procedencia": "Portal del Ministerio de Economía, Producción e Industria de la Provincia del Neuquén.",
       "integridad": "PDF original de 7 páginas enlazado desde la ficha oficial del municipio."
+    },
+    {
+      "id": "inorno-palacios-neuquen-puerta-patagonia-2001",
+      "titulo": "Neuquén, la puerta de la Patagonia · Fascículo 16",
+      "autoria": "Graciela Elvira Inorno y María Susana Palacios",
+      "institucion": "Centro de Estudios Históricos de Estado, Política y Cultura · Universidad Nacional del Comahue",
+      "fecha": "2001",
+      "categoria": "Historia y memoria",
+      "tematica": "Historia provincial, poblamiento y San Patricio del Chañar",
+      "descripcion": "Publicación histórica universitaria sobre la formación de Neuquén. Incluye un apartado dedicado a San Patricio del Chañar y cita como antecedente una nota de aniversario publicada por Diario Río Negro en 1994. Es una fuente de contexto regional, no un documento exclusivo de la localidad.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://cehepyc.uncoma.edu.ar/wp-content/uploads/2001-Pulsos16.pdf",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "consulta en origen",
+        "base": "Consultar y respetar las condiciones de la publicación original."
+      },
+      "procedencia": "Repositorio del Centro de Estudios Históricos de Estado, Política y Cultura (CEHEPyC), Universidad Nacional del Comahue.",
+      "integridad": "Enlace al fascículo completo alojado por la institución; LIBRITO no reproduce el PDF."
+    },
+    {
+      "id": "legislatura-neuquen-diario-sesiones-2019-46-aniversario",
+      "titulo": "46.º aniversario de San Patricio del Chañar · Diario de Sesiones",
+      "autoria": "Honorable Legislatura de la Provincia del Neuquén",
+      "institucion": "Legislatura de la Provincia del Neuquén",
+      "fecha": "2019-04-25",
+      "categoria": "Historia y memoria",
+      "tematica": "Aniversario, reseña histórica y registro legislativo",
+      "descripcion": "El Diario de Sesiones del 25 de abril de 2019 incluye una referencia al 46.º aniversario de San Patricio del Chañar. Es un registro institucional primario para consultar cómo quedó asentada la conmemoración en la actividad legislativa provincial.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://www.legislaturaneuquen.gob.ar/SVRFILES/hln/documentos/DiaSesio/XLVIII/DXLVIII_08.pdf",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "consulta en origen",
+        "base": "Consultar y respetar las condiciones de la institución editora."
+      },
+      "procedencia": "Diario de Sesiones, XLVIII Período Legislativo, 6.ª Sesión Ordinaria, Reunión 8, 25 de abril de 2019.",
+      "integridad": "Enlace al documento completo publicado por la Legislatura; LIBRITO conserva la referencia."
+    },
+    {
+      "id": "masneuquen-efemerides-chanar-cronologia",
+      "titulo": "Efemérides · Cronología de San Patricio del Chañar a través de los años",
+      "autoria": "Más Neuquén",
+      "institucion": "Más Neuquén",
+      "fecha": "s/f",
+      "categoria": "Historia y memoria",
+      "tematica": "Cronología local, instituciones, educación, cultura y vida comunitaria",
+      "descripcion": "Recopilación cronológica con acontecimientos de la localidad desde 1971 y referencias a hitos de 1973, 1974, 1975, 1980, 1983, 1984, 1985, 1987, 1992, 1993, 1999 y años posteriores. Es una compilación periodística secundaria: los datos deben contrastarse con decretos, actas y archivos institucionales antes de tratarlos como definitivos.",
+      "formato": "Página web",
+      "acceso": "origen",
+      "urlOriginal": "https://masneuquen.com/efemerides-cronologia-de-san-patricio-del-chanar-a-traves-de-los-anos/",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "consulta en origen",
+        "base": "Consultar el artículo en su publicación original; no copiar su contenido."
+      },
+      "procedencia": "Artículo de Más Neuquén. La propia página remite a fuentes locales previas; LIBRITO la identifica como compilación secundaria.",
+      "integridad": "Referencia externa; no se aloja una copia del artículo."
+    },
+    {
+      "id": "masneuquen-fundacion-chanar-cuestion-limites-2024",
+      "titulo": "Fundación de San Patricio del Chañar · Una cuestión de límites",
+      "autoria": "Más Neuquén",
+      "institucion": "Más Neuquén",
+      "fecha": "2024-05-14",
+      "categoria": "Historia y memoria",
+      "tematica": "Fundación, historia territorial y límites interprovinciales",
+      "descripcion": "Artículo histórico que reconstruye la fundación de la localidad y el contexto de las discusiones limítrofes entre Neuquén y Río Negro. La publicación identifica como fuente una obra de Víctor Peláez. Se incorpora como interpretación periodística secundaria, no como sustituto de la documentación legal y cartográfica original.",
+      "formato": "Página web",
+      "acceso": "origen",
+      "urlOriginal": "https://masneuquen.com/fundacion-de-san-patricio-del-chanar-una-cuestion-de-limites/",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "consulta en origen",
+        "base": "Consultar el artículo en su publicación original; no copiar su contenido."
+      },
+      "procedencia": "Más Neuquén; fuente declarada en el artículo: «Cosas de Neuquén – Fechas Importantes – Médicos y Medicina», de Víctor Peláez.",
+      "integridad": "Referencia externa; conservar autoría, medio y atribución de fuente declarada."
     }
   ]
 }
