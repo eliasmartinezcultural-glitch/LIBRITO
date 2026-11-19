@@ -1,6 +1,6 @@
 {
   "nombre": "Hemeroteca de LIBRITO · San Patricio del Chañar",
-  "version": 2,
+  "version": 3,
   "descripcion": "Índice de noticias y páginas periodísticas que mencionan expresamente San Patricio del Chañar, de distintos diarios, años y formatos.",
   "criterio": "Se incorpora una noticia cuando el texto identifica expresamente a San Patricio del Chañar o trata sobre la localidad. Se conserva título, medio, autoría disponible, fecha, enlace original y una descripción breve. No se reproduce el cuerpo periodístico.",
   "noticias": [
@@ -532,6 +532,43 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "Se conserva referencia bibliográfica y descripción propia; consultar noticia en el medio original."
+    },
+    {
+      "id": "neuquen-informa-2025-05-23-convenios-aniversario",
+      "titulo": "En sintonía con la Provincia, San Patricio del Chañar profundiza su desarrollo",
+      "fecha": "2025-05-23",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación",
+      "descripcion": "Cobertura institucional del 52.º aniversario, con información sobre convenios e inversiones anunciadas para infraestructura educativa, urbana y vial, incluida la EPET N.º 26 y la pavimentación de calles.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2025/05/23/249480-en-sintonia-con-la-provincia-san-patricio-del-chanar-profundiza-su-desarrollo",
+      "etiquetas": [
+        "aniversario",
+        "educación",
+        "infraestructura",
+        "obras públicas"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio original; no se copia ni republica."
+    },
+    {
+      "id": "rn-2026-08-14-epea3-huerta-hidroponica",
+      "titulo": "Así funciona la huerta hidropónica de San Patricio del Chañar que transforma la educación técnica en Neuquén",
+      "fecha": "2026-08-14",
+      "medio": "Diario Río Negro",
+      "autor": "Elena Egea",
+      "descripcion": "Nota sobre el proyecto de huerta hidropónica de la EPEA N.º 3, iniciado como línea de trabajo en 2025 y puesto en marcha con estudiantes, docentes, acompañamiento municipal y colaboración de instituciones y empresas.",
+      "url": "https://www.rionegro.com.ar/sociedad/asi-funciona-la-huerta-hidroponica-de-san-patricio-del-chanar-que-transforma-la-educacion-tecnica-en-neuquen-4684193/",
+      "etiquetas": [
+        "educación",
+        "EPEA 3",
+        "producción",
+        "tecnología",
+        "jóvenes"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
     }
   ]
 }
