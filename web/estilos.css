@@ -430,3 +430,436 @@ body{
 @media print{
   .cantidad,.contador,.hemeroteca-contador{background:white;box-shadow:none;border:1px solid #aaa}
 }
+
+
+/* LIBRITO · Sistema de experiencia ciudadana 2026
+   Capa final de presentación. No altera estructura, datos ni lógica de navegación. */
+:root{
+  --librio-lectura:68ch;
+  --librio-radio:12px;
+  --librio-borde:#d9d3c5;
+  --librio-foco:#9b593b;
+  --librio-verde-profundo:#263f32;
+}
+html{scroll-padding-top:1.5rem}
+body{
+  color:#303a32;
+  font-size:16px;
+  line-height:1.65;
+  -webkit-text-size-adjust:100%;
+  text-rendering:optimizeLegibility;
+}
+.contenedor{width:min(100% - 48px,1100px)}
+a{text-underline-offset:3px}
+a:hover{text-decoration-thickness:2px}
+:focus-visible{
+  outline:3px solid var(--librio-foco);
+  outline-offset:4px;
+  border-radius:5px;
+}
+.encabezado{border-bottom:1px solid rgba(255,255,255,.12)}
+.encabezado-interior{min-height:86px}
+.marca{gap:15px}
+.marca strong{letter-spacing:.105em}
+.marca small{font-size:12px;line-height:1.35}
+.presentacion,.cabecera-seccion{
+  box-shadow:0 12px 30px rgba(40,54,42,.055);
+}
+.inicio-presentacion{
+  max-width:900px;
+  padding:clamp(34px,6vw,72px);
+}
+.inicio-presentacion h1{
+  max-width:14ch;
+  font-size:clamp(2.65rem,6vw,4.6rem);
+  line-height:1.02;
+  letter-spacing:-.045em;
+}
+.inicio-presentacion .bajada{
+  max-width:54ch;
+  font-size:clamp(1.05rem,2vw,1.25rem);
+  line-height:1.65;
+}
+.inicio-presentacion .regla{
+  max-width:62ch;
+  font-size:.9rem;
+  line-height:1.55;
+}
+.foto-portada{
+  margin-top:18px;
+  border-radius:8px 24px 8px 24px;
+}
+.foto-portada img{
+  height:clamp(210px,34vw,360px);
+  object-position:center 52%;
+}
+.foto-portada figcaption{
+  align-items:center;
+  gap:8px 18px;
+  padding:11px 15px;
+  font-size:11px;
+}
+.puertas-principales{
+  gap:16px;
+  padding-bottom:38px;
+}
+.puertas-principales .puerta{
+  min-height:180px;
+  padding:24px;
+  border-radius:8px 22px 8px 22px;
+}
+.puertas-principales .puerta-numero{top:22px;left:24px}
+.puertas-principales .puerta-titulo{font-size:clamp(28px,3vw,36px)}
+.puertas-principales .puerta-ayuda{
+  max-width:28ch;
+  font-size:14px;
+  line-height:1.5;
+}
+.puerta-entrada{
+  display:inline-flex;
+  align-items:center;
+  gap:9px;
+  margin-top:15px;
+  color:var(--verde-oscuro);
+  font-size:13px;
+  font-weight:800;
+}
+.puerta-entrada span{font-size:19px;transition:transform .18s ease}
+.puertas-principales .puerta:hover .puerta-entrada span{transform:translateX(4px)}
+.nota-biblioteca{
+  border-radius:8px 18px 8px 18px;
+  box-shadow:0 7px 20px rgba(40,54,42,.035);
+}
+.nota-biblioteca p{
+  max-width:76ch;
+  font-size:14px;
+  line-height:1.7;
+}
+.pagina-seccion{padding-bottom:28px}
+.cabecera-seccion{
+  margin:30px 0 28px;
+  padding:clamp(28px,5vw,48px);
+  border:1px solid var(--librio-borde);
+  border-radius:8px 26px 8px 26px;
+  background:linear-gradient(125deg,#fffdf7 0%,#f3efe4 100%);
+}
+.cabecera-seccion h1{
+  margin-bottom:13px;
+  font-size:clamp(2.7rem,5vw,4.2rem);
+  line-height:1.02;
+}
+.cabecera-seccion .bajada{
+  max-width:62ch;
+  font-size:clamp(1rem,1.8vw,1.18rem);
+  line-height:1.65;
+}
+.cabecera-seccion .regla{max-width:70ch}
+.titulo-coleccion{
+  align-items:center;
+  margin-bottom:22px;
+}
+.titulo-coleccion h2{line-height:1.12}
+.cantidad{
+  min-width:126px;
+  padding:10px 16px;
+  border-radius:10px 20px 10px 20px;
+}
+.cantidad strong{font-size:38px}
+.cantidad span{font-size:10px}
+.buscador-zona,.hemeroteca-filtros{
+  padding:22px;
+  border-radius:8px 20px 8px 20px;
+}
+.buscador-zona label,.hemeroteca-filtros label{
+  margin-bottom:10px;
+  font-size:20px;
+  font-weight:700;
+}
+.buscador-zona input,.hemeroteca-filtros input{
+  min-height:58px;
+  padding:14px 17px;
+  border:1px solid #bfc8b9;
+  border-radius:10px;
+  font-size:17px;
+}
+.limpiar{min-height:50px;border-radius:10px}
+.ayuda-busqueda{font-size:13px;line-height:1.5}
+.contador,.hemeroteca-contador{
+  min-height:42px;
+  padding:10px 14px;
+  font-size:13px;
+}
+.lista-documentos,.hemeroteca-lista{gap:17px}
+.documento,.noticia{
+  padding:23px;
+  border:1px solid #ded8cb;
+  border-radius:8px 20px 8px 20px;
+  box-shadow:0 5px 16px rgba(40,54,42,.045);
+}
+.documento{border-top:4px solid #55745b}
+.noticia{border-top:4px solid #b27b5b}
+.documento-meta,.noticia-meta{
+  font-size:11px;
+  letter-spacing:.045em;
+  line-height:1.5;
+}
+.documento-titulo,.noticia h3{
+  max-width:36ch;
+  margin-bottom:11px;
+  font-size:clamp(1.3rem,2vw,1.55rem);
+  line-height:1.22;
+  letter-spacing:-.015em;
+  text-wrap:pretty;
+}
+.documento-firma{
+  font-size:13px;
+  line-height:1.55;
+}
+.documento-descripcion,.noticia p{
+  max-width:var(--librio-lectura);
+  font-size:14px;
+  line-height:1.72;
+}
+.documento-tematica{font-size:13px;line-height:1.6}
+.documento-acciones{gap:10px;margin-top:5px}
+.accion{
+  min-height:48px;
+  padding:12px 17px;
+  border-radius:9px;
+  font-size:14px;
+  line-height:1.35;
+}
+.documento-detalle,.noticia-detalle{
+  margin-top:15px;
+  border-radius:9px 15px 9px 15px;
+}
+.documento-detalle summary,.noticia-detalle summary{
+  min-height:42px;
+  font-size:13px;
+}
+.documento-detalle p,.noticia-detalle p{
+  font-size:12px;
+  line-height:1.7;
+}
+.grupo-titulo{
+  margin-top:22px;
+  font-size:clamp(1.7rem,3vw,2rem);
+}
+.grupo-ayuda{
+  max-width:70ch;
+  font-size:13px;
+  line-height:1.6;
+}
+.hemeroteca-anio{
+  scroll-margin-top:18px;
+}
+.seccion-hemeroteca .hemeroteca-anio{
+  margin:26px 0 2px;
+  padding:13px 18px;
+  border-left:4px solid var(--tierra);
+  border-radius:0 12px 12px 0;
+  color:#3e5143;
+  font:normal 29px/1.15 var(--serif);
+}
+.seccion-hemeroteca .noticia-etiquetas span{
+  min-height:28px;
+  padding:5px 10px;
+  font-size:11px;
+}
+.hemeroteca-nota{
+  max-width:82ch;
+  margin:25px 0 0;
+  padding:17px 19px;
+  border:1px solid #e0d7c9;
+  border-radius:8px 16px 8px 16px;
+  background:rgba(255,253,248,.78);
+  color:#59645b;
+  font-size:13px;
+  line-height:1.75;
+}
+.hemeroteca-nota a{font-weight:700}
+.pie{margin-top:35px}
+.pie-interior{
+  min-height:82px;
+  gap:12px 24px;
+  font-size:12px;
+  line-height:1.5;
+}
+.pie-interior a{color:#f1dfbd}
+.estado{
+  padding:32px 22px;
+  border-radius:9px 18px 9px 18px;
+  font-size:15px;
+  line-height:1.65;
+}
+.estado strong{font-size:23px}
+.sin-script{
+  margin:20px auto;
+  width:min(100% - 32px,700px);
+  padding:16px;
+  border:1px solid #c8b99d;
+  border-radius:9px;
+  background:#fffdf8;
+  color:#4b554b;
+}
+@media(max-width:760px){
+  .contenedor{width:min(100% - 34px,680px)}
+  .inicio-presentacion{padding:32px 27px}
+  .puertas-principales{grid-template-columns:1fr;gap:12px}
+  .puertas-principales .puerta{
+    min-height:150px;
+    padding:22px;
+  }
+  .puertas-principales .puerta-numero{top:18px;left:22px}
+  .puertas-principales .puerta-titulo{font-size:31px}
+  .puertas-principales .puerta-ayuda{font-size:14px}
+  .cabecera-seccion{margin:22px 0;padding:28px 24px}
+  .lista-documentos,.hemeroteca-lista{grid-template-columns:1fr}
+  .documento,.noticia{padding:21px}
+  .buscador-zona,.hemeroteca-filtros{padding:18px}
+}
+@media(max-width:520px){
+  body{font-size:16px}
+  .contenedor{width:calc(100% - 28px)}
+  .encabezado-interior{min-height:72px}
+  .marca-dibujo{width:41px;height:41px}
+  .marca strong{font-size:21px}
+  .marca small{max-width:230px;font-size:10px}
+  .inicio-presentacion{margin-top:18px;padding:27px 20px}
+  .inicio-presentacion h1{font-size:clamp(2.25rem,11vw,3.15rem)}
+  .inicio-presentacion .bajada{font-size:16px}
+  .foto-portada{margin:7px 0 19px}
+  .foto-portada img{height:clamp(175px,57vw,245px)}
+  .foto-portada figcaption{display:block;font-size:10px}
+  .foto-portada figcaption span{display:block}
+  .foto-portada figcaption span+span{margin-top:5px;line-height:1.55}
+  .puertas-principales .puerta{min-height:142px;padding:20px}
+  .puertas-principales .puerta-numero{left:20px}
+  .puertas-principales .puerta-titulo{font-size:29px}
+  .puertas-principales .puerta-ayuda{max-width:30ch;font-size:13px}
+  .titulo-coleccion{align-items:flex-start;flex-direction:row;gap:10px}
+  .titulo-coleccion h2{font-size:29px}
+  .cantidad{min-width:90px;padding:8px 10px}
+  .cantidad strong{font-size:29px}
+  .cantidad span{font-size:9px}
+  .buscador-zona,.hemeroteca-filtros{padding:15px}
+  .buscador-zona label,.hemeroteca-filtros label{font-size:18px}
+  .buscador-zona input,.hemeroteca-filtros input{min-height:54px;font-size:16px}
+  .documento,.noticia{padding:18px 16px}
+  .documento-titulo,.noticia h3{font-size:22px}
+  .documento-descripcion,.noticia p{font-size:14px;line-height:1.7}
+  .documento-acciones{display:grid;grid-template-columns:1fr}
+  .accion{width:100%;min-height:50px}
+  .pie-interior{align-items:flex-start;flex-direction:column;justify-content:center;padding-block:18px}
+}
+@media(max-width:350px){
+  .contenedor{width:calc(100% - 22px)}
+  .marca small{max-width:190px}
+  .titulo-coleccion{gap:6px}
+  .titulo-coleccion h2{font-size:26px}
+  .cantidad{min-width:78px;padding:7px 8px}
+  .cantidad strong{font-size:26px}
+  .cantidad span{max-width:45px}
+  .buscador-fila{gap:5px}
+  .limpiar{min-width:66px;padding-inline:8px}
+}
+@media(prefers-contrast:more){
+  :root{--suave:#4b554d;--linea:#aaa493}
+  .documento,.noticia,.puerta,.cabecera-seccion{border-color:#8f9488}
+  .documento-descripcion,.noticia p,.ayuda-busqueda{color:#303a32}
+  .accion{border:2px solid #203b2b}
+}
+@media(prefers-reduced-motion:reduce){
+  .puerta-entrada span{transition:none}
+}
+@media print{
+  @page{size:auto;margin:16mm 14mm}
+  html,body{background:#fff!important;color:#111!important;font-size:10.5pt;line-height:1.45}
+  body{background-image:none!important}
+  .contenedor{width:100%;max-width:none}
+  .encabezado,.presentacion,.puertas,.buscador-zona,.hemeroteca-filtros,
+  .contador,.hemeroteca-contador,.pie,.salto,.limpiar,.reintentar{display:none!important}
+  .pagina-seccion{padding:0}
+  .cabecera-seccion{
+    display:block!important;
+    margin:0 0 10mm;
+    padding:0 0 5mm;
+    border:0;
+    border-bottom:2px solid #555;
+    border-radius:0;
+    background:#fff;
+    box-shadow:none;
+  }
+  .cabecera-seccion .lugar{color:#333}
+  .cabecera-seccion h1{font-size:26pt}
+  .cabecera-seccion .bajada,.cabecera-seccion .regla{font-size:10pt}
+  .coleccion,.hemeroteca{padding:0;border:0}
+  .titulo-coleccion{margin:0 0 5mm}
+  .titulo-coleccion h2{font-size:19pt}
+  .cantidad{min-width:0;padding:0;border:0;background:#fff;box-shadow:none}
+  .cantidad strong{font-size:18pt}
+  .lista-documentos,.hemeroteca-lista{display:block}
+  .grupo-titulo,.hemeroteca-anio{
+    break-after:avoid;
+    margin:7mm 0 2mm;
+    padding:0 0 2mm;
+    border-bottom:1px solid #999;
+    background:#fff!important;
+    color:#111;
+  }
+  .grupo-ayuda{margin-bottom:3mm;color:#333}
+  .documento,.noticia{
+    display:block;
+    margin:0 0 5mm;
+    padding:4mm;
+    border:1px solid #aaa;
+    border-radius:0;
+    background:#fff;
+    box-shadow:none;
+    break-inside:avoid;
+    color:#111;
+  }
+  .documento-titulo,.noticia h3{color:#111;font-size:15pt}
+  .documento-meta,.noticia-meta,.documento-firma,.documento-descripcion,.noticia p{color:#222}
+  .documento-acciones{display:block}
+  .accion{
+    display:inline;
+    width:auto;
+    min-height:0;
+    padding:0;
+    border:0;
+    background:none!important;
+    color:#111!important;
+    text-decoration:underline;
+    font-size:9pt;
+  }
+  .accion:after{
+    content:" (" attr(href) ")";
+    display:block;
+    margin:1mm 0 0;
+    color:#333;
+    font-size:8pt;
+    font-weight:400;
+    overflow-wrap:anywhere;
+  }
+  .documento-detalle,.noticia-detalle{
+    display:block;
+    padding:2mm 0 0;
+    border:0;
+    background:#fff;
+  }
+  .documento-detalle summary,.noticia-detalle summary{display:none}
+  .documento-detalle p,.noticia-detalle p{font-size:8.5pt;color:#222}
+  .documento-imagen,.noticia-imagen{break-inside:avoid}
+  .documento-imagen img,.noticia-imagen img{max-height:65mm;object-fit:contain}
+  .nota-biblioteca,.hemeroteca-nota{
+    display:block!important;
+    margin-top:5mm;
+    padding:3mm;
+    border:1px solid #aaa;
+    background:#fff;
+    color:#111;
+    font-size:9pt;
+  }
+  a{color:#111}
+}
