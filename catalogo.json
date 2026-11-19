@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 26,
+  "version": 27,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -1929,6 +1929,190 @@
         "producción agrícola",
         "PROSAP"
       ]
+    },
+    {
+      "id": "boletin-neuquen-consorcio-riego-chanar-asamblea-2001",
+      "titulo": "Consorcio de Riego y Drenaje El Chañar · convocatoria a Asamblea General Ordinaria",
+      "autoria": "Consorcio de Riego y Drenaje El Chañar",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2001-08-03",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Historia del riego, organización de regantes y administración comunitaria",
+      "descripcion": "Convocatoria publicada en el Boletín Oficial provincial para una Asamblea General Ordinaria prevista para el 25 de agosto de 2001. El aviso identifica al Consorcio de Riego y Drenaje El Chañar y su local de calle Pehuén s/n, en San Patricio del Chañar. Es una referencia directa para reconstruir la vida institucional del consorcio a comienzos de los años 2000; no es el acta de la asamblea ni contiene por sí sola sus resultados.",
+      "formato": "Página web",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/BoletinDetalle?Id=258",
+      "urlFicha": "https://infoleg.neuquen.gov.ar/BoletinDetalle?Id=258",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar Boletín Oficial",
+      "autorizacion": {
+        "estado": "enlace_a_publicacion_oficial",
+        "base": "Se enlaza el registro de la publicación oficial provincial; LIBRITO no reproduce el aviso.",
+        "referencia": "Boletín Oficial de la Provincia del Neuquén, 3 de agosto de 2001."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, índice oficial, aviso del 03-08-2001.",
+      "integridad": "El resultado del índice oficial permite identificar fecha, institución, sede y fecha prevista de asamblea. La ficha directa presentó un error de acceso durante esta consulta; pendiente de revalidación."
+    },
+    {
+      "id": "boletin-neuquen-camara-productores-asamblea-2008",
+      "titulo": "Cámara de Productores Agropecuarios de San Patricio del Chañar · convocatoria y balances 2006–2007",
+      "autoria": "Cámara de Productores Agropecuarios de San Patricio del Chañar",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2008-05-09",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Historia productiva, organización de productores y memoria institucional",
+      "descripcion": "Convocatoria a Asamblea General Ordinaria para el 7 de junio de 2008 en el local del Consorcio de Riego y Drenaje El Chañar, calle Pehuén s/n. El orden del día incluye la consideración de memorias, balances, cuadros de resultados y anexos de los ejercicios cerrados al 31 de julio de 2006 y 2007, además de la renovación de autoridades. El aviso permite identificar integrantes de la comisión saliente, pero no contiene los balances ni el acta de la reunión.",
+      "formato": "Página web",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/BoletinDetalle?Id=618",
+      "urlFicha": "https://infoleg.neuquen.gov.ar/BoletinDetalle?Id=618",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar Boletín Oficial",
+      "autorizacion": {
+        "estado": "enlace_a_publicacion_oficial",
+        "base": "Se enlaza la referencia del Boletín Oficial provincial; LIBRITO conserva metadatos y descripción propia.",
+        "referencia": "Boletín Oficial de la Provincia del Neuquén, 9 de mayo de 2008."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, aviso publicado el 09-05-2008.",
+      "integridad": "Contenido identificado en el índice oficial, incluido el orden del día y la nómina de autoridades salientes. La ficha directa no respondió durante la consulta."
+    },
+    {
+      "id": "neuquen-convenio-14103-2010-sede-camara-consorcio",
+      "titulo": "Convenio 14103/2010 · compromiso para la nueva sede de la Cámara de Productores y el Consorcio de Riego",
+      "autoria": "Gobierno de la Provincia del Neuquén y Cámara de Productores Agropecuarios del Chañar",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén · registro de convenios",
+      "fecha": "2010-06-03",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Organización productiva, infraestructura institucional y Consorcio de Riego",
+      "descripcion": "Registro oficial del Convenio N.º 14103/2010, fechado el 3 de junio de 2010, referido a la obra de una nueva sede para la Cámara de Productores Agropecuarios de San Patricio del Chañar y el Consorcio de Riego y Drenaje El Chañar. La referencia describe un acta compromiso entre el Gobierno provincial y la Cámara, representada por su presidente Juan Carmelo D’Amato, para gestionar un aporte destinado a la primera etapa de la sede. El objeto de la obra menciona a ambas instituciones, pero el registro identifica como parte institucional a la Cámara; no debe inferirse que el Consorcio firmó el acta.",
+      "formato": "Página web",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/LeyesDecretosDetalle?Id=411746",
+      "urlFicha": "https://infoleg.neuquen.gov.ar/LeyesDecretosDetalle?Id=411746",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar registro oficial",
+      "autorizacion": {
+        "estado": "enlace_a_publicacion_oficial",
+        "base": "Se enlaza el registro oficial del convenio; LIBRITO no reproduce el documento.",
+        "referencia": "Convenio N.º 14103/2010, registro de la Provincia del Neuquén, 03-06-2010."
+      },
+      "procedencia": "Base oficial de Leyes, Decretos y Convenios de la Provincia del Neuquén.",
+      "integridad": "La ficha indexada permite recuperar número, fecha, objeto y referencia de las partes. El acceso directo presentó un error temporal; pendiente obtener y cotejar el PDF íntegro y sus anexos."
+    },
+    {
+      "id": "neuquen-decreto-2331-2018-consorcio-riego-chanar",
+      "titulo": "Decreto 2331/2018 · convenio de mantenimiento del sistema de riego de El Chañar",
+      "autoria": "Poder Ejecutivo de la Provincia del Neuquén",
+      "institucion": "Provincia del Neuquén · Subsecretaría de Recursos Hídricos",
+      "fecha": "2018-12-19",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Consorcio de Riego, canales, compuertas, drenajes y EPET N.º 3",
+      "descripcion": "Decreto provincial que aprueba un convenio con el Consorcio de Riego y Drenaje El Chañar y otorga un aporte no reintegrable de $300.000 para reparar y reemplazar compuertas de canales primarios y secundarios y limpiar el desagüe lindero a la EPET N.º 3. El expediente administrativo citado es 8820-001182/18. La norma describe tres compuertas del canal principal, dos de derivadores secundarios y un desagüe de aproximadamente 2.300 metros. El anexo publicado conserva campos en blanco para la fecha de firma y la identificación del presidente del Consorcio; esos datos no deben completarse por inferencia.",
+      "formato": "Página web",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/LeyesDecretosDetalle?Id=391536",
+      "urlFicha": "https://infoleg.neuquen.gov.ar/LeyesDecretosDetalle?Id=391536",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar decreto y anexo",
+      "autorizacion": {
+        "estado": "enlace_a_norma_publica",
+        "base": "Se enlaza el texto de una norma oficial provincial y su anexo; LIBRITO no aloja una copia.",
+        "referencia": "Decreto provincial 2331/2018, Boletín Oficial N.º 3668."
+      },
+      "procedencia": "Base oficial de Leyes y Decretos de la Provincia del Neuquén; Decreto 2331, 19-12-2018.",
+      "integridad": "El índice oficial expone el texto del decreto y el anexo de convenio. El acceso automatizado a la ficha directa fue intermitente; pendiente descargar y cotejar el ejemplar oficial."
+    },
+    {
+      "id": "neuquen-decreto-172-2019-escuelas-primarias-chanar",
+      "titulo": "Decreto 172/2019 · cargos docentes para las escuelas primarias 273 y 364",
+      "autoria": "Poder Ejecutivo de la Provincia del Neuquén · Consejo Provincial de Educación",
+      "institucion": "Provincia del Neuquén · Ministerio de Educación",
+      "fecha": "2019-02-13",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Historia escolar, Escuela Primaria 273, Escuela Primaria 364 y Distrito Escolar VI",
+      "descripcion": "Decreto provincial del 13 de febrero de 2019 que crea 55 cargos en escuelas primarias de la provincia para el ciclo lectivo 2019. Su anexo identifica expresamente a la Escuela Primaria N.º 273 de San Patricio del Chañar, con un cargo de maestro de grado-maestro de apoyo, y a la Escuela Primaria N.º 364 de la localidad, con un cargo de maestro secretario. Es documentación administrativa útil para reconstruir la evolución de las plantas funcionales; no es una reseña histórica ni un registro de matrícula.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/Decretos/2019/d_0172_2019.pdf",
+      "urlFicha": "https://infoleg.neuquen.gov.ar/Decretos/2019/d_0172_2019.pdf",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar decreto completo",
+      "autorizacion": {
+        "estado": "enlace_a_norma_publica",
+        "base": "Se enlaza el decreto provincial publicado oficialmente; LIBRITO no redistribuye el PDF.",
+        "referencia": "Decreto 0172/2019, Provincia del Neuquén, 13-02-2019."
+      },
+      "procedencia": "Portal oficial InfoLeg de la Provincia del Neuquén, colección de decretos 2019.",
+      "integridad": "PDF oficial abierto y texto completo consultado. Las menciones a las escuelas locales se encuentran en el anexo único."
+    },
+    {
+      "id": "neuquen-decreto-1272-2022-cpem31-planta-funcional",
+      "titulo": "Decreto 1272/2022 · cargos auxiliares para el CPEM N.º 31",
+      "autoria": "Poder Ejecutivo de la Provincia del Neuquén · Consejo Provincial de Educación",
+      "institucion": "Provincia del Neuquén · Ministerio de Educación",
+      "fecha": "2022-06-29",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Historia educativa, CPEM N.º 31 y funcionamiento institucional",
+      "descripcion": "Decreto provincial que convalida lo actuado por el Consejo Provincial de Educación mediante Resolución 0661/2022 y crea, desde el 26 de mayo de 2022, seis cargos de auxiliares de servicio para el CPEM N.º 31 de San Patricio del Chañar. El texto cita el expediente electrónico EX-2022-00387060-NEU-DESP#CED y recuerda que la planta funcional había sido fijada en trece cargos en 2007. Es una fuente administrativa para seguir la evolución del establecimiento, no un documento fundacional.",
+      "formato": "Página web",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/LeyesDecretosDetalle?Id=414685",
+      "urlFicha": "https://infoleg.neuquen.gov.ar/LeyesDecretosDetalle?Id=414685",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar decreto",
+      "autorizacion": {
+        "estado": "enlace_a_norma_publica",
+        "base": "Se enlaza una norma provincial publicada oficialmente; LIBRITO conserva metadatos y descripción propia.",
+        "referencia": "Decreto 1272/2022, Boletín Oficial N.º 4054."
+      },
+      "procedencia": "Base oficial de Leyes y Decretos de la Provincia del Neuquén.",
+      "integridad": "La ficha oficial indexada contiene el texto del decreto y la referencia al expediente electrónico. La ficha directa presentó errores temporales durante esta consulta."
+    },
+    {
+      "id": "neuquen-decreto-2636-2022-epea3-planta-funcional",
+      "titulo": "Decreto 2636/2022 · cargos y planta funcional de la EPEA N.º 3",
+      "autoria": "Poder Ejecutivo de la Provincia del Neuquén · Consejo Provincial de Educación",
+      "institucion": "Provincia del Neuquén · Ministerio de Educación",
+      "fecha": "2022-12-29",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Historia escolar, educación agrotécnica y EPEA N.º 3",
+      "descripcion": "Decreto provincial que convalida la Resolución 1336/22 del Consejo Provincial de Educación y crea, desde el 28 de octubre de 2022, tres cargos de auxiliar de servicio para la Escuela Provincial de Enseñanza Agrotécnica N.º 3 de San Patricio del Chañar. El expediente electrónico citado es EX-2022-00351698-NEU-DESP#CED. Los considerandos registran necesidades vinculadas con el comedor y la jornada extendida, además de la planta funcional aprobada en 2019. Es documentación administrativa y no una historia institucional completa.",
+      "formato": "Página web",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/LeyesDecretosDetalle?Id=416696",
+      "urlFicha": "https://infoleg.neuquen.gov.ar/LeyesDecretosDetalle?Id=416696",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar decreto",
+      "autorizacion": {
+        "estado": "enlace_a_norma_publica",
+        "base": "Se enlaza una norma provincial publicada oficialmente; LIBRITO no aloja ni reproduce el texto.",
+        "referencia": "Decreto 2636/2022, Boletín Oficial N.º 4115."
+      },
+      "procedencia": "Base oficial de Leyes y Decretos de la Provincia del Neuquén.",
+      "integridad": "La ficha oficial indexada expone los considerandos y el expediente electrónico. La ficha directa presentó error temporal durante esta consulta."
+    },
+    {
+      "id": "boletin-neuquen-camara-productores-asamblea-2024",
+      "titulo": "Cámara de Productores Agropecuarios del Chañar · convocatoria a asamblea de 2024",
+      "autoria": "Cámara de Productores Agropecuarios del Chañar",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2024-03-22",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Historia productiva, memoria institucional, balances y autoridades de la Cámara",
+      "descripcion": "Convocatoria publicada en la edición 4275 del Boletín Oficial provincial para una Asamblea General Ordinaria prevista el 3 de abril de 2024 en la sede de calle Pehuén s/n. Identifica a la Cámara como entidad con personería jurídica otorgada por Decreto 3647/97 y propone tratar la memoria y el balance del ejercicio cerrado el 31 de julio de 2023, además de la elección de integrantes de la Comisión Administradora y revisores de cuentas. El aviso no contiene la memoria, el balance ni el acta de la asamblea.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/Boletines/bole-FIRMADO-240322-4275.pdf",
+      "urlFicha": "https://infoleg.neuquen.gov.ar/Boletines/bole-FIRMADO-240322-4275.pdf",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar Boletín Oficial completo",
+      "autorizacion": {
+        "estado": "enlace_a_publicacion_oficial",
+        "base": "Se enlaza la edición oficial del Boletín Oficial provincial; LIBRITO no aloja una copia.",
+        "referencia": "Boletín Oficial de la Provincia del Neuquén, edición 4275, 22-03-2024, página 54."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, edición 4275, página 54.",
+      "integridad": "PDF oficial completo abierto y texto de la convocatoria localizado en la página 54."
     }
   ]
 }
