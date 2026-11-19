@@ -1439,6 +1439,94 @@
       },
       "procedencia": "Programa de Fortalecimiento Institucional de la Subsecretaría de Planificación Territorial de la Inversión Pública · publicación realizada con financiamiento de CAF Banco de Desarrollo de América Latina.",
       "integridad": "PDF institucional completo; se verificaron portada, fecha, equipo técnico y apartado dedicado al Plan de Ordenamiento y Desarrollo Urbano de San Patricio del Chañar."
+    },
+    {
+      "id": "regione-marche-attilio-gasparri-memoria-familiar",
+      "titulo": "Atilio Gasparri, el inmigrante que sembró el desierto",
+      "autoria": "Relato biográfico familiar publicado en el marco de Marchigiani nel Mondo; autoría individual no identificada en la ficha consultada",
+      "institucion": "Regione Marche · progetto Marchigiani nel Mondo",
+      "fecha": "2019-2020",
+      "categoria": "Historia y memoria",
+      "tematica": "Campofilone, emigración italiana, familia Gasparri, memoria migratoria, Gasparri Hnos. y fundación de San Patricio del Chañar",
+      "descripcion": "Publicación institucional de la Región de Las Marcas dedicada a Attilio Patrizio Gasparri, nacido en Campofilone en 1897 según el propio relato. Reúne fotografías familiares e imágenes históricas de la empresa Gasparri Hnos., la chacra La Juana, el establecimiento frutícola y San Patricio del Chañar. El texto vincula expresamente a Atilio y a su sobrino Roberto con el proyecto chañarense y menciona la adquisición de tierras en 1968 y la donación de hectáreas para el pueblo en 1973. Se incorpora como memoria familiar publicada por una institución regional italiana, no como registro civil ni investigación histórica independiente.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://static.regione.marche.it/portals/0/Marchigiani_nel_Mondo/Documenti/Atilio_Gasparri.pdf",
+      "estado": "Disponible en origen",
+      "accionExterna": "Leer publicación original",
+      "autorizacion": {
+        "estado": "enlace_a_publicacion_institucional",
+        "base": "Se enlaza el PDF publicado por Regione Marche. Las fotografías y el texto permanecen bajo la titularidad y condiciones de sus responsables; LIBRITO no descarga, copia ni redistribuye el archivo.",
+        "referencia": "Regione Marche, Marchigiani nel Mondo, Atilio Gasparri, el inmigrante que sembró el desierto."
+      },
+      "procedencia": "Regione Marche, portal Marchigiani nel Mondo. Publicación biográfica de memoria familiar con fotografías históricas.",
+      "integridad": "PDF consultado. Incluye secciones sobre Campofilone, viaje a Argentina, familia Gasparri, Gasparri Hnos. y San Patricio del Chañar. El propio texto presenta datos de migración que no coinciden plenamente con otras reseñas locales; LIBRITO no unifica esas versiones sin documentación primaria."
+    },
+    {
+      "id": "legislatura-neuquen-catalogo-roberto-gasparri-el-visionario",
+      "titulo": "Roberto Gasparri: El visionario · registro bibliográfico de la Biblioteca de la Legislatura",
+      "autoria": "Javier Avena",
+      "institucion": "Biblioteca de la Honorable Legislatura de la Provincia del Neuquén",
+      "fecha": "2009",
+      "categoria": "Libros y publicaciones",
+      "tematica": "Biografía, historia local, fruticultura, pioneros y desarrollo de San Patricio del Chañar",
+      "descripcion": "Registro bibliográfico institucional del libro Roberto Gasparri: El visionario, escrito por Javier Avena y publicado en San Patricio del Chañar en 2009. La ficha informa una extensión de 202 páginas y describe la obra como una biografía del empresario e impulsor de la colonia agrícola local. La Biblioteca de la Legislatura consigna un ejemplar en su colección Patagónica. Se incorpora como referencia para localizar y consultar el libro; no se ofrece una descarga del texto.",
+      "formato": "Ficha de catálogo bibliográfico",
+      "acceso": "ficha",
+      "urlOriginal": "https://www.legislaturaneuquen.gob.ar/BibliotecaCatalogoLibro?libro=2808",
+      "estado": "Ficha bibliográfica disponible",
+      "accionExterna": "Consultar catálogo bibliográfico",
+      "autorizacion": {
+        "estado": "enlace_a_catalogo",
+        "base": "Se enlaza únicamente el registro de catálogo de la Biblioteca de la Legislatura; no se reproduce ni distribuye el libro.",
+        "referencia": "Biblioteca de la Honorable Legislatura del Neuquén, registro de Roberto Gasparri: El visionario."
+      },
+      "procedencia": "Catálogo público de la Biblioteca de la Honorable Legislatura de la Provincia del Neuquén.",
+      "integridad": "Ficha consultada: autor, título, lugar y año de publicación, extensión, temas y ubicación de colección identificados."
+    },
+    {
+      "id": "legislatura-neuquen-version-taquigrafica-libro-visionario-2021",
+      "titulo": "Versión taquigráfica de la Legislatura · Declaración municipal de interés del libro El Visionario",
+      "autoria": "Honorable Legislatura de la Provincia del Neuquén",
+      "institucion": "Honorable Legislatura de la Provincia del Neuquén",
+      "fecha": "2021-03-10",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Memoria local, libro El Visionario, Roberto Gasparri y reconocimiento institucional",
+      "descripcion": "Versión taquigráfica de la primera sesión ordinaria del 10 de marzo de 2021. En el apartado de comunicaciones oficiales registra que el Concejo Deliberante de San Patricio del Chañar remitió la Declaración 08/20, por la cual se declaró de interés municipal el libro El Visionario, de Javier Avena, dedicado a Roberto Gasparri y a la historia de la colonia frutícola local. Es un registro legislativo de la comunicación recibida, no el texto íntegro de la Declaración 08/20.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://www.legislaturaneuquen.gob.ar/SVRFILES/hln/documentos/VerTaqui/L/Reunion3.pdf",
+      "estado": "Disponible en origen",
+      "accionExterna": "Abrir versión taquigráfica",
+      "autorizacion": {
+        "estado": "enlace_a_documento_publico",
+        "base": "Se enlaza la versión taquigráfica publicada por la Legislatura provincial; LIBRITO no reproduce el documento íntegro.",
+        "referencia": "L Período Legislativo, 1.ª Sesión Ordinaria, Reunión 3, 10 de marzo de 2021, apartado de comunicaciones oficiales."
+      },
+      "procedencia": "Honorable Legislatura de la Provincia del Neuquén · Versión taquigráfica oficial.",
+      "integridad": "PDF consultado; la referencia al libro aparece en el apartado de comunicaciones oficiales, páginas impresas 64-65."
+    },
+    {
+      "id": "boletin-neuquen-cooperadora-santisima-trinidad-2002",
+      "titulo": "Cooperadora Escolar Santísima Trinidad · convocatoria a Asamblea General Ordinaria",
+      "autoria": "Comisión Directiva de la Cooperadora Escolar Santísima Trinidad",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2002-09-06",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Escuela N.º 273, cooperadora escolar, participación comunitaria y vida institucional",
+      "descripcion": "Aviso publicado en el Boletín Oficial provincial del 6 de septiembre de 2002. La Comisión Directiva de la Cooperadora Escolar Santísima Trinidad de San Patricio del Chañar convoca a Asamblea General Ordinaria en las instalaciones de la Escuela N.º 273 e incluye el orden del día. Es una pieza breve de archivo que documenta la actividad formal de una organización escolar local en 2002; no se presenta como acta de la asamblea.",
+      "formato": "Registro de Boletín Oficial",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/BoletinDetalle?Id=317",
+      "estado": "Referencia disponible en índice oficial",
+      "accionExterna": "Consultar Boletín Oficial",
+      "autorizacion": {
+        "estado": "enlace_a_publicacion_oficial",
+        "base": "Se enlaza la ficha de la publicación oficial provincial. LIBRITO no reproduce el boletín completo.",
+        "referencia": "Boletín Oficial de la Provincia del Neuquén, 6 de septiembre de 2002, página 34."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén · índice InfoLeg provincial.",
+      "integridad": "La referencia fue localizada en el índice del Boletín Oficial; el acceso directo a la ficha presentó un error temporal durante la consulta, por lo que conviene revalidar el enlace."
     }
   ]
 }
