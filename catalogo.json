@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 36,
+  "version": 37,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -2671,6 +2671,70 @@
         "Comisión de Fomento",
         "8 de abril de 1974",
         "memoria histórica"
+      ]
+    },
+    {
+      "id": "neuquen-decreto-499-2023-consorcio-riego-obras",
+      "titulo": "Decreto provincial 499/2023 · obras y reacondicionamiento del sistema de riego",
+      "autoria": "Poder Ejecutivo de la Provincia del Neuquén",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2023-03-13",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Consorcio de Riego y Drenaje, bocatoma, canales, compuertas y mantenimiento de infraestructura hídrica",
+      "descripcion": "Texto oficial del Decreto 499/2023, que otorga un aporte no reintegrable al Consorcio de Riego y Drenaje de San Patricio del Chañar para trabajos en el canal Consorcio de Añelo, mejoramiento de la segunda etapa de la bocatoma, reparación de la compuerta de Picada 11 y retiro de embanque del canal principal. El decreto identifica expedientes administrativos y el destino de los fondos. Es una fuente primaria para documentar intervenciones públicas en el sistema de riego en 2023; no describe por sí solo el origen histórico del consorcio.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/Decretos/2023/d_0499_2023.pdf",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar decreto completo",
+      "autorizacion": {
+        "estado": "solo_referencia",
+        "base": "Se enlaza el PDF oficial del decreto provincial, sin alojar ni modificar el documento.",
+        "referencia": "Decreto provincial 499/2023, 13/03/2023; Boletín Oficial de Neuquén, edición 4146."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, texto completo de la norma.",
+      "integridad": "PDF oficial identificado por número y fecha; el texto establece el objeto de la asistencia y las obras previstas.",
+      "etiquetas": [
+        "2023",
+        "Decreto 499/2023",
+        "Consorcio de Riego",
+        "bocatoma",
+        "Picada 11",
+        "canal principal",
+        "infraestructura hídrica",
+        "obra pública"
+      ]
+    },
+    {
+      "id": "bo-neuquen-edicion-4220-normas-municipales-chanar-2023",
+      "titulo": "Boletín Oficial Nº 4220 · decretos municipales sobre suelo rural y preservación del sistema de riego",
+      "autoria": "Municipalidad de San Patricio del Chañar",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2023-11-03",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Ordenamiento territorial, suelo productivo, drenajes y protección del sistema de riego",
+      "descripcion": "Edición oficial del Boletín de Neuquén que publica, entre otras normas municipales, los Decretos 1803/2023 y 1804/2023 de San Patricio del Chañar. Sus textos regulan procedimientos de cambio de uso del suelo y reiteran la preservación del sistema de riego y drenaje local, declarado inalienable por la Ordenanza 1174/20; establecen que los desagües deben mantenerse y que el Consorcio local interviene en su mantenimiento. El documento sirve para estudiar la continuidad normativa de la protección del sistema hídrico, pero no reemplaza el texto original de la Ordenanza 1174/20 ni los archivos del Consorcio.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/Boletines/Firmado_bol231103_4220.pdf",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar Boletín Oficial completo",
+      "autorizacion": {
+        "estado": "solo_referencia",
+        "base": "Se enlaza la edición oficial completa del Boletín Oficial provincial. No se reproduce ni separa el contenido de terceros.",
+        "referencia": "Boletín Oficial de Neuquén, edición 4220, 03/11/2023, páginas 127–130."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, edición 4220.",
+      "integridad": "PDF oficial consultado. Los decretos municipales 1803/2023 y 1804/2023 aparecen en las páginas impresas 127–130.",
+      "etiquetas": [
+        "2023",
+        "Boletín Oficial 4220",
+        "Decreto 1803/2023",
+        "Decreto 1804/2023",
+        "Ordenanza 1174/20",
+        "riego y drenaje",
+        "suelo rural",
+        "ordenamiento territorial"
       ]
     }
   ]
