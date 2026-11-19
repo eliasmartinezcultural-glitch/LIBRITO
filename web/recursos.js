@@ -2,7 +2,7 @@
 "use strict";
 const input=document.querySelector("#buscador-recursos"),list=document.querySelector("#lista-recursos"),count=document.querySelector("#contador-recursos"),total=document.querySelector("#total-recursos"),category=document.querySelector("#filtro-categoria-recursos"),order=document.querySelector("#orden-recursos"),clear=document.querySelector("#limpiar-recursos");
 if(!input||!list||!count||!total||!category||!order||!clear)return;
-const norm=v=>String(v||"").toLocaleLowerCase("es").normalize("NFD").replace(/[\\u0300-\\u036f]/g,"");
+const norm=v=>String(v||"").toLocaleLowerCase("es").normalize("NFD").replace(/[\u0300-\u036f]/g,"");
 const safeUrl=v=>{try{const u=new URL(v);return ["https:","http:"].includes(u.protocol)&&!!u.hostname&&!u.username&&!u.password}catch(_){return false}};
 const el=(tag,cls,txt)=>{const n=document.createElement(tag);if(cls)n.className=cls;if(txt!==undefined)n.textContent=txt;return n};
 let resources=[];
