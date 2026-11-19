@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 50,
+  "version": 51,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -3927,7 +3927,7 @@
       "acceso": "ficha",
       "urlOriginal": "https://revistas.unal.edu.co/index.php/rcg/article/download/75960/84324?inline=1",
       "urlFicha": "https://www.argentina.gob.ar/interior/archivo-general-de-la-nacion",
-      "estado": "Referencia archivística localizada · original por consultar",
+      "estado": "Disponible en origen",
       "accionExterna": "Consultar referencia y solicitar el manuscrito",
       "autorizacion": {
         "estado": "solo_referencia",
@@ -3935,7 +3935,7 @@
         "referencia": "Archivo General de la Nación, Sala IX, División Colonia, legajo 39-5-5, expediente 1; referencia bibliográfica a Molina Basconcelos, Justo de, 1805."
       },
       "procedencia": "Signatura citada en bibliografía académica de la Universidad Nacional de Colombia; consulta pendiente en el Archivo General de la Nación.",
-      "integridad": "La signatura se verificó en la bibliografía del artículo académico. No se tuvo acceso al manuscrito original ni se verificó el itinerario completo.",
+      "integridad": "La signatura se verificó en la bibliografía del artículo académico. No se tuvo acceso al manuscrito original ni se verificó el itinerario completo. La ficha enlazada (artículo académico que cita la signatura) sí está disponible en línea; el manuscrito archivístico citado sigue pendiente de consulta.",
       "etiquetas": [
         "1805",
         "Justo Molina Vasconcellos",
@@ -4050,6 +4050,191 @@
         "Justo Molina",
         "Luis de la Cruz",
         "rutas históricas"
+      ]
+    },
+    {
+      "id": "decreto-neuquen-1043-1980-presupuesto-impositiva-chanar",
+      "titulo": "Decreto provincial 1043/1980 · autorización presupuestaria e impositiva para San Patricio del Chañar",
+      "autoria": "Poder Ejecutivo de la Provincia del Neuquén",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "1980-05-28",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Historia institucional, administración municipal y régimen impositivo local",
+      "descripcion": "Registro oficial del Decreto provincial 1043/1980, fechado el 28 de mayo de 1980. Autoriza a la Municipalidad de San Patricio del Chañar a sancionar y promulgar una Ordenanza General Impositiva para el ejercicio 1980. El portal oficial informa que el archivo PDF no se encuentra físicamente disponible; por eso esta ficha conserva la referencia normativa y no ofrece una copia inexistente.",
+      "formato": "Página oficial",
+      "acceso": "origen",
+      "urlOriginal": "https://boficial.neuquen.gov.ar/LeyesDecretosDetalle?Id=324912",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar registro oficial",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Se enlaza la ficha oficial del decreto. El portal indica que el archivo PDF no se encuentra físicamente disponible; LIBRITO no reproduce ni suplanta el original.",
+        "referencia": "Decreto provincial 1043/1980, 28-05-1980, Boletín Oficial de Neuquén."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, buscador de Leyes y Decretos.",
+      "integridad": "Se verificaron número, fecha, autoridad emisora, municipio destinatario y objeto a partir de la ficha oficial. El PDF original figura como no localizado físicamente en el portal.",
+      "etiquetas": [
+        "1980",
+        "Decreto 1043/1980",
+        "Municipalidad",
+        "presupuesto",
+        "ordenanza impositiva",
+        "historia institucional"
+      ]
+    },
+    {
+      "id": "decreto-neuquen-428-1981-presupuesto-chanar",
+      "titulo": "Decreto provincial 428/1981 · presupuesto municipal de San Patricio del Chañar",
+      "autoria": "Poder Ejecutivo de la Provincia del Neuquén",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "1981-06-25",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Historia institucional, presupuesto municipal y administración pública",
+      "descripcion": "Registro oficial del Decreto provincial 428/1981, fechado el 25 de junio de 1981. Autoriza a la Municipalidad de San Patricio del Chañar a sancionar y promulgar una ordenanza que fija el Presupuesto General para el ejercicio 1981. El sitio oficial advierte que el PDF no se encuentra físicamente disponible; se conserva la referencia catalográfica sin afirmar que se dispone del texto íntegro.",
+      "formato": "Página oficial",
+      "acceso": "origen",
+      "urlOriginal": "https://boficial.neuquen.gov.ar/LeyesDecretosDetalle?Id=321728",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar registro oficial",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Se enlaza la ficha oficial del decreto. No se aloja ni reconstruye el PDF ausente.",
+        "referencia": "Decreto provincial 428/1981, 25-06-1981, Boletín Oficial de Neuquén."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, buscador de Leyes y Decretos.",
+      "integridad": "Se verificaron número, fecha, municipio destinatario y objeto del decreto en la ficha oficial. El portal indica que el archivo PDF no se encuentra físicamente disponible.",
+      "etiquetas": [
+        "1981",
+        "Decreto 428/1981",
+        "presupuesto municipal",
+        "Municipalidad",
+        "historia institucional"
+      ]
+    },
+    {
+      "id": "decreto-neuquen-2327-1982-subsidio-club-san-patricio",
+      "titulo": "Decreto provincial 2327/1982 · subsidio al Club Atlético San Patricio del Chañar",
+      "autoria": "Poder Ejecutivo de la Provincia del Neuquén",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "1982-10-26",
+      "categoria": "Cultura y patrimonio",
+      "tematica": "Historia del deporte local, asociacionismo, infraestructura comunitaria y club Atlético San Patricio",
+      "descripcion": "Registro oficial del Decreto provincial 2327/1982, fechado el 26 de octubre de 1982. Otorga un subsidio al Club Atlético San Patricio del Chañar destinado a adquirir materiales de construcción para continuar y terminar el salón sede. Es una referencia primaria de la historia institucional y edilicia del club. El portal informa que el PDF no se encuentra físicamente disponible; la ficha no sustituye al expediente ni al decreto íntegro.",
+      "formato": "Página oficial",
+      "acceso": "origen",
+      "urlOriginal": "https://boficial.neuquen.gov.ar/LeyesDecretosDetalle?Id=320141",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar registro oficial",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Se enlaza la ficha oficial del decreto. El PDF no figura físicamente disponible y no se reproduce una copia.",
+        "referencia": "Decreto provincial 2327/1982, 26-10-1982, Boletín Oficial de Neuquén."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, buscador de Leyes y Decretos.",
+      "integridad": "Se verificaron número, fecha, beneficiario y finalidad del subsidio en la ficha oficial. El archivo PDF se informa como no encontrado físicamente.",
+      "etiquetas": [
+        "1982",
+        "Decreto 2327/1982",
+        "Club Atlético San Patricio del Chañar",
+        "deporte",
+        "salón sede",
+        "subsidio",
+        "historia local"
+      ]
+    },
+    {
+      "id": "decreto-neuquen-4148-1987-desagues-cloacales-chanar",
+      "titulo": "Decreto provincial 4148/1987 · proyecto de desagües cloacales y laguna de tratamiento",
+      "autoria": "Poder Ejecutivo de la Provincia del Neuquén",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "1987-11-03",
+      "categoria": "Infraestructura y servicios",
+      "tematica": "Historia sanitaria, infraestructura urbana, saneamiento y servicios públicos",
+      "descripcion": "Registro oficial del Decreto provincial 4148/1987, fechado el 3 de noviembre de 1987. Aprueba actuaciones de la Administración Provincial del Agua referidas a la obra de desagües cloacales y laguna de tratamiento en San Patricio del Chañar. Aporta una referencia concreta para reconstruir la historia de la infraestructura sanitaria local. El portal informa que el archivo PDF no se encuentra físicamente disponible; se enlaza únicamente el registro oficial.",
+      "formato": "Página oficial",
+      "acceso": "origen",
+      "urlOriginal": "https://boficial.neuquen.gov.ar/LeyesDecretosDetalle?Id=234564",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar registro oficial",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Se enlaza la ficha normativa oficial. El portal informa que el PDF no se encuentra físicamente disponible; no se aloja una copia.",
+        "referencia": "Decreto provincial 4148/1987, 03-11-1987, Boletín Oficial de Neuquén."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, buscador de Leyes y Decretos.",
+      "integridad": "Se verificaron número, fecha, organismo interviniente, tipo de obra y localidad destinataria en la ficha oficial. El archivo PDF figura como no localizado físicamente.",
+      "etiquetas": [
+        "1987",
+        "Decreto 4148/1987",
+        "desagües cloacales",
+        "laguna de tratamiento",
+        "Administración Provincial del Agua",
+        "saneamiento",
+        "infraestructura"
+      ]
+    },
+    {
+      "id": "legislatura-neuquen-diario-sesiones-2003-municipio-primera-categoria",
+      "titulo": "San Patricio del Chañar · tratamiento legislativo de su categorización como municipio de primera categoría",
+      "autoria": "Honorable Legislatura de la Provincia del Neuquén · Dirección de Diario de Sesiones",
+      "institucion": "Honorable Legislatura de la Provincia del Neuquén",
+      "fecha": "2003",
+      "categoria": "Historia y memoria",
+      "tematica": "Historia institucional, categorización municipal, desarrollo urbano y memoria política local",
+      "descripcion": "Transcripción del Diario de Sesiones de la Legislatura provincial que registra el tratamiento del proyecto de ley para declarar a San Patricio del Chañar municipio de primera categoría (Expediente D-110/03, Proyecto 4890). Incluye fundamentos parlamentarios sobre el origen de la localidad, su fundación el 21 de mayo de 1973 y el crecimiento de la población vinculada al trabajo rural. Es una fuente primaria legislativa para estudiar cómo se debatió la jerarquía institucional del municipio; las afirmaciones históricas pronunciadas en el recinto deben contrastarse con documentación independiente.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://www.legislaturaneuquen.gob.ar/svrfiles/neuleg/DiariosSesion/DS_P_39_R217_82771.pdf?var=17",
+      "estado": "Disponible en origen",
+      "accionExterna": "Leer Diario de Sesiones",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Se enlaza la transcripción oficial del Diario de Sesiones. LIBRITO no altera ni redistribuye el documento.",
+        "referencia": "Honorable Legislatura del Neuquén, Diario de Sesiones, Expediente D-110/03, Proyecto 4890."
+      },
+      "procedencia": "Repositorio de Diarios de Sesiones de la Honorable Legislatura de la Provincia del Neuquén.",
+      "integridad": "Se verificó el pasaje del orden del día referido al proyecto de categorización municipal y el tratamiento parlamentario en el PDF oficial.",
+      "etiquetas": [
+        "2003",
+        "Legislatura del Neuquén",
+        "Expediente D-110/03",
+        "Proyecto 4890",
+        "municipio de primera categoría",
+        "historia institucional",
+        "fundación 1973"
+      ]
+    },
+    {
+      "id": "ordenanza-1217-2020-expurgo-documentacion-municipal",
+      "titulo": "Ordenanza Municipal 1217/2020 · autorización de expurgo de documentación administrativa",
+      "autoria": "Honorable Concejo Deliberante de San Patricio del Chañar",
+      "institucion": "Municipalidad de San Patricio del Chañar · Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2020-11-24",
+      "categoria": "Archivos y fuentes históricas",
+      "tematica": "Historia archivística municipal, conservación documental, expurgo y registros administrativos de 1995–2008",
+      "descripcion": "Ordenanza sancionada el 24 de noviembre de 2020 que autorizó al Ejecutivo municipal a realizar el expurgo de documentación de actos de gobierno por haber vencido los plazos de guarda precaucional y considerar que carecía de valor informativo. El texto enumera, entre otros materiales, registros de ingresos de los años 1995 a 2008. Es una fuente primaria para estudiar la historia de la administración municipal y, especialmente, la conservación y posible pérdida de documentación local. La norma no permite concluir por sí sola qué expedientes concretos fueron finalmente destruidos: para eso se necesitan actas, inventarios y constancias de ejecución.",
+      "formato": "Página oficial",
+      "acceso": "origen",
+      "urlOriginal": "https://boletinoficial.neuquen.gov.ar/BoletinDetalle?id=16",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar ordenanza en Boletín Oficial",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Se enlaza el texto oficial de la ordenanza municipal publicado en el Boletín Oficial provincial.",
+        "referencia": "Ordenanza Municipal 1217/20, San Patricio del Chañar, 24-11-2020; Boletín Oficial de Neuquén, 04-12-2020."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, publicación del 4 de diciembre de 2020.",
+      "integridad": "Se verificó el texto de la ordenanza y la enumeración de registros administrativos comprendidos. No se localizó todavía el inventario completo de documentación ni el acta final de expurgo.",
+      "etiquetas": [
+        "2020",
+        "Ordenanza 1217/20",
+        "archivo municipal",
+        "expurgo",
+        "conservación documental",
+        "registros de ingresos",
+        "1995",
+        "2008",
+        "historia administrativa"
       ]
     }
   ]
