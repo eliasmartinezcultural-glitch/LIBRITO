@@ -1,38 +1,23 @@
 (() => {
 "use strict";
-const $=s=>document.querySelector(s),buscador=$("#buscador"),lista=$("#coleccion-lista"),filtros=$("#filtros"),contador=$("#contador"),total=$("#total-documentos");
-let documentos=[],categoriaActiva="Todas",categorias=[];
+const $=s=>document.querySelector(s),buscador=$("#buscador"),lista=$("#coleccion-lista"),contador=$("#contador"),total=$("#total-documentos"),filtro=$("#filtros"),zonaFiltro=$("#filtros-zona");
+let documentos=[],categoriaActiva="Todas";
 const texto=v=>typeof v==="string"?v:"";
+const normalizar=v=>texto(v).toLocaleLowerCase("es").normalize("NFD").replace(/[\u0300-\u036f]/g,"");
 const permitido=r=>typeof r==="string"&&/^documentos\/[A-Za-z0-9._/-]+\.pdf$/i.test(r)&&!r.split("/").includes("..");
-function crear(tag,clase,contenido){const n=document.createElement(tag);if(clase)n.className=clase;if(contenido!==undefined)n.textContent=contenido;return n}
-function mostrarEstado(titulo,descripcion){lista.replaceChildren();const caja=crear("div","sin-resultados");caja.append(crear("strong","",titulo),crear("p","",descripcion));lista.append(caja)}
-function publicarFiltros(){filtros.replaceChildren();for(const categoria of ["Todas",...categorias]){const b=crear("button","filtro",categoria);b.type="button";b.setAttribute("aria-pressed",String(categoriaActiva===categoria));b.addEventListener("click",()=>{categoriaActiva=categoria;publicarFiltros();dibujar()});filtros.append(b)}}
+function nodo(tag,clase,contenido){const n=document.createElement(tag);if(clase)n.className=clase;if(contenido!==undefined)n.textContent=contenido;return n}
+function estado(titulo,detalle,reintentar=false){lista.replaceChildren();const caja=nodo("div","estado");caja.append(nodo("strong","",titulo));if(detalle)caja.append(nodo("p","",detalle));if(reintentar){const b=nodo("button","reintentar","Volver a intentar");b.type="button";b.addEventListener("click",iniciar);caja.append(b)}lista.append(caja)}
+function poblarFiltro(){const categorias=[...new Set(documentos.map(d=>texto(d.categoria)).filter(Boolean))].sort((a,b)=>a.localeCompare(b,"es"));filtro.replaceChildren();const todas=nodo("option","","Todos los temas");todas.value="Todas";filtro.append(todas);for(const c of categorias){const o=nodo("option","",c);o.value=c;filtro.append(o)}zonaFiltro.hidden=categorias.length<2}
 function tarjeta(item){
- const a=crear("article","documento"),cab=crear("div","documento-cabecera");
- cab.append(crear("span","documento-categoria",texto(item.categoria)||"Documento"),crear("span","documento-sello","ARCHIVO VERIFICADO"));a.append(cab,crear("h3","",texto(item.titulo)||"Documento sin título"));
- const datos=[texto(item.autoria),texto(item.institucion),texto(item.fecha)].filter(Boolean);a.append(crear("p","documento-datos",datos.join(" · ")));
- if(texto(item.descripcion))a.append(crear("p","documento-descripcion",item.descripcion));
- const meta=crear("div","documento-metadatos"),pag=Number.isInteger(item.paginas)&&item.paginas>0?item.paginas+(item.paginas===1?" página":" páginas"):"";
- for(const d of [texto(item.formato).toUpperCase()||"PDF",pag])if(d)meta.append(crear("span","",d));a.append(meta);
- const pie=crear("div","documento-pie"),acciones=crear("div","acciones-documento"),leer=crear("a","descarga","Leer / imprimir ↗"),descargar=crear("a","descarga descarga-principal","Descargar PDF ↓");
- leer.href=item.archivo;leer.target="_blank";leer.rel="noopener noreferrer";leer.setAttribute("aria-label","Abrir para leer e imprimir: "+texto(item.titulo));
- descargar.href=item.archivo;descargar.setAttribute("download","");descargar.setAttribute("aria-label","Descargar: "+texto(item.titulo));acciones.append(leer,descargar);pie.append(acciones);a.append(pie);
- const detalle=crear("details","documento-detalle");detalle.append(crear("summary","","Procedencia y créditos"));
- const base=item.autorizacion&&texto(item.autorizacion.base),lineas=[texto(item.procedencia)&&"Procedencia: "+item.procedencia,texto(item.integridad)&&"Integridad: "+item.integridad,base&&"Publicación: "+base].filter(Boolean);
- for(const l of lineas)detalle.append(crear("p","",l));if(lineas.length)a.append(detalle);return a;
+ const card=nodo("article","documento");card.append(nodo("h3","",texto(item.titulo)||"Documento"));
+ const datos=[texto(item.autoria),texto(item.institucion),texto(item.fecha).slice(0,4)].filter(Boolean);if(datos.length)card.append(nodo("p","documento-datos",datos.join(" · ")));
+ if(texto(item.descripcion))card.append(nodo("p","documento-descripcion",item.descripcion));
+ const pistas=nodo("div","documento-pistas");for(const dato of [texto(item.formato).toUpperCase()||"PDF",Number.isInteger(item.paginas)&&item.paginas>0?item.paginas+(item.paginas===1?" página":" páginas"):"",texto(item.categoria)])if(dato)pistas.append(nodo("span","",dato));if(pistas.childNodes.length)card.append(pistas);
+ const acciones=nodo("div","documento-acciones"),leer=nodo("a","accion accion-leer","Leer e imprimir"),bajar=nodo("a","accion accion-descargar","Descargar PDF");
+ leer.href=item.archivo;leer.setAttribute("aria-label","Leer e imprimir: "+texto(item.titulo));bajar.href=item.archivo;bajar.setAttribute("download","");bajar.setAttribute("aria-label","Descargar PDF: "+texto(item.titulo));acciones.append(leer,bajar);card.append(acciones);
+ const detalle=nodo("details","documento-detalle");detalle.append(nodo("summary","","Datos y procedencia"));const lineas=[texto(item.procedencia)&&"Procedencia: "+item.procedencia,texto(item.integridad)&&"Archivo: "+item.integridad,item.autorizacion&&texto(item.autorizacion.base)&&"Condiciones: "+item.autorizacion.base].filter(Boolean);for(const l of lineas)detalle.append(nodo("p","",l));if(lineas.length)card.append(detalle);return card;
 }
-function dibujar(){
- const termino=texto(buscador.value).trim().toLocaleLowerCase("es");
- const resultados=documentos.filter(item=>{const cat=categoriaActiva==="Todas"||item.categoria===categoriaActiva;const indice=[item.titulo,item.autoria,item.institucion,item.tematica,item.descripcion,item.categoria,...(Array.isArray(item.etiquetas)?item.etiquetas:[])].map(texto).join(" ").toLocaleLowerCase("es");return cat&&indice.includes(termino)});
- contador.textContent=resultados.length+(resultados.length===1?" documento disponible":" documentos disponibles");lista.replaceChildren();
- if(!resultados.length){mostrarEstado(documentos.length?"No encontramos coincidencias":"La colección está en preparación",documentos.length?"Probá con otras palabras o elegí otra categoría.":"Publicamos únicamente documentos completos, legibles y autorizados.");return}
- for(const item of resultados)lista.append(tarjeta(item));
-}
-async function iniciar(){try{
- const ruta=location.pathname.includes("/web/")?"../catalogo.json":"catalogo.json",r=await fetch(ruta,{cache:"no-store"});if(!r.ok)throw new Error("HTTP "+r.status);
- const catalogo=await r.json();if(!catalogo||!Array.isArray(catalogo.documentos))throw new Error("Catálogo inválido");
- documentos=catalogo.documentos.filter(i=>i&&i.estado==="Publicado"&&permitido(i.archivo)&&i.formato==="PDF"&&i.autorizacion&&i.autorizacion.estado==="confirmada");
- categorias=[...new Set(documentos.map(i=>texto(i.categoria)).filter(Boolean))].sort((a,b)=>a.localeCompare(b,"es"));if(total)total.textContent=String(documentos.length).padStart(2,"0");publicarFiltros();dibujar();
- }catch(e){contador.textContent="No se pudo cargar el catálogo.";if(total)total.textContent="—";mostrarEstado("El archivo no está disponible","Volvé a intentarlo más tarde. No mostramos documentos si no podemos verificar el catálogo.");console.error("Biblioteca Digital Chañarense:",e)}}
-buscador.addEventListener("input",dibujar);document.addEventListener("keydown",e=>{if(e.key==="/"&&!["INPUT","TEXTAREA"].includes(document.activeElement.tagName)){e.preventDefault();buscador.focus()}});iniciar();
+function dibujar(){const termino=normalizar(buscador.value.trim());const resultados=documentos.filter(item=>{const cat=categoriaActiva==="Todas"||item.categoria===categoriaActiva;const indice=normalizar([item.titulo,item.autoria,item.institucion,item.tematica,item.descripcion,item.categoria,...(Array.isArray(item.etiquetas)?item.etiquetas:[])].join(" "));return cat&&indice.includes(termino)});contador.textContent=resultados.length+(resultados.length===1?" documento disponible":" documentos disponibles");lista.replaceChildren();if(!resultados.length){estado(documentos.length?"No encontramos ese documento":"Todavía no hay documentos publicados","Probá con otra palabra o borrá la búsqueda.");return}for(const item of resultados)lista.append(tarjeta(item))}
+async function iniciar(){try{contador.textContent="Cargando los documentos...";const ruta=location.pathname.includes("/web/")?"../catalogo.json":"catalogo.json";const respuesta=await fetch(ruta,{cache:"no-store"});if(!respuesta.ok)throw new Error("No se pudo leer el catálogo");const catalogo=await respuesta.json();if(!catalogo||!Array.isArray(catalogo.documentos))throw new Error("Catálogo inválido");documentos=catalogo.documentos.filter(i=>i&&i.estado==="Publicado"&&permitido(i.archivo)&&i.formato==="PDF"&&i.autorizacion&&i.autorizacion.estado==="confirmada");total.textContent=String(documentos.length);poblarFiltro();dibujar()}catch(error){total.textContent="—";contador.textContent="No se pudo abrir la biblioteca.";estado("No pudimos cargar los documentos","Revisá tu conexión y volvé a intentarlo.",true);console.error("LIBRITO:",error)}}
+buscador.addEventListener("input",dibujar);filtro.addEventListener("change",()=>{categoriaActiva=filtro.value;dibujar()});iniciar();
 })();
