@@ -35,3 +35,17 @@ Sitio estático HTML, CSS y JavaScript. No requiere cuenta, base de datos ni ins
 ## Proyecto
 
 LIBRITO es una iniciativa independiente de Ocarina Producciones, dedicada a facilitar el acceso a materiales sobre San Patricio del Chañar.
+
+## Hemeroteca
+
+La sección **Hemeroteca del Chañar** mantiene un índice separado de noticias y páginas periodísticas que mencionan expresamente a San Patricio del Chañar. Sus datos se guardan en `hemeroteca.json`, independientemente del catálogo de libros, investigaciones y documentos.
+
+Cada registro conserva título, fecha, diario, autoría disponible, enlace al original y una descripción orientativa redactada por LIBRITO. No se copian artículos ni se alojan páginas de diarios sin autorización. Las páginas digitalizadas en PDF se identifican como tales y se abren en el sitio del medio.
+
+## Formas de acceso
+
+- **Listos para descargar:** copias completas alojadas por LIBRITO y revisadas.
+- **Listos para leer:** obras disponibles en sus fuentes originales, sin presentarlas como descargas propias.
+- **Hemeroteca:** noticias periodísticas indexadas por fecha, medio y tema, siempre con enlace al artículo original.
+
+La hemeroteca es un índice de referencias, no una reproducción de diarios. Cada noticia se conserva como fuente periodística fechada y debe contextualizarse: una noticia, una opinión firmada y un documento oficial no tienen el mismo valor probatorio.
