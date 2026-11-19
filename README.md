@@ -26,7 +26,7 @@ Ambos originales están alojados en la carpeta documentos, tienen SHA-256 regist
 
 ## Investigación documental ampliada
 
-El inventario interno alcanza 39 registros (CND-001 a CND-039). Se incorporaron seis nuevas líneas de investigación normativa: ediciones 4435 y 4466 del Boletín Oficial; Ordenanzas 1442/24, 1533/25, 1445/24 y 1479/25. Estos materiales están identificados, no publicados. Los boletines completos requieren revisión de derechos, datos personales y anexos; se prioriza recuperar los documentos normativos individuales.
+El inventario interno alcanza 45 registros (CND-001 a CND-045). La última búsqueda añadió seis archivos PDF oficiales individuales identificados: una ficha estadística municipal de 1999–2000 y cinco reportes presupuestarios/contables de los ejercicios 2024 y 2025. También se identificaron las Ordenanzas 1442/24, 1445/24, 1479/25, 1527/25, 1533/25, 1437/24 y 1554/26. Los nuevos reportes están en estado Identificado: falta recuperar y comprobar cada binario y confirmar las condiciones de redistribución. No se muestran como descargas públicas.
 
 Documentación interna de crecimiento y control:
 - MAPA-DE-COLECCION.md: líneas temáticas, prioridades y fuentes de investigación.
