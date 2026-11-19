@@ -414,8 +414,7 @@
       "alias": [
         "San Patricio",
         "El Santo",
-        "Club Atlético San Patricio",
-        "Lifune"
+        "Club Atlético San Patricio"
       ],
       "relacion": "Institución deportiva local y equipo de fútbol que participa en competencias de la Liga de Fútbol del Neuquén y Copa Neuquén.",
       "cautela": "No confundir el club con el nombre de la localidad ni con equipos homónimos."
@@ -429,7 +428,7 @@
         "Central 31",
         "Cuartel de Bomberos Central 31"
       ],
-      "relacion": "Institución comunitaria fundada en 2015; inauguró sede propia en noviembre de 2026 y sumó una autobomba con alcance local y regional.",
+      "relacion": "Institución comunitaria que, según una cobertura de noviembre de 2026, llevaba once años de trayectoria; inauguró sede propia ese mes y sumó una autobomba. La fecha formal de fundación debe confirmarse con actas o registros institucionales.",
       "cautela": "Distinguir fecha de creación institucional, comienzo de actividad, inauguración del cuartel y fecha de incorporación de equipamiento."
     },
     {
@@ -444,15 +443,16 @@
     },
     {
       "id": "aprinsur",
-      "nombre": "Asociación de Pilotos y Preparadores de Rally del Sur (APRINSUR)",
+      "nombre": "APRINSUR / APPRyN Sur · organización vinculada al Rally Neuquino",
       "clase": "organizacion_deportiva",
       "alias": [
         "APRINSUR",
+        "APPRyN Sur",
         "Rally Neuquino",
         "Rally de San Patricio del Chañar"
       ],
       "relacion": "Organización vinculada a la realización de fechas del Rally Neuquino y competencias en caminos de San Patricio del Chañar.",
-      "cautela": "Verificar la denominación oficial de la asociación y no confundir el rally automovilístico con el Rally Zona 2 de Mountain Bike."
+      "cautela": "Las fuentes periodísticas consultadas usan variantes APRINSUR y APPRyN Sur. No expandir la sigla ni afirmar denominación legal hasta verificarla en documentación institucional."
     },
     {
       "id": "centro-cultural-erika-werro",
@@ -1340,7 +1340,7 @@
     {
       "nombre": "COPADE",
       "url": "https://www.copade.gob.ar/",
-      "alcance": "Planificación territorial, mapas y diagnósticos provinciales.",
+      "alcance": "Planificación territorial, mapas y diagnósticos provinciales. Las fichas regionales pueden usar distintas regionalizaciones en distintos años; registrar fecha y alcance de cada una.",
       "nivel": "organismo de planificación"
     },
     {
@@ -1460,7 +1460,7 @@
     {
       "nombre": "Chañar Digital",
       "url": "https://chanardigital.com.ar/",
-      "alcance": "Medio local para noticias, entrevistas, crónicas, agenda cultural, deporte y audiovisuales. Verificar cada publicación y distinguir opinión de información.",
+      "alcance": "Medio local para noticias, entrevistas, crónicas, agenda cultural, deporte y audiovisuales. Verificar cada publicación y distinguir opinión de información; no usar el portal completo como si cada noticia estuviera incorporada.",
       "nivel": "fuente periodística local"
     },
     {
