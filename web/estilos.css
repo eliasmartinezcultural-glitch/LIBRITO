@@ -326,3 +326,52 @@ h2{margin:0;color:var(--verde-oscuro);font:normal clamp(30px,4vw,42px)/1.12 var(
   .seccion-obras .documento-meta{background:white;border:1px solid #aaa}
   .seccion-obras .documento-detalle{background:white;border:1px solid #aaa}
 }
+
+
+/* LIBRITO · Curaduría visual editorial 2026
+   Capa exclusivamente visual: conserva puertas, navegación, buscadores y motores. */
+:root{
+  --papel:#f3efe4;--papel-claro:#fbf9f2;--blanco:#fffdf8;
+  --tinta:#2d352e;--verde:#45664f;--verde-oscuro:#294538;
+  --verde-suave:#e6ece3;--oliva:#87927a;--tierra:#a66f52;
+  --tierra-claro:#f1e5da;--oro:#c8aa73;--suave:#6c756c;
+  --linea:#ded8c9;--sombra:0 14px 34px rgba(42,57,45,.075);
+}
+body{
+  background-color:var(--papel);
+  background-image:linear-gradient(rgba(255,253,248,.35),rgba(255,253,248,.35)),radial-gradient(rgba(92,105,77,.055) .65px,transparent .65px);
+  background-size:auto,15px 15px;
+}
+.encabezado{
+  background:linear-gradient(112deg,#263f34 0%,#315342 58%,#3b5c48 100%);
+  box-shadow:0 5px 22px rgba(28,48,35,.13);
+}
+.encabezado:after{height:3px;background:linear-gradient(90deg,#a66f52 0 20%,#c8aa73 20% 39%,#8c9b80 39% 100%)}
+.marca-dibujo{border-color:rgba(239,224,192,.78);color:#f0dfbd;box-shadow:inset 0 0 0 4px rgba(255,255,255,.045),0 3px 12px rgba(0,0,0,.08)}
+.inicio-presentacion{max-width:800px;margin-top:clamp(30px,5vw,58px);padding-bottom:clamp(14px,2.5vw,25px)}
+.inicio-presentacion h1{max-width:16ch;color:#2d4337;text-wrap:balance}
+.inicio-presentacion .bajada{max-width:58ch;color:#5f6b60}
+.inicio-presentacion .regla{display:inline-block;max-width:fit-content;margin-top:7px;padding:8px 12px;border-left:3px solid var(--oro);border-radius:0 8px 8px 0;background:rgba(255,253,248,.64)}
+.foto-portada{position:relative;margin:10px 0 30px;overflow:hidden;border:1px solid rgba(89,93,72,.18);border-radius:7px 22px 7px 22px;background:#e4e1d4;box-shadow:0 15px 34px rgba(48,58,44,.12)}
+.foto-portada img{display:block;width:100%;height:clamp(190px,31vw,320px);object-fit:cover;object-position:center 54%}
+.foto-portada figcaption{display:flex;flex-wrap:wrap;justify-content:space-between;gap:5px 16px;padding:9px 13px 10px;background:linear-gradient(90deg,#fbf8ef,#f4efe4);color:#687167;font-size:10px;line-height:1.45}
+.foto-portada figcaption span:first-child{color:#465b49;font-family:var(--serif);font-size:13px;font-weight:700}
+.foto-portada figcaption a{color:#72563f;text-underline-offset:2px}
+.puertas-principales .puerta{border:1px solid rgba(89,98,77,.13);box-shadow:0 7px 20px rgba(50,60,46,.045);transition:transform .18s ease,box-shadow .18s ease,border-color .18s ease}
+.puertas-principales .puerta:hover{transform:translateY(-3px);box-shadow:0 13px 28px rgba(50,60,46,.095);border-color:rgba(89,98,77,.25)}
+.puerta-obras{background:linear-gradient(135deg,#f8f5eb,#e8eee4)!important}
+.puerta-hemeroteca{background:linear-gradient(135deg,#faf3e9,#efe2d7)!important}
+.seccion-obras .documento,.seccion-hemeroteca .noticia{box-shadow:0 5px 17px rgba(48,57,44,.045);transition:box-shadow .16s ease,border-color .16s ease}
+.seccion-obras .documento:hover,.seccion-hemeroteca .noticia:hover{box-shadow:0 10px 25px rgba(48,57,44,.085)}
+.seccion-obras .cabecera-seccion h1,.seccion-hemeroteca .cabecera-seccion h1{color:#30483a}
+.seccion-hemeroteca .hemeroteca-anio{background:linear-gradient(90deg,#eee5d9 0%,rgba(248,244,236,.58) 75%,transparent 100%)}
+.pie{background:#294538}
+@media(max-width:650px){
+ .inicio-presentacion{margin-top:24px}
+ .foto-portada{margin:5px 0 22px;border-radius:6px 16px 6px 16px}
+ .foto-portada img{height:clamp(175px,54vw,235px);object-position:center}
+ .foto-portada figcaption{padding:8px 10px}
+ .foto-portada figcaption span:last-child{font-size:9px}
+}
+@media(prefers-reduced-motion:reduce){.puertas-principales .puerta,.seccion-obras .documento,.seccion-hemeroteca .noticia{transition:none}}
+@media print{.foto-portada{box-shadow:none}.foto-portada img{height:auto;max-height:190px}}
