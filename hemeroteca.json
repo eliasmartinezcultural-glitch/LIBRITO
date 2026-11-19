@@ -2105,6 +2105,46 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva metadatos y una descripción propia; el contenido completo se consulta en el medio original."
+    },
+    {
+      "id": "lm-2012-08-16-audiencia-publica-obra-riego",
+      "titulo": "Audiencia pública por obra de riego",
+      "fecha": "2012-08-16",
+      "medio": "La Mañana de Neuquén",
+      "autor": "Redacción",
+      "descripcion": "Cobertura de la audiencia pública convocada para tratar la modernización del sistema de riego de San Patricio del Chañar. La nota describe el proyecto PROSAP, la financiación anunciada, el revestimiento previsto de 51 kilómetros de canales y el objetivo de mejorar la irrigación de más de 8.000 hectáreas productivas. Se conserva como cobertura de una instancia de consulta y de los alcances anunciados en 2012, no como certificación de obra ejecutada.",
+      "url": "https://www.lmneuquen.com/audiencia-publica-obra-riego-n158744",
+      "etiquetas": [
+        "hemeroteca",
+        "2012",
+        "riego",
+        "PROSAP",
+        "audiencia pública",
+        "producción agrícola"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a La Mañana de Neuquén. LIBRITO conserva metadatos y descripción propia; el contenido completo se consulta en el medio original."
+    },
+    {
+      "id": "neuquen-informa-2014-01-30-inversion-riego-lote-2",
+      "titulo": "Invertirán otros 91 millones de pesos para el canal de riego de El Chañar",
+      "fecha": "2014-01-30",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación del Gobierno de Neuquén",
+      "descripcion": "Cobertura institucional de la firma del convenio para ejecutar el Lote II del proyecto de modernización del sistema de riego. Detalla el monto anunciado para ese lote, los trabajos previstos en el canal principal del dique, el canal secundario Norte, compuertas y drenajes, y el propósito de mejorar la eficiencia y ampliar la superficie bajo riego. Se conserva como registro de la comunicación oficial y de los alcances informados en enero de 2014; no sustituye contratos, certificados de obra ni actas de recepción.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2014/01/30/43121-invertiran-otros-91-millones-de-pesos-para-el-canal-de-riego-de-el-chanar",
+      "etiquetas": [
+        "hemeroteca",
+        "2014",
+        "riego",
+        "PROSAP",
+        "infraestructura",
+        "producción"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación institucional de Neuquén Informa. LIBRITO conserva metadatos y descripción propia; no reproduce fotografías ni el artículo completo."
     }
   ]
 }
