@@ -1,6 +1,6 @@
 {
   "nombre": "Hemeroteca de LIBRITO · San Patricio del Chañar",
-  "version": 21,
+  "version": 22,
   "descripcion": "Índice de noticias y páginas periodísticas que mencionan expresamente San Patricio del Chañar, de distintos diarios, años y formatos.",
   "criterio": "Se incorpora una noticia cuando el texto identifica expresamente a San Patricio del Chañar o trata sobre la localidad. Se conserva título, medio, autoría disponible, fecha, enlace original y una descripción breve. No se reproduce el cuerpo periodístico.",
   "noticias": [
@@ -2492,6 +2492,47 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "Artículo e imágenes pertenecen a Diario Río Negro y sus titulares. LIBRITO conserva la referencia y el enlace; no reproduce el contenido."
+    },
+    {
+      "id": "rn-2009-05-21-volvio-el-colectivo-chanar",
+      "titulo": "Volvió el colectivo",
+      "fecha": "2009-05-21",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Crónica sobre la recuperación de un servicio interurbano de transporte para San Patricio del Chañar después de décadas con frecuencias insuficientes o ausencia de colectivos. La nota describe los recorridos que conectaban la localidad con Campo Grande, Barda del Medio, Cinco Saltos, Cipolletti, Neuquén y Centenario. Se incorpora como registro de movilidad cotidiana y conectividad regional en 2009; no informa sobre el servicio actual.",
+      "url": "https://www.rionegro.com.ar/volvio-el-colectivo-FFHRN1242873131174/",
+      "etiquetas": [
+        "2009",
+        "transporte público",
+        "colectivo",
+        "conectividad",
+        "movilidad",
+        "vida cotidiana",
+        "memoria local"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro y sus titulares. LIBRITO conserva la referencia y el enlace; no reproduce el contenido."
+    },
+    {
+      "id": "lmneuquen-2012-04-12-ocuparon-escuela-epea3",
+      "titulo": "Ocuparon una escuela",
+      "fecha": "2012-04-12",
+      "medio": "La Mañana Neuquén",
+      "autor": "Redacción",
+      "descripcion": "Cobertura de un reclamo de familias de estudiantes de la EPEA Nº 3 por falta de aulas, crecimiento de matrícula y condiciones de funcionamiento durante la etapa inicial de la escuela. La nota describe el uso de tráileres y el funcionamiento provisorio en el predio del centro de capacitación agropecuaria. Se conserva como testimonio periodístico de una demanda educativa en 2012; las declaraciones pertenecen a las personas entrevistadas y no se presentan como una resolución oficial.",
+      "url": "https://www.lmneuquen.com/ocuparon-una-escuela--n143649",
+      "etiquetas": [
+        "2012",
+        "EPEA 3",
+        "educación",
+        "familias",
+        "infraestructura escolar",
+        "memoria educativa"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a La Mañana Neuquén y sus titulares. LIBRITO conserva la referencia y el enlace; no reproduce el contenido."
     }
   ]
 }
