@@ -7,7 +7,7 @@
 <meta name="description" content="LIBRITO reúne obras, documentos y noticias sobre San Patricio del Chañar.">
 <meta name="color-scheme" content="light">
 <title>LIBRITO · Biblioteca de San Patricio del Chañar</title>
-<link rel="stylesheet" href="web/estilos.css?v=20261119-ciudadana1">
+<link rel="stylesheet" href="web/estilos.css?v=20261119-portada-donativos2">
 </head>
 <body class="inicio">
 <a class="salto" href="#contenido">Saltar al contenido</a>
@@ -17,21 +17,78 @@
 <main class="contenedor" id="contenido">
 <section class="presentacion inicio-presentacion" aria-labelledby="titulo-principal">
 <p class="lugar">SAN PATRICIO DEL CHAÑAR · NEUQUÉN</p>
-<h1 id="titulo-principal">Una biblioteca para descubrir nuestro lugar.</h1>
-<p class="bajada">Obras, documentos y noticias que ayudan a conocer San Patricio del Chañar.</p>
-<p class="regla">Dos espacios. Dos formas de recorrer la memoria y el conocimiento del Chañar.</p>
+<h1 id="titulo-principal">El Chañar, en sus obras y en sus noticias.</h1>
+<p class="bajada">Una biblioteca digital para encontrar y consultar materiales sobre nuestro lugar.</p>
 </section>
+
+<nav class="puertas puertas-principales" aria-label="Elegí qué querés consultar">
+<a class="puerta puerta-obras" href="obras.html">
+<span class="puerta-numero">01 · COLECCIÓN DOCUMENTAL</span>
+<span class="puerta-titulo">OBRAS</span>
+<span class="puerta-ayuda">Libros, investigaciones, documentos, mapas y publicaciones sobre San Patricio del Chañar.</span>
+<span class="puerta-entrada">Explorar Obras <span aria-hidden="true">→</span></span>
+</a>
+<a class="puerta puerta-hemeroteca" href="hemeroteca.html">
+<span class="puerta-numero">02 · ARCHIVO PERIODÍSTICO</span>
+<span class="puerta-titulo">HEMEROTECA</span>
+<span class="puerta-ayuda">Noticias y artículos de distintos diarios para recorrer la historia local a través de la prensa.</span>
+<span class="puerta-entrada">Explorar Hemeroteca <span aria-hidden="true">→</span></span>
+</a>
+</nav>
+
+<section class="donativo" aria-labelledby="titulo-donativo">
+<div class="donativo-texto">
+<p class="donativo-sobrelinea">UN APORTE VOLUNTARIO</p>
+<h2 id="titulo-donativo">¿Te sirve esta biblioteca?</h2>
+<p>Podés ayudar a sostener y ampliar LIBRITO con una colaboración voluntaria. Consultar la biblioteca siempre es gratuito.</p>
+</div>
+<div class="donativo-datos">
+<span class="donativo-etiqueta">Alias para colaborar</span>
+<strong class="donativo-alias" id="alias-donativo">ocarina.guitarra</strong>
+<span class="donativo-titular">Titular: Elías Martínez</span>
+<button class="donativo-copiar" type="button" id="copiar-alias" aria-describedby="estado-copia">Copiar alias</button>
+<span class="donativo-estado" id="estado-copia" role="status" aria-live="polite">Aporte libre y voluntario</span>
+</div>
+</section>
+
 <figure class="foto-portada">
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/San_Patricio_del_Cha%C3%B1ar.png" alt="Cartel de ingreso a San Patricio del Chañar, rodeado de árboles y vegetación." width="1360" height="675" fetchpriority="high">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/San_Patricio_del_Cha%C3%B1ar.png" alt="Cartel de ingreso a San Patricio del Chañar, rodeado de árboles y vegetación." width="1360" height="675" loading="lazy" decoding="async">
 <figcaption><span>Una imagen de nuestro lugar</span><span>Captura: <a href="https://www.youtube.com/watch?v=_CvmXUvndnc&amp;t=220s" target="_blank" rel="noopener">Cartago TV</a> · marzo de 2021 · <a href="https://commons.wikimedia.org/wiki/File:San_Patricio_del_Chañar.png" target="_blank" rel="noopener">ficha y atribución</a> · <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank" rel="noopener">CC BY 3.0</a></span></figcaption>
 </figure>
-<nav class="puertas puertas-principales" aria-label="Elegí una sección">
-<a class="puerta puerta-obras" href="obras.html"><span class="puerta-numero">01 · COLECCIÓN</span><span class="puerta-titulo">Obras</span><span class="puerta-ayuda">Libros, documentos, investigaciones, mapas y trabajos.</span><span class="puerta-entrada">Entrar <span aria-hidden="true">→</span></span></a>
-<a class="puerta puerta-hemeroteca" href="hemeroteca.html"><span class="puerta-numero">02 · ARCHIVO PERIODÍSTICO</span><span class="puerta-titulo">Hemeroteca</span><span class="puerta-ayuda">Noticias de diarios que hablan de San Patricio del Chañar.</span><span class="puerta-entrada">Entrar <span aria-hidden="true">→</span></span></a>
-</nav>
+
 <section class="nota-biblioteca nota-inicio" aria-label="Cómo funciona LIBRITO">
-<p><strong>Compartir para conocer.</strong> LIBRITO reúne materiales existentes, conserva sus créditos y procedencias y facilita el acceso a las fuentes. No se apropia de las obras ni modifica sus originales.</p>
+<p><strong>Un archivo para compartir.</strong> LIBRITO reúne materiales existentes, conserva sus créditos y procedencias y facilita el acceso a las fuentes originales. No se apropia de las obras ni modifica sus originales.</p>
 </section>
 </main>
 <footer class="pie"><div class="contenedor pie-interior"><span>LIBRITO · Biblioteca Digital Chañarense</span><span>Un proyecto independiente de Ocarina Producciones</span></div></footer>
+<script>
+(() => {
+  const button = document.getElementById("copiar-alias");
+  const alias = document.getElementById("alias-donativo");
+  const status = document.getElementById("estado-copia");
+  if (!button || !alias || !status) return;
+  button.addEventListener("click", async () => {
+    const value = alias.textContent.trim();
+    try {
+      if (navigator.clipboard && window.isSecureContext) {
+        await navigator.clipboard.writeText(value);
+      } else {
+        const field = document.createElement("textarea");
+        field.value = value;
+        field.setAttribute("readonly", "");
+        field.style.position = "fixed";
+        field.style.opacity = "0";
+        document.body.appendChild(field);
+        field.select();
+        const copied = document.execCommand("copy");
+        field.remove();
+        if (!copied) throw new Error("copy unavailable");
+      }
+      status.textContent = "Alias copiado. ¡Gracias por acompañar LIBRITO!";
+    } catch (_) {
+      status.textContent = "Podés seleccionar el alias y copiarlo manualmente.";
+    }
+  });
+})();
+</script>
 </body></html>
