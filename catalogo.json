@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 22,
+  "version": 23,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -1261,6 +1261,74 @@
       },
       "procedencia": "Instituto Nacional de Educación Tecnológica · Catálogo Nacional de Títulos y Certificaciones de Educación Técnico Profesional.",
       "integridad": "Ficha institucional consultada en el catálogo oficial; la oferta consignada corresponde a la información publicada en esa ficha."
+    },
+    {
+      "id": "flacso-lilo-residuos-organicos-bodegas-2021",
+      "titulo": "Los residuos orgánicos de las bodegas en San Patricio del Chañar desde la perspectiva del desarrollo sostenible",
+      "autoria": "María Florencia Lilo · dirección: Soledad Inés Herrera",
+      "institucion": "FLACSO Argentina · Maestría en Desarrollo Humano",
+      "fecha": "2021-11-30",
+      "categoria": "Educación y conocimiento",
+      "tematica": "Vitivinicultura, residuos orgánicos, sostenibilidad ambiental, bodegas y desarrollo humano",
+      "descripcion": "Tesis de maestría que estudia la dimensión ambiental de la industria vitivinícola de San Patricio del Chañar y analiza la gestión de los residuos orgánicos generados por las bodegas desde una perspectiva de desarrollo sostenible. El PDF completo está disponible en el repositorio de FLACSO Andes.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://repositorio.flacsoandes.edu.ec/bitstream/10469/18656/2/TFLACSO-2021%20MFL.pdf",
+      "urlFicha": "https://repositorio.flacsoandes.edu.ec/handle/10469/18656",
+      "estado": "Disponible en origen",
+      "accionExterna": "Leer tesis completa",
+      "autorizacion": {
+        "estado": "enlace_a_repositorio",
+        "base": "LIBRITO enlaza el documento alojado por FLACSO Andes y no genera una copia propia ni presume permisos adicionales de redistribución.",
+        "referencia": "FLACSO Andes, tesis de Maestría en Desarrollo Humano, 30 de noviembre de 2021."
+      },
+      "procedencia": "Repositorio Digital FLACSO Andes · Facultad Latinoamericana de Ciencias Sociales.",
+      "integridad": "Documento PDF de tesis de maestría; título, tesista, dirección y fecha identificados en la portada del archivo."
+    },
+    {
+      "id": "argentina-estudios-territoriales-vaca-muerta-chanar",
+      "titulo": "Estudios estratégicos para el desarrollo territorial de la región Vaca Muerta · análisis de San Patricio del Chañar",
+      "autoria": "Equipo técnico interinstitucional · coordinación provincial COPADE",
+      "institucion": "Subsecretaría de Planificación Territorial de la Inversión Pública · Consejo Federal de Planificación y Ordenamiento Territorial",
+      "fecha": "s/f",
+      "categoria": "Territorio y cartografía",
+      "tematica": "Expansión urbana, crecimiento demográfico, mapas, suelo urbano, matriz productiva y planificación territorial",
+      "descripcion": "Publicación técnica de planificación territorial que incluye un análisis específico de San Patricio del Chañar. Presenta información sobre crecimiento demográfico y expansión de la huella urbana entre 1986 y 2010, además de mapas y diagnósticos territoriales. Se incorpora como estudio regional con un apartado dedicado a la localidad; no todas sus secciones se refieren exclusivamente al Chañar.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://www.argentina.gob.ar/sites/default/files/estudios_estrategicos_para_el_desarrollo_territorial_de_la_region_de_vacamuerta.pdf",
+      "estado": "Disponible en origen",
+      "accionExterna": "Abrir estudio territorial",
+      "autorizacion": {
+        "estado": "enlace_a_publicacion_institucional",
+        "base": "Se facilita el acceso al PDF publicado por un organismo estatal. LIBRITO no reproduce el documento ni modifica sus mapas.",
+        "referencia": "Publicación Estudios Estratégicos para el Desarrollo Territorial de la Región Vaca Muerta · Plan Estratégico Territorial, Avance III."
+      },
+      "procedencia": "Ministerio del Interior, Obras Públicas y Vivienda · Subsecretaría de Planificación Territorial de la Inversión Pública.",
+      "integridad": "PDF institucional con capítulo de análisis de casos y apartado específico de San Patricio del Chañar; la fecha de edición no se consigna en la ficha incorporada."
+    },
+    {
+      "id": "unco-trpin-rodriguez-transformaciones-valle-neuquen-2025",
+      "titulo": "Concentración productiva y transformaciones en el valle inferior del río Neuquén",
+      "autoria": "Verónica Trpin y María Daniela Rodríguez · capítulo de investigación",
+      "institucion": "Instituto Patagónico de Estudios de Humanidades y Ciencias Sociales (IPEHCS-CONICET-UNCo) · Editorial Topos",
+      "fecha": "2025",
+      "categoria": "Educación y conocimiento",
+      "tematica": "San Patricio del Chañar, transformaciones territoriales, horticultura, producción agraria, mujeres rurales y desigualdades socioespaciales",
+      "descripcion": "Capítulo incluido en el volumen Indagaciones sobre desigualdades socioespaciales y territorialidades en disputa. El trabajo analiza transformaciones productivas en el valle inferior del río Neuquén e incluye trabajo de campo en San Patricio del Chañar durante 2022 y 2023, con entrevistas a huerteras y referentes locales. Se enlaza el documento original completo.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://rdi.uncoma.edu.ar/bitstream/handle/uncomaid/19117/SIN_socioespacial_final.pdf?isAllowed=y&sequence=1",
+      "urlFicha": "https://rdi.uncoma.edu.ar/handle/uncomaid/19117",
+      "estado": "Disponible en origen",
+      "accionExterna": "Leer publicación original",
+      "autorizacion": {
+        "estado": "licencia_identificada_sin_copia_local",
+        "base": "El repositorio identifica licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 (CC BY-NC-SA 4.0). LIBRITO enlaza el original y no redistribuye el archivo.",
+        "referencia": "Repositorio Digital Institucional de la Universidad Nacional del Comahue, Editorial Topos, IPEHCS."
+      },
+      "procedencia": "Editorial Topos · Instituto Patagónico de Estudios de Humanidades y Ciencias Sociales · Universidad Nacional del Comahue.",
+      "integridad": "Volumen digital de 2025. El capítulo citado se identifica en la página 132 y siguientes; incluye fuentes censales, documentos estatales y entrevistas."
     }
   ]
 }
