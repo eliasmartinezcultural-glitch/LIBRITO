@@ -1,90 +1,71 @@
-# Biblioteca Digital Chañarense
+# LIBRITO — Biblioteca Digital Chañarense
 
-Proyecto independiente de **Ocarina Producciones** dedicado a reunir y ofrecer documentos completos relacionados con San Patricio del Chañar, Neuquén, Argentina.
+Biblioteca digital independiente dedicada a reunir documentos y lecturas existentes sobre San Patricio del Chañar, Neuquén, Argentina.
 
-## Identidad y propósito
+## La idea
 
-LIBRITO es una biblioteca de archivos, no un buscador, directorio, portal de noticias ni catálogo de enlaces. Su misión es facilitar el acceso y la conservación de documentos que permiten conocer la historia, memoria, cultura, instituciones y territorio local.
+Una biblioteca sencilla, como la de una casa o una escuela de pueblo. Debe poder usarla una persona mayor, un niño, una familia o alguien con poca experiencia digital: entrar, encontrar un documento y leerlo o descargarlo sin instrucciones complicadas.
 
-La experiencia debe ser cálida, editorial, clara y especialmente sencilla desde un teléfono. El visitante debe poder reconocer qué contiene la biblioteca, encontrar un documento y abrirlo o descargarlo sin pasos innecesarios.
+LIBRITO no crea obras, no reescribe documentos, no produce videos ni convierte referencias en publicaciones. Reúne archivos completos de sus autores e instituciones, conserva créditos y procedencia y facilita su lectura, descarga e impresión.
 
-## Regla pública innegociable
+## La regla pública
 
-La colección pública contiene exclusivamente documentos PDF que se pueden leer en su totalidad, descargar directamente desde esta biblioteca, imprimir y conservar con sus créditos, autoría y procedencia.
+La web muestra exclusivamente PDF completos, legibles, verificables y habilitados para redistribución. Cada ficha conduce a un archivo alojado dentro de este repositorio.
 
-No se publican videos, audios, enlaces externos, referencias a materiales que no estén disponibles como archivo, fichas de obras pendientes ni contenido incompleto.
+No hay videos, audios, enlaces a otros portales, catálogos de enlaces, estanterías vacías ni fichas de obras pendientes. Si un documento no está alojado y no puede descargarse desde LIBRITO, no se anuncia como disponible.
 
-La biblioteca no crea, reescribe, resume ni modifica obras ajenas. La atribución no reemplaza el permiso: antes de alojar y ofrecer una copia debe existir una licencia o autorización válida para su redistribución, o una base jurídica documentada.
+La disponibilidad de un PDF en otro sitio no implica automáticamente permiso para alojar una copia. Se respetan licencias, derechos, autorías, privacidad y condiciones de uso.
 
-## Colección actual
+## Estado de la colección
 
-Hay **2 documentos PDF publicados**:
+**2 documentos PDF públicos y descargables.**
+
 1. Carta Orgánica Municipal de San Patricio del Chañar (2006, 44 páginas).
 2. Ordenanza Municipal 1536/25 y Decreto Municipal 2253/2025 (3 páginas).
 
-Ambos originales están alojados en la carpeta documentos, tienen SHA-256 registrado y ofrecen lectura, descarga e impresión desde la portada. Los candidatos restantes siguen fuera de la colección hasta cumplir las mismas verificaciones.
+Los candidatos nuevos siguen en investigación hasta recuperar sus originales, verificar su integridad y confirmar la base jurídica para redistribuirlos.
 
-## Investigación documental ampliada
+## La página
 
-El inventario interno alcanza 45 registros (CND-001 a CND-045). La última búsqueda añadió seis archivos PDF oficiales individuales identificados: una ficha estadística municipal de 1999–2000 y cinco reportes presupuestarios/contables de los ejercicios 2024 y 2025. También se identificaron las Ordenanzas 1442/24, 1445/24, 1479/25, 1527/25, 1533/25, 1437/24 y 1554/26. Los nuevos reportes están en estado Identificado: falta recuperar y comprobar cada binario y confirmar las condiciones de redistribución. No se muestran como descargas públicas.
+- Portada breve, sin introducciones largas.
+- Estética de biblioteca casera y rural: papel, verde, tinta y detalles discretos.
+- Letra grande y contraste claro.
+- Una columna de documentos, fácil de recorrer desde el teléfono.
+- Buscador que no distingue tildes.
+- Filtros solo cuando hay más de un tema real.
+- Dos acciones evidentes: “Leer e imprimir” y “Descargar PDF”.
+- Mensajes simples cuando no hay resultados o no carga el catálogo.
+- Sin cuentas, formularios, publicidad, videos ni enlaces externos.
 
-Documentación interna de crecimiento y control:
-- MAPA-DE-COLECCION.md: líneas temáticas, prioridades y fuentes de investigación.
-- PROTOCOLO-DE-PUBLICACION.md: recepción, integridad, derechos, privacidad y publicación.
-- MODELO-DE-AUTORIZACION.md: modelo orientativo para solicitar permisos a autores y titulares.
-- PEDIDO-DE-ARCHIVOS.md: documentos municipales prioritarios y modelo de solicitud de copias oficiales.
+## Archivos del proyecto
 
-## Arquitectura
-
-- index.html: portada pública principal.
-- catalogo.json: fuente única de los metadatos públicos.
-- web/estilos.css: sistema visual responsive.
-- web/biblioteca.js: buscador, filtros y fichas documentales.
-- web/index.html: vista secundaria sincronizada para la carpeta web.
-- documentos/: originales PDF completos autorizados para descarga.
-- scripts/validar_biblioteca.py: controles automáticos de integridad, rutas, permisos y enlaces externos.
-- INVENTARIO-MAESTRO.csv: registro interno de investigación y estados; no se muestra en la portada pública.
-- LEY-MUNDIAL.md: criterios jurídicos y de publicación.
-
-## Organización temática prevista
-
-Las categorías son una herramienta de navegación, no una promesa de que ya existan materiales publicados: Historia y memoria; Normativa y documentos públicos; Cultura y patrimonio; Educación y conocimiento; Informes y estadísticas; Territorio y cartografía; Hemeroteca y prensa; Libros y publicaciones.
-
-Una categoría solo aparece como filtro cuando tiene documentos publicados.
+- `index.html`: portada pública.
+- `catalogo.json`: catálogo único de documentos publicados.
+- `web/estilos.css`: diseño adaptable y accesible.
+- `web/biblioteca.js`: búsqueda y fichas documentales.
+- `web/index.html`: espejo de la portada en /web.
+- `documentos/`: archivos PDF completos autorizados.
+- `INVENTARIO-MAESTRO.csv`: investigación interna; no es el catálogo público.
+- `AUDITORIA-Y-BUSQUEDA-MUNDIAL.md`: auditoría, hallazgos, fuentes y prioridades.
+- `MAPA-DE-COLECCION.md`: áreas y prioridades de adquisición.
+- `PROTOCOLO-DE-PUBLICACION.md`: recepción, control y publicación.
+- `MODELO-DE-AUTORIZACION.md`: solicitud de permisos.
+- `PEDIDO-DE-ARCHIVOS.md`: pedidos de copias a organismos y titulares.
+- `LEY-MUNDIAL.md`: marco de derechos y criterios de reutilización.
+- `RECURSOS-OFICIALES.md`: fuentes institucionales de investigación, uso interno.
 
 ## Estados documentales
 
-1. Identificado: existe evidencia de que la obra o documento existe.
-2. Archivo recuperado: se obtuvo una copia completa.
-3. Verificado: se revisaron integridad, legibilidad, páginas, autoría y procedencia.
-4. Autorizado: existe una licencia o permiso de redistribución, o base jurídica suficiente y registrada.
-5. Publicado: el PDF local está incorporado al catálogo, validado y disponible.
+1. Identificado.
+2. Archivo recuperado.
+3. Verificado.
+4. Autorizado.
+5. Publicado.
 
-Solo el estado Publicado aparece en la web. Un archivo encontrado en internet no se considera automáticamente libre para redistribuir.
+Solo los documentos en estado Publicado aparecen en la página.
 
-## Incorporación de un archivo
+## Próxima prioridad
 
-1. Recuperar el documento completo y original desde una fuente legítima.
-2. Comprobar que sea legible, íntegro y apto para impresión.
-3. Verificar autoría, créditos, institución, fecha y procedencia.
-4. Confirmar licencia o permiso de redistribución.
-5. Guardarlo sin alteraciones en documentos/.
-6. Incorporarlo a catalogo.json con metadatos suficientes.
-7. Registrar SHA-256 y número de páginas.
-8. Probar lectura, descarga e impresión desde celular y computadora.
-9. Ejecutar python3 scripts/validar_biblioteca.py.
+No seguir acumulando nombres. Recuperar los PDF originales prioritarios, obtener permisos cuando correspondan, revisar privacidad y convertir cada candidato viable en una descarga real. La biblioteca debe crecer en archivos útiles, no en promesas.
 
-La publicación debe detenerse si falta el archivo, no coincide el hash, no se confirma la autorización o el documento no es un PDF local.
-
-## Principios de experiencia
-
-- Primero los documentos, no la decoración.
-- Una búsqueda visible y filtros comprensibles.
-- Títulos legibles y datos bibliográficos claros.
-- Dos acciones principales: leer/imprimir y descargar.
-- Créditos y procedencia accesibles en cada ficha.
-- Diseño adaptable a celulares, pantallas pequeñas y escritorio.
-- Sin cuentas, formularios, rastreadores ni dependencias externas para mostrar el catálogo.
-- Sin páginas vacías ni categorías que aparenten contenido inexistente.
-
-**La biblioteca solo anuncia lo que efectivamente entrega: archivos completos, accesibles y autorizados.**
+**Proyecto independiente de Ocarina Producciones.**
