@@ -1395,6 +1395,50 @@
       },
       "procedencia": "Repositorio Digital Institucional de la Universidad Nacional del Comahue; Facultad de Ciencias del Ambiente y la Salud.",
       "integridad": "PDF original enlazado desde el repositorio institucional. Se verificaron portada, autoría, fecha, resumen y apartados que mencionan expresamente a San Patricio del Chañar."
+    },
+    {
+      "id": "bases-concurso-parque-deportivo-cultural-2020",
+      "titulo": "Concurso nacional de ideas y anteproyectos · Parque Deportivo y Cultural de San Patricio del Chañar",
+      "autoria": "Colegio de Arquitectos de la Provincia del Neuquén · equipo organizador y asesores del concurso",
+      "institucion": "Municipalidad de San Patricio del Chañar · Colegio de Arquitectos de la Provincia del Neuquén · Federación Argentina de Entidades de Arquitectos (FADEA)",
+      "fecha": "2020-08",
+      "categoria": "Territorio y cartografía",
+      "tematica": "Planificación urbana, arquitectura, espacio público, deporte, cultura y recreación",
+      "descripcion": "Bases completas del concurso nacional de ideas y anteproyectos para el Parque Deportivo y Cultural de San Patricio del Chañar. El documento reúne calendario, autoridades, reglas, criterios generales y antecedentes institucionales del proyecto. Incluye una fundamentación municipal basada en la Carta Orgánica y referencias a la Fiesta Provincial del Pelón y la Fiesta del Trabajador Rural. Se incorpora como documento de planificación y concurso, no como prueba de que todas las obras proyectadas se hayan ejecutado.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://concursospdc.canqn.org.ar/wp-content/uploads/2020/08/BASES-PDC-SPDC.pdf",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar bases completas",
+      "autorizacion": {
+        "estado": "enlace_a_documento_original",
+        "base": "Se enlaza el PDF publicado por el sitio del concurso. LIBRITO conserva la referencia y no reproduce planos, imágenes ni el documento completo.",
+        "referencia": "Concurso nacional de ideas y anteproyectos Parque Deportivo y Cultural San Patricio del Chañar; agosto de 2020."
+      },
+      "procedencia": "Sitio oficial del Concurso Parque Deportivo y Cultural · Colegio de Arquitectos de la Provincia del Neuquén · Municipalidad de San Patricio del Chañar · FADEA.",
+      "integridad": "PDF de bases del concurso; se verificaron portada, entidades organizadoras, calendario, introducción y apartados sobre festividades locales."
+    },
+    {
+      "id": "planificacion-argentina-estudio-estado-2012-chanar",
+      "titulo": "Estudio sobre el estado actual de la planificación en Argentina · caso San Patricio del Chañar",
+      "autoria": "Equipo técnico del Programa de Fortalecimiento Institucional de la Subsecretaría de Planificación Territorial de la Inversión Pública",
+      "institucion": "Subsecretaría de Planificación Territorial de la Inversión Pública · CAF Banco de Desarrollo de América Latina",
+      "fecha": "2012-12",
+      "categoria": "Territorio y cartografía",
+      "tematica": "Planificación territorial, desarrollo urbano, política pública y evaluación de planes locales",
+      "descripcion": "Informe nacional de diciembre de 2012 que incluye un apartado específico sobre San Patricio del Chañar y el Plan de Ordenamiento y Desarrollo Urbano de 2004. Presenta una evaluación retrospectiva del proceso de planificación, sus objetivos productivos, su dimensión urbana y social y los resultados atribuidos a su implementación. Se incorpora como análisis técnico de alcance nacional con un estudio de caso local; sus valoraciones corresponden al equipo autor y no constituyen una evaluación actualizada del municipio.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://www.mininterior.gob.ar/planificacion/pdf/Estudio-sobre-estado-actual-planificacion-argentina%28diciembre-2012%29.pdf",
+      "estado": "Disponible en origen",
+      "accionExterna": "Abrir informe completo",
+      "autorizacion": {
+        "estado": "enlace_a_publicacion_institucional",
+        "base": "Se facilita el acceso al PDF publicado por un organismo público. LIBRITO no aloja ni redistribuye el documento.",
+        "referencia": "Estudio sobre el estado actual de la planificación en Argentina, informe final, diciembre de 2012."
+      },
+      "procedencia": "Programa de Fortalecimiento Institucional de la Subsecretaría de Planificación Territorial de la Inversión Pública · publicación realizada con financiamiento de CAF Banco de Desarrollo de América Latina.",
+      "integridad": "PDF institucional completo; se verificaron portada, fecha, equipo técnico y apartado dedicado al Plan de Ordenamiento y Desarrollo Urbano de San Patricio del Chañar."
     }
   ]
 }
