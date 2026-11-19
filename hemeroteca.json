@@ -2063,6 +2063,48 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva metadatos y una descripción propia; la noticia completa se consulta en el medio original."
+    },
+    {
+      "id": "lm-2009-11-15-presentacion-el-visionario",
+      "titulo": "Emotivo recuerdo de la vida del “inventor” de El Chañar",
+      "fecha": "2009-11-15",
+      "medio": "La Mañana de Neuquén",
+      "autor": "Redacción",
+      "descripcion": "Crónica de la presentación del libro El Visionario, dedicado al ingeniero Roberto Gasparri, realizada en el hall de la Escuela N.º 273. Registra testimonios de vecinos, autoridades, familiares y colaboradores, y explica que el periodista Javier Avena reunió entrevistas a personas que trabajaron con Gasparri. Es un registro periodístico de memoria oral y homenaje comunitario, no una biografía independiente del libro.",
+      "url": "https://www.lmneuquen.com/emotivo-recuerdo-la-vida-del-inventor-el-chanar-n46531",
+      "etiquetas": [
+        "hemeroteca histórica",
+        "2009",
+        "Roberto Gasparri",
+        "El Visionario",
+        "Escuela 273",
+        "memoria oral",
+        "pioneros"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a La Mañana de Neuquén. LIBRITO conserva metadatos y una descripción propia; la nota completa se consulta en el medio original."
+    },
+    {
+      "id": "rn-2009-11-24-presentacion-libro-roberto-gasparri",
+      "titulo": "Presentaron libro sobre Roberto Gasparri con un doble homenaje",
+      "fecha": "2009-11-24",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Crónica de la presentación del libro El Visionario en la Escuela N.º 273 y del homenaje comunitario a Roberto J. Gasparri. Registra la decisión de denominar Ingeniero Roberto J. Gasparri al acceso principal del pueblo, testimonios de autoridades y referencias a las donaciones realizadas por Gasparri a la escuela, entre ellas tierras, maquinarias y elementos escolares. La nota documenta lo expresado durante el acto y no reemplaza las ordenanzas o escrituras correspondientes.",
+      "url": "https://www.rionegro.com.ar/presentaron-libro-sobre-roberto-gasparri-con-un-doble-homenaje-IHHRN1259027628166/",
+      "etiquetas": [
+        "hemeroteca histórica",
+        "2009",
+        "Roberto Gasparri",
+        "El Visionario",
+        "Escuela 273",
+        "pioneros",
+        "memoria comunitaria"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva metadatos y una descripción propia; el contenido completo se consulta en el medio original."
     }
   ]
 }
