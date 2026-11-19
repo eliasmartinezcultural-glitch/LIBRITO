@@ -1373,28 +1373,6 @@
       },
       "procedencia": "Dirección Provincial de Estadística y Censos de la Provincia del Neuquén.",
       "integridad": "PDF estadístico oficial; el municipio aparece en el Cuadro 20 y en el gráfico comparativo de superficies autorizadas."
-    },
-    {
-      "id": "mapoteca-neuquen-plano-localidad-san-patricio-chanar",
-      "titulo": "Plano de San Patricio del Chañar · Mapoteca Digital provincial",
-      "autoria": "Dirección Provincial de Catastro e Información Territorial",
-      "institucion": "Gobierno de la Provincia del Neuquén",
-      "fecha": "2023",
-      "categoria": "Territorio y cartografía",
-      "tematica": "Plano urbano, calles, espacios verdes, equipamientos públicos, rutas y localización provincial",
-      "descripcion": "Plano oficial de la localidad publicado en la Mapoteca Digital de Catastro de Neuquén. Identifica la trama urbana y referencias como espacios verdes, ruta provincial 7, cursos de agua, municipio, hospital, policía, bomberos, escuelas, plazas, campos deportivos, radio municipal y centros comunitarios. El organismo indica que los mapas pueden descargarse e imprimirse solo para uso personal y prohíbe su reproducción con fines comerciales sin autorización.",
-      "formato": "IMAGEN / MAPA",
-      "acceso": "origen",
-      "urlOriginal": "https://dpc.neuquen.gov.ar/MapasYPlanos/Localidades/san_patricio_chagnar.jpg",
-      "urlFicha": "https://dpc.neuquen.gov.ar/Mapa",
-      "estado": "Disponible en origen · uso personal según organismo",
-      "autorizacion": {
-        "estado": "restriccion_de_uso_explicita",
-        "base": "La Mapoteca Digital informa que su cartografía está registrada y permite descarga e impresión únicamente para uso personal; prohíbe reproducción total o parcial para comercialización sin autorización expresa.",
-        "referencia": "Dirección Provincial de Catastro e Información Territorial, Mapoteca Digital, condiciones de uso."
-      },
-      "procedencia": "Dirección Provincial de Catastro e Información Territorial de la Provincia del Neuquén · Mapoteca Digital · plano de localidades.",
-      "integridad": "Enlace directo a la imagen original del plano. LIBRITO no descarga ni republica el mapa."
     }
   ]
 }
