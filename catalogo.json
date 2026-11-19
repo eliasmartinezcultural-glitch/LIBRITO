@@ -1,8 +1,8 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 3,
-  "descripcion": "Colección de documentos PDF completos, legibles, descargables e imprimibles sobre San Patricio del Chañar.",
-  "regla": "La biblioteca publica exclusivamente archivos documentales completos y autorizados. No es un directorio de enlaces.",
+  "version": 4,
+  "descripcion": "Colección de documentos locales completos y accesos directos a originales institucionales y académicos, con autoría, procedencia y condiciones de uso visibles.",
+  "regla": "Los PDF alojados en LIBRITO se distinguen de los documentos que se abren en su fuente original. Nunca se presenta una ficha como archivo alojado.",
   "categorias": [
     "Historia y memoria",
     "Libros y publicaciones",
@@ -57,6 +57,160 @@
       "integridad": "Copia binaria descargada del portal oficial; 3 páginas verificadas y SHA-256 calculado.",
       "sha256": "9178d750d90f5c782a425b720656515ad0c4f6c47a5c39ac042421cabed5bc2c",
       "paginas": 3
+    },
+    {
+      "id": "carta-organica-2004-original",
+      "titulo": "Carta Orgánica Municipal · publicación de 2004",
+      "autoria": "Convención Municipal de San Patricio del Chañar",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2004-02-13",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Carta orgánica, autonomía municipal, identidad local y organización institucional",
+      "descripcion": "Publicación oficial de la Carta Orgánica sancionada por la Convención Municipal en diciembre de 2003. Es una versión anterior a la reforma publicada en 2006; se conserva como documento histórico y debe leerse junto con la versión posterior.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/Boletines/bo04021302862a.pdf",
+      "urlFicha": "https://infoleg.neuquen.gov.ar/BoletinDetalle?Id=393",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Acceso al documento oficial desde el Boletín Oficial provincial. LIBRITO no aloja una copia de este archivo.",
+        "referencia": "Boletín Oficial de la Provincia del Neuquén, edición 2862, 13-02-2004."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, edición 2862, 13 de febrero de 2004.",
+      "integridad": "Enlace directo al PDF oficial; archivo alojado por el organismo emisor."
+    },
+    {
+      "id": "informacion-municipal-basica-1999-2000",
+      "titulo": "Información Municipal Básica · San Patricio del Chañar",
+      "autoria": "Dirección Provincial de Estadística y Censos",
+      "institucion": "Provincia del Neuquén",
+      "fecha": "2001",
+      "categoria": "Informes y estadísticas",
+      "tematica": "Reseña histórica, superficie municipal, rutas y datos territoriales",
+      "descripcion": "Ficha histórica de San Patricio del Chañar incluida en la publicación Información Municipal Básica 1999–2000, actualizada en 2001.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://www.estadisticaneuquen.gob.ar/static/archivos/Publicaciones/InfMunBasica/Basica99-00/Cartografia/San%20Patricio.PDF",
+      "urlFicha": "https://www.estadisticaneuquen.gob.ar/",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Acceso al archivo estadístico desde el sitio oficial provincial. LIBRITO no aloja una copia ni atribuye una licencia de redistribución no identificada.",
+        "referencia": "Dirección Provincial de Estadística y Censos del Neuquén, Información Municipal Básica 1999–2000."
+      },
+      "procedencia": "Dirección Provincial de Estadística y Censos de la Provincia del Neuquén.",
+      "integridad": "PDF enlazado desde el repositorio estadístico oficial."
+    },
+    {
+      "id": "declaracion-50-aniversario-diputados-2023",
+      "titulo": "50 años de San Patricio del Chañar · proyecto de declaración",
+      "autoria": "Tanya Bertoldi, diputada nacional",
+      "institucion": "Honorable Cámara de Diputados de la Nación",
+      "fecha": "2023",
+      "categoria": "Historia y memoria",
+      "tematica": "Aniversario, historia local, primeros pobladores y desarrollo de la localidad",
+      "descripcion": "Proyecto de declaración 1347-D-2023 presentado ante la Cámara de Diputados de la Nación por el 50.º aniversario de San Patricio del Chañar. Incluye fundamentos históricos sobre la localidad.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://www4.hcdn.gob.ar/dependencias/dsecretaria/Periodo2023/PDF2023/TP2023/1347-D-2023.pdf",
+      "urlFicha": "https://www.hcdn.gob.ar/",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Documento legislativo disponible desde el sitio oficial de la Cámara de Diputados. LIBRITO enlaza el original y no aloja una copia.",
+        "referencia": "Cámara de Diputados de la Nación, expediente 1347-D-2023."
+      },
+      "procedencia": "Honorable Cámara de Diputados de la Nación, período parlamentario 2023.",
+      "integridad": "PDF original alojado por la Cámara de Diputados."
+    },
+    {
+      "id": "centro-cultural-chanar-2003",
+      "titulo": "Centro Cultural San Patricio del Chañar · anteproyecto ganador",
+      "autoria": "Pablo I. Asprella, Paula Jansenson, Mario Antonelli, Valentín García Fernández y Carlos Barros",
+      "institucion": "Facultad de Arquitectura y Urbanismo · Universidad Nacional de La Plata",
+      "fecha": "2003-06",
+      "categoria": "Cultura y patrimonio",
+      "tematica": "Arquitectura, centro cultural, memoria urbana y espacios comunitarios",
+      "descripcion": "Primer premio del concurso de anteproyectos para construir el Centro Cultural del Chañar. Publicación con memoria descriptiva, criterios de diseño y propuesta arquitectónica. El registro identifica licencia Creative Commons Atribución 4.0.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://sedici.unlp.edu.ar/bitstream/handle/10915/88551/Documento_completo.pdf-PDFA.pdf?isAllowed=y&sequence=1",
+      "urlFicha": "https://sedici.unlp.edu.ar/handle/10915/88551",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "licencia_confirmada",
+        "base": "Creative Commons Atribución 4.0 Internacional (CC BY 4.0). Al reutilizar el documento deben mantenerse la atribución y la referencia a la fuente.",
+        "referencia": "Registro SEDICI-UNLP, identificador 10915/88551."
+      },
+      "procedencia": "SEDICI, Servicio de Difusión de la Creación Intelectual, Universidad Nacional de La Plata.",
+      "integridad": "PDF completo enlazado desde el repositorio institucional; registro con extensión 74–77."
+    },
+    {
+      "id": "rivar-circuitos-agroalimentos-2025",
+      "titulo": "Circuitos alternativos de producción de agroalimentos en Neuquén",
+      "autoria": "María Daniela Rodríguez y Verónica Trpin",
+      "institucion": "RIVAR · Universidad de Santiago de Chile",
+      "fecha": "2025-04-04",
+      "categoria": "Educación y conocimiento",
+      "tematica": "San Patricio del Chañar, huertas, producción familiar, agroalimentos y territorio",
+      "descripcion": "Artículo de investigación que estudia circuitos de producción de alimentos, huerteras, productores familiares y espacios educativos y municipales en San Patricio del Chañar. Publicado en RIVAR, volumen 12, número 35, páginas 86–101. Licencia CC BY 4.0.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://www.scielo.cl/pdf/rivar/v12n35/0719-4994-rivar-12-35-86.pdf",
+      "urlFicha": "https://www.scielo.cl/scielo.php?pid=S0719-49942025000200086&script=sci_abstract",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "licencia_confirmada",
+        "base": "Creative Commons Atribución 4.0 Internacional (CC BY 4.0), según la política editorial de RIVAR.",
+        "referencia": "RIVAR, volumen 12, número 35, 2025; DOI 10.35588/xt3b7810."
+      },
+      "procedencia": "SciELO Chile, revista RIVAR, Universidad de Santiago de Chile.",
+      "integridad": "PDF original de 16 páginas, enlazado desde SciELO."
+    },
+    {
+      "id": "inta-productores-organizan-2008",
+      "titulo": "Cuando los productores se organizan · experiencia del Chañar",
+      "autoria": "Juan Roberto Kiessling y María Julieta Calí",
+      "institucion": "Instituto Nacional de Tecnología Agropecuaria · INTA",
+      "fecha": "2008-06",
+      "categoria": "Libros y publicaciones",
+      "tematica": "Historia productiva, fruticultura, productores y organización rural",
+      "descripcion": "Artículo publicado en Fruticultura & Diversificación, 14 (57), páginas 38–46. El registro del INTA indica acceso abierto y licencia CC BY-NC-SA 4.0: uso no comercial, atribución y compartir bajo la misma licencia.",
+      "formato": "PDF",
+      "acceso": "ficha",
+      "urlOriginal": "http://hdl.handle.net/20.500.12123/21107",
+      "urlFicha": "https://repositoriosdigitales.sicyt.gob.ar/vufind/Record/INTADig_2859921be929d377f0cddbc17d361e67",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "licencia_confirmada",
+        "base": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0). La obra no debe incorporarse a usos comerciales ni distribuirse sin respetar la licencia.",
+        "referencia": "Registro INTA Digital, OAI oai:localhost:20.500.12123/21107."
+      },
+      "procedencia": "INTA Digital, Estación Experimental Agropecuaria Alto Valle; Fruticultura & Diversificación 14 (57), 2008.",
+      "integridad": "Ficha institucional con acceso al archivo PDF original."
+    },
+    {
+      "id": "plan-ordenamiento-ambiental-chanar-cfi",
+      "titulo": "Plan de Ordenamiento Territorial Ambiental · Añelo y San Patricio del Chañar",
+      "autoria": "Consejo Federal de Inversiones",
+      "institucion": "Consejo Federal de Inversiones · Gobierno de la Nación",
+      "fecha": "",
+      "categoria": "Territorio y cartografía",
+      "tematica": "Ordenamiento territorial, ambiente y planificación de San Patricio del Chañar",
+      "descripcion": "Estudio de ordenamiento territorial y ambiental para Añelo, San Patricio del Chañar y Sauzal Bonito. Se ofrece únicamente el acceso al PDF publicado en el portal oficial; LIBRITO no reproduce ni redistribuye el archivo.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://www.mininterior.gob.ar/planificacion/pdf/planes-loc/NEUQUEN/Plan-de-Ordenamiento-Territorial-Ambiental-para-las-localidades-A%C3%B1elo-San-Patricio-del-Cha%C3%B1ar-y-Sauzal-Bonito.pdf",
+      "urlFicha": "https://www.cfi.org.ar/",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "El documento se consulta en su fuente oficial. No se presume autorización para alojar, copiar o redistribuir el archivo.",
+        "referencia": "Consejo Federal de Inversiones, Plan de Ordenamiento Territorial Ambiental para Añelo, San Patricio del Chañar y Sauzal Bonito."
+      },
+      "procedencia": "Consejo Federal de Inversiones; copia alojada en el portal oficial del Ministerio del Interior.",
+      "integridad": "Enlace directo al PDF de la fuente institucional; no alojado en LIBRITO."
     }
   ]
 }
