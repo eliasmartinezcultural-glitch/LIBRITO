@@ -1,6 +1,6 @@
 {
   "nombre": "Hemeroteca de LIBRITO · San Patricio del Chañar",
-  "version": 25,
+  "version": 26,
   "descripcion": "Índice de noticias y páginas periodísticas que mencionan expresamente San Patricio del Chañar, de distintos diarios, años y formatos.",
   "criterio": "Se incorpora una noticia cuando el texto identifica expresamente a San Patricio del Chañar o trata sobre la localidad. Se conserva título, medio, autoría disponible, fecha, enlace original y una descripción breve. No se reproduce el cuerpo periodístico.",
   "noticias": [
@@ -3122,6 +3122,25 @@
       "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva metadatos y una descripción propia; el aviso original se consulta en el medio."
     },
     {
+      "id": "rn-2004-07-16-objeciones-presupuesto",
+      "titulo": "También objetaron el Presupuesto 2003",
+      "fecha": "2004-07-16",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Artículo sobre objeciones planteadas por la multisectorial de San Patricio del Chañar al presupuesto ejecutado durante 2003. La publicación recoge cuestionamientos sobre gastos en obras, entre ellos la ciclovía, y declaraciones de una representante de la multisectorial. Se conserva como denuncia y controversia pública según las fuentes citadas, no como auditoría ni determinación judicial de irregularidades.",
+      "url": "https://www.rionegro.com.ar/tambien-objetaron-el-presupuesto-2003-MCHRN0407161916702/",
+      "etiquetas": [
+        "2004",
+        "presupuesto",
+        "transparencia",
+        "obras públicas",
+        "municipio"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva referencia y descripción propia."
+    },
+    {
       "id": "rn-2004-05-24-aniversario-31",
       "titulo": "Colorido festejo en el aniversario de El Chañar",
       "fecha": "2004-05-24",
@@ -3139,6 +3158,25 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva metadatos y una descripción propia; la publicación completa se consulta en el medio original."
+    },
+    {
+      "id": "rn-2004-04-24-conflicto-municipales-salarios",
+      "titulo": "No hay solución al conflicto de El Chañar",
+      "fecha": "2004-04-24",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Cobertura de un conflicto salarial de trabajadores municipales que anunciaban la continuidad de medidas de fuerza ante la falta de acuerdo con el Ejecutivo local. La nota recoge las posiciones del gremio y de las autoridades sobre el monto de la recomposición salarial. Se conserva como registro periodístico del conflicto laboral, con las declaraciones atribuidas a sus protagonistas.",
+      "url": "https://www.rionegro.com.ar/no-hay-solucion-al-conflicto-de-el-chanar-DBHRN04042413241017/",
+      "etiquetas": [
+        "2004",
+        "trabajo",
+        "municipio",
+        "salarios",
+        "conflicto gremial"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva referencia y descripción propia."
     },
     {
       "id": "rn-2003-05-21",
