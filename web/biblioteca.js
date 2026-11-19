@@ -109,6 +109,18 @@
   function tarjeta(item) {
     const card = nodo("article", "documento");
     card.append(nodo("p", "documento-meta", (texto(item.categoria) || "Biblioteca") + " · " + formato(item)));
+    if (urlSegura(item.imagen)) {
+      const figura = nodo("figure", "documento-imagen");
+      const img = nodo("img", "");
+      img.src = item.imagen;
+      img.alt = texto(item.imagen_alt) || ("Imagen de presentación de " + (texto(item.titulo) || "la obra"));
+      img.loading = "lazy";
+      img.decoding = "async";
+      img.addEventListener("error", () => figura.remove(), { once: true });
+      figura.append(img);
+      if (texto(item.imagen_credito)) figura.append(nodo("figcaption", "", item.imagen_credito));
+      card.append(figura);
+    }
     card.append(nodo("h3", "documento-titulo", texto(item.titulo) || "Material sin título"));
 
     const firma = [texto(item.autoria), fecha(item.fecha)].filter(Boolean).join(" · ");
