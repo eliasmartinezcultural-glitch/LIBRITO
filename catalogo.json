@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 41,
+  "version": 42,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -3209,6 +3209,68 @@
         "ambiente",
         "residuos",
         "espacios públicos"
+      ]
+    },
+    {
+      "id": "ordenanza-1370-2023-asignaciones-familiares-personal-municipal",
+      "titulo": "Ordenanza Municipal 1370/23 · régimen de asignaciones familiares del personal municipal",
+      "autoria": "Honorable Concejo Deliberante de San Patricio del Chañar",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2023-11-22",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Empleo público municipal, estatuto del personal y asignaciones familiares",
+      "descripcion": "La Ordenanza 1370/23 modifica el artículo 20 del anexo I de la Ordenanza 1348/23, referido al régimen de asignaciones familiares del personal municipal. El texto sustituye la referencia a la legislación nacional por la legislación provincial. Se incorpora como antecedente normativo de la organización del empleo público local; no constituye una explicación de los requisitos actuales para percibir asignaciones ni reemplaza la consulta de la normativa vigente.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/Boletines/Firmado_bol231207_4234.pdf",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar Boletín Oficial original",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Se enlaza la edición oficial del Boletín Oficial provincial. LIBRITO conserva la referencia y no aloja ni redistribuye el PDF.",
+        "referencia": "Boletín Oficial de Neuquén, edición 4234, 07-12-2023, páginas impresas 120–121."
+      },
+      "procedencia": "Dirección del Boletín Oficial y Archivo de la Provincia del Neuquén; edición 4234.",
+      "integridad": "PDF oficial consultado. La Ordenanza 1370/23 aparece en las páginas impresas 120–121 del ejemplar completo.",
+      "etiquetas": [
+        "2023",
+        "Ordenanza 1370/23",
+        "empleo público",
+        "Municipalidad",
+        "asignaciones familiares",
+        "estatuto municipal"
+      ]
+    },
+    {
+      "id": "decreto-municipal-3397-2023-veto-ordenanza-1372",
+      "titulo": "Decreto Municipal 3397/2023 · veto a la Ordenanza 1372/23 sobre regularización de infracciones de tránsito",
+      "autoria": "Departamento Ejecutivo de la Municipalidad de San Patricio del Chañar",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2023-11-30",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Gobierno municipal, proceso legislativo, tránsito y contravenciones",
+      "descripcion": "El Decreto Municipal 3397/2023 veta la Ordenanza Municipal 1372/23. Los considerandos del decreto señalan que la ordenanza establecía un régimen de regularización de infracciones de tránsito cometidas en la zona urbana y fundamentan el veto en el impacto que, según el Ejecutivo, tendría sobre los recursos municipales. Se registra el acto de veto publicado oficialmente; no se reconstruye el texto completo de la ordenanza vetada ni se presume qué tratamiento posterior tuvo.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/Boletines/Firmado_bol231207_4234.pdf",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar Boletín Oficial original",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Se enlaza la edición oficial del Boletín Oficial provincial. LIBRITO conserva la referencia y no aloja ni redistribuye el PDF.",
+        "referencia": "Boletín Oficial de Neuquén, edición 4234, 07-12-2023, página impresa 109."
+      },
+      "procedencia": "Dirección del Boletín Oficial y Archivo de la Provincia del Neuquén; edición 4234.",
+      "integridad": "PDF oficial consultado. El Decreto Municipal 3397/2023 aparece en la página impresa 109 del ejemplar completo.",
+      "etiquetas": [
+        "2023",
+        "Decreto 3397/2023",
+        "Ordenanza 1372/23",
+        "veto",
+        "tránsito",
+        "infracciones",
+        "Concejo Deliberante",
+        "Ejecutivo municipal"
       ]
     }
   ]
