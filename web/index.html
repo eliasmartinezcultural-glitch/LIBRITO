@@ -3,74 +3,31 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#f6f3ea">
-<meta name="description" content="LIBRITO reúne documentos y obras terminadas sobre San Patricio del Chañar. No crea ni modifica las obras que comparte.">
+<meta name="theme-color" content="#f4f0e6">
+<meta name="description" content="LIBRITO reúne obras, documentos y noticias sobre San Patricio del Chañar.">
 <meta name="color-scheme" content="light">
 <title>LIBRITO · Biblioteca de San Patricio del Chañar</title>
 <link rel="stylesheet" href="estilos.css">
 </head>
-<body>
+<body class="inicio">
 <a class="salto" href="#contenido">Saltar al contenido</a>
-<header class="encabezado">
-  <div class="contenedor encabezado-interior">
-    <a class="marca" href="../" aria-label="LIBRITO, inicio">
-      <span class="marca-dibujo" aria-hidden="true">L</span>
-      <span><strong>LIBRITO</strong><small>Biblioteca de San Patricio del Chañar</small></span>
-    </a>
-  </div>
-</header>
+<header class="encabezado"><div class="contenedor encabezado-interior">
+<a class="marca" href="./" aria-label="LIBRITO, inicio"><span class="marca-dibujo" aria-hidden="true">L</span><span><strong>LIBRITO</strong><small>Biblioteca de San Patricio del Chañar</small></span></a>
+</div></header>
 <main class="contenedor" id="contenido">
-  <section class="presentacion" aria-labelledby="titulo-principal">
-    <p class="lugar">SAN PATRICIO DEL CHAÑAR · NEUQUÉN</p>
-    <h1 id="titulo-principal">Obras que ya existen. Un lugar para encontrarlas.</h1>
-    <p class="bajada">LIBRITO reúne documentos, libros, mapas y publicaciones terminadas sobre nuestro lugar.</p>
-    <p class="regla">No creamos ni modificamos las obras. Respetamos sus autores, instituciones, fuentes y condiciones de uso.</p>
-  </section>
-  <nav class="puertas" aria-label="Elegí por dónde entrar">
-    <a class="puerta" href="#coleccion"><span class="puerta-numero" aria-hidden="true">01</span><span class="puerta-titulo">Biblioteca</span><span class="puerta-ayuda">Todos los materiales</span></a>
-    <a class="puerta" href="#descargas"><span class="puerta-numero" aria-hidden="true">02</span><span class="puerta-titulo">Descargar</span><span class="puerta-ayuda">Archivos alojados aquí</span></a>
-    <a class="puerta" href="#lecturas"><span class="puerta-numero" aria-hidden="true">03</span><span class="puerta-titulo">Leer</span><span class="puerta-ayuda">Obras en su sitio original</span></a>
-    <a class="puerta" href="#hemeroteca"><span class="puerta-numero" aria-hidden="true">04</span><span class="puerta-titulo">Hemeroteca</span><span class="puerta-ayuda">Noticias del Chañar</span></a>
-  </nav>
-  <section class="coleccion" id="coleccion" aria-labelledby="titulo-coleccion">
-    <div class="titulo-coleccion">
-      <div><p class="sobrelinea">LA BIBLIOTECA</p><h2 id="titulo-coleccion">Encontrá un material</h2></div>
-      <p class="cantidad"><strong id="total-documentos" aria-live="polite">—</strong><span>materiales</span></p>
-    </div>
-    <div class="buscador-zona">
-      <label for="buscador">¿Qué estás buscando?</label>
-      <div class="buscador-fila">
-        <input id="buscador" type="search" placeholder="Historia, escuela, mapas..." autocomplete="off" spellcheck="false" aria-describedby="ayuda-busqueda">
-        <button id="limpiar-busqueda" class="limpiar" type="button" hidden>Limpiar</button>
-      </div>
-      <p class="ayuda-busqueda" id="ayuda-busqueda">Podés escribir con o sin tilde: Chañar o Chanar.</p>
-    </div>
-    <p class="contador" id="contador" role="status" aria-live="polite">Abriendo la biblioteca...</p>
-    <div id="coleccion-lista" class="lista-documentos" aria-busy="true">
-      <p class="estado">Un momento, estamos abriendo los materiales.</p>
-    </div>
-  </section>
-  <section class="hemeroteca" id="hemeroteca" aria-labelledby="titulo-hemeroteca">
-    <p class="sobrelinea">ARCHIVO PERIODÍSTICO</p>
-    <h2 id="titulo-hemeroteca">Hemeroteca del Chañar</h2>
-    <p class="hemeroteca-intro">Noticias de distintos diarios que mencionan a San Patricio del Chañar. Un registro para recorrer cómo se contó la historia de la localidad a través del tiempo.</p>
-    <div class="hemeroteca-filtros"><label for="buscador-hemeroteca">Buscar una noticia</label><input id="buscador-hemeroteca" type="search" placeholder="Año, diario, escuela, chacras..." autocomplete="off" spellcheck="false"></div>
-    <p class="hemeroteca-contador" id="contador-hemeroteca" role="status" aria-live="polite">Abriendo la hemeroteca...</p>
-    <div id="lista-hemeroteca" class="hemeroteca-lista" aria-busy="true"><p class="estado">Un momento, estamos reuniendo las noticias.</p></div>
-    <p class="hemeroteca-nota">LIBRITO no reproduce artículos periodísticos. Conserva sus referencias, autorías, fechas y enlaces para consultar cada noticia en el medio que la publicó. La selección se ampliará con nuevas búsquedas y aportes documentales.</p>
-  </section>
-  <section class="nota-biblioteca" aria-label="Cómo funciona LIBRITO">
-    <p><strong>Una aclaración importante.</strong> Algunos archivos están alojados en LIBRITO. Otros se consultan en la institución o sitio que los publicó. Cada material indica claramente dónde se abre y qué condiciones tiene.</p>
-  </section>
+<section class="presentacion inicio-presentacion" aria-labelledby="titulo-principal">
+<p class="lugar">SAN PATRICIO DEL CHAÑAR · NEUQUÉN</p>
+<h1 id="titulo-principal">Una biblioteca para descubrir nuestro lugar.</h1>
+<p class="bajada">Obras, documentos y noticias que ayudan a conocer San Patricio del Chañar.</p>
+<p class="regla">Dos espacios. Dos formas de recorrer la memoria y el conocimiento del Chañar.</p>
+</section>
+<nav class="puertas puertas-principales" aria-label="Elegí una sección">
+<a class="puerta puerta-obras" href="../obras.html"><span class="puerta-numero">01 · COLECCIÓN</span><span class="puerta-titulo">Obras</span><span class="puerta-ayuda">Libros, documentos, investigaciones, mapas y trabajos.</span><span class="puerta-entrada">Entrar <span aria-hidden="true">→</span></span></a>
+<a class="puerta puerta-hemeroteca" href="../hemeroteca.html"><span class="puerta-numero">02 · ARCHIVO PERIODÍSTICO</span><span class="puerta-titulo">Hemeroteca</span><span class="puerta-ayuda">Noticias de diarios que hablan de San Patricio del Chañar.</span><span class="puerta-entrada">Entrar <span aria-hidden="true">→</span></span></a>
+</nav>
+<section class="nota-biblioteca nota-inicio" aria-label="Cómo funciona LIBRITO">
+<p><strong>Compartir para conocer.</strong> LIBRITO reúne materiales existentes, conserva sus créditos y procedencias y facilita el acceso a las fuentes. No se apropia de las obras ni modifica sus originales.</p>
+</section>
 </main>
-<footer class="pie">
-  <div class="contenedor pie-interior">
-    <span>LIBRITO · Biblioteca Digital Chañarense</span>
-    <span>Un proyecto independiente de Ocarina Producciones</span>
-  </div>
-</footer>
-<script src="biblioteca.js"></script>
-<script src="hemeroteca.js"></script>
-<noscript><p class="sin-script">Para consultar la biblioteca, activá JavaScript en tu navegador.</p></noscript>
-</body>
-</html>
+<footer class="pie"><div class="contenedor pie-interior"><span>LIBRITO · Biblioteca Digital Chañarense</span><span>Un proyecto independiente de Ocarina Producciones</span></div></footer>
+</body></html>
