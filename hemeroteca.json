@@ -2023,6 +2023,46 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "Artículo y fotografías pertenecen a +P / LM Neuquén y su autora. LIBRITO conserva metadatos y una descripción propia; la publicación completa se consulta en el medio original."
+    },
+    {
+      "id": "rn-2006-08-15-aten-denuncia-persecucion",
+      "titulo": "ATEN denuncia persecución en El Chañar",
+      "fecha": "2006-08-15",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Crónica sobre una denuncia pública de la seccional local de ATEN por la distribución de panfletos anónimos dirigidos contra docentes. La nota recoge declaraciones de representantes sindicales y describe el contexto del conflicto. Se conserva como registro periodístico de una denuncia y de las posiciones atribuidas a sus protagonistas; no acredita por sí misma la autoría de los panfletos ni la existencia de una resolución judicial.",
+      "url": "https://www.rionegro.com.ar/aten-denuncia-persecucion-en-el-chanar-HHHRN200681915603/",
+      "etiquetas": [
+        "hemeroteca",
+        "2006",
+        "educación",
+        "docentes",
+        "vida institucional",
+        "conflictos locales"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva metadatos y una descripción propia; las denuncias se atribuyen a quienes las formularon."
+    },
+    {
+      "id": "rn-2006-09-06-clases-dias-heladas",
+      "titulo": "Piden cambio en las clases para los días de heladas",
+      "fecha": "2006-09-06",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Nota sobre un pedido de la representación local de ATEN para adecuar los horarios escolares durante las jornadas de defensa contra heladas en las chacras. Registra cómo el humo de las quemas podía afectar el comienzo de las clases y describe una modalidad de organización acordada por comunidades educativas. Es un testimonio histórico sobre la relación entre actividad frutícola, condiciones ambientales y vida escolar en la localidad.",
+      "url": "https://www.rionegro.com.ar/piden-cambio-en-las-clases-para-los-dias-de-heladas-IIHRN200691906613/",
+      "etiquetas": [
+        "hemeroteca",
+        "2006",
+        "educación",
+        "fruticultura",
+        "heladas",
+        "vida cotidiana"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva metadatos y una descripción propia; la noticia completa se consulta en el medio original."
     }
   ]
 }
