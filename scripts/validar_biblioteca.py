@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
-"""Valida que LIBRITO publique únicamente archivos PDF completos y locales."""
+"""Valida estructura, integridad básica y lectura técnica de los PDF públicos de LIBRITO."""
 import hashlib
 import json
 import re
 import sys
 from pathlib import Path
+from pypdf import PdfReader
 
 ROOT = Path(__file__).resolve().parents[1]
 CATALOG = ROOT / "catalogo.json"
-PUBLIC_PAGE = ROOT / "index.html"
 DOCS = ROOT / "documentos"
 errors = []
 
@@ -37,7 +37,8 @@ for number, item in enumerate(documents, start=1):
 
     required = ("id", "titulo", "autoria", "institucion", "fecha",
                 "categoria", "descripcion", "formato", "archivo",
-                "estado", "autorizacion", "sha256")
+                "estado", "autorizacion", "sha256", "procedencia",
+                "integridad")
     for field in required:
         if not item.get(field):
             fail(f"{prefix}: falta el campo '{field}'.")
@@ -64,6 +65,7 @@ for number, item in enumerate(documents, start=1):
     raw = file_path.read_bytes()
     if not raw.startswith(b"%PDF-"):
         fail(f"{prefix}: el archivo no tiene firma PDF válida.")
+        continue
     if len(raw) < 10_000:
         fail(f"{prefix}: el archivo parece incompleto (menos de 10 KB).")
 
@@ -78,9 +80,28 @@ for number, item in enumerate(documents, start=1):
         fail(f"{prefix}: el formato público debe ser PDF.")
     if item.get("estado") != "Publicado":
         fail(f"{prefix}: solo se permite estado 'Publicado'.")
+
     authorization = item.get("autorizacion")
-    if not isinstance(authorization, dict) or authorization.get("estado") != "confirmada":
-        fail(f"{prefix}: la autorización debe estar confirmada.")
+    if not isinstance(authorization, dict):
+        fail(f"{prefix}: falta el objeto de autorización.")
+    else:
+        if authorization.get("estado") != "confirmada":
+            fail(f"{prefix}: la autorización debe estar confirmada.")
+        if not authorization.get("base") or not authorization.get("referencia"):
+            fail(f"{prefix}: la autorización debe documentar base y referencia.")
+
+    try:
+        reader = PdfReader(str(file_path), strict=True)
+        if reader.is_encrypted:
+            fail(f"{prefix}: el PDF está cifrado y no es de acceso directo.")
+        page_count = len(reader.pages)
+        if page_count < 1:
+            fail(f"{prefix}: el PDF no contiene páginas.")
+        declared_pages = item.get("paginas")
+        if declared_pages is not None and declared_pages != page_count:
+            fail(f"{prefix}: el catálogo declara {declared_pages} páginas, pero el PDF tiene {page_count}.")
+    except Exception as exc:
+        fail(f"{prefix}: no se pudo leer la estructura del PDF: {exc}")
 
 actual_files = {p.resolve() for p in DOCS.rglob("*") if p.is_file() and p.suffix.lower() == ".pdf"}
 for path in sorted(actual_files - listed_files):
@@ -88,11 +109,17 @@ for path in sorted(actual_files - listed_files):
 for path in sorted(listed_files - actual_files):
     fail(f"Registro sin archivo PDF local: {path.relative_to(ROOT)}")
 
-page = PUBLIC_PAGE.read_text(encoding="utf-8")
-if re.search(r"""(?:href|src)\s*=\s*["']https?://""", page, re.I):
-    fail("La portada pública contiene enlaces externos.")
-if re.search(r"<\s*(?:video|iframe|audio)\b", page, re.I):
-    fail("La portada pública no puede incluir videos, audio ni iframes.")
+for relative in ("index.html", "web/index.html"):
+    page_path = ROOT / relative
+    if not page_path.is_file():
+        fail(f"No existe la portada {relative}.")
+        continue
+    page = page_path.read_text(encoding="utf-8")
+    if re.search(r"""(?:href|src)\s*=\s*["']https?://""", page, re.I):
+        fail(f"{relative}: la portada pública contiene enlaces externos.")
+    if re.search(r"<\s*(?:video|iframe|audio)\b", page, re.I):
+        fail(f"{relative}: la portada no puede incluir videos, audio ni iframes.")
+
 if (ROOT / "fuentes.html").exists():
     fail("No debe existir una página pública de enlaces externos llamada fuentes.html.")
 
@@ -102,4 +129,5 @@ if errors:
         print(f"- {error}")
     sys.exit(1)
 
-print(f"VALIDACIÓN CORRECTA: {len(documents)} documentos PDF publicados; todos locales, íntegros y con autorización confirmada.")
+print(f"VALIDACIÓN CORRECTA: {len(documents)} PDF publicados; estructura PDF, páginas, hash, metadatos y controles públicos aprobados.")
+print("Nota: la autorización jurídica y la legibilidad visual siguen requiriendo revisión humana.")
