@@ -1,6 +1,6 @@
 # Auditoría integral y búsqueda documental — LIBRITO
 
-**Fecha de corte:** 18 de noviembre de 2026  
+**Fecha de corte:** 19 de noviembre de 2026  
 **Proyecto:** Biblioteca Digital Chañarense — San Patricio del Chañar, Neuquén  
 **Responsable del relevamiento:** Ocarina Producciones  
 **Estado:** investigación ampliada; la colección pública conserva únicamente los archivos ya verificados.
@@ -195,16 +195,50 @@ La automatización actual es útil, pero no reemplaza el control humano. Para ca
 
 La validación automática comprueba estructura, existencia, firma básica del PDF, tamaño, hash y estados declarados. No puede certificar por sí sola derechos de autor, privacidad ni calidad visual.
 
-## 7. Resultado actual — catálogo versión 4
+## 7. Estado actual — catálogo versión 6
 
-- **Materiales visibles en la web:** 11.
-- **PDF alojados en LIBRITO:** 2.
-- **Accesos a PDF o fichas de origen:** 9, identificados como externos.
-- **Registros internos del inventario:** 61.
-- **Portada:** diseño simple, una columna, tipografía grande, búsqueda tolerante a tildes y filtros que solo aparecen cuando aportan valor.
-- **Fuentes externas:** se incorporan enlaces directos o fichas institucionales que permiten llegar al documento original. Se sumaron la revista Cincuentenario y la memoria de Gestión 2019–2023, difundidas por el Municipio mediante Google Drive. No se presentan como copias locales.
-- **Licencias:** se identifican explícitamente los casos CC BY 4.0 y CC BY-NC-SA 4.0. En los documentos sin licencia de redistribución identificada, solo se enlaza la fuente original.
-- **Privacidad:** el Boletín Oficial Municipal 2019 fue revisado y no se incorporó como descarga destacada porque contiene DNI y otros datos personales. Debe tratarse con revisión específica antes de exponerlo en una biblioteca para todo público.
-- **Videos y audios:** excluidos de la biblioteca.
+La segunda pasada amplió el catálogo desde 11 a **18 materiales visibles**.
 
-El siguiente objetivo es recuperar los originales con licencia compatible para alojarlos de forma estable, solicitar permisos a autores e instituciones y sumar nuevas obras sin confundir cantidad de fichas con cantidad de archivos realmente descargables.
+- **Materiales visibles:** 18.
+- **PDF alojados físicamente en LIBRITO:** 2.
+- **Accesos directos a PDF o fichas de origen:** 16.
+- **Nuevos registros incorporados en esta pasada:** 7.
+- **Criterio:** los enlaces externos abren la fuente original. No se cuentan como archivos alojados ni como copias descargables desde el servidor de LIBRITO.
+
+### Nuevos materiales incorporados
+
+1. **Experiencias colectivas y luchas de mujeres rurales en la Argentina** (2025), compilación de Verónica Trpin, Topos / IPEHCS-CONICET / Universidad Nacional del Comahue. El capítulo 6 estudia específicamente las huerteras y la producción de alimentos frescos en San Patricio del Chañar. El PDF identifica licencia CC BY-NC-SA 4.0. [PDF original](https://rdi.uncoma.edu.ar/bitstream/handle/uncomaid/19070/CUA_10_mujeres_rurales_final.pdf?isAllowed=y&sequence=1) · [Ficha institucional](https://rdi.uncoma.edu.ar/handle/uncomaid/19070).
+2. **Dinámica del paisaje agrario de San Patricio del Chañar a través de imágenes satelitales** (2012), Florencia Gisella Finessi y Damián Groch, Boletín Geográfico / Universidad Nacional del Comahue. Texto completo disponible en PDF; no se identificó licencia de redistribución, por lo que se enlaza la fuente. [PDF](https://dialnet.unirioja.es/descarga/articulo/5017798.pdf) · [Ficha REVELE](https://revele.uncoma.edu.ar/index.php/geografia/article/view/69).
+3. **Diagnóstico de los principales valles y áreas con potencial agrícola de la Provincia del Neuquén** (diciembre de 2014), Proyecto FAO UTF ARG 017. Incluye San Patricio del Chañar, Añelo, infraestructura hídrica, sistemas de riego y potencial agrícola. [PDF FAO](https://openknowledge.fao.org/server/api/core/bitstreams/db58a4f0-e4ab-4ccb-bc33-2268d10996f5/content).
+4. **Tecnologías de aplicación en parcelas · Documento de Trabajo n.º 6** (marzo de 2015), FAO UTF ARG 017. Contiene datos específicos de los sistemas de riego del Chañar, sus superficies, fuentes de agua y tecnologías. [PDF FAO](https://www.fao.org/fileadmin/user_upload/rlc/utf017arg/neuquen/DT_06_Tecnolog%C3%ADas_de_aplicaci%C3%B3n_en_parcelas.pdf).
+5. **Áreas de riego en la Provincia del Neuquén**, anexo técnico FAO. Incluye el tramo Añelo–El Chañar y referencias a producción, canales y superficie bajo riego. La fecha y la licencia específica no quedaron confirmadas; se conserva solo el enlace. [PDF FAO](https://www.fao.org/fileadmin/user_upload/rlc/utf017arg/estudio/riegointegral/areasexistentes/Anexos/PROVINCIA_DE_NEUQUEN_FINAL.pdf).
+6. **Lineamientos estratégicos · Región Confluencia** (informe final de 2017), Consejo Federal de Inversiones / programa DAMI. Contiene una ficha específica de San Patricio del Chañar con datos de riego, agua, cloacas y ambiente. [PDF CFI](https://biblioteca.cfi.org.ar/wp-content/uploads/sites/2/2018/09/cfi-region-confluencia-informe-final-28-09-2017.pdf).
+7. **Nueva conexión entre las rutas provinciales 51, 7 y 8 · Estudio de impacto ambiental** (segunda etapa, junio de 2021), Dirección Provincial de Vialidad. Informe técnico de 496 páginas con capítulos de hidrología, geología, patrimonio, población, infraestructura y área de influencia que incluye el ejido de San Patricio del Chañar. Se enlaza el PDF oficial, sin copiarlo. [PDF provincial](https://ambiente.neuquen.gov.ar/wp-content/uploads/2023/07/11619-E2-AM-IN-001-0_DGP-Infraestructura-y-Loteos.pdf).
+
+### Hallazgos documentales pendientes de recuperación
+
+- **Plan de Ordenamiento Territorial San Patricio del Chañar (2025):** el Centro de Documentación de COPADE registra el documento con 367 páginas, registro 7657, institución COPADE–CFI y el nombre de archivo “7657 San Patricio del Chañar.pdf”, pero la ficha consultada no expone un enlace de descarga utilizable. No se presenta como descargable hasta recuperar el archivo. [Ficha COPADE](https://www.copade.gob.ar/centro-documentacion/app/publicacion/publicacion-view/5469).
+- **Plan de ordenamiento territorial y actualización del código urbano rural y de edificación (2018):** el CFI confirma el estudio, su autor Julio S. Caviglioni y una descripción de 73 hojas más un CD; la ficha ofrece una versión RAR. Falta recuperar el paquete y revisar sus condiciones antes de incorporarlo como PDF. [Ficha CFI](http://biblioteca.cfi.org.ar/documento/plan-de-ordenamiento-territorial-y-actualizacion-del-codigo-ubano-rural-y-de-edificacion-de-san-patricio-del-chanar-provincia-del-neuquen/).
+- **Proyecto integral para la gestión de residuos sólidos urbanos de San Patricio del Chañar (2003):** el catálogo del CFI registra cinco volúmenes, 528 hojas y 34 planos. Requiere recuperar el conjunto completo y permiso/condiciones de reproducción.
+- **Archivo histórico de mapas y mensuras:** la identidad municipal cita mensuras de 1881–1882 y 1913 (colonia Tratayén). El IGN informa que trabaja en la búsqueda de material para su Atlas de Cartografía Histórica. Se requiere localizar las hojas exactas y confirmar que correspondan al paraje y al ejido local; no se añadieron mapas de otras zonas por mera proximidad.
+- **Libro de testimonios de primeros pobladores y archivos escolares:** se mantienen como búsquedas prioritarias. Las referencias halladas son pistas de archivo, no descargas confirmadas.
+
+### Fuentes de búsqueda y criterios de selección
+
+Se combinaron búsquedas en español e inglés y variantes de nombre: “San Patricio del Chañar”, “San Patricio del Chanar”, “El Chañar”, “Añelo”, “valle inferior del río Neuquén”, “Chañar NQN”, “agrarian landscape”, “irrigation”, “historical maps”, “fortín”, “Tratayén”, “mensura”, “riego”, “fruticultura”, “memoria”, “patrimonio”, “ordenamiento territorial” y “potencial agrícola”.
+
+Se exploraron repositorios y catálogos de FAO Open Knowledge, Universidad Nacional del Comahue, Dialnet, COPADE, CFI, CONICET, IGN, portales provinciales y municipales, además de repositorios académicos. Se descartaron resultados sin archivo o ficha verificable, documentos de otras localidades sin conexión suficiente, páginas comerciales genéricas y materiales cuya reproducción no está autorizada.
+
+La búsqueda internacional en esta pasada no encontró una colección independiente de documentos locales en otro idioma que aporte un archivo adicional verificable. Se continuará con catálogos de bibliotecas, archivos históricos, inventarios cartográficos y repositorios universitarios de otros países, utilizando también variantes de topónimos y nombres históricos.
+
+### Limitación técnica de esta actualización
+
+Los nuevos documentos quedaron cargados en el catálogo de LIBRITO como enlaces directos a sus fuentes originales. En esta sesión no se pudieron recuperar los binarios PDF desde los servidores externos para alojarlos en la carpeta local del repositorio. Por eso, la web permite abrir el PDF original o llegar a su ficha, pero **no debe anunciar estos 16 materiales externos como descargas alojadas por LIBRITO**. Los dos archivos locales conservan sus botones propios de lectura e impresión y descarga.
+
+La próxima etapa debe priorizar la recuperación de los PDF con licencia compatible, empezando por el libro de 2025 CC BY-NC-SA 4.0, y luego solicitar permisos cuando corresponda. La ficha de COPADE 2025 de 367 páginas es la mayor pieza pendiente de alto valor local.
+
+## 8. Control editorial permanente
+
+Para cada nuevo documento se debe registrar: título exacto, autoría, institución, fecha, pertinencia local, enlace al original, páginas, licencia o condición de uso, integridad y estado de recuperación. Los estados internos continúan siendo: identificado, archivo recuperado, verificado, autorizado y publicado. Solo un archivo recuperado, verificado y autorizado puede incorporarse como copia local.
+
+La cantidad de fichas no equivale a la cantidad de archivos alojados. LIBRITO debe mantener esa diferencia visible para que el lector sepa siempre si está descargando desde la biblioteca o desde la institución que publicó el material.
