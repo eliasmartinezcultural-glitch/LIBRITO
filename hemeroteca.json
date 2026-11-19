@@ -1,6 +1,6 @@
 {
   "nombre": "Hemeroteca de LIBRITO · San Patricio del Chañar",
-  "version": 7,
+  "version": 8,
   "descripcion": "Índice de noticias y páginas periodísticas que mencionan expresamente San Patricio del Chañar, de distintos diarios, años y formatos.",
   "criterio": "Se incorpora una noticia cuando el texto identifica expresamente a San Patricio del Chañar o trata sobre la localidad. Se conserva título, medio, autoría disponible, fecha, enlace original y una descripción breve. No se reproduce el cuerpo periodístico.",
   "noticias": [
@@ -1134,6 +1134,48 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva referencia y descripción propia; las previsiones de la nota no acreditan resultados posteriores."
+    },
+    {
+      "id": "rn-2001-04-19-mapas-inundacion-defensa-civil",
+      "titulo": "Los mapas de inundación duermen en los despachos",
+      "fecha": "2001-04-19",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Cobertura regional sobre la crecida del río Neuquén del 7 de abril de 2001, las maniobras en el dique Ballester y el funcionamiento de los sistemas de emergencia. Incluye un apartado específico sobre San Patricio del Chañar: describe la etapa inicial de organización de Defensa Civil y la capacidad operativa disponible en ese momento. Se incorpora como documento periodístico histórico sobre gestión del riesgo y memoria territorial; las condiciones descriptas corresponden a 2001.",
+      "url": "https://www.rionegro.com.ar/los-mapas-de-inundacion-duermen-en-los-despachos-HRHRN01041919197011/",
+      "etiquetas": [
+        "hemeroteca histórica",
+        "2001",
+        "río Neuquén",
+        "dique Ballester",
+        "Defensa Civil",
+        "territorio",
+        "memoria local"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva referencia y descripción propia; la situación institucional se limita al período informado."
+    },
+    {
+      "id": "rn-2009-07-08-reclamos-quemas-chacras",
+      "titulo": "Lleva 11 años de reclamos por las quemas en chacras",
+      "fecha": "2009-07-08",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Crónica sobre los reclamos de un productor de San Patricio del Chañar respecto de las prácticas de quema utilizadas para combatir heladas tardías. La nota recoge su testimonio y menciona presentaciones que, según el entrevistado, había realizado ante organismos municipales y provinciales desde 1998. Se conserva como registro periodístico de una preocupación ambiental y de las prácticas agrícolas debatidas en la época; las denuncias y valoraciones se atribuyen a la persona entrevistada y no se presentan como conclusiones judiciales o técnicas verificadas por LIBRITO.",
+      "url": "https://www.rionegro.com.ar/lleva-11-anos-de-reclamos-por-las-quemas-en-chacras-KAHRN1247022926142/",
+      "etiquetas": [
+        "hemeroteca histórica",
+        "2009",
+        "chacras",
+        "actividad agrícola",
+        "ambiente",
+        "heladas tardías",
+        "vida rural"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva referencia y descripción propia; los reclamos se atribuyen expresamente al entrevistado."
     }
   ]
 }
