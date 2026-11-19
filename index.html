@@ -17,7 +17,7 @@
       <span class="marca-dibujo" aria-hidden="true">L</span>
       <span><strong>LIBRITO</strong><small>Biblioteca de San Patricio del Chañar</small></span>
     </a>
-    <a class="ir-coleccion" href="#coleccion">Ver biblioteca</a>
+    <nav class="navegacion-principal" aria-label="Secciones"><a href="#coleccion">Biblioteca</a><a href="#hemeroteca">Hemeroteca</a></nav>
   </div>
 </header>
 <main class="contenedor" id="contenido">
@@ -45,6 +45,15 @@
       <p class="estado">Un momento, estamos abriendo los materiales.</p>
     </div>
   </section>
+  <section class="hemeroteca" id="hemeroteca" aria-labelledby="titulo-hemeroteca">
+    <p class="sobrelinea">ARCHIVO PERIODÍSTICO</p>
+    <h2 id="titulo-hemeroteca">Hemeroteca del Chañar</h2>
+    <p class="hemeroteca-intro">Noticias de distintos diarios que mencionan a San Patricio del Chañar. Un registro para recorrer cómo se contó la historia de la localidad a través del tiempo.</p>
+    <div class="hemeroteca-filtros"><label for="buscador-hemeroteca">Buscar una noticia</label><input id="buscador-hemeroteca" type="search" placeholder="Año, diario, escuela, chacras..." autocomplete="off" spellcheck="false"></div>
+    <p class="hemeroteca-contador" id="contador-hemeroteca" role="status" aria-live="polite">Abriendo la hemeroteca...</p>
+    <div id="lista-hemeroteca" class="hemeroteca-lista" aria-busy="true"><p class="estado">Un momento, estamos reuniendo las noticias.</p></div>
+    <p class="hemeroteca-nota">LIBRITO no reproduce artículos periodísticos. Conserva sus referencias, autorías, fechas y enlaces para consultar cada noticia en el medio que la publicó. La selección se ampliará con nuevas búsquedas y aportes documentales.</p>
+  </section>
   <section class="nota-biblioteca" aria-label="Cómo funciona LIBRITO">
     <p><strong>Una aclaración importante.</strong> Algunos archivos están alojados en LIBRITO. Otros se consultan en la institución o sitio que los publicó. Cada material indica claramente dónde se abre y qué condiciones tiene.</p>
   </section>
@@ -56,6 +65,7 @@
   </div>
 </footer>
 <script src="web/biblioteca.js"></script>
+<script src="web/hemeroteca.js"></script>
 <noscript><p class="sin-script">Para consultar la biblioteca, activá JavaScript en tu navegador.</p></noscript>
 </body>
 </html>
