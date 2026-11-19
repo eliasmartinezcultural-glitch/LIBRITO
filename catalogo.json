@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 47,
+  "version": 48,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -3705,6 +3705,141 @@
         "fortines",
         "geografía histórica",
         "siglo XIX"
+      ]
+    },
+    {
+      "id": "masneuquen-mapa-neuquen-1889-seelstrang",
+      "titulo": "Mapa de la Gobernación del Neuquén · Arthur von Seelstrang (1889)",
+      "autoria": "Arthur Eduard von Seelstrang",
+      "institucion": "Instituto Geográfico Nacional; editor J. Ruland, Buenos Aires",
+      "fecha": "1889",
+      "categoria": "Historia y memoria",
+      "tematica": "Cartografía histórica del Territorio del Neuquén, límites, caminos y proyectos de comunicación del siglo XIX",
+      "descripcion": "Mapa histórico de la Gobernación del Neuquén atribuido a Arthur Eduard von Seelstrang, encomendado por el Instituto Geográfico Nacional y editado por J. Ruland. La reproducción y ficha de Más Neuquén permiten consultar la pieza y descargar una versión de gran tamaño. Es cartografía provincial de contexto para reconstruir cómo se representaba el territorio en las décadas posteriores a la ocupación estatal y antes de la formación de los actuales municipios. No es un plano parcelario ni acredita por sí solo la ubicación de Chañar, Tratayén o del actual ejido urbano.",
+      "formato": "Mapa histórico digitalizado",
+      "acceso": "ficha",
+      "urlOriginal": "https://masneuquen.com/mapa-de-la-gobernacion-del-neuquen-1889/",
+      "accionExterna": "Consultar mapa y descarga",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "enlace_a_reproduccion_de_tercero",
+        "base": "LIBRITO enlaza la ficha y reproducción externa; no aloja ni republica el mapa.",
+        "referencia": "Más Neuquén, ficha «Mapa de la Gobernación del Neuquén – 1889»; atribución de autoría y edición indicada en la ficha."
+      },
+      "procedencia": "Mapa de la Gobernación del Neuquén, Arthur Eduard von Seelstrang; Instituto Geográfico Nacional; editor J. Ruland, Buenos Aires. Reproducción consultable en Más Neuquén.",
+      "integridad": "Ficha consultada y datos de autoría/editorial contrastados con la descripción publicada. La reproducción no se ha descargado ni cotejado con un ejemplar físico. Material de contexto provincial, no plano local.",
+      "etiquetas": [
+        "1889",
+        "Arthur von Seelstrang",
+        "mapa antiguo",
+        "cartografía",
+        "Gobernación del Neuquén",
+        "siglo XIX",
+        "territorio"
+      ]
+    },
+    {
+      "id": "masneuquen-plano-topografico-anelo-1943",
+      "titulo": "Plano topográfico de Añelo y cuencas Barreales–Mari Menuco · levantamiento de 1943",
+      "autoria": "Instituto Geográfico Militar",
+      "institucion": "Instituto Geográfico Militar; reproducción consultable en Más Neuquén",
+      "fecha": "1943",
+      "categoria": "Historia y memoria",
+      "tematica": "Cartografía topográfica histórica del departamento Añelo y del valle del río Neuquén; cuencas de Los Barreales y Mari Menuco",
+      "descripcion": "Plano topográfico de la zona de Añelo, las cuencas de Los Barreales y Mari Menuco, realizado en 1943 y publicado en 1945. Corresponde a la Carta Topográfica de la República Argentina, hoja 3969-10. Se incorpora como documento territorial complementario para estudiar el paisaje, las elevaciones, los caminos y las cuencas del entorno regional donde se emplaza hoy San Patricio del Chañar. La hoja es la de Añelo, no la hoja específica de San Patricio del Chañar (3969-11); por eso no debe usarse como si fuera un plano detallado del actual pueblo.",
+      "formato": "Plano topográfico digitalizado",
+      "acceso": "ficha",
+      "urlOriginal": "https://masneuquen.com/plano-topografico-anelo-1943/",
+      "accionExterna": "Consultar plano y descarga",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "enlace_a_reproduccion_de_tercero",
+        "base": "LIBRITO enlaza la ficha y descarga externa; no aloja ni republica el plano.",
+        "referencia": "Más Neuquén, «Plano topográfico – Añelo – 1943»; hoja 3969-10 del Instituto Geográfico Militar."
+      },
+      "procedencia": "Carta Topográfica de la República Argentina, hoja 3969-10, Instituto Geográfico Militar; levantamiento 1943, publicación 1945. Ficha y reproducción en Más Neuquén.",
+      "integridad": "La ficha consultada identifica año de levantamiento, año de publicación, organismo y hoja cartográfica. El alcance es la zona de Añelo y cuencas adyacentes; no se verificó cobertura detallada de la actual planta urbana de San Patricio del Chañar.",
+      "etiquetas": [
+        "1943",
+        "1945",
+        "Añelo",
+        "Instituto Geográfico Militar",
+        "hoja 3969-10",
+        "cartografía histórica",
+        "río Neuquén",
+        "Los Barreales",
+        "Mari Menuco",
+        "territorio"
+      ]
+    },
+    {
+      "id": "masneuquen-mapa-central-neuquen-1965",
+      "titulo": "Mapa de la zona central del Neuquén · hoja 3969 · compilación 1964, edición 1965",
+      "autoria": "Instituto Geográfico Militar",
+      "institucion": "Instituto Geográfico Militar; reproducción consultable en Más Neuquén",
+      "fecha": "1965",
+      "categoria": "Historia y memoria",
+      "tematica": "Cartografía regional previa a la fundación de San Patricio del Chañar; departamento Añelo, Confluencia y red hidrográfica",
+      "descripcion": "Carta topográfica de la zona central del Neuquén, hoja 3969, compilada en 1964 y editada en 1965 por el Instituto Geográfico Militar. Abarca sectores de los departamentos Confluencia, Añelo, Collón Curá, Zapala, Catan Lil y Picunches. La ficha de la reproducción destaca que el río Neuquén aparece todavía sin el pueblo de San Patricio del Chañar, creado en 1973. Es un documento de especial interés para comparar el paisaje y la representación cartográfica del territorio inmediatamente antes de la fundación de la localidad. No sustituye a un plano parcelario ni a una mensura.",
+      "formato": "Mapa histórico digitalizado",
+      "acceso": "ficha",
+      "urlOriginal": "https://masneuquen.com/mapa-de-la-zona-central-de-neuquen-1965-departamentos-confluencia-y-partes-de-collon-cura-zapala-anelo-catan-lil-y-picunches/",
+      "accionExterna": "Consultar mapa y descarga",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "enlace_a_reproduccion_de_tercero",
+        "base": "LIBRITO enlaza la ficha y descarga externa; no aloja ni republica el mapa.",
+        "referencia": "Más Neuquén, ficha «Mapa de la zona central de Neuquén – 1965»; Carta Topográfica hoja 3969 del Instituto Geográfico Militar."
+      },
+      "procedencia": "Instituto Geográfico Militar, Carta Topográfica, hoja 3969; compilación 1964, edición 1965. Reproducción y ficha en Más Neuquén.",
+      "integridad": "La ficha consultada identifica organismo, hoja, año de compilación y edición, y señala que el mapa muestra el río Neuquén sin la localidad de San Patricio del Chañar. La reproducción se enlaza en su página de origen.",
+      "etiquetas": [
+        "1964",
+        "1965",
+        "Instituto Geográfico Militar",
+        "hoja 3969",
+        "Añelo",
+        "Confluencia",
+        "cartografía histórica",
+        "antes de 1973",
+        "río Neuquén"
+      ]
+    },
+    {
+      "id": "blanco-ocupacion-tierra-publica-neuquen-1880-1920-2007",
+      "titulo": "La ocupación de la tierra pública en Neuquén · política distributiva, tenencia y uso del suelo (1880–1920)",
+      "autoria": "Graciela Blanco",
+      "institucion": "CONICET · Universidad Nacional del Comahue · Mundo Agrario, Universidad Nacional de La Plata",
+      "fecha": "2007",
+      "categoria": "Historia y memoria",
+      "tematica": "Ocupación y distribución de tierras fiscales en el Territorio Nacional del Neuquén entre 1880 y 1920; mensuras, propiedad, arrendamiento y políticas estatales",
+      "descripcion": "Artículo académico de Graciela Blanco publicado en Mundo Agrario, vol. 7, n.º 14, primer semestre de 2007. Analiza la distribución y apropiación de tierras públicas en Neuquén entre 1880 y 1920, incluyendo el proceso de exploración y mensura territorial, las leyes de tierras, remates, concesiones, propiedad y arrendamiento. Es una fuente secundaria de investigación para contextualizar la historia de la tierra en el territorio donde luego se desarrolló San Patricio del Chañar. No identifica por sí sola a los titulares ni la cadena dominial de las parcelas locales; para eso se necesitan mensuras, expedientes y registros de propiedad específicos.",
+      "formato": "Artículo académico · PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://www.memoria.fahce.unlp.edu.ar/art_revistas/pr.496/pr.496.pdf",
+      "accionExterna": "Leer artículo completo",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "licencia_cc",
+        "base": "La ficha del repositorio institucional indica licencia Creative Commons Atribución-NoComercial-SinObraDerivada 2.5 Argentina. LIBRITO enlaza el original y no modifica ni republica el texto.",
+        "referencia": "Memoria Académica, Facultad de Humanidades y Ciencias de la Educación, Universidad Nacional de La Plata; licencia CC BY-NC-ND 2.5 AR."
+      },
+      "procedencia": "Blanco, Graciela. Mundo Agrario, vol. 7, n.º 14, 2007. Repositorio Memoria Académica, Facultad de Humanidades y Ciencias de la Educación, UNLP.",
+      "integridad": "PDF institucional consultado. Se verificaron título, autoría, revista, año, licencia y resumen. El artículo estudia la política territorial neuquina a escala provincial; no debe atribuirse a la parcela local un dato que no esté expresamente documentado.",
+      "etiquetas": [
+        "1880",
+        "1884",
+        "1885",
+        "1891",
+        "1903",
+        "1920",
+        "Graciela Blanco",
+        "tierras fiscales",
+        "mensura",
+        "Neuquén antiguo",
+        "historia agraria",
+        "siglo XIX",
+        "siglo XX"
       ]
     }
   ]
