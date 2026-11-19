@@ -16,6 +16,17 @@ Este documento es una guía de trabajo. No acredita que se haya enviado una soli
 | Ordenanza 1437/24 | PDF completo y Decreto 1944/24 | Norma local sobre higiene de baldíos y espacios públicos |
 | Ordenanza 1554/26 Rendición 2025 | PDF completo y anexos contables | Rendición del ejercicio 2025 |
 
+## Nuevos archivos oficiales localizados para solicitar habilitación
+
+Además de las ordenanzas enumeradas arriba, se localizaron estos PDF individuales en portales provinciales:
+
+- Información Municipal Básica 1999–2000: ficha de San Patricio del Chañar (actualización 2001).
+- Formulación Presupuestaria 2025: Recursos por Rubro.
+- Estado de Ejecución de Gastos y de Recursos 2024.
+- Estado de Ejecución de Gastos y de Recursos 2025.
+
+Aunque los archivos están disponibles para consulta/descarga en los portales oficiales, todavía debe confirmarse si el organismo autoriza su alojamiento y redistribución desde LIBRITO. Solicitar confirmación escrita o licencia aplicable, y una versión pública si los reportes contienen datos personales.
+
 ## Modelo de pedido
 
 **Asunto: Solicitud de copias digitales completas de normativa y documentación pública municipal**
