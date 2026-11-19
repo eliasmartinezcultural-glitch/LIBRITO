@@ -1,6 +1,6 @@
 {
   "nombre": "Hemeroteca de LIBRITO · San Patricio del Chañar",
-  "version": 15,
+  "version": 16,
   "descripcion": "Índice de noticias y páginas periodísticas que mencionan expresamente San Patricio del Chañar, de distintos diarios, años y formatos.",
   "criterio": "Se incorpora una noticia cuando el texto identifica expresamente a San Patricio del Chañar o trata sobre la localidad. Se conserva título, medio, autoría disponible, fecha, enlace original y una descripción breve. No se reproduce el cuerpo periodístico.",
   "noticias": [
@@ -2145,6 +2145,127 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "Publicación institucional de Neuquén Informa. LIBRITO conserva metadatos y descripción propia; no reproduce fotografías ni el artículo completo."
+    },
+    {
+      "id": "neuquen-informa-2014-10-20-riego-obras-capacitaciones",
+      "titulo": "El canal de riego de San Patricio del Chañar avanza con obras y capacitaciones",
+      "fecha": "2014-10-20",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación del Gobierno de Neuquén",
+      "descripcion": "La comunicación oficial informa que el proyecto de modernización del riego alcanzaba entonces un 30% de avance, con más de ocho kilómetros de canales construidos y acciones de asistencia técnica y capacitación a productores. Describe el trabajo conjunto de EPDA, Recursos Hídricos e INTA. Los porcentajes y cifras corresponden al estado informado en octubre de 2014, no al resultado final.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2014/10/20/56632-el-canal-de-riego-de-san-patricio-del-chanar-avanza-con-obras-y-capacitaciones",
+      "etiquetas": [
+        "riego",
+        "PROSAP",
+        "infraestructura hídrica",
+        "productores",
+        "capacitaciones",
+        "2014"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación institucional de Neuquén Informa. LIBRITO conserva metadatos y descripción propia; el artículo y sus imágenes pertenecen a su fuente."
+    },
+    {
+      "id": "neuquen-informa-2015-05-22-capacitacion-forrajeras-salicaceas",
+      "titulo": "Capacitan sobre producción de forrajeras y salicáceas",
+      "fecha": "2015-05-22",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación del Gobierno de Neuquén",
+      "descripcion": "Nota institucional sobre una capacitación abierta a productores, empresas, instituciones, técnicos y estudiantes en San Patricio del Chañar. Aborda la producción de alfalfa para henificación, cortinas forestales de álamos y sauces, nivelación de suelos y manejo del riego gravitacional. Vincula estas prácticas con el proyecto de modernización del sistema de riego y la mejora de la producción agrícola local.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2015/05/22/64896-capacitan-sobre-produccion-de-forrajeras-y-salicaceas",
+      "etiquetas": [
+        "producción agrícola",
+        "riego",
+        "capacitación",
+        "alfalfa",
+        "salicáceas",
+        "2015"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación institucional de Neuquén Informa. LIBRITO conserva metadatos y descripción propia; no reproduce el artículo ni sus imágenes."
+    },
+    {
+      "id": "neuquen-informa-2015-08-31-agua-nuevos-canales-chanar",
+      "titulo": "El agua corre por los nuevos canales en El Chañar",
+      "fecha": "2015-08-31",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación del Gobierno de Neuquén",
+      "descripcion": "Cobertura institucional de la habilitación de nuevos tramos de canales de hormigón al comenzar la temporada de riego. La nota informa que el plan superaba entonces el 70% de avance, detalla trabajos en canales, alcantarillas, sifones y drenajes, y explica la continuidad de las obras mientras el sistema prestaba servicio a los productores. Es una fotografía periodística del avance en agosto de 2015, no un acta de recepción definitiva.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2015/08/31/68891-el-agua-corre-por-los-nuevos-canales-en-el-chanar",
+      "etiquetas": [
+        "riego",
+        "PROSAP",
+        "canales",
+        "drenaje",
+        "producción",
+        "2015"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación institucional de Neuquén Informa. LIBRITO conserva metadatos y descripción propia; no reproduce fotografías ni el texto íntegro."
+    },
+    {
+      "id": "neuquen-informa-2015-09-16-riego-gravitacional-frutales",
+      "titulo": "Capacitarán sobre riego gravitacional en frutales",
+      "fecha": "2015-09-16",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación del Gobierno de Neuquén",
+      "descripcion": "Anuncio de una jornada técnica vinculada con una parcela demostrativa instalada en el marco del proyecto de modernización del sistema de riego local. Detalla prácticas de medición y comparación de eficiencia de aplicación del agua en frutales, manejo de compuertas y medición de infiltración, con participación de técnicos de PROSAP e INTA. La nota también informa el avance de obra que se comunicaba en septiembre de 2015; ese porcentaje es una referencia temporal.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2015/09/16/69587-capacitaran-sobre-riego-gravitacional-en-frutales",
+      "etiquetas": [
+        "riego",
+        "PROSAP",
+        "INTA",
+        "fruticultura",
+        "capacitación",
+        "2015"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación institucional de Neuquén Informa. LIBRITO conserva metadatos y descripción propia; el contenido completo se consulta en el medio."
+    },
+    {
+      "id": "neuquen-informa-2015-12-22-riego-87-por-ciento",
+      "titulo": "El sistema de riego de San Patricio del Chañar presenta un 87 por ciento de avance",
+      "fecha": "2015-12-22",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación del Gobierno de Neuquén",
+      "descripcion": "Informe institucional sobre el avance de las obras a diciembre de 2015. Menciona 27 kilómetros de nuevos canales de hormigón, compuertas automáticas, telemetría y tareas en drenajes, además de la meta de ampliar la superficie irrigable en 2.500 hectáreas. También refiere acciones de asistencia técnica y fortalecimiento del Consorcio de Riego. El 87% es el porcentaje comunicado en esa fecha, no una medición actual.",
+      "url": "https://www.neuqueninforma.gob.ar/amp/noticias/2015/12/22/73164-el-sistema-de-riego-de-san-patricio-del-chanar-presenta-un-87-por-ciento-de-avance",
+      "etiquetas": [
+        "riego",
+        "PROSAP",
+        "canales",
+        "telemetría",
+        "drenaje",
+        "productores",
+        "2015"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación institucional de Neuquén Informa. LIBRITO conserva metadatos y descripción propia; no reproduce el artículo ni las imágenes."
+    },
+    {
+      "id": "neuquen-informa-2016-03-03-mision-banco-mundial-riego",
+      "titulo": "Misión del Banco Mundial evalúa avance de obras en la provincia",
+      "fecha": "2016-03-03",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación del Gobierno de Neuquén",
+      "descripcion": "Cobertura de una visita de consultores del Banco Mundial a distintos proyectos provinciales, entre ellos la modernización del sistema de riego de San Patricio del Chañar. La nota recoge declaraciones oficiales sobre una inversión aproximada de 32 millones de dólares, canales en construcción, limpieza de drenajes y una estimación de avance de entre el 70% y el 80%. Se registra como seguimiento institucional de marzo de 2016 y no como certificación independiente.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2016/03/03/76444-mision-del-banco-mundial-evalua-avance-de-obras-en-la-provincia",
+      "etiquetas": [
+        "riego",
+        "PROSAP",
+        "Banco Mundial",
+        "infraestructura",
+        "productores",
+        "2016"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación institucional de Neuquén Informa. LIBRITO conserva metadatos y descripción propia; no reproduce el artículo ni sus imágenes."
     }
   ]
 }
