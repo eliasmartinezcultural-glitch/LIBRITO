@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 11,
+  "version": 12,
   "descripcion": "Colección de documentos locales completos y accesos directos a obras, archivos y recursos educativos en sus fuentes originales, con autoría, procedencia y condiciones de uso visibles.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -671,6 +671,72 @@
       },
       "procedencia": "Biblioteca Digital del Sistema Integrado de Documentación, Universidad Nacional de Cuyo.",
       "integridad": "Ficha institucional declara 55 páginas y ofrece PDF completo; descarga binaria y verificación técnica local pendientes."
+    },
+    {
+      "id": "municipalidad-identidad-historia-chanar",
+      "titulo": "Identidad e historia de San Patricio del Chañar",
+      "autoria": "Municipalidad de San Patricio del Chañar",
+      "institucion": "Municipalidad de San Patricio del Chañar",
+      "fecha": "s/f",
+      "categoria": "Historia y memoria",
+      "tematica": "Historia local, paraje El Chañar, colonia Tratayen, primeros propietarios, familia Gasparri y fundación",
+      "descripcion": "Página institucional dedicada a la identidad local. Reúne una narración municipal sobre el paraje, referencias a la colonia Tratayen, la llegada de los primeros propietarios y el proceso que llevó a la creación de la localidad en 1973. Se ofrece como testimonio institucional y punto de partida para contrastar con otras fuentes históricas.",
+      "formato": "Página web",
+      "acceso": "origen",
+      "urlOriginal": "https://www.sanpatricio.gob.ar/identidad",
+      "urlFicha": "https://www.sanpatricio.gob.ar/",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Se enlaza la página institucional original. LIBRITO no copia ni redistribuye sus textos, imágenes ni elementos gráficos.",
+        "referencia": "Municipalidad de San Patricio del Chañar, sección Identidad."
+      },
+      "procedencia": "Sitio oficial de la Municipalidad de San Patricio del Chañar.",
+      "integridad": "Referencia a la página institucional original; contenido sujeto a las condiciones del sitio emisor."
+    },
+    {
+      "id": "cpe-neuquen-resolucion-1045-educacion-agropecuaria-2019",
+      "titulo": "Fundamentos, historicidad y objetivos de la educación técnica y agropecuaria",
+      "autoria": "Consejo Provincial de Educación de la Provincia del Neuquén",
+      "institucion": "Ministerio de Educación · Consejo Provincial de Educación",
+      "fecha": "2019-08",
+      "categoria": "Educación y conocimiento",
+      "tematica": "Educación técnica, formación agropecuaria, desarrollo productivo del valle y EPEA N.º 3",
+      "descripcion": "Anexo de la Resolución N.º 1045 del Consejo Provincial de Educación. El documento contextualiza el crecimiento frutihortícola del valle de San Patricio del Chañar durante la década de 1990, la incorporación de la vitivinicultura desde 2000 y el proceso de creación de la EPEA N.º 3 en 2011. Incluye referencias a la formación profesional agropecuaria local.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://educaciondigital.neuquen.gov.ar/wp-content/uploads/2019/12/r_1045_19_ETP_Anexo_01_Fundamentos.pdf",
+      "urlFicha": "https://educaciondigital.neuquen.gov.ar/",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Documento oficial enlazado desde el portal educativo provincial. No se presume permiso para alojar o redistribuir una copia.",
+        "referencia": "Consejo Provincial de Educación, Resolución N.º 1045, Anexo I, agosto de 2019."
+      },
+      "procedencia": "Portal Educación Digital de la Provincia del Neuquén.",
+      "integridad": "PDF original enlazado desde el portal oficial provincial."
+    },
+    {
+      "id": "bid-cfi-coviar-caracterizacion-vitivinicola-argentina-2026",
+      "titulo": "Caracterización de las Regiones Vitivinícolas Argentinas",
+      "autoria": "María Laura Flores Cáceres (compilación y edición) y equipo interdisciplinario",
+      "institucion": "Banco Interamericano de Desarrollo · Consejo Federal de Inversiones · Corporación Vitivinícola Argentina",
+      "fecha": "2026",
+      "categoria": "Territorio y cartografía",
+      "tematica": "San Patricio del Chañar, Valle Inferior del río Neuquén, viñedos, clima, suelos, paisaje y vitivinicultura",
+      "descripcion": "Estudio técnico nacional con un capítulo específico sobre el Valle Inferior del río Neuquén. Identifica a San Patricio del Chañar como su localidad vitivinícola más desarrollada e incluye datos, mapas, perfiles de suelo, clima y caracterización del paisaje local. La información sobre el Chañar se encuentra en el capítulo de Neuquén, especialmente en las páginas impresas 188–193.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://publications.iadb.org/publications/spanish/document/Caracterizacion-de-las-regiones-vitivinicolas-argentinas.pdf",
+      "urlFicha": "https://publications.iadb.org/",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "licencia_confirmada",
+        "base": "Creative Commons Atribución 3.0 IGO (CC BY 3.0 IGO), según la página de derechos del propio documento. Cualquier reutilización debe respetar los términos de la licencia y atribuir al BID, COVIAR y CFI.",
+        "referencia": "Caracterización de las Regiones Vitivinícolas Argentinas, copyright 2026, página legal inicial."
+      },
+      "procedencia": "Publications del Banco Interamericano de Desarrollo; trabajo conjunto con COVIAR y CFI.",
+      "integridad": "PDF completo enlazado desde el repositorio de publicaciones del BID."
     }
   ]
 }
