@@ -128,7 +128,7 @@ Se realizaron búsquedas en varios niveles geográficos y tipos de repositorio, 
 - La publicación está disponible para consulta, pero deben respetarse las condiciones del CFI.
 
 
-### F. Publicaciones académicas recientes con licencia identificada — hallazgo prioritario
+### E. Publicaciones académicas recientes con licencia identificada — hallazgo prioritario
 
 **Libro IPEHCS / Universidad Nacional del Comahue (2025)**
 - *Experiencias colectivas y luchas de mujeres rurales en la Argentina*, editado por Verónica Trpin, Topos / IPEHCS, Cuadernos n.º 10.
@@ -145,7 +145,7 @@ Se realizaron búsquedas en varios niveles geográficos y tipos de repositorio, 
 
 Estos dos títulos son los mejores candidatos académicos nuevos de esta búsqueda: tienen archivo PDF directo identificado y licencia explícita compatible con redistribución bajo sus condiciones. Todavía no se incorporaron a la carpeta pública porque el entorno de trabajo no logró descargar los binarios desde sus servidores de origen.
 
-### G. Alcance internacional
+### F. Alcance internacional
 
 La búsqueda internacional recuperó principalmente artículos académicos y registros de repositorios que estudian la localidad desde la geografía agraria, la producción, el turismo y la transformación territorial. No apareció, en esta pasada, un archivo internacional independiente que aporte una colección local distinta de las fuentes argentinas ya citadas. Esto no demuestra que no exista: indica que debe ampliarse mediante catálogos de bibliotecas, repositorios universitarios y consultas directas a autores.
 
