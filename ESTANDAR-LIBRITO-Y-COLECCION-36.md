@@ -266,3 +266,45 @@ Se localizaron documentos oficiales adicionales que pueden ampliar la colección
 - **Estudios estratégicos para el desarrollo territorial de la región de Vaca Muerta.** Publicación nacional que contiene un análisis específico de San Patricio del Chañar, con evolución de la huella urbana e indicadores intercensales. Mantener como fuente externa hasta verificar integridad, autoría, licencia y pertinencia del documento completo. https://www.argentina.gob.ar/sites/default/files/estudios_estrategicos_para_el_desarrollo_territorial_de_la_region_de_vacamuerta.pdf
 
 **Criterio:** una ficha oficial de una norma o un PDF accesible en un portal público no implica automáticamente que todo anexo, fotografía, plano o informe adjunto pueda redistribuirse sin revisión. Se conserva el enlace a la fuente hasta cerrar la verificación.
+
+
+## 13. Ley mundial operativa: primero descargas reales
+
+Desde el 19 de noviembre de 2026, la prioridad de selección, búsqueda, catalogación, diseño y programación es maximizar la cantidad de obras completas que el público pueda descargar directamente desde LIBRITO, siempre con autorización o fundamento jurídico suficiente.
+
+### Orden obligatorio de trabajo
+1. Buscar primero archivos completos ya digitalizados en repositorios y fuentes institucionales.
+2. Comprobar si existe una licencia que permita compartir y redistribuir la obra completa, o conseguir autorización escrita del titular.
+3. Recuperar el archivo original sin editarlo ni transformarlo.
+4. Verificar integridad, legibilidad, páginas, metadatos, procedencia y derechos.
+5. Incorporar el archivo a LIBRITO y probar la descarga desde un celular y una computadora.
+6. Solo si no se puede alojar legalmente, dejar una ficha externa de consulta.
+
+### Qué significa permiso suficiente
+No alcanza con que un documento esté en Internet, sea gratuito para leer, aparezca en una web oficial o tenga un botón de descarga. Debe existir una licencia o autorización que permita la reproducción y puesta a disposición del archivo completo para descarga. La autorización debe cubrir el uso que efectivamente hará LIBRITO.
+
+Las licencias Creative Commons tienen condiciones distintas. Por ejemplo, BY exige atribución; ND exige mantener la obra sin modificaciones; NC limita los usos comerciales; SA impone condiciones a las adaptaciones. No asumir que todas las licencias CC autorizan los mismos usos. Registrar el identificador exacto y enlazar el texto de la licencia.
+
+La normativa argentina reconoce facultades exclusivas de los titulares sobre la reproducción de las obras. Que un contenido esté publicado en Internet no significa que esté libre para copiarlo y alojarlo. La condición de dominio público también requiere análisis y puede tener obligaciones específicas en Argentina. Ante dudas, no subir el archivo hasta resolverlas.
+
+### Reglas de prioridad para catálogo y experiencia
+- La primera sección de la biblioteca se llama **Descargar desde LIBRITO** y contiene únicamente archivos locales completos y aprobados.
+- La segunda sección se llama **Consultar en su fuente original** y contiene referencias externas.
+- Los resultados locales aparecen primero en búsquedas.
+- La acción de cada archivo local es **Descargar PDF** y descarga el archivo alojado, no lleva a una ficha externa.
+- La cifra principal de avance hacia los 36 es exclusivamente el número de archivos locales aprobados.
+- Una referencia externa nunca se cuenta como descarga local.
+- No se suben copias de prueba, versiones parciales, capturas, OCR suelto ni documentos recompuestos para alcanzar una cuota.
+
+### Indicador principal
+**Archivos completos, autorizados y descargables desde LIBRITO: X / 36.**
+
+Indicadores secundarios: documentos identificados, fuentes externas, permisos solicitados, permisos concedidos, archivos recuperados, archivos rechazados por integridad y enlaces pendientes.
+
+### Fuentes legales de referencia
+- Ley argentina 11.723, texto actualizado: https://www.argentina.gob.ar/normativa/nacional/ley-11723-42755/actualizacion
+- Argentina.gob.ar, explicación sobre contenido de Internet y licencias Creative Commons: https://www.argentina.gob.ar/node/249906
+- Creative Commons Argentina, preguntas frecuentes y validez de las licencias: https://creativecommons.org.ar/faq-2/
+- Fondo Nacional de las Artes, trámite de uso de obras de dominio público: https://www.argentina.gob.ar/servicio/tramitar-el-uso-de-obras-de-dominio-publico
+
+Esta política se aplica a cada nueva incorporación y a futuras mejoras de la interfaz. La cantidad no justifica infringir derechos ni reducir la integridad documental.
