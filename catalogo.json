@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 15,
+  "version": 16,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -1025,6 +1025,54 @@
       },
       "procedencia": "Repositorio Institucional Digital de la Universidad Nacional de Río Negro.",
       "integridad": "Registro académico con datos de autoría, dirección y fecha de publicación."
+    },
+    {
+      "id": "municipalidad-identidad-historia-actualizada",
+      "titulo": "Nuestra identidad · Historia de San Patricio del Chañar",
+      "autoria": "Municipalidad de San Patricio del Chañar",
+      "institucion": "Municipalidad de San Patricio del Chañar",
+      "fecha": "s/f",
+      "categoria": "Historia y memoria",
+      "tematica": "Fortines, mensuras, colonia Tratayén, familia Gasparri, primeras obras de riego y formación de la localidad",
+      "descripcion": "Página institucional dedicada a la identidad y la historia local. Reúne referencias a los planos y mensuras de 1881–1882, el Mangrullo Chañar, la colonia Tratayén, los primeros propietarios, la llegada de la familia Gasparri y el desarrollo inicial del riego. Se incorpora como obra digital de consulta de una sola página; las afirmaciones históricas deben contrastarse con documentos y fuentes independientes.",
+      "formato": "Página web · artículo institucional",
+      "acceso": "origen",
+      "urlOriginal": "https://www.sanpatricio.gob.ar/identidad",
+      "urlFicha": "https://www.sanpatricio.gob.ar/identidad",
+      "estado": "Disponible en origen",
+      "idioma": "Español",
+      "alcance": "Local · fuente institucional",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Se enlaza la página oficial del Municipio. LIBRITO conserva metadatos y descripción propia; no copia imágenes ni reproduce el contenido.",
+        "referencia": "Municipalidad de San Patricio del Chañar, sección Nuestra Identidad."
+      },
+      "procedencia": "Sitio oficial de la Municipalidad de San Patricio del Chañar.",
+      "integridad": "Página web institucional enlazada en su ubicación original."
+    },
+    {
+      "id": "municipalidad-nuestra-ciudad-pagina",
+      "titulo": "Nuestra ciudad · San Patricio del Chañar",
+      "autoria": "Municipalidad de San Patricio del Chañar",
+      "institucion": "Municipalidad de San Patricio del Chañar",
+      "fecha": "s/f",
+      "categoria": "Cultura y patrimonio",
+      "tematica": "Lugares, espacios, patrimonio, atractivos y vida urbana de San Patricio del Chañar",
+      "descripcion": "Página institucional de presentación de la ciudad, sus espacios y lugares de encuentro. Se incorpora como referencia digital breve, útil para localizar información municipal y contenidos de orientación territorial. No es una noticia ni un documento descargable: es una página de consulta en el sitio del organismo.",
+      "formato": "Página web · ficha institucional",
+      "acceso": "origen",
+      "urlOriginal": "https://sanpatricio.gob.ar/nuestra",
+      "urlFicha": "https://sanpatricio.gob.ar/nuestra",
+      "estado": "Disponible en origen",
+      "idioma": "Español",
+      "alcance": "Local · fuente institucional",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Se enlaza la página oficial del Municipio. No se alojan imágenes ni se reproduce el contenido.",
+        "referencia": "Municipalidad de San Patricio del Chañar, sección Nuestra ciudad."
+      },
+      "procedencia": "Sitio oficial de la Municipalidad de San Patricio del Chañar.",
+      "integridad": "Página web institucional enlazada en su ubicación original."
     }
   ]
 }
