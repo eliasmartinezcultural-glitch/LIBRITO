@@ -1025,6 +1025,7 @@ a:hover{text-decoration-thickness:2px}
   letter-spacing:.015em
 }
 @media(max-width:760px){
+  .pie-interior{align-items:flex-start}
   .pie-creditos{margin-left:0;align-items:flex-start;text-align:left}
   .pie-creditos b{font-size:23px}
 }
