@@ -143,13 +143,13 @@ function dibujar() {
   }
   const fragmento = document.createDocumentFragment();
   if (alojados.length) {
-    fragmento.append(nodo("h3", "grupo-titulo", "Descargar desde LIBRITO"));
-    fragmento.append(nodo("p", "grupo-ayuda", "Archivos completos alojados aquí, listos para descargar."));
+    fragmento.append(nodo("h3", "grupo-titulo", "Listos para descargar"));
+    fragmento.append(nodo("p", "grupo-ayuda", "Archivos completos alojados en LIBRITO, listos para descargar."));
     for (const item of alojados) fragmento.append(tarjeta(item));
   }
   if (externos.length) {
-    fragmento.append(nodo("h3", "grupo-titulo grupo-externo", "Consultar en su fuente original"));
-    fragmento.append(nodo("p", "grupo-ayuda", "Estas obras no están alojadas en LIBRITO. Se abren en el sitio que las publica."));
+    fragmento.append(nodo("h3", "grupo-titulo grupo-externo", "Listos para leer"));
+    fragmento.append(nodo("p", "grupo-ayuda", "Obras y documentos disponibles para leer en sus sitios originales. No son copias alojadas aquí."));
     for (const item of externos) fragmento.append(tarjeta(item));
   }
   lista.append(fragmento);
