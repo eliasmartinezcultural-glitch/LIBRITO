@@ -226,3 +226,15 @@ Se excluyeron de esta tanda los resultados que solo mencionan la localidad en li
 - No se descargó ni alojó una nueva copia PDF en el repositorio.
 - No aumenta el contador de archivos locales autorizados.
 - El avance de la colección descargable sigue siendo 2/36 hasta que se recuperen, verifiquen y autoricen nuevas copias.
+
+
+### 6. Tesina de Enología sobre Malbec producido en San Patricio del Chañar (2026)
+- **Título:** Incidencia de la técnica de sombrero sumergido en la optimización operativa y la calidad del vino Malbec en San Patricio del Chañar.
+- **Autor:** Ricardo Lucas Galante; director: Santiago Eduardo Sari.
+- **Institución:** Universidad Nacional de Cuyo, Facultad de Ciencias Aplicadas a la Industria; Licenciatura en Enología.
+- **Ficha:** https://bdigital.uncuyo.edu.ar/ficha/21724
+- **PDF original:** https://bdigital.uncuyo.edu.ar/objetos_digitales/21724/ointle33.pdf
+- **Datos comprobados en ficha:** tesina de grado, 2026, 55 páginas, español. Evalúa en Bodega del Fin del Mundo la maceración con sombrero sumergido frente a la maceración tradicional durante tres vendimias consecutivas (2023–2025), con variables enológicas, sensoriales, operativas y energéticas.
+- **Aporte educativo:** material de alto valor para estudiantes de enología, agronomía, alimentos, química, producción vitivinícola y análisis de procesos. Es un trabajo técnico reciente con aplicación directa en una bodega de la localidad.
+- **Derechos:** la ficha informa acceso abierto bajo Creative Commons 3.0 y el registro de la obra identifica CC BY-NC-SA 3.0. Se mantiene como enlace externo hasta revisar el PDF descargado, su aviso de licencia y las condiciones de una eventual copia. No se suma a los archivos locales.
+
