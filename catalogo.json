@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 18,
+  "version": 19,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -1289,6 +1289,28 @@
       },
       "procedencia": "Portal oficial del área ambiental de la Provincia del Neuquén.",
       "integridad": "Documento completo de consulta en origen; contiene cartografía regional y mapas de ubicación."
+    },
+    {
+      "id": "conicet-ordenamiento-territorial-codigo-urbano-chanar",
+      "titulo": "Plan de Ordenamiento Territorial y actualización del Código Urbano/Rural y de Edificación de San Patricio del Chañar",
+      "autoria": "Julio Caviglioni, Julieta Constanza Frediani, Claudia Rodríguez, Rodolfo Pertusi, Mariana Birche, Agustina Parodi y Daniela Cortizo",
+      "institucion": "CONICET · ficha de producción científica",
+      "fecha": "s/f",
+      "categoria": "Territorio y cartografía",
+      "tematica": "Ordenamiento territorial, usos del suelo, gestión urbana, código urbano y rural, planificación municipal",
+      "descripcion": "Ficha institucional de un informe técnico que describe el proceso de elaboración de una propuesta de usos, gestión e implementación de políticas urbanas para San Patricio del Chañar. La ficha permite identificar la producción y su equipo autoral; no se presenta como descarga del informe completo.",
+      "formato": "PÁGINA WEB",
+      "acceso": "ficha",
+      "urlOriginal": "https://bicyt.conicet.gov.ar/fichas/produccion/8438864",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar ficha de investigación",
+      "autorizacion": {
+        "estado": "enlace_a_ficha_institucional",
+        "base": "Se enlaza la ficha bibliográfica institucional. LIBRITO no aloja ni reproduce el informe.",
+        "referencia": "CONICET, Banco de Información de Ciencia y Tecnología (BICYT), ficha de producción 8438864."
+      },
+      "procedencia": "Banco de Información de Ciencia y Tecnología del CONICET (BICYT).",
+      "integridad": "Registro bibliográfico institucional consultado; la ficha no permitió verificar una descarga pública del informe completo."
     }
   ]
 }
