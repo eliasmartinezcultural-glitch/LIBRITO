@@ -51,6 +51,7 @@ function draw(){
   const y=String(n.fecha||"").slice(0,4)||"Fecha no informada";
   if(y!==activeYear){activeYear=y;const heading=el("h3","hemeroteca-anio","Año "+y);heading.setAttribute("aria-label","Noticias del año "+y);frag.append(heading)}
   const card=el("article","noticia");
+   card.id="noticia-"+String(n.id).replace(/[^a-zA-Z0-9_-]/g,"-");
   card.append(el("p","noticia-meta",date(n.fecha)+" · "+n.medio+(n.autor&&n.autor!=="Redacción"?" · "+n.autor:"")));
   if(n.imagen&&safeUrl(n.imagen)){
    const figure=el("figure","noticia-imagen"),img=el("img","");
@@ -67,7 +68,13 @@ function draw(){
    details.append(el("p","","Referencia conservada por LIBRITO; consultá el contenido en el medio que lo publicó."));card.append(details);
   }
   if(safeUrl(n.url)){const a=el("a","accion","Leer en el diario");a.href=n.url;a.target="_blank";a.rel="noopener noreferrer";a.setAttribute("aria-label","Leer "+n.titulo+" en "+n.medio);card.append(a)}
-  frag.append(card);
+   const share=el("div","acciones-compartir");
+   const deepLink=location.href.split("#")[0]+"#"+card.id;
+   const wa=el("a","boton-compartir whatsapp","Enviar por WhatsApp");wa.href="https://wa.me/?text="+encodeURIComponent("Te comparto esta noticia de la Hemeroteca de LIBRITO: "+n.titulo+" · "+deepLink);wa.target="_blank";wa.rel="noopener noreferrer";
+   const copy=el("button","boton-compartir copiar","Copiar enlace");copy.type="button";copy.dataset.copiarUrl=deepLink;
+   const status=el("span","estado-copiar","");status.setAttribute("aria-live","polite");
+   share.append(wa,copy,status);card.append(share);
+   frag.append(card);
  }
  list.append(frag);
 }
@@ -78,6 +85,7 @@ async function start(){
   const data=await r.json();if(!data||!Array.isArray(data.noticias))throw new Error("Formato inválido.");
   news=data.noticias.filter(n=>n&&n.id&&n.titulo&&n.fecha&&n.medio&&safeUrl(n.url)).sort((a,b)=>String(b.fecha).localeCompare(String(a.fecha)));
   populateFilters();draw();
+  if(location.hash&&location.hash.startsWith("#noticia-"))requestAnimationFrame(()=>document.getElementById(decodeURIComponent(location.hash.slice(1)))?.scrollIntoView({behavior:"smooth",block:"start"}));
  }catch(e){if(total)total.textContent="—";count.textContent="No se pudo cargar la hemeroteca.";list.replaceChildren(el("p","estado","Revisá tu conexión e intentá nuevamente."));console.error("LIBRITO Hemeroteca:",e)}
 }
 input.addEventListener("input",draw);
