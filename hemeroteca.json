@@ -1,6 +1,6 @@
 {
   "nombre": "Hemeroteca de LIBRITO · San Patricio del Chañar",
-  "version": 5,
+  "version": 6,
   "descripcion": "Índice de noticias y páginas periodísticas que mencionan expresamente San Patricio del Chañar, de distintos diarios, años y formatos.",
   "criterio": "Se incorpora una noticia cuando el texto identifica expresamente a San Patricio del Chañar o trata sobre la localidad. Se conserva título, medio, autoría disponible, fecha, enlace original y una descripción breve. No se reproduce el cuerpo periodístico.",
   "noticias": [
@@ -1014,6 +1014,63 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "Artículo e imágenes pertenecen al medio original. LIBRITO conserva referencia y descripción propia; se aclara el carácter procesal de la información."
+    },
+    {
+      "id": "rn-1999-10-22-proyecto-agroenergetico",
+      "titulo": "Impulsan proyecto agroenergético en el Chañar",
+      "fecha": "1999-10-22",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Cobertura sobre una propuesta de aprovechamiento energético de la Presa Compensadora de San Patricio del Chañar para impulsar un polo agropecuario y forestal. La nota menciona a empresas y organismos que participaban de la iniciativa; se conserva como registro de un proyecto anunciado en 1999, sin asumir que se haya concretado en los términos previstos.",
+      "url": "https://www.rionegro.com.ar/impulsan-proyecto-agroenergetico-en-el-chanar-PLHRN19991022628991022/",
+      "etiquetas": [
+        "hemeroteca histórica",
+        "1999",
+        "energía",
+        "producción",
+        "proyectos territoriales"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva referencia y descripción propia; el anuncio periodístico no acredita la ejecución posterior del proyecto."
+    },
+    {
+      "id": "rn-2001-01-21-ajuste-intendentes",
+      "titulo": "Moderado ajuste pusieron en marcha intendentes neuquinos",
+      "fecha": "2001-01-21",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Nota regional sobre medidas de austeridad de intendentes neuquinos. Incluye un apartado sobre San Patricio del Chañar, su estructura municipal y la llegada estacional de trabajadores rurales. Se incorpora como registro periodístico de contexto institucional y laboral; las afirmaciones corresponden a la cobertura de la época.",
+      "url": "https://www.rionegro.com.ar/moderado-ajuste-pusieron-en-marcha-intendentes-neuquinos-BGHRN01012119212019/",
+      "etiquetas": [
+        "hemeroteca histórica",
+        "2001",
+        "municipio",
+        "trabajo rural",
+        "vida económica"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "rn-2006-10-23-crecimiento-indicadores-sociales",
+      "titulo": "El Chañar crece con pobres indicadores sociales",
+      "fecha": "2006-10-23",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Cobertura de una investigación de Osvaldo Preiss y Silvia Roca sobre la reestructuración local, las inversiones agroindustriales, el empleo, los ingresos y el acceso a la vivienda. La noticia resume conclusiones atribuidas a ese trabajo académico; se incorpora como fuente periodística y no sustituye la investigación original.",
+      "url": "https://www.rionegro.com.ar/el-chanar-crece-con-pobres-indicadores-sociales-PWHRN2006101923611/",
+      "etiquetas": [
+        "hemeroteca histórica",
+        "2006",
+        "investigación",
+        "economía local",
+        "transformación territorial"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva referencia y descripción propia; las conclusiones citadas se atribuyen a sus autores."
     }
   ]
 }
