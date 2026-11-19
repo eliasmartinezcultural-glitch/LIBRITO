@@ -1,6 +1,6 @@
 {
   "nombre": "Recursos de LIBRITO · San Patricio del Chañar",
-  "version": 24,
+  "version": 25,
   "descripcion": "Índice de fotografías, mapas, planos, archivos audiovisuales y otros materiales de consulta relacionados con San Patricio del Chañar.",
   "criterio": "Se registran recursos existentes y se enlaza a sus custodios o fuentes originales. La inclusión no implica autorización para descargar, copiar, republicar, adaptar o usar comercialmente. Cada ficha informa el estado de derechos conocido y el modo de acceso. Si las condiciones no están claras, el recurso se ofrece solo como referencia externa.",
   "recursos": [
@@ -1642,6 +1642,31 @@
         "Leonardo Puppato",
         "vino patagónico",
         "exportación"
+      ]
+    },
+    {
+      "id": "chanar-digital-video-entrevista-gustavo-celayes-huellas-agua-tierra-2026",
+      "titulo": "Gustavo Celayes · entrevista sobre el archivo fotográfico Huellas, Agua y Tierra",
+      "categoria": "Video",
+      "tipo": "Entrevista audiovisual",
+      "fecha": "2026-10-09",
+      "autor": "Chañar Digital · entrevistado: Gustavo Celayes",
+      "descripcion": "Entrevista audiovisual incorporada en la nota sobre la inauguración de la muestra permanente Huellas, Agua y Tierra – Historia Visual de San Patricio del Chañar. El material permite conocer al fotógrafo y el trabajo de recopilación de imágenes sobre la transformación urbana, agrícola y social de la localidad. La ficha remite al reproductor insertado en la nota; no aloja ni descarga el video.",
+      "url": "https://www.youtube.com/embed/42T7Rh7Jyfo?si=d7RHB3hFGoh-e_1k",
+      "fuente": "https://www.chanardigital.com.ar/articulo/2026/10/san-patricio-del-chanar-recupera-su-memoria-inauguraron-la-muestra-fotografica-huellas-agua-y-tierra.php",
+      "acceso": "Reproductor de YouTube enlazado desde la nota original de Chañar Digital.",
+      "derechos_estado": "Titularidad y licencia del video no especificadas en la ficha consultada",
+      "derechos": "El video permanece alojado en YouTube e integrado en la publicación del medio. No se copia ni redistribuye. Para descargar, reutilizar o reproducir públicamente, consultar al medio y a los titulares del material.",
+      "licencia": "No se identifica una licencia abierta.",
+      "etiquetas": [
+        "Gustavo Celayes",
+        "entrevista",
+        "memoria visual",
+        "fotografía histórica",
+        "Huellas Agua y Tierra",
+        "Hostería El Chañar",
+        "San Patricio del Chañar",
+        "2026"
       ]
     }
   ]
