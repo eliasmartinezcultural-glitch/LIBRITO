@@ -37,7 +37,7 @@ function draw(){
   const share=el("div","acciones-compartir recurso-compartir");
   const deep=location.href.split("#")[0]+"#"+card.id;
   const wa=el("a","boton-compartir whatsapp","WhatsApp");
-  wa.href="https://wa.me/?text="+encodeURIComponent("Te comparto este recurso de LIBRITO: "+r.titulo+" · "+deep);
+  wa.href="https://wa.me/?text="+encodeURIComponent("Hola, te comparto este recurso de LIBRITO: "+r.titulo+". La Biblioteca Digital Chañarense reúne referencias a fotografías, mapas y materiales sobre San Patricio del Chañar, respetando sus créditos y condiciones de uso. Podés consultarlo acá: "+deep);
   wa.target="_blank";wa.rel="noopener noreferrer";
   const copy=el("button","boton-compartir copiar","Copiar enlace");
   copy.type="button";copy.dataset.copiarUrl=deep;
