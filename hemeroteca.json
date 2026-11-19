@@ -1,6 +1,6 @@
 {
   "nombre": "Hemeroteca de LIBRITO · San Patricio del Chañar",
-  "version": 20,
+  "version": 21,
   "descripcion": "Índice de noticias y páginas periodísticas que mencionan expresamente San Patricio del Chañar, de distintos diarios, años y formatos.",
   "criterio": "Se incorpora una noticia cuando el texto identifica expresamente a San Patricio del Chañar o trata sobre la localidad. Se conserva título, medio, autoría disponible, fecha, enlace original y una descripción breve. No se reproduce el cuerpo periodístico.",
   "noticias": [
@@ -2471,6 +2471,27 @@
       "tipo": "articulo_institucional",
       "estado": "enlace_al_original",
       "derechos": "Publicación y fotografías pertenecen al Gobierno de la Provincia del Neuquén. LIBRITO conserva referencia y enlace."
+    },
+    {
+      "id": "rn-2016-11-23-pedido-jardin-infantes-chanar",
+      "titulo": "Pidieron un jardín de infantes para El Chañar",
+      "fecha": "2016-11-23",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Cobertura de un reclamo de madres y padres de San Patricio del Chañar ante el Consejo Provincial de Educación por la falta de vacantes en educación inicial. La nota recoge testimonios sobre la demanda de jardines, la cantidad de niñas y niños que las familias estimaban sin cupo y la necesidad de infraestructura. Se conserva como registro periodístico de una demanda educativa en 2016; las cifras corresponden a testimonios de aquella fecha.",
+      "url": "https://www.rionegro.com.ar/pidieron-un-jardin-de-infantes-CD1674730/",
+      "etiquetas": [
+        "2016",
+        "educación inicial",
+        "jardín de infantes",
+        "familias",
+        "escuela",
+        "infraestructura educativa",
+        "memoria social"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro y sus titulares. LIBRITO conserva la referencia y el enlace; no reproduce el contenido."
     }
   ]
 }
