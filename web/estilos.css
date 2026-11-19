@@ -1434,3 +1434,74 @@ h2{color:#31543a}
  .marca,.marca strong,.marca small,.pie-interior span{color:#111!important}
  .marca-dibujo{color:#111!important;border-color:#777!important}
 }
+
+
+/* LIBRITO · Identificación clara de acciones · noviembre 2026
+   Ajustes visuales únicamente: no modifica estructura ni comportamiento. */
+.accion[download]{
+  background:#42664d;border-color:#294633;border-radius:7px 17px 7px 17px;
+  box-shadow:0 3px 8px rgba(41,70,51,.16)
+}
+.accion[download]::before{content:"↓";margin-right:9px;font-size:18px;line-height:1}
+.accion:not([download]){
+  background:#a76549;border-color:#8f5239;border-radius:17px 7px 17px 7px;
+  box-shadow:0 3px 8px rgba(143,82,57,.14)
+}
+.accion:not([download])::before{content:"↗";margin-right:9px;font-size:15px;line-height:1}
+.accion[download]:hover{background:#294633}
+.accion:not([download]):hover{background:#874b34}
+.boton-compartir.whatsapp{
+  background:#237b4b;border-color:#17653b;color:#fff;border-radius:999px;
+  box-shadow:0 2px 7px rgba(35,123,75,.14)
+}
+.boton-compartir.whatsapp::before{content:"↗";margin-right:8px;font-size:15px}
+.boton-compartir.whatsapp:hover{background:#17653b;border-color:#125331}
+.boton-compartir.copiar{
+  background:#e5eff0;border:1px solid #6f969b;color:#285b63;
+  border-radius:7px 17px 7px 17px;box-shadow:0 2px 6px rgba(40,91,99,.08)
+}
+.boton-compartir.copiar::before{content:"▢";margin-right:8px;font-size:16px}
+.boton-compartir.copiar:hover{background:#d5e6e8;border-color:#477b82}
+.limpiar{
+  border:1px solid #b98b62;border-radius:999px;background:#f6eadb;color:#805333;
+  min-height:46px;font-weight:800
+}
+.limpiar:hover{background:#efddc7}
+.hemeroteca-limpiar{
+  border:1px solid #c18b6a;border-radius:7px 17px 7px 17px;
+  background:#f5e7dc;color:#834f36;font-weight:800
+}
+.hemeroteca-limpiar::before{content:"↺";margin-right:8px;font-size:16px}
+.hemeroteca-limpiar:hover:not(:disabled){background:#edd8c8}
+.donativo-copiar{
+  border:1px solid #9a7840;border-radius:999px;background:#d7b86e;color:#3c392a;
+  box-shadow:0 2px 7px rgba(120,91,42,.13)
+}
+.donativo-copiar:hover{background:#c9a653}
+.volver{border-radius:7px 18px 7px 18px}
+.uso-escuela-acciones a:first-child{background:#42664d;border:1px solid #294633}
+.uso-escuela-acciones a:nth-child(2){background:#a76549;border:1px solid #8f5239;color:#fff}
+.uso-escuela-acciones a:nth-child(3){background:#e5eff0;border:1px solid #6f969b;color:#285b63}
+.uso-escuela-acciones a:nth-child(2):hover{background:#874b34}
+.uso-escuela-acciones a:nth-child(3):hover{background:#d5e6e8}
+.ficha-botones button{background:#42664d;border-color:#294633;border-radius:7px 17px 7px 17px}
+.ficha-botones a{background:#e5eff0;border-color:#6f969b;color:#285b63;border-radius:17px 7px 17px 7px}
+.ficha-botones button:hover{background:#294633}
+.ficha-botones a:hover{background:#d5e6e8}
+.accion:focus-visible,.boton-compartir:focus-visible,.limpiar:focus-visible,
+.hemeroteca-limpiar:focus-visible,.donativo-copiar:focus-visible,
+.ficha-botones button:focus-visible,.ficha-botones a:focus-visible,
+.uso-escuela-acciones a:focus-visible{
+  outline:3px solid #bd754d;outline-offset:4px
+}
+@media(max-width:390px){
+  .accion{width:100%;min-height:48px}
+  .boton-compartir{min-height:46px}
+}
+@media print{
+  .accion[download],.accion:not([download]){
+    display:inline;width:auto;min-height:0;padding:0;border:0;border-radius:0;
+    background:none!important;box-shadow:none;color:#111!important
+  }
+  .accion::before{display:none}
+}
