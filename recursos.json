@@ -492,54 +492,6 @@
       ]
     },
     {
-      "id": "estadistica-neuquen-plano-urbano-chanar-2006-2007",
-      "titulo": "Plano urbano de San Patricio del Chañar · Información Municipal Básica 2006/2007",
-      "categoria": "Mapas y planos",
-      "tipo": "Plano urbano institucional",
-      "fecha": "Edición 2006/2007",
-      "autor": "Dirección Provincial de Estadística y Censos · Provincia del Neuquén",
-      "descripcion": "Ficha municipal oficial que incluye un plano esquemático del trazado urbano de San Patricio del Chañar, junto con información básica del municipio. El plano permite observar la organización de manzanas y algunos ejes de circulación en ese período. La imagen no presenta escala, leyenda ni nombres de calles: debe leerse como referencia histórica general, no como mensura ni cartografía catastral.",
-      "url": "https://www.estadisticaneuquen.gob.ar/static/archivos/Publicaciones/InfMunBasica/Basica20062007/Inicio/cartografia/San%20Patricio.pdf",
-      "fuente": "Dirección Provincial de Estadística y Censos de Neuquén · Información Municipal Básica 2006/2007",
-      "acceso": "Consulta y descarga del PDF desde el sitio oficial provincial.",
-      "derechos_estado": "Sin licencia de reutilización identificada en la ficha consultada",
-      "derechos": "El documento está publicado por un organismo provincial. La ficha consultada no informa una licencia abierta específica para reproducir el plano. LIBRITO enlaza al documento original y no aloja ni redistribuye la imagen; consultar al organismo para otros usos.",
-      "licencia": "No especificada en la publicación consultada.",
-      "etiquetas": [
-        "San Patricio del Chañar",
-        "plano urbano",
-        "2006",
-        "2007",
-        "estadística provincial",
-        "trazado urbano"
-      ]
-    },
-    {
-      "id": "plan-estrategico-vaca-muerta-expansion-urbana-chanar-imagenes-satelitales",
-      "titulo": "Expansión urbana de San Patricio del Chañar · imágenes satelitales 1991–2001–2010",
-      "categoria": "Fotografía aérea e imágenes satelitales",
-      "tipo": "Secuencia cartográfica basada en imágenes satelitales",
-      "fecha": "Estudio publicado con datos hasta 2010; fecha editorial no indicada con precisión en la ficha consultada",
-      "autor": "Subsecretaría de Planificación Territorial de la Inversión Pública · COPADE · equipo técnico del Plan Estratégico Territorial",
-      "descripcion": "El estudio estratégico para el desarrollo territorial de la Región Vaca Muerta dedica un análisis específico a San Patricio del Chañar e incluye la Figura 14, que compara la expansión de la huella urbana en 1991, 2001 y 2010 mediante lecturas de imágenes satelitales. Es un recurso útil para estudiar la transformación de la planta urbana y su relación con el suelo productivo bajo riego. Los datos y conclusiones corresponden al período analizado, no describen la situación actual.",
-      "url": "https://www.argentina.gob.ar/sites/default/files/estudios_estrategicos_para_el_desarrollo_territorial_de_la_region_de_vacamuerta.pdf#page=46",
-      "fuente": "Plan Estratégico Territorial · Estudios Estratégicos para el Desarrollo Territorial de la Región Vaca Muerta, Avance III · Gobierno nacional, con participación de COPADE y financiamiento CAF",
-      "acceso": "Consulta y descarga del informe PDF. Buscar la Figura 14, titulada “Expansión urbana San Patricio del Chañar (1991-2001-2010)”, en la página impresa 46.",
-      "derechos_estado": "Sin licencia abierta identificada en el documento consultado",
-      "derechos": "El informe se enlaza desde el portal oficial nacional. No se identificó una licencia abierta específica para reutilizar la figura o las imágenes de base. LIBRITO no extrae ni republica la imagen; para reproducción o adaptación, consultar al organismo editor y respetar los créditos del informe.",
-      "licencia": "No especificada en el documento consultado.",
-      "etiquetas": [
-        "San Patricio del Chañar",
-        "expansión urbana",
-        "imágenes satelitales",
-        "1991",
-        "2001",
-        "2010",
-        "planificación territorial",
-        "suelo bajo riego"
-      ]
-    },
-    {
       "id": "ambiens-shell-relevamiento-fotografico-rp7-chanar-2020",
       "titulo": "Relevamiento fotográfico de la Ruta Provincial 7 · altura San Patricio del Chañar",
       "categoria": "Fotografías y archivos visuales",
