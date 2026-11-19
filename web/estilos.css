@@ -1852,3 +1852,60 @@ a:hover{text-decoration-thickness:2px}
  .seccion-recursos .cabecera-recursos{padding-top:20px;padding-bottom:18px}
  .seccion-recursos .cabecera-recursos h1{font-size:36px}
 }
+
+/* Paleta editorial LIBRITO: tierra, agua y vegetación. Solo estilos. */
+:root{--papel:#f2f0e7;--papel-claro:#fbfaf4;--blanco:#fffefa;--tinta:#263b34;--verde:#356b58;--verde-oscuro:#1e4539;--verde-suave:#e2eee6;--oliva:#788d72;--tierra:#a75f43;--tierra-claro:#f3e4da;--oro:#c6a15d;--suave:#68766e;--linea:#d9d9ca;--sombra:0 12px 32px rgba(34,62,49,.085)}
+body{background-color:var(--papel);color:var(--tinta)}
+.encabezado{background:linear-gradient(105deg,#1d4438,#285a49 68%,#315f50)}
+.encabezado:after{background:linear-gradient(90deg,#b66b4b 0 18%,#d4b36f 18% 36%,#8ca38a 36% 68%,#6f9a91 68% 100%)}
+.marca-dibujo{border-color:rgba(241,220,174,.82);color:#f0d9a9}
+.presentacion{border-color:#d8d7c6;background:linear-gradient(118deg,#fffdf7 0%,#f2f1e5 72%,#e8eee5 100%)}
+.inicio-presentacion{box-shadow:0 16px 38px rgba(43,70,54,.09)}
+.inicio-hero-copy .lugar,.cabecera-seccion .lugar{color:#9b5c43}
+.inicio-hero-copy h1,.cabecera-seccion h1{color:#214b3d}
+.inicio-hero-copy .bajada{color:#52665b}
+.inicio-hero-nota{border-left-color:#b87953;color:#526d60}
+.inicio-hero-foto img{border:5px solid rgba(255,255,255,.82);box-shadow:0 12px 30px rgba(38,61,48,.16)}
+.puertas-principales .puerta{border-color:#d8d9cc;box-shadow:0 7px 20px rgba(43,66,52,.065)}
+.puertas-principales .puerta-obras{background:linear-gradient(145deg,#f2ead9,#fffdf7 78%)!important;border-top:4px solid #b78b50}
+.puertas-principales .puerta-hemeroteca{background:linear-gradient(145deg,#f3e5dd,#fffdf8 78%)!important;border-top:4px solid #ae6a50}
+.puertas-principales .puerta-recursos{background:linear-gradient(145deg,#e3eee6,#fffefa 78%)!important;border-top:4px solid #5d8a78}
+.puertas-principales .puerta-numero{color:#956344}
+.puertas-principales .puerta-titulo{color:#234b3c}
+.puertas-principales .puerta-ayuda{color:#586b60}
+.puertas-principales .puerta-entrada{color:#315e4b}
+.puertas-principales .puerta:hover{border-color:#9eae9c;box-shadow:0 15px 28px rgba(39,67,50,.13)}
+.donativo{border-color:#ddc99e;background:radial-gradient(ellipse at 100% 0%,rgba(255,255,255,.55),transparent 55%),linear-gradient(125deg,#f2e7ce 0%,#f4ead8 55%,#eadcc5 100%);box-shadow:0 10px 26px rgba(104,79,43,.07)}
+.donativo-sobrelinea{color:#94603e}.donativo h2{color:#60482e}.donativo p{color:#665a49}
+.donativo-alias{border-color:#b38b51;background:rgba(255,255,255,.66);color:#4d402e}
+.donativo-copiar{border-color:#72563a;background:#72563a;color:#fff}.donativo-copiar:hover{background:#57432e}
+.donativo-estado{color:#66583f}
+.compartir-portada{border-color:#d5d9cd;background:linear-gradient(110deg,#f8faf4,#fffdf8)}
+.compartir-portada strong{color:#2e5846}.pie{border-top-color:#b87953}
+.seccion-recursos .cabecera-recursos{background:linear-gradient(120deg,#fffdf7 0%,#edf2e9 100%);border-color:#cbd9ce}
+.seccion-recursos .cabecera-recursos .lugar{color:#9a6545}
+.seccion-recursos .cabecera-recursos h1,.seccion-recursos .titulo-coleccion h2{color:#214b3d}
+.seccion-recursos .cabecera-recursos .bajada{color:#53685b}
+.seccion-recursos .cabecera-recursos .regla{background:#f8f4e9;border-left-color:#b87953;color:#526457}
+.seccion-recursos .titulo-coleccion .sobrelinea{color:#a15e43}
+.seccion-recursos .cantidad{border-color:#d5ddcf;background:#f8fbf6;color:#52685a}
+.seccion-recursos .cantidad strong{color:#356b58}
+.recursos-filtros{border-color:#cad9ce;background:linear-gradient(125deg,#e7efe7,#f6f4e9)}
+.recursos-filtros>label{color:#254d3d}.recursos-filtros input{border-color:#c7d3c7}
+.recursos-filtros input:focus,.recursos-controles select:focus{border-color:#5c8a72;box-shadow:0 0 0 3px rgba(77,130,99,.15);outline:0}
+.recursos-filtros .hemeroteca-limpiar{border-color:#c7a47a;background:#f6eadc;color:#785039}
+.recurso{border-color:#d9dfd5;background:linear-gradient(155deg,#fffefa 0%,#fbfcf7 72%,#edf3ed 100%);box-shadow:0 9px 23px rgba(39,66,51,.075)}
+.recurso:nth-child(3n+1){border-top-color:#6d927b}
+.recurso:nth-child(3n+2){border-top-color:#bd9360;background:linear-gradient(155deg,#fffefa 0%,#fffdf8 72%,#f4eee1 100%)}
+.recurso:nth-child(3n){border-top-color:#ad745d;background:linear-gradient(155deg,#fffefa 0%,#fffaf7 72%,#f4eae4 100%)}
+.recurso-meta{color:#4f7c65}.recurso h3{color:#244b3d}.recurso-descripcion{color:#506158}
+.recurso-dato{border-top-color:#e1e7dd}.recurso-dato dt{color:#6b786d}.recurso-dato dd{color:#354b3e}
+.recurso-etiquetas span{border-color:#d5e1d5;background:#edf4ed;color:#4d6c55}
+.recurso-derechos{border-color:#dce4d9;background:#f3f7f0;color:#536459}
+.recurso-derechos summary,.recurso-fuente{color:#315f49}
+.seccion-recursos .accion{border-color:#376d56;background:#376d56;color:#fff}
+.seccion-recursos .accion:hover{background:#214b3b}
+.seccion-recursos .boton-compartir.whatsapp{background:#e6f0e7;color:#285b3d;border-color:#c8ddca}
+.seccion-recursos .boton-compartir.copiar{background:#f4eadb;color:#725139;border-color:#ddc7a6}
+.recursos-criterio{border-color:#d8dccc;background:linear-gradient(115deg,#f9faf4,#f0f3e9);color:#526357}
+@media(prefers-contrast:more){.puertas-principales .puerta,.recurso,.donativo,.recursos-filtros{border-color:#68796a}}
