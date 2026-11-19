@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 10,
+  "version": 11,
   "descripcion": "Colección de documentos locales completos y accesos directos a obras, archivos y recursos educativos en sus fuentes originales, con autoría, procedencia y condiciones de uso visibles.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -649,6 +649,28 @@
       },
       "procedencia": "Portal oficial del Gobierno de la República Argentina; Secretaría de Políticas Integrales sobre Drogas de la Nación Argentina.",
       "integridad": "PDF completo disponible en el portal oficial; la sección de San Patricio del Chañar fue localizada en el cuerpo de la publicación."
+    },
+    {
+      "id": "tesina-enologia-malbec-sombrero-sumergido-2026",
+      "titulo": "Incidencia de la técnica de sombrero sumergido en la optimización operativa y la calidad del vino Malbec en San Patricio del Chañar",
+      "autoria": "Ricardo Lucas Galante",
+      "institucion": "Universidad Nacional de Cuyo · Facultad de Ciencias Aplicadas a la Industria",
+      "fecha": "2026",
+      "categoria": "Educación y conocimiento",
+      "tematica": "Enología, vinificación de Malbec, maceración, extracción fenólica, eficiencia operativa y vitivinicultura de San Patricio del Chañar",
+      "descripcion": "Tesina de grado de la Licenciatura en Enología, de 55 páginas, basada en una comparación experimental de la maceración con sombrero sumergido y la maceración tradicional en condiciones industriales reales de Bodega Del Fin del Mundo. Evalúa tres vendimias consecutivas (2023–2025), parámetros analíticos y sensoriales, carga de trabajo y consumo energético. Es un antecedente técnico-científico directamente vinculado con la producción vitivinícola local.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://bdigital.uncuyo.edu.ar/objetos_digitales/21724/ointle33.pdf",
+      "urlFicha": "https://bdigital.uncuyo.edu.ar/ficha/21724",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "licencia_identificada_sin_copia",
+        "base": "La ficha de la Biblioteca Digital de la UNCuyo informa acceso abierto y licencia Creative Commons 3.0; el registro bibliográfico del ítem identifica CC BY-NC-SA 3.0. Se mantiene el enlace al original hasta revisar el archivo, conservar el aviso de licencia y comprobar que cualquier copia cumpla las condiciones de atribución, no comercial y compartir igual.",
+        "referencia": "Biblioteca Digital UNCuyo, ficha 21724; tesina defendida en 2026."
+      },
+      "procedencia": "Biblioteca Digital del Sistema Integrado de Documentación, Universidad Nacional de Cuyo.",
+      "integridad": "Ficha institucional declara 55 páginas y ofrece PDF completo; descarga binaria y verificación técnica local pendientes."
     }
   ]
 }
