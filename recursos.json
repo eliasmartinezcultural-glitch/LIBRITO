@@ -1,6 +1,6 @@
 {
   "nombre": "Recursos de LIBRITO · San Patricio del Chañar",
-  "version": 10,
+  "version": 11,
   "descripcion": "Índice de fotografías, mapas, planos, archivos audiovisuales y otros materiales de consulta relacionados con San Patricio del Chañar.",
   "criterio": "Se registran recursos existentes y se enlaza a sus custodios o fuentes originales. La inclusión no implica autorización para descargar, copiar, republicar, adaptar o usar comercialmente. Cada ficha informa el estado de derechos conocido y el modo de acceso. Si las condiciones no están claras, el recurso se ofrece solo como referencia externa.",
   "recursos": [
@@ -712,6 +712,56 @@
         "viñedos",
         "paisaje",
         "Tripadvisor"
+      ]
+    },
+    {
+      "id": "youtube-pasion-por-el-vino-vinos-patagonia-bodegas-chanar-2023",
+      "titulo": "Vinos de la Patagonia · recorrido audiovisual por bodegas de San Patricio del Chañar",
+      "categoria": "Video",
+      "tipo": "Programa audiovisual de divulgación vitivinícola y visitas a bodegas",
+      "fecha": "7 de noviembre de 2023",
+      "autor": "Pasión por el Vino TV",
+      "descripcion": "Episodio de un programa dedicado a los vinos patagónicos. La descripción de la publicación informa que el equipo visitó en San Patricio del Chañar las bodegas Familia Schroeder, Malma, Aicardi y Patritti, además de una bodega de General Roca. Es un registro audiovisual de varias empresas vitivinícolas locales y de sus protagonistas. Como el recorrido incluye también otros lugares de la Patagonia, no todo el episodio corresponde exclusivamente a San Patricio del Chañar.",
+      "url": "https://www.youtube.com/watch?v=vHeTbll2mDw",
+      "fuente": "https://www.youtube.com/watch?v=vHeTbll2mDw",
+      "acceso": "Reproducción en línea en YouTube. No se ofrece aquí descarga ni copia del video.",
+      "derechos_estado": "Derechos del programa no informados en la ficha consultada",
+      "derechos": "El contenido pertenece al canal Pasión por el Vino TV y a los titulares de la producción. Solicitar autorización antes de descargar, editar, reproducir públicamente o reutilizar fragmentos.",
+      "licencia": "No indicada en la publicación consultada.",
+      "etiquetas": [
+        "video",
+        "vitivinicultura",
+        "bodegas",
+        "Familia Schroeder",
+        "Malma",
+        "Aicardi",
+        "Patritti",
+        "turismo",
+        "2023"
+      ]
+    },
+    {
+      "id": "youtube-pasion-por-el-vino-bodega-familia-aicardi-chanar-2023",
+      "titulo": "Bodega Familia Aicardi · visita audiovisual en San Patricio del Chañar",
+      "categoria": "Video",
+      "tipo": "Visita audiovisual a una bodega local",
+      "fecha": "28 de noviembre de 2023",
+      "autor": "Pasión por el Vino TV",
+      "descripcion": "Episodio audiovisual centrado en Bodega Familia Aicardi, ubicada en San Patricio del Chañar. La descripción relata la visita del equipo a la finca y a la bodega que se encontraba en construcción, e identifica a Enrique Aicardi y Lucy Oliveira Ramos como anfitriones. Es un registro de una etapa del desarrollo de este emprendimiento y de la actividad vitivinícola local; los datos sobre instalaciones y obras corresponden al momento de filmación y no deben tomarse como estado actual.",
+      "url": "https://www.youtube.com/watch?v=ystl-eJDwDM",
+      "fuente": "https://www.youtube.com/watch?v=ystl-eJDwDM",
+      "acceso": "Reproducción en línea en YouTube. No se ofrece aquí descarga ni copia del video.",
+      "derechos_estado": "Derechos del programa no informados en la ficha consultada",
+      "derechos": "El contenido pertenece al canal Pasión por el Vino TV y a los titulares de la producción. Solicitar autorización antes de descargar, editar, reproducir públicamente o reutilizar fragmentos.",
+      "licencia": "No indicada en la publicación consultada.",
+      "etiquetas": [
+        "video",
+        "Bodega Familia Aicardi",
+        "Enrique Aicardi",
+        "Lucy Oliveira Ramos",
+        "vitivinicultura",
+        "bodega",
+        "2023"
       ]
     }
   ]
