@@ -1,8 +1,8 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 9,
-  "descripcion": "Colección de documentos locales completos y accesos directos a originales institucionales y académicos, con autoría, procedencia y condiciones de uso visibles.",
-  "regla": "Los PDF alojados en LIBRITO se distinguen de los documentos que se abren en su fuente original. Nunca se presenta una ficha como archivo alojado.",
+  "version": 10,
+  "descripcion": "Colección de documentos locales completos y accesos directos a obras, archivos y recursos educativos en sus fuentes originales, con autoría, procedencia y condiciones de uso visibles.",
+  "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
     "Historia y memoria",
     "Libros y publicaciones",
@@ -561,6 +561,94 @@
         "historia regional",
         "territorio"
       ]
+    },
+    {
+      "id": "formacion-agropecuaria-cfpa2-2025",
+      "titulo": "Análisis de los aportes subjetivantes que emergen en la formación profesional agropecuaria",
+      "autoria": "Mariana Alejandra González",
+      "institucion": "Facultad de Ciencias de la Educación y Psicología · Universidad Nacional del Comahue",
+      "fecha": "2025",
+      "categoria": "Educación y conocimiento",
+      "tematica": "Centro de Formación Profesional Agropecuario n.º 2 de San Patricio del Chañar, educación de personas adultas, formación en oficios, producción de alimentos y emprendimientos",
+      "descripcion": "Artículo académico basado en un trabajo de campo realizado en 2023 en el CFPA n.º 2 de San Patricio del Chañar. Reúne testimonios de estudiantes y agentes educativos y analiza la formación a lo largo de la vida, los aprendizajes en oficios, la elaboración de alimentos, los emprendimientos y el vínculo entre educación y territorio. Texto completo en PDF en el repositorio de la Universidad Nacional del Comahue.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://rdi.uncoma.edu.ar/bitstream/handle/uncomaid/19184/000%2BENCLAVE%2B31%2B09%2BMariana%2BAlejandra%2BGonz%C3%A1lez%2BAn%C3%A1lisis%2Bde%2Blos%2Baportes%2Bsubjetivantes%2B215-235.pdf?isAllowed=y&sequence=1",
+      "urlFicha": "https://dialnet.unirioja.es/ejemplar/715464",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "El PDF está disponible en el repositorio universitario. No se identificó en el archivo consultado una licencia explícita que habilite su redistribución; LIBRITO enlaza el original y no aloja una copia.",
+        "referencia": "(En)clave Comahue, n.º 31, 2025, páginas 215–235; repositorio RDI-UNCo."
+      },
+      "procedencia": "Repositorio Digital Institucional de la Universidad Nacional del Comahue; revista (En)clave Comahue, FADECS-UNCo.",
+      "integridad": "PDF original de la revista, páginas 215–235; enlazado desde el repositorio institucional."
+    },
+    {
+      "id": "tesis-sedentarismo-adolescentes-chanar-2025",
+      "titulo": "Sedentarismo y actividad física en adolescentes de San Patricio del Chañar: una revisión antes y luego de la pandemia",
+      "autoria": "Sheila Melani Rivero",
+      "institucion": "Universidad Nacional de Río Negro · Licenciatura en Educación Física y Deportes",
+      "fecha": "2025",
+      "categoria": "Educación y conocimiento",
+      "tematica": "Educación física, adolescencia, actividad física, sedentarismo, pandemia, CPEM n.º 31 y EPEA n.º 3",
+      "descripcion": "Tesis de grado que estudia la relación entre sedentarismo y actividad física en adolescentes de San Patricio del Chañar antes y después de la pandemia. La ficha institucional informa que la investigación utiliza encuestas a estudiantes de nivel medio e incluye las escuelas CPEM n.º 31 y EPEA n.º 3. Recurso de interés para estudiantes, docentes e investigadores; consultar la tesis en su repositorio original.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://rid.unrn.edu.ar/handle/20.500.12049/12880",
+      "urlFicha": "https://rid.unrn.edu.ar/handle/20.500.12049/12880",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "La ficha institucional ofrece el PDF para consulta, pero no se verificó una licencia de redistribución. LIBRITO conserva el enlace al repositorio y no aloja la copia.",
+        "referencia": "Repositorio Institucional Digital de la Universidad Nacional de Río Negro, colección Licenciatura en Educación Física y Deportes."
+      },
+      "procedencia": "Repositorio Institucional Digital de la Universidad Nacional de Río Negro.",
+      "integridad": "Registro institucional con archivo PDF adjunto de 821,46 kB; no descargado ni verificado localmente."
+    },
+    {
+      "id": "quezada-cpem31-sistema-sensorial-tic-2021",
+      "titulo": "El estudio del Sistema Sensorial mediante Tecnologías de la Información y la Comunicación",
+      "autoria": "Carlos Walter Quezada Grob",
+      "institucion": "Universidad Nacional del Comahue · Especialización en Educación Mediada por Tecnología Digital",
+      "fecha": "2021",
+      "categoria": "Educación y conocimiento",
+      "tematica": "Ciencias Biológicas, sistema sensorial, TIC, enseñanza secundaria, CPEM n.º 31 Ing. R. Gasparri",
+      "descripcion": "Informe final de pasantía docente que documenta una intervención de enseñanza de Ciencias Biológicas sobre los órganos de los sentidos en un cuarto año del CPEM n.º 31 de San Patricio del Chañar. Describe actividades con herramientas digitales y uso de dispositivos móviles en el aula. Puede servir como antecedente pedagógico y material de consulta para docentes y estudiantes; su contenido didáctico debe leerse en el contexto de su fecha de elaboración.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://rdi.uncoma.edu.ar/bitstream/handle/uncomaid/16856/Quezada_Grob%20Informe%20final%20de%20Pasant%C3%ADa.pdf?isAllowed=y&sequence=1",
+      "urlFicha": "https://www.especializacion-emtd.com/pasant%C3%ADa/tfc-2020-2022/",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "El informe está disponible en el repositorio universitario. No se verificó una licencia que habilite republicar el PDF; LIBRITO enlaza el original y mantiene sus créditos.",
+        "referencia": "Repositorio Digital Institucional UNCo; trabajo final de Carlos Walter Quezada Grob, DOI 10.63376/eemtd-2021-tfc16856."
+      },
+      "procedencia": "Universidad Nacional del Comahue, Centro Universitario Regional Zona Atlántica, Departamento de Lengua, Literatura y Comunicación.",
+      "integridad": "PDF completo enlazado desde el repositorio institucional; 17 páginas indicadas en su índice."
+    },
+    {
+      "id": "sedronar-experiencias-municipales-plan-chanar",
+      "titulo": "Experiencias municipales: políticas de abordaje de los consumos problemáticos de drogas · caso San Patricio del Chañar",
+      "autoria": "Secretaría de Políticas Integrales sobre Drogas de la Nación Argentina (SEDRONAR), compilación institucional",
+      "institucion": "Gobierno de la República Argentina · Programa Municipios en Acción",
+      "fecha": "s/f",
+      "categoria": "Educación y conocimiento",
+      "tematica": "Políticas públicas locales, prevención, adolescencias, juventudes, educación, participación comunitaria y San Patricio del Chañar",
+      "descripcion": "Publicación nacional que reúne experiencias municipales y contiene una sección específica sobre el Plan Municipal de Promo-Prevención de San Patricio del Chañar. Documenta el enfoque local, los objetivos dirigidos a niñas, niños, adolescentes y jóvenes, y las acciones previstas con escuelas, espacios deportivos, orientación vocacional y participación comunitaria. Útil para educación cívica, investigación social y análisis de políticas públicas; consultar el documento completo en la fuente oficial.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://www.argentina.gob.ar/sites/default/files/experiencias_municipales_final-compressed_0.pdf",
+      "urlFicha": "https://www.argentina.gob.ar/",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Publicación alojada en el portal oficial nacional. No se identificó una licencia explícita de redistribución del PDF; LIBRITO enlaza la fuente original y no aloja una copia.",
+        "referencia": "SEDRONAR, Programa Municipios en Acción, publicación Experiencias municipales."
+      },
+      "procedencia": "Portal oficial del Gobierno de la República Argentina; Secretaría de Políticas Integrales sobre Drogas de la Nación Argentina.",
+      "integridad": "PDF completo disponible en el portal oficial; la sección de San Patricio del Chañar fue localizada en el cuerpo de la publicación."
     }
   ]
 }
