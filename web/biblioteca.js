@@ -91,13 +91,13 @@ function tarjeta(item) {
 
   const acciones = nodo("div", "documento-acciones");
   if (item.estado === "Publicado") {
-    acciones.append(enlace(item.archivo, "Leer o descargar PDF", item.titulo));
-    card.append(nodo("p", "estado-acceso local", "Archivo alojado en LIBRITO"));
+    acciones.append(enlace(item.archivo, "Descargar PDF", item.titulo, true));
+    card.append(nodo("p", "estado-acceso local", "Archivo completo alojado en LIBRITO"));
   } else {
     let etiqueta = texto(item.accionExterna);
     if (!etiqueta) etiqueta = item.acceso === "ficha" ? "Ver publicación original" : "Abrir original";
     acciones.append(enlace(item.urlOriginal, etiqueta, item.titulo));
-    card.append(nodo("p", "estado-acceso externo", "Se abre en la fuente original, fuera de LIBRITO"));
+    card.append(nodo("p", "estado-acceso externo", "Este material permanece en su fuente original"));
   }
   card.append(acciones);
 
@@ -121,26 +121,37 @@ function tarjeta(item) {
 
 function dibujar() {
   const termino = normalizar(buscador.value.trim());
-  const resultados = documentos.filter((item) => {
+  const coincide = (item) => {
     const campos = [item.titulo, item.autoria, item.institucion, item.tematica, item.descripcion, item.categoria, item.fecha, item.formato, ...(Array.isArray(item.etiquetas) ? item.etiquetas : [])];
     return normalizar(campos.map(texto).join(" ")).includes(termino);
-  });
-
+  };
+  const alojados = documentos.filter((item) => item.estado === "Publicado" && coincide(item));
+  const externos = documentos.filter((item) => item.estado !== "Publicado" && coincide(item));
+  const resultados = alojados.length + externos.length;
   limpiar.hidden = !buscador.value;
-  const alojados = documentos.filter((item) => item.estado === "Publicado").length;
-  const externos = documentos.length - alojados;
+  const totalLocales = documentos.filter((item) => item.estado === "Publicado").length;
+  const totalExternos = documentos.length - totalLocales;
   contador.textContent = termino
-    ? resultados.length + " resultados · " + alojados + " archivos alojados y " + externos + " accesos a originales"
-    : alojados + " archivos alojados en LIBRITO · " + externos + " accesos a fuentes originales";
+    ? resultados + " resultados · " + alojados.length + " descargas directas · " + externos.length + " fuentes originales"
+    : totalLocales + " archivos descargables desde LIBRITO · " + totalExternos + " fuentes originales para consultar";
 
   lista.replaceChildren();
   lista.setAttribute("aria-busy", "false");
-  if (!resultados.length) {
+  if (!resultados) {
     mostrarEstado(documentos.length ? "No encontramos ese material." : "Todavía no hay materiales disponibles.", "Probá con otra palabra o borrá la búsqueda.");
     return;
   }
   const fragmento = document.createDocumentFragment();
-  for (const item of resultados) fragmento.append(tarjeta(item));
+  if (alojados.length) {
+    fragmento.append(nodo("h3", "grupo-titulo", "Descargar desde LIBRITO"));
+    fragmento.append(nodo("p", "grupo-ayuda", "Archivos completos alojados aquí, listos para descargar."));
+    for (const item of alojados) fragmento.append(tarjeta(item));
+  }
+  if (externos.length) {
+    fragmento.append(nodo("h3", "grupo-titulo grupo-externo", "Consultar en su fuente original"));
+    fragmento.append(nodo("p", "grupo-ayuda", "Estas obras no están alojadas en LIBRITO. Se abren en el sitio que las publica."));
+    for (const item of externos) fragmento.append(tarjeta(item));
+  }
   lista.append(fragmento);
 }
 
