@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 17,
+  "version": 18,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -1217,6 +1217,78 @@
       },
       "procedencia": "Boletín Oficial de la Provincia del Neuquén, edición 2985, páginas 49–50.",
       "integridad": "Documento localizado dentro de una edición oficial de varias páginas; el plano se menciona como anexo integrante y debe consultarse en el original."
+    },
+    {
+      "id": "neuquen-informacion-municipal-basica-cartografia-2006-2007",
+      "titulo": "Información Municipal Básica 2006–2007 · San Patricio del Chañar y plano urbano",
+      "autoria": "Dirección Provincial de Estadística y Censos del Neuquén",
+      "institucion": "Gobierno de la Provincia del Neuquén",
+      "fecha": "2006/2007",
+      "categoria": "Territorio y cartografía",
+      "tematica": "Plano urbano, rutas de acceso, superficie municipal y reseña histórica",
+      "descripcion": "Ficha cartográfica provincial de San Patricio del Chañar incluida en la publicación Información Municipal Básica 2006/2007. Reúne una reseña histórica breve, datos territoriales y un plano esquemático del trazado urbano. Es un material de consulta especialmente útil para comparar la representación oficial de la localidad en esa época con planos y mapas actuales. El plano no presenta escala ni nombres de calles, por lo que no debe utilizarse como cartografía de navegación.",
+      "formato": "PDF · ficha cartográfica",
+      "acceso": "origen",
+      "urlOriginal": "https://www.estadisticaneuquen.gob.ar/static/archivos/Publicaciones/InfMunBasica/Basica20062007/Inicio/cartografia/San%20Patricio.pdf",
+      "urlFicha": "https://www.estadisticaneuquen.gob.ar/static/archivos/Publicaciones/InfMunBasica/Basica20062007/Inicio/cartografia/San%20Patricio.pdf",
+      "estado": "Disponible en origen",
+      "idioma": "Español",
+      "alcance": "Local · publicación estadística provincial",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Se enlaza el PDF alojado por el organismo provincial. No se extrae ni redistribuye el plano como archivo independiente.",
+        "referencia": "Dirección Provincial de Estadística y Censos del Neuquén, Información Municipal Básica 2006/2007."
+      },
+      "procedencia": "Portal oficial de la Dirección Provincial de Estadística y Censos del Neuquén.",
+      "integridad": "PDF de consulta en origen; ficha municipal con plano urbano y reseña histórica."
+    },
+    {
+      "id": "cfi-caracterizacion-edafoclimatica-vitivinicola-neuquen-2024",
+      "titulo": "Caracterización edafoclimática de las regiones vitivinícolas de la Argentina · Provincia del Neuquén",
+      "autoria": "Rosana Vallone, Alicia Apcarian, Perla Imbellone y equipo técnico",
+      "institucion": "Consejo Federal de Inversiones (CFI) y Corporación Vitivinícola Argentina (COVIAR)",
+      "fecha": "2024-02",
+      "categoria": "Territorio y cartografía",
+      "tematica": "Suelos, clima, geomorfología, terrazas fluviales, paisaje y vitivinicultura de San Patricio del Chañar",
+      "descripcion": "Informe técnico provincial con un apartado específico sobre San Patricio del Chañar y Loma de la Lata. Incluye perfiles topográficos, mapas geomorfológicos, caracterización de suelos, salinidad, drenaje y fotografías de viñedos del valle inferior del río Neuquén. El índice ubica materiales sobre San Patricio del Chañar entre las páginas impresas 184 y 245. Es una fuente técnica para estudiar el territorio y el paisaje productivo; sus resultados corresponden al área y metodología del estudio, no a cada parcela particular.",
+      "formato": "PDF · informe técnico con mapas",
+      "acceso": "origen",
+      "urlOriginal": "https://cfi.org.ar/uploads/2024/05/Neuquen_114_0.pdf",
+      "urlFicha": "https://cfi.org.ar/uploads/2024/05/Neuquen_114_0.pdf",
+      "estado": "Disponible en origen",
+      "idioma": "Español",
+      "alcance": "Provincial · estudio técnico con subárea local",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Se enlaza el informe completo en el portal del CFI. No se copian ni extraen mapas, fotografías o páginas.",
+        "referencia": "CFI y COVIAR, Caracterización edafoclimática de las regiones vitivinícolas de la Argentina, Provincia del Neuquén, febrero de 2024."
+      },
+      "procedencia": "Consejo Federal de Inversiones, publicación institucional; archivo PDF alojado en cfi.org.ar.",
+      "integridad": "Informe completo en origen. Las referencias locales se encuentran en las páginas impresas 184–245."
+    },
+    {
+      "id": "eia-poliducto-tratayen-cerri-tramo-neuquen-2025",
+      "titulo": "Estudio de Impacto Ambiental · Poliducto Tratayén–Cerri, tramo Neuquén",
+      "autoria": "Physis Consultora Ambiental / TGS",
+      "institucion": "Ministerio de Turismo y Ambiente de la Provincia del Neuquén",
+      "fecha": "2025",
+      "categoria": "Territorio y cartografía",
+      "tematica": "Tratayén, San Patricio del Chañar, relieve, rutas, topografía e infraestructura regional",
+      "descripcion": "Estudio de impacto ambiental del proyecto Poliducto Tratayén–Cerri, tramo Neuquén. Incluye mapas de ubicación y topografía donde aparecen San Patricio del Chañar, Tratayén y las rutas provinciales 7, 8 y 51. La figura cartográfica identificada como Figura 10 se encuentra en la página impresa 44. Se incorpora como fuente territorial y cartográfica de contexto: no es un plano catastral ni una descripción histórica de la localidad.",
+      "formato": "PDF · estudio ambiental con cartografía",
+      "acceso": "origen",
+      "urlOriginal": "https://ambiente.neuquen.gov.ar/wp-content/uploads/2025/02/EIA-Poliducto.pdf",
+      "urlFicha": "https://ambiente.neuquen.gov.ar/wp-content/uploads/2025/02/EIA-Poliducto.pdf",
+      "estado": "Disponible en origen",
+      "idioma": "Español",
+      "alcance": "Regional · Tratayén y valle inferior del río Neuquén",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Se enlaza el estudio ambiental publicado por el organismo provincial. No se descargan ni redistribuyen mapas o imágenes por separado.",
+        "referencia": "Ministerio de Turismo y Ambiente del Neuquén, Estudio de Impacto Ambiental Poliducto Tratayén–Cerri, tramo Neuquén."
+      },
+      "procedencia": "Portal oficial del área ambiental de la Provincia del Neuquén.",
+      "integridad": "Documento completo de consulta en origen; contiene cartografía regional y mapas de ubicación."
     }
   ]
 }
