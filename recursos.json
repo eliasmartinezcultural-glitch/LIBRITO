@@ -1,6 +1,6 @@
 {
   "nombre": "Recursos de LIBRITO · San Patricio del Chañar",
-  "version": 18,
+  "version": 19,
   "descripcion": "Índice de fotografías, mapas, planos, archivos audiovisuales y otros materiales de consulta relacionados con San Patricio del Chañar.",
   "criterio": "Se registran recursos existentes y se enlaza a sus custodios o fuentes originales. La inclusión no implica autorización para descargar, copiar, republicar, adaptar o usar comercialmente. Cada ficha informa el estado de derechos conocido y el modo de acceso. Si las condiciones no están claras, el recurso se ofrece solo como referencia externa.",
   "recursos": [
@@ -135,14 +135,14 @@
       "id": "dpcit-carta-topografica-3969-11-san-patricio-chanar",
       "titulo": "Carta topográfica 3969-11 · San Patricio del Chañar",
       "categoria": "Mapas y planos",
-      "tipo": "Referencia de hoja cartográfica oficial",
+      "tipo": "Carta topográfica oficial en imagen digital",
       "fecha": "Fecha de edición no indicada en el índice consultado",
       "autor": "Dirección Provincial de Catastro e Información Territorial · Gobierno de la Provincia del Neuquén",
-      "descripcion": "El índice oficial de Cartas Topográficas de la Mapoteca provincial identifica expresamente la hoja 3969-11 con el nombre “San Patricio del Chañar”. Es una referencia cartográfica de cobertura local, distinta de la hoja 3969-10 de Añelo. La página consultada confirma la existencia y denominación de la hoja, pero no expone un enlace individual de descarga en el contenido recuperado; por eso esta ficha no afirma que el mapa completo esté disponible desde ese enlace. No se debe confundir con una mensura parcelaria ni con el plano urbano actual.",
-      "url": "https://dpc.neuquen.gov.ar/dpcasp/mapoteca_digital/cartas_topograficas.asp",
-      "fuente": "https://dpc.neuquen.gov.ar/dpcasp/mapoteca_digital/cartas_topograficas.asp",
-      "acceso": "Consulta del índice institucional. La hoja 3969-11 está identificada por nombre; no se recuperó un enlace individual de descarga.",
-      "licencia": "No identificada para la hoja individual. Consultar al organismo antes de reutilizar.",
+      "descripcion": "Carta topográfica oficial identificada como hoja 3969-11 San Patricio del Chañar. El archivo individual permite consultar la representación del territorio, el relieve, la red hidrográfica, caminos, topónimos y referencias cartográficas del área local y su entorno. Es una hoja cartográfica territorial, no un plano parcelario ni un plano urbano de manzanas. El índice institucional diferencia esta hoja de la 3969-10 Añelo.",
+      "url": "https://dpc.neuquen.gov.ar/dpcasp/mapoteca_digital/cartas_topograficas/3969-11_SanPatricioDelChagnar.jpg",
+      "fuente": "Dirección Provincial de Catastro e Información Territorial, Mapoteca Digital, índice de Cartas Topográficas y archivo cartográfico individual de la hoja 3969-11.",
+      "acceso": "Visualización directa del archivo JPG en la Mapoteca Digital provincial. El índice oficial también permite localizar la hoja 3969-11. La institución establece uso personal para descarga e impresión de su cartografía; consultar al organismo para otros usos.",
+      "licencia": "No es una licencia abierta general. Uso personal; reproducción comercial sujeta a autorización de la DPCeIT.",
       "etiquetas": [
         "carta topográfica",
         "3969-11",
@@ -151,8 +151,8 @@
         "Neuquén",
         "hoja local"
       ],
-      "derechos_estado": "Condiciones de reproducción de la cartografía no verificadas para esta hoja individual",
-      "derechos": "Conservar la atribución a la Dirección Provincial de Catastro e Información Territorial. Antes de reproducir o redistribuir el mapa, consultar las condiciones vigentes de la Mapoteca y del organismo productor. La publicación del índice no equivale a una licencia abierta."
+      "derechos_estado": "Derechos de autor registrados por la DPCeIT; uso personal indicado por el organismo",
+      "derechos": "La DPCeIT informa que la cartografía de la Mapoteca está registrada bajo RE-2019-08844421-APN-DNDA#MJ y permite descargar e imprimir mapas para uso personal. Prohíbe su reproducción total o parcial con fines comerciales sin autorización expresa. Conservar la atribución institucional."
     },
     {
       "id": "haru-muestra-fotografica-colonia-japonesa-chanar-2022",
@@ -337,9 +337,9 @@
       "fecha": "1882–1883; publicadas en el álbum de 1883",
       "autor": "Fotografías de Pedro Morelli · Encina, Moreno y Cía.; reproducción documental en Ministerio de Cultura de la Nación (2017)",
       "descripcion": "El anexo fotográfico de «Patrimonios visuales patagónicos» reproduce las vistas históricas identificadas como Foto 49 «Fortín Tratayen» y Foto 50 «Vado del Río Neuquén», tomadas por la comisión de Encina, Moreno y Cía. El topónimo Tratayen está documentado en la historia territorial de la actual San Patricio del Chañar, pero esta ficha no afirma que las tomas correspondan al casco urbano ni confunde el Fortín Tratayen con el Fortín Chañar: son referencias históricas distintas. Se incorpora como registro visual del entorno histórico del valle del Neuquén y del paraje Tratayen.",
-      "url": "https://www.academia.edu/33722300/Patrimonios_Visuales_Patag%C3%B3nicos_Territorios_y_Sociedades",
-      "fuente": "Ministerio de Cultura de la Nación, Patrimonios visuales patagónicos: territorios y sociedades, 1.ª edición, 2017; Anexo III, «Vistas fotográficas del Territorio Nacional del Limay y Neuquén», Tomo I, fotografías 49 y 50, pp. 227–228. Fotografías originales de Encina, Moreno y Cía., tomadas en 1882–1883.",
-      "acceso": "Consulta del libro digital en Academia.edu. Buscar el Anexo III y las fotografías 49–50; el mismo libro contiene estudios sobre la primera mensura, los fortines y el registro fotográfico de 1882–1883.",
+      "url": "https://www.repositorio.cenpat-conicet.gob.ar/server/api/core/bitstreams/4ad35174-dd76-45f4-b5b5-47ea38652680/content",
+      "fuente": "Repositorio institucional del Instituto Patagónico de Ciencias Sociales y Humanas (IPCSH-CONICET), obra Patrimonios visuales patagónicos: territorios y sociedades (Ministerio de Cultura de la Nación, 2017), Anexo III, fotografías 49 y 50.",
+      "acceso": "Consulta del ejemplar digital alojado en el repositorio institucional del IPCSH-CONICET. Buscar el Anexo III y las fotografías 49–50; el volumen contiene estudios sobre la primera mensura, los fortines y el registro fotográfico de 1882–1883. El archivo es de gran tamaño.",
       "derechos_estado": "La edición de 2017 indica todos los derechos reservados; no se presume permiso de reproducción de las fotografías históricas",
       "derechos": "La ficha enlaza la publicación que reproduce las fotografías y conserva sus créditos. No descargar, copiar ni redistribuir las imágenes desde LIBRITO. Para reutilizarlas, consultar al Museo Roca/Ministerio de Cultura y verificar los derechos de las fotografías originales y de la edición.",
       "licencia": "Todos los derechos reservados en la edición de 2017; no se identificó una licencia abierta para estas reproducciones.",
@@ -1295,6 +1295,32 @@
         "proyecto",
         "69 MW",
         "contexto provincial"
+      ]
+    },
+    {
+      "id": "boletin-oficial-neuquen-ordenanza-mensura-rural-chanar-1366-2023",
+      "titulo": "Ordenanza 1366/23 y documentación municipal sobre mensura rural · San Patricio del Chañar",
+      "categoria": "Documentos técnicos y administrativos",
+      "tipo": "Publicación en Boletín Oficial provincial con ordenanza municipal",
+      "fecha": "7 de diciembre de 2023",
+      "autor": "Honorable Concejo Deliberante de San Patricio del Chañar · Boletín Oficial de la Provincia del Neuquén",
+      "descripcion": "La edición 4234 del Boletín Oficial provincial publica la Ordenanza Municipal 1366/23, sancionada el 22 de noviembre de 2023. El texto otorga visado municipal a un proyecto de mensura sobre la parcela identificada con nomenclatura catastral 062008273220000 y establece que las parcelas resultantes se destinen a explotación rural intensiva, principalmente al cultivo comercial de almendras. La ordenanza indica que el proyecto de mensura se adjuntó al expediente municipal, pero el boletín consultado reproduce el texto normativo y no permite afirmar que incluya el plano anexo. Es un registro administrativo del uso y subdivisión del suelo local, no un plano catastral descargable.",
+      "url": "https://boficial.neuquen.gov.ar/Boletines/Firmado_bol231207_4234.pdf",
+      "fuente": "Boletín Oficial de la Provincia del Neuquén, Año CIII, edición 4234, 7 de diciembre de 2023, pp. 112–113, Ordenanza Municipal 1366/23.",
+      "acceso": "Consulta y descarga del PDF oficial. La ordenanza aparece en las páginas impresas 112–113 (páginas 113–114 del archivo PDF). El documento no sustituye el expediente municipal ni el plano de mensura adjunto al trámite.",
+      "derechos_estado": "Documento oficial de acceso público; condiciones de reutilización de anexos y elementos gráficos no verificadas",
+      "derechos": "Conservar la identificación del Boletín Oficial, edición, fecha y número de ordenanza. La publicación oficial permite consultar el texto normativo, pero no concede por sí sola derechos para reutilizar planos o anexos de terceros. Para obtener el plano de mensura, consultar el expediente municipal 7031-48680 o la Dirección Provincial de Catastro.",
+      "licencia": "No se identifica una licencia abierta general para los elementos gráficos o anexos.",
+      "etiquetas": [
+        "San Patricio del Chañar",
+        "Ordenanza 1366/23",
+        "mensura",
+        "nomenclatura catastral",
+        "parcelamiento rural",
+        "cultivo de almendras",
+        "Boletín Oficial",
+        "2023",
+        "documentación municipal"
       ]
     }
   ]
