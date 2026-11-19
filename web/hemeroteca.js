@@ -10,7 +10,8 @@ let news=[];
 function draw(){
  const q=norm(input.value.trim());
  const found=news.filter(n=>norm([n.titulo,n.fecha,n.medio,n.autor,n.descripcion,...(n.etiquetas||[])].join(" ")).includes(q));
- total.textContent=String(news.length);\n count.textContent=q?found.length+" resultados de "+news.length+" noticias registradas": "Colección completa · "+news.length+" noticias ordenadas por año, de la más reciente a la más antigua";
+ total.textContent=String(news.length);
+ count.textContent=q?found.length+" resultados de "+news.length+" noticias registradas": "Colección completa · "+news.length+" noticias ordenadas por año, de la más reciente a la más antigua";
  list.replaceChildren();list.setAttribute("aria-busy","false");
  if(!found.length){list.append(el("p","estado","No encontramos noticias con esa búsqueda. Probá con otra palabra o un año."));return}
  const frag=document.createDocumentFragment();
