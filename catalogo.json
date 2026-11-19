@@ -1659,6 +1659,94 @@
       },
       "procedencia": "Boletín Oficial de la Provincia del Neuquén, anexo de ordenanzas municipales, edición 2820, 25 de abril de 2003.",
       "integridad": "PDF oficial completo; ordenanzas identificadas en páginas 2 a 4 del anexo."
+    },
+    {
+      "id": "boletin-neuquen-adinec-asamblea-2005",
+      "titulo": "ADINEC · memoria, inventario y estados contables de 2005",
+      "autoria": "Asociación para el Desarrollo Integral de El Chañar (ADINEC)",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2005-05-20",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Historia institucional, desarrollo local y rendición de cuentas de asociaciones civiles",
+      "descripcion": "Convocatoria a Asamblea General Ordinaria de ADINEC para el 9 de junio de 2005 en la Municipalidad de San Patricio del Chañar. El orden del día prevé tratar la convocatoria postergada y poner a consideración la memoria, el inventario, los estados contables y el informe de revisores de cuentas. La publicación registra el llamado, no incorpora los estados contables ni el acta.",
+      "formato": "Referencia web",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/BoletinDetalle?Id=462",
+      "urlFicha": "https://infoleg.neuquen.gov.ar/BoletinDetalle?Id=462",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Referencia al índice oficial del Boletín Oficial provincial; LIBRITO no reproduce ni aloja el aviso.",
+        "referencia": "Boletín Oficial de la Provincia del Neuquén, edición de mayo de 2005."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, convocatoria de ADINEC de mayo de 2005.",
+      "integridad": "Texto localizado en el índice oficial; el acceso automatizado a la ficha devolvió error temporal, por lo que conviene revalidarlo."
+    },
+    {
+      "id": "boletin-neuquen-consorcio-riego-chanar-asamblea-2003",
+      "titulo": "Consorcio de Riego y Drenaje de El Chañar · Asamblea General Ordinaria",
+      "autoria": "Consorcio de Riego y Drenaje de El Chañar",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2003-08-01",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Historia del riego, organización de regantes, producción agrícola y administración comunitaria",
+      "descripcion": "Convocatoria a Asamblea General Ordinaria del Consorcio de Riego y Drenaje de El Chañar para el 16 de agosto de 2003, en su local de calle Pehuén. El aviso propone tratar la memoria y el balance del ejercicio cerrado el 31 de diciembre de 2002, el presupuesto 2003 y la renovación parcial de la comisión administradora. Es una fuente directa sobre la vida institucional del sistema de riego; no contiene el acta ni el balance.",
+      "formato": "Referencia web",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gob.ar/BoletinDetalle?id=364",
+      "urlFicha": "https://infoleg.neuquen.gob.ar/BoletinDetalle?id=364",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Se enlaza la ficha de la publicación oficial; LIBRITO no aloja una copia del aviso.",
+        "referencia": "Boletín Oficial de la Provincia del Neuquén, 01-08-2003, página 14."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, convocatoria publicada el 1 de agosto de 2003.",
+      "integridad": "Registro identificado en el índice oficial; acceso automatizado inestable durante la investigación."
+    },
+    {
+      "id": "boletin-neuquen-camara-productores-chanar-asamblea-2005",
+      "titulo": "Cámara de Productores Agropecuarios de San Patricio del Chañar · convocatoria y balances históricos",
+      "autoria": "Cámara de Productores Agropecuarios de San Patricio del Chañar",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2005-10-14",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Historia productiva, organización de productores, fruticultura y memoria institucional",
+      "descripcion": "Convocatoria a Asamblea General Ordinaria de la Cámara de Productores Agropecuarios, prevista para el 26 de octubre de 2005 en el local del Consorcio de Riego y Drenaje El Chañar. El orden del día incluye memorias y balances de ejercicios comprendidos entre 1995 y 2005, además de la renovación de la comisión administradora. El aviso enumera autoridades y vocales salientes, entre ellos Roberto Gasparri como vocal primero. Es una fuente especialmente valiosa para identificar actores y continuidad institucional, pero no contiene los balances ni acredita el resultado de la elección.",
+      "formato": "Referencia web",
+      "acceso": "origen",
+      "urlOriginal": "https://boletinoficial.neuquen.gov.ar/BoletinDetalle?Id=483",
+      "urlFicha": "https://boletinoficial.neuquen.gov.ar/BoletinDetalle?Id=483",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Referencia al Boletín Oficial provincial. LIBRITO conserva metadatos y descripción propia, sin reproducir el aviso.",
+        "referencia": "Boletín Oficial de la Provincia del Neuquén, 14-10-2005, página 20."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, convocatoria publicada el 14 de octubre de 2005.",
+      "integridad": "Texto recuperado del índice oficial; la ficha web directa no respondió durante esta consulta."
+    },
+    {
+      "id": "neuquen-ley-1125-1978-juzgado-paz-chanar",
+      "titulo": "Ley provincial 1125 · creación del Juzgado de Paz de San Patricio del Chañar",
+      "autoria": "Legislatura de la Provincia del Neuquén",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "1978-10-31",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Historia institucional, justicia de paz y organización administrativa local",
+      "descripcion": "Registro oficial de la Ley provincial 1125, fechada el 31 de octubre de 1978, que crea un Juzgado de Paz en San Patricio del Chañar, además de otros juzgados en la provincia. La ficha legislativa indica que la norma fue modificada por la Ley 1195. Es un antecedente normativo primario para investigar la organización judicial local; consultar el texto íntegro y sus modificaciones antes de extraer conclusiones sobre su puesta en funcionamiento.",
+      "formato": "Referencia web",
+      "acceso": "origen",
+      "urlOriginal": "https://boficial.neuquen.gov.ar/LeyesDecretosDetalle?Id=210081",
+      "urlFicha": "https://boficial.neuquen.gov.ar/LeyesDecretosDetalle?Id=210081",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Ficha de legislación provincial en el portal oficial del Boletín Oficial. LIBRITO enlaza el registro y no reproduce el texto.",
+        "referencia": "Ley provincial 1125, 31-10-1978; ficha oficial de Leyes y Decretos."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, base oficial de Leyes y Decretos.",
+      "integridad": "Ficha de registro localizada; el acceso directo presentó error temporal. El título, fecha, objeto y modificación por Ley 1195 constan en el resultado oficial indexado."
     }
   ]
 }
