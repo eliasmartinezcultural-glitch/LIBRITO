@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 21,
+  "version": 22,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -1239,6 +1239,28 @@
       },
       "procedencia": "SEDICI · Repositorio institucional de la Universidad Nacional de La Plata; Memorias del Congreso Latinoamericano de Ingeniería y Ciencias Aplicadas (CLICAP 2018).",
       "integridad": "PDF original de una página, correspondiente al resumen extendido del trabajo, disponible en el repositorio institucional."
+    },
+    {
+      "id": "inet-catalogo-cfpa-puesto-chanar",
+      "titulo": "Centro de Formación Profesional Agropecuaria Puesto Chañar · ficha institucional y oferta formativa",
+      "autoria": "Instituto Nacional de Educación Tecnológica (INET)",
+      "institucion": "Ministerio de Capital Humano · Instituto Nacional de Educación Tecnológica",
+      "fecha": "s/f",
+      "categoria": "Educación y conocimiento",
+      "tematica": "CFPA N.º 2, formación profesional, producción agropecuaria, conservación de alimentos, vivero, huerta, granja y elaboración de bebidas",
+      "descripcion": "Ficha del Catálogo Nacional de Títulos y Certificaciones de Educación Técnico Profesional para el Centro de Formación Profesional Agropecuaria Puesto Chañar, identificado en San Patricio del Chañar. Registra su carácter estatal y enumera áreas formativas como conservación de alimentos, producción agropecuaria, vivero, huerta y granja, conservas y bebidas fermentadas. Es una ficha institucional de consulta, no un programa curricular completo.",
+      "formato": "PÁGINA WEB",
+      "acceso": "ficha",
+      "urlOriginal": "https://catalogo-inet.educacion.gob.ar/instituciones/3446/detalle",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar ficha institucional",
+      "autorizacion": {
+        "estado": "enlace_a_ficha_institucional",
+        "base": "Se enlaza la ficha pública del catálogo oficial. LIBRITO no copia ni reproduce sus contenidos.",
+        "referencia": "INET, Catálogo Nacional de Títulos y Certificaciones de Educación Técnico Profesional, institución 3446."
+      },
+      "procedencia": "Instituto Nacional de Educación Tecnológica · Catálogo Nacional de Títulos y Certificaciones de Educación Técnico Profesional.",
+      "integridad": "Ficha institucional consultada en el catálogo oficial; la oferta consignada corresponde a la información publicada en esa ficha."
     }
   ]
 }
