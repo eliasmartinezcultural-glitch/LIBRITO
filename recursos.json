@@ -1,6 +1,6 @@
 {
   "nombre": "Recursos de LIBRITO · San Patricio del Chañar",
-  "version": 5,
+  "version": 6,
   "descripcion": "Índice de fotografías, mapas, planos, archivos audiovisuales y otros materiales de consulta relacionados con San Patricio del Chañar.",
   "criterio": "Se registran recursos existentes y se enlaza a sus custodios o fuentes originales. La inclusión no implica autorización para descargar, copiar, republicar, adaptar o usar comercialmente. Cada ficha informa el estado de derechos conocido y el modo de acceso. Si las condiciones no están claras, el recurso se ofrece solo como referencia externa.",
   "recursos": [
@@ -253,6 +253,53 @@
         "fotografías",
         "AIC",
         "2020"
+      ]
+    },
+    {
+      "id": "lmneuquen-galeria-vendimia-neuquina-chanar-2024",
+      "titulo": "Vendimia Neuquina 2024 · galería de 22 fotografías",
+      "categoria": "Fotografías y eventos",
+      "tipo": "Galería fotográfica periodística",
+      "fecha": "24–25 de marzo de 2024",
+      "autor": "Fotografías de Omar Novoa · LM Neuquén",
+      "descripcion": "Galería de 22 fotografías de la segunda jornada de la Vendimia Neuquina 2024, celebrada junto a bodegueros de San Patricio del Chañar y enmarcada por los viñedos de Bodega Familia Schroeder. Documenta una actividad cultural y productiva desarrollada en la localidad. La ficha enlaza la galería original y no copia las fotografías.",
+      "url": "https://www.lmneuquen.com/neuquen/en-22-fotos-el-cierre-todo-color-la-vendimia-neuquina-n1101553",
+      "fuente": "https://www.lmneuquen.com/neuquen/en-22-fotos-el-cierre-todo-color-la-vendimia-neuquina-n1101553",
+      "acceso": "Galería consultable en la publicación digital de LM Neuquén. La nota informa 22 fotografías.",
+      "derechos_estado": "Derechos de las fotografías no identificados como licencia abierta",
+      "derechos": "Las imágenes están atribuidas a Omar Novoa y publicadas por LM Neuquén. Consultar al fotógrafo y al medio antes de reproducirlas o reutilizarlas.",
+      "licencia": "No se identifica licencia abierta. Consulta externa.",
+      "etiquetas": [
+        "Vendimia Neuquina",
+        "Bodega Familia Schroeder",
+        "viñedos",
+        "fotografía",
+        "Omar Novoa",
+        "San Patricio del Chañar",
+        "2024"
+      ]
+    },
+    {
+      "id": "derutasydestinos-indice-flickr-fotografias-chanar",
+      "titulo": "Índice de fotografías de San Patricio del Chañar y alrededores · Flickr",
+      "categoria": "Fotografías y archivos visuales",
+      "tipo": "Directorio externo de álbumes fotográficos",
+      "fecha": "Sin fecha de publicación identificada",
+      "autor": "De Rutas y Destinos · fotografías de distintos usuarios de Flickr",
+      "descripcion": "Índice que reúne 15 enlaces a álbumes de distintos usuarios de Flickr asociados geográficamente con San Patricio del Chañar. El propio sitio aclara que las imágenes pueden corresponder a la localidad o a lugares situados a pocos kilómetros del centro geográfico usado como referencia. Por eso no se considera que las 15 fotografías estén necesariamente dentro del ejido: cada álbum debe revisarse por separado para confirmar ubicación, fecha, autoría y licencia. Es una puerta de búsqueda, no una colección propia ni una autorización de reutilización.",
+      "url": "https://www.derutasydestinos.com/fotografias-San-Patricio-del-Cha%C3%B1ar--Neuquen.html",
+      "fuente": "https://www.derutasydestinos.com/fotografias-San-Patricio-del-Cha%C3%B1ar--Neuquen.html",
+      "acceso": "La página enlaza a álbumes individuales de Flickr; abrir cada fotografía para llegar al álbum de su autor y verificar sus datos.",
+      "derechos_estado": "Derechos variables según cada autor y álbum de Flickr; no verificados individualmente",
+      "derechos": "La disponibilidad pública en Flickr no equivale a permiso de descarga, reproducción o uso comercial. Respetar la licencia y condiciones de cada fotografía y solicitar autorización cuando corresponda.",
+      "licencia": "No existe una licencia única para el directorio. Verificar la licencia de cada imagen en su álbum original.",
+      "etiquetas": [
+        "Flickr",
+        "álbumes fotográficos",
+        "San Patricio del Chañar",
+        "entorno cercano",
+        "fotógrafos",
+        "búsqueda visual"
       ]
     }
   ]
