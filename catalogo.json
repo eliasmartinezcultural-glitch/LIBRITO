@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 45,
+  "version": 46,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -538,7 +538,7 @@
       "fecha": "1902",
       "categoria": "Historia y memoria",
       "tematica": "Viaje histórico por el territorio del Neuquén, geografía, caminos, pobladores y antecedentes regionales",
-      "descripcion": "Libro histórico de 116 páginas publicado en 1902. Es un testimonio de época sobre el territorio neuquino y su recorrido desde la Confluencia hacia el norte. No es un libro dedicado exclusivamente a San Patricio del Chañar; se incorpora como fuente histórica regional complementaria.",
+      "descripcion": "Libro histórico de 116 páginas publicado en 1902 por el funcionario Gabriel Carrasco, después de recorrer el Territorio Nacional del Neuquén. Es un testimonio de época sobre caminos, distancias, paisaje y condiciones de viaje entre la Confluencia y Chos Malal. Un estudio periodístico posterior que reconstruye el itinerario a partir del relato de Carrasco describe el trayecto desde Cipolletti hasta Chañar en unas cinco horas y la pernoctación en Tratayén, antes de continuar hacia Añelo y el norte neuquino. Se incorpora como fuente primaria para estudiar los caminos y parajes de la región antes de la creación de San Patricio del Chañar en 1973. No es una descripción del actual casco urbano ni prueba aislada de la ubicación de antiguos puestos o fortines.",
       "formato": "PDF",
       "acceso": "ficha",
       "urlOriginal": "https://play.google.com/store/books/details/Gabriel_Carrasco_De_Buenos_Aires_al_Neuqu%C3%A9n?id=Qg5bAAAAMAAJ",
@@ -550,8 +550,8 @@
         "base": "Edición original de 1902. LIBRITO enlaza la versión digital disponible en Google Play Books y el registro bibliográfico de la Biblioteca Florentino Ameghino; no aloja ni redistribuye una copia.",
         "referencia": "Google Play Books, edición digital gratuita; Biblioteca Florentino Ameghino, UNLP, registro bibliográfico de la edición de 1902."
       },
-      "procedencia": "Google Play Books; registro bibliográfico de la Biblioteca Florentino Ameghino, Facultad de Ciencias Naturales y Museo, Universidad Nacional de La Plata.",
-      "integridad": "Registro bibliográfico de una edición de 116 páginas; lectura digital en Google Play Books, no PDF alojado por LIBRITO.",
+      "procedencia": "Gabriel Carrasco, edición de 1902; registro bibliográfico de la Biblioteca Florentino Ameghino, Facultad de Ciencias Naturales y Museo, Universidad Nacional de La Plata. El itinerario local se contextualiza con la reconstrucción publicada por Más Producción / LM Neuquén.",
+      "integridad": "La ficha universitaria confirma autor, título, editorial, año y extensión. El vínculo de la travesía con Chañar y Tratayén se contrasta con el artículo de Osvaldo Preiss, que identifica el recorrido descrito por Carrasco. Se recomienda cotejar el texto íntegro y sus páginas antes de extraer citas literales.",
       "etiquetas": [
         "Gabriel Carrasco",
         "1902",
@@ -559,7 +559,12 @@
         "Neuquén antiguo",
         "Confluencia",
         "historia regional",
-        "territorio"
+        "territorio",
+        "Chañar",
+        "Tratayén",
+        "Punta de Sierra",
+        "camino histórico",
+        "Confluencia a Chos Malal"
       ]
     },
     {
@@ -3627,6 +3632,41 @@
       },
       "procedencia": "Boletín Oficial de la Provincia del Neuquén, ficha oficial de Leyes y Decretos.",
       "integridad": "Ficha oficial consultada; se verificaron número, fecha, destino y monto máximo del aporte. La norma no permite afirmar que la obra esté ejecutada."
+    },
+    {
+      "id": "museo-roca-conicet-patrimonios-visuales-encina-moreno-1882-1883",
+      "titulo": "Patrimonios visuales patagónicos · Territorios y sociedades: álbumes fotográficos de Antonio Pozzo y Encina, Moreno y Cía.",
+      "autoria": "María Inés Rodríguez Aguilar (compilación); Juan Mario Raone, Julio Esteban Vezub y otros autores",
+      "institucion": "Museo Roca · Instituto de Investigaciones Históricas · Ministerio de Cultura de la Nación · CONICET",
+      "fecha": "2017",
+      "categoria": "Historia y memoria",
+      "tematica": "Mensuras territoriales de 1882–1883, fotografía histórica, cartografía, expediciones y territorio neuquino en el siglo XIX",
+      "descripcion": "Publicación académica e institucional que reúne estudios sobre los álbumes fotográficos de Antonio Pozzo y de Encina, Moreno y Cía., producidos en el contexto de las expediciones y relevamientos territoriales de 1879 y 1882–1883. Incluye la reedición del trabajo de Juan Mario Raone sobre la primera mensura del territorio de El Triángulo y sus fotografías históricas, además de anexos con álbumes de vistas de 1883. Es una fuente documental y bibliográfica de gran valor para investigar las mensuras, los recorridos y la producción de imágenes del Neuquén del siglo XIX. La publicación no demuestra por sí sola que una fotografía determinada haya sido tomada en el paraje Chañar: esa identificación requiere revisar epígrafes, itinerarios y documentación original.",
+      "formato": "Libro digital · PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://ri.conicet.gov.ar/bitstream/handle/11336/109993/CONICET_Digital_Nro.29159332-9370-4704-b60e-2d419a2fbd48_A.pdf?isAllowed=y&sequence=2",
+      "urlFicha": "https://biblioteca.anh.org.ar/cgi-bin/koha/opac-detail.pl?biblionumber=84090",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar publicación completa",
+      "autorizacion": {
+        "estado": "enlace_a_publicacion_institucional",
+        "base": "Publicación institucional con derechos reservados. LIBRITO enlaza el PDF y el registro bibliográfico; no extrae ni republica fotografías o páginas.",
+        "referencia": "Rodríguez Aguilar, María Inés (comp.). Patrimonios visuales patagónicos: territorios y sociedades. Buenos Aires, Ministerio de Cultura de la Nación, Museo Roca, 2017. ISBN 978-987-4012-33-3."
+      },
+      "procedencia": "Repositorio Institucional CONICET Digital y catálogo de la Biblioteca de la Academia Nacional de la Historia; publicación del Museo Roca.",
+      "integridad": "PDF completo consultado. Se verificaron datos editoriales, índice, reedición del capítulo de Juan Mario Raone y anexos fotográficos de Encina y Moreno. La cobertura geográfica de las fotografías no debe extenderse al Chañar sin verificación individual.",
+      "etiquetas": [
+        "1882",
+        "1883",
+        "2017",
+        "Encina y Moreno",
+        "Antonio Pozzo",
+        "Juan Mario Raone",
+        "mensura",
+        "fotografía histórica",
+        "siglo XIX",
+        "Neuquén"
+      ]
     }
   ]
 }
