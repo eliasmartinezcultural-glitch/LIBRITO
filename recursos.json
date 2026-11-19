@@ -1,6 +1,6 @@
 {
   "nombre": "Recursos de LIBRITO · San Patricio del Chañar",
-  "version": 6,
+  "version": 7,
   "descripcion": "Índice de fotografías, mapas, planos, archivos audiovisuales y otros materiales de consulta relacionados con San Patricio del Chañar.",
   "criterio": "Se registran recursos existentes y se enlaza a sus custodios o fuentes originales. La inclusión no implica autorización para descargar, copiar, republicar, adaptar o usar comercialmente. Cada ficha informa el estado de derechos conocido y el modo de acceso. Si las condiciones no están claras, el recurso se ofrece solo como referencia externa.",
   "recursos": [
@@ -300,6 +300,60 @@
         "entorno cercano",
         "fotógrafos",
         "búsqueda visual"
+      ]
+    },
+    {
+      "id": "host-cuadro-topografico-aguas-frente-al-chanar-1879",
+      "titulo": "Cuadro topográfico y nota geográfica · aguas frente al Chañar (1879)",
+      "categoria": "Cartografía y documentos visuales históricos",
+      "tipo": "Cuadro de marcha, observaciones topográficas y nota geográfica militar",
+      "fecha": "1 de agosto de 1879",
+      "autor": "Federico Host · Sargento Mayor de Ingenieros de la 4.ª División expedicionaria · Instituto Geográfico Argentino",
+      "descripcion": "Documento original publicado en el Boletín del Instituto Geográfico Argentino. Reúne el itinerario de la columna de la 4.ª División, distancias, pasos, campamentos y observaciones del río Neuquén. En la nota geográfica firmada por Host se registra expresamente el cruce del río «en aguas frente al Chañar» y se describen los pasos y caminos de la zona. Es uno de los testimonios impresos más antiguos localizados hasta ahora que nombra directamente el paraje Chañar. Se ofrece el facsímil completo de la publicación; consultar el cuadro topográfico y la nota geográfica de las páginas impresas 158–160.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/BaANH50337_Boletin_del_Instituto_Geogr%C3%A1fico_Argentino_%28Tomo_I._1879%29.pdf",
+      "fuente": "Boletín del Instituto Geográfico Argentino, tomo I, 1879; artículo «Exploraciones en el Neuquen», Federico Host; cuadro topográfico y nota geográfica militar fechada en las Juntas del Limay con Neuquén, 1 de agosto de 1879.",
+      "acceso": "PDF digitalizado de la publicación histórica completa. Consultar el cuadro topográfico y la nota geográfica firmada por Federico Host; la publicación incluye además su carta y láminas del río Neuquén.",
+      "derechos_estado": "Publicación histórica de 1879 digitalizada; no se verificó una declaración de licencia específica del archivo escaneado",
+      "derechos": "LIBRITO enlaza al facsímil alojado en Wikimedia Commons. La antigüedad de la publicación no debe confundirse con una licencia expresa del archivo digital. Verificar la ficha del archivo y las condiciones aplicables antes de reutilizar o republicar imágenes del escaneo.",
+      "licencia": "No se identificó una licencia explícita para el archivo digital consultado.",
+      "etiquetas": [
+        "San Patricio del Chañar",
+        "El Chañar",
+        "Federico Host",
+        "1879",
+        "río Neuquén",
+        "aguas frente al Chañar",
+        "cuadro topográfico",
+        "4.ª División",
+        "cartografía histórica",
+        "pasos fluviales"
+      ]
+    },
+    {
+      "id": "encina-moreno-fotografias-fortin-tratayen-vado-neuquen-1883",
+      "titulo": "Vistas fotográficas de 1883 · Fortín Tratayen y vado del río Neuquén",
+      "categoria": "Fotografías y archivos visuales históricos",
+      "tipo": "Dos fotografías históricas reproducidas en un álbum documental",
+      "fecha": "1882–1883; publicadas en el álbum de 1883",
+      "autor": "Fotografías de Pedro Morelli · Encina, Moreno y Cía.; reproducción documental en Ministerio de Cultura de la Nación (2017)",
+      "descripcion": "El anexo fotográfico de «Patrimonios visuales patagónicos» reproduce las vistas históricas identificadas como Foto 49 «Fortín Tratayen» y Foto 50 «Vado del Río Neuquén», tomadas por la comisión de Encina, Moreno y Cía. El topónimo Tratayen está documentado en la historia territorial de la actual San Patricio del Chañar, pero esta ficha no afirma que las tomas correspondan al casco urbano ni confunde el Fortín Tratayen con el Fortín Chañar: son referencias históricas distintas. Se incorpora como registro visual del entorno histórico del valle del Neuquén y del paraje Tratayen.",
+      "url": "https://www.academia.edu/33722300/Patrimonios_Visuales_Patag%C3%B3nicos_Territorios_y_Sociedades",
+      "fuente": "Ministerio de Cultura de la Nación, Patrimonios visuales patagónicos: territorios y sociedades, 1.ª edición, 2017; Anexo III, «Vistas fotográficas del Territorio Nacional del Limay y Neuquén», Tomo I, fotografías 49 y 50, pp. 227–228. Fotografías originales de Encina, Moreno y Cía., tomadas en 1882–1883.",
+      "acceso": "Consulta del libro digital en Academia.edu. Buscar el Anexo III y las fotografías 49–50; el mismo libro contiene estudios sobre la primera mensura, los fortines y el registro fotográfico de 1882–1883.",
+      "derechos_estado": "La edición de 2017 indica todos los derechos reservados; no se presume permiso de reproducción de las fotografías históricas",
+      "derechos": "La ficha enlaza la publicación que reproduce las fotografías y conserva sus créditos. No descargar, copiar ni redistribuir las imágenes desde LIBRITO. Para reutilizarlas, consultar al Museo Roca/Ministerio de Cultura y verificar los derechos de las fotografías originales y de la edición.",
+      "licencia": "Todos los derechos reservados en la edición de 2017; no se identificó una licencia abierta para estas reproducciones.",
+      "etiquetas": [
+        "San Patricio del Chañar",
+        "Tratayen",
+        "Fortín Tratayen",
+        "río Neuquén",
+        "vado",
+        "fotografía histórica",
+        "Pedro Morelli",
+        "Encina y Moreno",
+        "1883",
+        "valle del Neuquén"
       ]
     }
   ]
