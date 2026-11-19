@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 12,
+  "version": 13,
   "descripcion": "Colección de documentos locales completos y accesos directos a obras, archivos y recursos educativos en sus fuentes originales, con autoría, procedencia y condiciones de uso visibles.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -737,6 +737,94 @@
       },
       "procedencia": "Publications del Banco Interamericano de Desarrollo; trabajo conjunto con COVIAR y CFI.",
       "integridad": "PDF completo enlazado desde el repositorio de publicaciones del BID."
+    },
+    {
+      "id": "municipalidad-nuestra-ciudad-chanar",
+      "titulo": "Nuestra ciudad · espacios, patrimonio y lugares de encuentro",
+      "autoria": "Municipalidad de San Patricio del Chañar",
+      "institucion": "Municipalidad de San Patricio del Chañar",
+      "fecha": "s/f",
+      "categoria": "Cultura y patrimonio",
+      "tematica": "Balneario municipal, Plaza de las Infancias, chacra municipal, Dique Compensador, centro cultural, estadio, parroquia y formación agropecuaria",
+      "descripcion": "Página institucional que reúne reseñas de espacios y lugares de San Patricio del Chañar, entre ellos el balneario, la Plaza de las Infancias, la chacra municipal, el Dique Compensador, el Centro Cultural Erika Barión de Werro, el estadio y el Puesto Chañar. Es una referencia municipal para ubicar y conocer estos espacios.",
+      "formato": "Página web",
+      "acceso": "origen",
+      "urlOriginal": "https://sanpatricio.gob.ar/nuestra",
+      "urlFicha": "https://sanpatricio.gob.ar/",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Se enlaza la página institucional original. LIBRITO no copia ni redistribuye sus textos ni fotografías.",
+        "referencia": "Municipalidad de San Patricio del Chañar, sección Nuestra Ciudad."
+      },
+      "procedencia": "Sitio oficial de la Municipalidad de San Patricio del Chañar.",
+      "integridad": "Referencia a la página institucional original."
+    },
+    {
+      "id": "informe-municipal-chanar-octubre-2024",
+      "titulo": "Informe San Patricio del Chañar · octubre de 2024",
+      "autoria": "Ministerio de Economía, Producción e Industria de la Provincia del Neuquén",
+      "institucion": "Gobierno de la Provincia del Neuquén",
+      "fecha": "2024-10",
+      "categoria": "Informes y estadísticas",
+      "tematica": "Información municipal, transferencias provinciales, recaudación, empleo público y pagos",
+      "descripcion": "Informe oficial de tres páginas publicado en el apartado municipal del Ministerio de Economía provincial. Incluye apartados sobre transferencias de recursos provinciales, recaudación municipal, empleo público y pagos del período informado. Se ofrece el PDF original, sin republicar sus datos fuera de contexto.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://www.economianqn.gob.ar/contenido/file/10803",
+      "urlFicha": "https://www.economianqn.gob.ar/municipios/contenido/san-patricio-del-chanar",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Documento oficial enlazado desde el portal del Ministerio de Economía. No se presume autorización para alojar o redistribuir el PDF.",
+        "referencia": "Ministerio de Economía, Producción e Industria, ficha municipal de San Patricio del Chañar, informe octubre 2024."
+      },
+      "procedencia": "Portal del Ministerio de Economía, Producción e Industria de la Provincia del Neuquén.",
+      "integridad": "PDF original de 3 páginas enlazado desde la ficha oficial del municipio."
+    },
+    {
+      "id": "informe-municipal-chanar-mayo-2025",
+      "titulo": "Informe San Patricio del Chañar · mayo de 2025",
+      "autoria": "Ministerio de Economía, Producción e Industria de la Provincia del Neuquén",
+      "institucion": "Gobierno de la Provincia del Neuquén",
+      "fecha": "2025-05",
+      "categoria": "Informes y estadísticas",
+      "tematica": "Información municipal, transferencias, recursos, empleo público y ejecución",
+      "descripcion": "Informe municipal publicado por el Ministerio de Economía provincial en mayo de 2025. Se incorpora como fuente estadística y administrativa para consultar en su formato original. La ficha del organismo reúne también otras ediciones del informe municipal.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://www.economianqn.gob.ar/contenido/file/11451",
+      "urlFicha": "https://www.economianqn.gob.ar/municipios/contenido/san-patricio-del-chanar",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Documento oficial enlazado desde el portal del Ministerio de Economía. No se presume autorización para alojar o redistribuir el PDF.",
+        "referencia": "Ministerio de Economía, Producción e Industria, ficha municipal de San Patricio del Chañar, informe mayo 2025."
+      },
+      "procedencia": "Portal del Ministerio de Economía, Producción e Industria de la Provincia del Neuquén.",
+      "integridad": "PDF original de 6 páginas enlazado desde la ficha oficial del municipio."
+    },
+    {
+      "id": "informe-municipal-chanar-mayo-2026",
+      "titulo": "Informe San Patricio del Chañar · mayo de 2026",
+      "autoria": "Ministerio de Economía, Producción e Industria de la Provincia del Neuquén",
+      "institucion": "Gobierno de la Provincia del Neuquén",
+      "fecha": "2026-05",
+      "categoria": "Informes y estadísticas",
+      "tematica": "Información municipal, recursos, coparticipación, empleo público y datos administrativos",
+      "descripcion": "Edición de mayo de 2026 del informe municipal publicado por el Ministerio de Economía provincial. El documento reúne cuadros y datos administrativos del municipio; se conserva el acceso al archivo original para que cada persona pueda consultar sus cifras y períodos directamente en la fuente.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://www.economianqn.gob.ar/contenido/file/12774",
+      "urlFicha": "https://www.economianqn.gob.ar/municipios/contenido/san-patricio-del-chanar",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Documento oficial enlazado desde el portal del Ministerio de Economía. No se presume autorización para alojar o redistribuir el PDF.",
+        "referencia": "Ministerio de Economía, Producción e Industria, ficha municipal de San Patricio del Chañar, informe mayo 2026."
+      },
+      "procedencia": "Portal del Ministerio de Economía, Producción e Industria de la Provincia del Neuquén.",
+      "integridad": "PDF original de 7 páginas enlazado desde la ficha oficial del municipio."
     }
   ]
 }
