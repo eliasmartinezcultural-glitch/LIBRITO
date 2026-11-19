@@ -121,6 +121,7 @@
       if (texto(item.imagen_credito)) figura.append(nodo("figcaption", "", item.imagen_credito));
       card.append(figura);
     }
+    if (texto(item.tematica)) card.append(nodo("p", "documento-tematica", item.tematica));
     card.append(nodo("h3", "documento-titulo", texto(item.titulo) || "Material sin título"));
 
     const firma = [texto(item.autoria), fecha(item.fecha)].filter(Boolean).join(" · ");
@@ -142,7 +143,10 @@
     const detalles = nodo("details", "documento-detalle");
     detalles.append(nodo("summary", "", "Autoría, fuente y condiciones"));
     const datos = [
+      texto(item.autoria) ? "Autoría: " + item.autoria : "",
       texto(item.institucion) ? "Institución: " + item.institucion : "",
+      texto(item.tematica) ? "Temática: " + item.tematica : "",
+      texto(item.fecha) ? "Fecha o período: " + item.fecha : "",
       texto(item.procedencia) ? "Procedencia: " + item.procedencia : "",
       texto(item.integridad) ? "Integridad: " + item.integridad : "",
       item.autorizacion && texto(item.autorizacion.base) ? "Condiciones de uso: " + item.autorizacion.base : ""
