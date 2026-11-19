@@ -39,3 +39,11 @@ Este documento es interno. Sus direcciones sirven para localizar originales, con
 5. No publicar boletines compilados con datos personales sin revisión.
 6. No publicar mapas con restricciones de uso.
 7. No mostrar estas direcciones como botones de descarga en la portada pública.
+
+
+## Nuevos documentos académicos con licencia identificada
+
+- IPEHCS / UNCo (2025), capítulo de Verónica Trpin sobre huertas y producción de alimentos en San Patricio del Chañar. PDF: https://rdi.uncoma.edu.ar/bitstream/handle/uncomaid/19070/CUA_10_mujeres_rurales_final.pdf?isAllowed=y&sequence=1. Licencia CC BY-NC-SA 4.0 en el propio PDF.
+- RIVAR / SciELO (2025), Rodríguez y Trpin, artículo sobre circuitos de agroalimentos en San Patricio del Chañar. PDF: https://www.scielo.cl/pdf/rivar/v12n35/0719-4994-rivar-12-35-86.pdf. Política editorial CC BY 4.0: https://www.revistarivar.cl/index.php/es/etica-y-derechos-de-autor/copyright-open-access.
+
+Los binarios todavía deben recuperarse y validarse antes de publicarse en LIBRITO.
