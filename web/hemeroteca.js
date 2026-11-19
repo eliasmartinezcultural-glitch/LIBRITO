@@ -70,7 +70,7 @@ function draw(){
   if(safeUrl(n.url)){const a=el("a","accion","Leer en el diario");a.href=n.url;a.target="_blank";a.rel="noopener noreferrer";a.setAttribute("aria-label","Leer "+n.titulo+" en "+n.medio);card.append(a)}
    const share=el("div","acciones-compartir");
    const deepLink=location.href.split("#")[0]+"#"+card.id;
-   const wa=el("a","boton-compartir whatsapp","Enviar por WhatsApp");wa.href="https://wa.me/?text="+encodeURIComponent("Te comparto esta noticia de la Hemeroteca de LIBRITO: "+n.titulo+" · "+deepLink);wa.target="_blank";wa.rel="noopener noreferrer";
+   const wa=el("a","boton-compartir whatsapp","Enviar por WhatsApp");wa.href="https://wa.me/?text="+encodeURIComponent("Hola, te comparto esta referencia de la Hemeroteca de LIBRITO: "+n.titulo+". Es parte de un archivo de noticias vinculadas con San Patricio del Chañar y permite volver a la publicación original. Podés verla acá: "+deepLink);wa.target="_blank";wa.rel="noopener noreferrer";
    const copy=el("button","boton-compartir copiar","Copiar enlace");copy.type="button";copy.dataset.copiarUrl=deepLink;
    const status=el("span","estado-copiar","");status.setAttribute("aria-live","polite");
    share.append(wa,copy,status);card.append(share);
