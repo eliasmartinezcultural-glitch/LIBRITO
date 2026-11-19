@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 52,
+  "version": 53,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -4387,6 +4387,143 @@
         "Administración Provincial del Agua",
         "saneamiento",
         "infraestructura"
+      ]
+    },
+    {
+      "id": "fao-dt09-aspectos-ambientales-neuquen-2015",
+      "titulo": "Aspectos ambientales de la Provincia del Neuquén · Documento de Trabajo FAO n.º 9",
+      "autoria": "Equipo de Trabajo Regional del Proyecto FAO UTF/ARG/017",
+      "institucion": "FAO · PROSAP · Gobierno de la Provincia del Neuquén",
+      "fecha": "2015-03",
+      "categoria": "Informes y estadísticas",
+      "tematica": "San Patricio del Chañar, lluvias, inundaciones, riesgo hídrico, chacras frutícolas, Ruta Provincial 7 y río Neuquén",
+      "descripcion": "Informe técnico provincial de marzo de 2015 con referencias directas a San Patricio del Chañar. Documenta daños causados por las lluvias del 22 de enero de 2015 en una chacra frutícola local y en la Ruta Provincial 7, con dos fotografías de campo (página impresa 33). Incluye mapas de líneas de inundación del río Neuquén entre el dique El Chañar y Centenario, con identificación de la localidad y escenarios de caudales de 1.900 y 2.300 m³/s (páginas impresas 35–36). Es un informe ambiental provincial: las conclusiones generales no deben atribuirse exclusivamente al ejido chañarense.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://www.fao.org/fileadmin/user_upload/rlc/utf017arg/neuquen/DT_09_Aspectos_Ambientales.pdf",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Documento consultable en el portal oficial de FAO. No se presume permiso para extraer, alojar o republicar las fotografías y mapas incorporados.",
+        "referencia": "FAO, Proyecto UTF/ARG/017, Documento de Trabajo n.º 9, Aspectos Ambientales de la Provincia del Neuquén, marzo de 2015."
+      },
+      "procedencia": "FAO / PROSAP, Proyecto UTF/ARG/017, con participación de organismos técnicos de la Provincia del Neuquén.",
+      "integridad": "PDF original consultado en FAO; las referencias locales se encuentran en las páginas impresas 33 y 35–36. LIBRITO enlaza el original y no aloja el archivo.",
+      "etiquetas": [
+        "FAO",
+        "PROSAP",
+        "ambiente",
+        "lluvias",
+        "22 de enero de 2015",
+        "inundación",
+        "Ruta Provincial 7",
+        "chacras",
+        "peras",
+        "río Neuquén",
+        "líneas de inundación",
+        "riesgo hídrico",
+        "San Patricio del Chañar"
+      ]
+    },
+    {
+      "id": "copade-plan-quinquenal-neuquen-2019-2023",
+      "titulo": "Plan Quinquenal de Desarrollo Provincial 2019–2023 · proyectos y obras con referencia a San Patricio del Chañar",
+      "autoria": "Gobierno de la Provincia del Neuquén · equipos provinciales de planificación",
+      "institucion": "Gobierno de la Provincia del Neuquén · COPADE",
+      "fecha": "2019-2023",
+      "categoria": "Planificación territorial",
+      "tematica": "Planificación provincial, agroalimentos, turismo, infraestructura, agua, vivienda, conectividad y proyectos locales",
+      "descripcion": "Plan provincial de desarrollo 2019–2023 que incluye referencias concretas a San Patricio del Chañar. Entre ellas registra proyectos de fortalecimiento del circuito de interpretación de producción de agroalimentos y de innovación en unidades demostrativas productivas; también menciona iniciativas regionales de saneamiento, conectividad y equipamiento. Los montos, estados y metas corresponden al momento de elaboración del plan y no deben interpretarse como obras ejecutadas ni como datos vigentes sin verificación posterior.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://copade.neuquen.gob.ar/Publicaciones/Docs/7400/7400.pdf",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Documento de planificación pública alojado por COPADE. LIBRITO enlaza el PDF institucional y no redistribuye una copia.",
+        "referencia": "Plan Quinquenal de Desarrollo Provincial 2019–2023, Gobierno de la Provincia del Neuquén."
+      },
+      "procedencia": "COPADE, Gobierno de la Provincia del Neuquén, Plan Quinquenal 2019–2023.",
+      "integridad": "PDF institucional consultado; las referencias a San Patricio del Chañar aparecen, entre otros lugares, en las páginas impresas 63–65 y en apartados de infraestructura y vivienda.",
+      "etiquetas": [
+        "COPADE",
+        "Plan Quinquenal",
+        "2019-2023",
+        "agroalimentos",
+        "unidades demostrativas",
+        "turismo",
+        "infraestructura",
+        "agua",
+        "vivienda",
+        "conectividad",
+        "planificación",
+        "San Patricio del Chañar"
+      ]
+    },
+    {
+      "id": "copade-ficha-region-vaca-muerta-2024",
+      "titulo": "Región Vaca Muerta · ficha de caracterización regional",
+      "autoria": "COPADE · equipos técnicos del Gobierno de la Provincia del Neuquén",
+      "institucion": "Gobierno de la Provincia del Neuquén · COPADE",
+      "fecha": "2024-06",
+      "categoria": "Informes y estadísticas",
+      "tematica": "Regionalización, departamento Añelo, población, vivienda, servicios, infraestructura y contexto socioeconómico",
+      "descripcion": "Ficha técnica de caracterización de la Región Vaca Muerta que incluye expresamente a San Patricio del Chañar entre los gobiernos locales del departamento Añelo. Reúne datos demográficos basados en el Censo 2022, vivienda, servicios básicos, educación, salud y características territoriales. Advertencia: buena parte de las cifras corresponde al conjunto regional o al departamento de Añelo y no a San Patricio del Chañar por separado. Se conserva como fotografía documental de la regionalización y los datos publicados en 2024, no como descripción administrativa o estadística necesariamente vigente.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://www.copade.gob.ar/wp-content/uploads/2024/06/Ficha-REGION-VACA-MUERTA-.pdf",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Ficha pública del organismo provincial. No se presume licencia de redistribución del PDF.",
+        "referencia": "COPADE, Ficha de caracterización regional Región Vaca Muerta, 2024."
+      },
+      "procedencia": "COPADE, Gobierno de la Provincia del Neuquén.",
+      "integridad": "PDF original consultado. San Patricio del Chañar aparece en el mapa regional y en la tabla de gobiernos locales del departamento de Añelo.",
+      "etiquetas": [
+        "COPADE",
+        "Región Vaca Muerta",
+        "regionalización",
+        "Añelo",
+        "Censo 2022",
+        "población",
+        "vivienda",
+        "servicios básicos",
+        "infraestructura",
+        "contexto regional",
+        "San Patricio del Chañar"
+      ]
+    },
+    {
+      "id": "copade-ficha-region-confluencia-2025",
+      "titulo": "Región Confluencia · ficha de proyectos y líneas de trabajo de COPADE",
+      "autoria": "COPADE · Gobierno de la Provincia del Neuquén",
+      "institucion": "Gobierno de la Provincia del Neuquén · COPADE",
+      "fecha": "2025-10",
+      "categoria": "Planificación territorial",
+      "tematica": "Regionalización, proyectos locales, educación tecnológica, equipamiento y planificación de la Región Confluencia",
+      "descripcion": "Ficha institucional de proyectos y líneas de trabajo de COPADE para la Región Confluencia. Incluye a San Patricio del Chañar en el listado de localidades y registra el proyecto especial Aula de Robótica, identificado con el año 2023. Es una fuente para reconstruir las acciones de planificación y los cambios de regionalización; no constituye una evaluación de resultados ni demuestra por sí sola que el proyecto se haya ejecutado o continúe activo.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://www.copade.gob.ar/wp-content/uploads/2025/10/Ficha-REGION-CONFLUENCIA.pdf",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Documento público de planificación provincial. LIBRITO conserva la referencia y enlaza el PDF original.",
+        "referencia": "COPADE, Ficha Región Confluencia, publicación institucional 2025."
+      },
+      "procedencia": "COPADE, Gobierno de la Provincia del Neuquén.",
+      "integridad": "PDF institucional consultado; la ficha identifica el proyecto Aula de Robótica para San Patricio del Chañar.",
+      "etiquetas": [
+        "COPADE",
+        "Región Confluencia",
+        "regionalización",
+        "Aula de Robótica",
+        "educación tecnológica",
+        "proyectos locales",
+        "2023",
+        "2025",
+        "San Patricio del Chañar"
       ]
     }
   ]
