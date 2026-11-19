@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 6,
+  "version": 7,
   "descripcion": "Colección de documentos locales completos y accesos directos a originales institucionales y académicos, con autoría, procedencia y condiciones de uso visibles.",
   "regla": "Los PDF alojados en LIBRITO se distinguen de los documentos que se abren en su fuente original. Nunca se presenta una ficha como archivo alojado.",
   "categorias": [
@@ -465,6 +465,38 @@
         "hidrología",
         "patrimonio",
         "infraestructura"
+      ]
+    },
+    {
+      "id": "plano-urbano-chanar-mapoteca",
+      "titulo": "Plano urbano de San Patricio del Chañar · Mapoteca Digital",
+      "autoria": "Dirección Provincial de Catastro e Información Territorial",
+      "institucion": "Gobierno de la Provincia del Neuquén",
+      "fecha": "s/f",
+      "categoria": "Territorio y cartografía",
+      "tematica": "Plano urbano, calles, espacios verdes, instituciones, servicios y ubicación de San Patricio del Chañar",
+      "descripcion": "Plano oficial de la localidad con trazado urbano, Ruta Provincial 7, espacios verdes, servicios e instituciones. La Mapoteca provincial permite descargar e imprimir su cartografía únicamente para uso personal; no autoriza su reproducción comercial sin permiso.",
+      "formato": "JPG",
+      "acceso": "origen",
+      "urlOriginal": "https://dpc.neuquen.gob.ar/MapasYPlanos/Localidades/san_patricio_chagnar.jpg",
+      "urlFicha": "https://dpc.neuquen.gob.ar/Mapa",
+      "accionExterna": "Abrir plano original",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "La Mapoteca Digital indica que los mapas pueden descargarse e imprimirse solo para uso personal; prohíbe su reproducción total o parcial para comercialización sin autorización expresa. LIBRITO enlaza el original y no aloja la imagen.",
+        "referencia": "Dirección Provincial de Catastro e Información Territorial, Mapoteca Digital, aviso de derechos de uso."
+      },
+      "procedencia": "Mapoteca Digital de la Dirección Provincial de Catastro e Información Territorial del Neuquén.",
+      "integridad": "Imagen JPG original del plano urbano publicada por el organismo provincial; no alojada en LIBRITO.",
+      "etiquetas": [
+        "plano urbano",
+        "mapa",
+        "calles",
+        "espacios verdes",
+        "instituciones",
+        "mapoteca",
+        "cartografía"
       ]
     }
   ]
