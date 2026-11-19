@@ -197,12 +197,12 @@ La validación automática comprueba estructura, existencia, firma básica del P
 
 ## 7. Estado actual — catálogo versión 6
 
-La segunda pasada amplió el catálogo desde 11 a **19 materiales visibles**.
+La segunda pasada amplió el catálogo desde 11 a **20 materiales visibles**.
 
-- **Materiales visibles:** 19.
+- **Materiales visibles:** 20.
 - **PDF alojados físicamente en LIBRITO:** 2.
-- **Accesos directos a PDF, imágenes o fichas de origen:** 17.
-- **Nuevos registros incorporados en esta pasada:** 8.
+- **Accesos directos a PDF, imágenes, mapas o fichas de origen:** 18.
+- **Nuevos registros incorporados en esta pasada:** 9.
 - **Criterio:** los enlaces externos abren la fuente original. No se cuentan como archivos alojados ni como copias descargables desde el servidor de LIBRITO.
 
 ### Nuevos materiales incorporados
@@ -248,3 +248,7 @@ La cantidad de fichas no equivale a la cantidad de archivos alojados. LIBRITO de
 8. **Plano urbano de San Patricio del Chañar · Mapoteca Digital.** Imagen oficial de la Dirección Provincial de Catastro e Información Territorial, con trazado urbano, RP 7, espacios verdes, instituciones y servicios. Se incorporó al catálogo como imagen JPG externa, no como PDF ni como archivo alojado por LIBRITO. La Mapoteca permite descargar e imprimir sus mapas solo para uso personal y prohíbe reproducir el sitio o sus mapas para comercialización sin autorización expresa. [Abrir plano original](https://dpc.neuquen.gob.ar/MapasYPlanos/Localidades/san_patricio_chagnar.jpg) · [Mapoteca Digital](https://dpc.neuquen.gob.ar/Mapa).
 
 La interfaz de LIBRITO se amplió para admitir imágenes y planos originales externos además de PDF. El material gráfico se identifica como imagen en su fuente original; no se presenta como copia local ni como material de libre explotación comercial.
+
+9. **Gobernación del Neuquén · mapa histórico de 1887.** Recurso cartográfico de la colección histórica de la Mapoteca Digital provincial, enlazado al archivo de descarga del organismo. Se incluye como contexto histórico provincial del siglo XIX, no como plano del ejido actual del Chañar. La Mapoteca restringe la descarga e impresión al uso personal y prohíbe la reproducción comercial sin autorización expresa. [Abrir mapa histórico](https://catastro.neuquen.gov.ar/site/Itc.services/Services/FileDownload.aspx?IDTipoArchivo=0&codigo=437536-668487) · [Mapoteca Digital](https://dpc.neuquen.gob.ar/Mapa).
+
+La interfaz también admite ahora el tipo de material “MAPA” para distinguirlo de PDF e imágenes corrientes. El archivo sigue alojado por la institución provincial y no se copia a LIBRITO.
