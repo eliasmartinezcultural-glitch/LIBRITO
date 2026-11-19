@@ -1,6 +1,6 @@
 {
   "nombre": "Hemeroteca de LIBRITO · San Patricio del Chañar",
-  "version": 12,
+  "version": 13,
   "descripcion": "Índice de noticias y páginas periodísticas que mencionan expresamente San Patricio del Chañar, de distintos diarios, años y formatos.",
   "criterio": "Se incorpora una noticia cuando el texto identifica expresamente a San Patricio del Chañar o trata sobre la localidad. Se conserva título, medio, autoría disponible, fecha, enlace original y una descripción breve. No se reproduce el cuerpo periodístico.",
   "noticias": [
@@ -1532,6 +1532,164 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva metadatos y descripción propia; las opiniones y cifras se atribuyen a las personas citadas."
+    },
+    {
+      "id": "rn-2001-07-12-obreros-gasparri-propuesta",
+      "titulo": "Obreros de Gasparri presentan propuesta de trabajo",
+      "fecha": "2001-07-12",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Nota sobre la propuesta de trabajadores vinculados a la empresa Gasparri para continuar las labores culturales en chacras de San Patricio del Chañar mientras se resolvía el conflicto judicial. El artículo registra gestiones ante legisladores y la iniciativa de organizar una cooperativa para sostener la producción. Las afirmaciones corresponden a las personas entrevistadas y al contexto de la publicación.",
+      "url": "https://www.rionegro.com.ar/obreros-de-gasparri-presentan-propuesta-de-trabajo-OYHRN0107121912711/",
+      "etiquetas": [
+        "hemeroteca histórica",
+        "2001",
+        "trabajo rural",
+        "chacras",
+        "cooperativismo"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva metadatos y una descripción propia; el texto completo se consulta en el medio original."
+    },
+    {
+      "id": "rn-2002-09-02-heladas-frutales",
+      "titulo": "Las heladas todavía no fueron tan dañinas en El Chañar",
+      "fecha": "2002-09-02",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Cobertura sobre las heladas de fines de agosto de 2002 y la preocupación de productores de San Patricio del Chañar por el estado de los frutales. Registra diferencias entre cultivos de carozo y pepita y las expectativas ante la floración de peras y manzanas. Las temperaturas y estimaciones son las informadas por el medio en aquella fecha.",
+      "url": "https://www.rionegro.com.ar/las-heladas-todavia-no-fueron-tan-daninas-en-el-chanar-NVHRN02090219022104/?amp=1",
+      "etiquetas": [
+        "hemeroteca histórica",
+        "2002",
+        "fruticultura",
+        "heladas",
+        "chacras"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva metadatos y una descripción propia; las cifras y testimonios se atribuyen a la publicación original."
+    },
+    {
+      "id": "lm-2009-05-22-sapag-obras-hospital-gasoducto",
+      "titulo": "Sapag garantizó la concreción de obras",
+      "fecha": "2009-05-22",
+      "medio": "La Mañana de Neuquén",
+      "autor": "Redacción",
+      "descripcion": "Cobertura de los anuncios realizados durante el 36.º aniversario de San Patricio del Chañar. La nota menciona el nuevo hospital, un proyecto de planta de tratamiento de efluentes, el gasoducto regional y un loteo social. Se conserva como registro de anuncios y compromisos formulados en 2009, no como comprobación de que cada obra se haya terminado en esa fecha.",
+      "url": "https://www.lmneuquen.com/sapag-garantizo-la-concrecion-obras-n28495",
+      "etiquetas": [
+        "hemeroteca histórica",
+        "2009",
+        "36.º aniversario",
+        "hospital",
+        "infraestructura",
+        "gasoducto"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a La Mañana de Neuquén. LIBRITO conserva metadatos y una descripción propia; los anuncios se atribuyen a sus fuentes."
+    },
+    {
+      "id": "lm-2009-04-21-eurnekian-industria-vitivinicola",
+      "titulo": "Eurnekian consolida la industria vitivinícola de San Patricio del Chañar",
+      "fecha": "2009-04-21",
+      "medio": "La Mañana de Neuquén",
+      "autor": "Redacción",
+      "descripcion": "Nota sobre la asociación entre el grupo Eurnekian y Bodegas del Fin del Mundo, y su proyección comercial para los vinos de San Patricio del Chañar. La publicación repasa el inicio de las plantaciones, la comercialización y las exportaciones según la información empresarial citada por el diario.",
+      "url": "https://www.lmneuquen.com/eurnekian-consolida-la-industria-vitivinicola-san-patricio-del-chanar-n25530",
+      "etiquetas": [
+        "hemeroteca",
+        "2009",
+        "vitivinicultura",
+        "bodegas",
+        "producción",
+        "exportaciones"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a La Mañana de Neuquén. LIBRITO conserva metadatos y una descripción propia; los datos empresariales se atribuyen a la publicación."
+    },
+    {
+      "id": "lm-2010-03-05-arte-vinos-schroeder",
+      "titulo": "El Chañar: abrió el ciclo “Arte & Vinos” en la Bodega Familia Schroeder",
+      "fecha": "2010-03-05",
+      "medio": "La Mañana de Neuquén",
+      "autor": "Redacción",
+      "descripcion": "Registro de la apertura del ciclo Arte & Vinos en Bodega Familia Schroeder, con una muestra de la artista Elva Elissetche y la participación anunciada de otros artistas de la zona. La nota documenta un cruce entre espacios productivos, artes visuales y actividad cultural local.",
+      "url": "https://www.lmneuquen.com/el-chanar-abrio-el-ciclo-arte-vinos-la-bodega-familia-schroeder-n56517",
+      "etiquetas": [
+        "hemeroteca",
+        "2010",
+        "cultura",
+        "artistas locales",
+        "arte",
+        "bodegas"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a La Mañana de Neuquén. LIBRITO conserva metadatos y una descripción propia; las obras y fotografías no se reproducen."
+    },
+    {
+      "id": "lm-2010-03-03-inversion-servicios",
+      "titulo": "Inversión en servicios, la meta para 2010 en El Chañar",
+      "fecha": "2010-03-03",
+      "medio": "La Mañana de Neuquén",
+      "autor": "Redacción",
+      "descripcion": "Cobertura del discurso de apertura de sesiones del Concejo Deliberante y del balance presentado por el intendente Ramón Soto. La nota aborda servicios básicos, loteos, redes de gas y cloacas, transporte escolar rural y recursos municipales. Las cifras y evaluaciones se atribuyen a las declaraciones recogidas por el medio.",
+      "url": "https://www.lmneuquen.com/inversion-servicios-la-meta-2010-el-chanar-n56284",
+      "etiquetas": [
+        "hemeroteca",
+        "2010",
+        "servicios públicos",
+        "loteos",
+        "educación",
+        "transporte rural"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a La Mañana de Neuquén. LIBRITO conserva metadatos y una descripción propia; las declaraciones se atribuyen a sus fuentes."
+    },
+    {
+      "id": "rn-2004-10-26-fondo-antigranizo",
+      "titulo": "Fondo antigranizo",
+      "fecha": "2004-10-26",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Aviso periodístico sobre la inscripción al fondo compensador por daños de granizo para la temporada 2004-2005. La nota informa que los productores podían realizar consultas y trámites en la Cámara de Productores de San Patricio del Chañar, ubicada entonces en el barrio Obrero. Es un registro de la organización productiva y de los mecanismos de asistencia ante contingencias climáticas.",
+      "url": "https://www.rionegro.com.ar/fondo-antigranizo-OEHRN04102619261003/",
+      "etiquetas": [
+        "hemeroteca histórica",
+        "2004",
+        "fruticultura",
+        "granizo",
+        "productores",
+        "organización rural"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva metadatos y una descripción propia; el aviso original se consulta en el medio."
+    },
+    {
+      "id": "lm-2013-09-03-obras-plan-mas-cerca",
+      "titulo": "Soto anunció 3,5 millones de pesos en obras para San Patricio del Chañar",
+      "fecha": "2013-09-03",
+      "medio": "La Mañana de Neuquén",
+      "autor": "Redacción",
+      "descripcion": "Cobertura del anuncio de cinco proyectos seleccionados dentro del plan Más Cerca. La nota enumera mejoramientos habitacionales, cordón cuneta, obras de gas, desagües pluviales y veredas. Se registra como anuncio periodístico de septiembre de 2013; no certifica por sí solo la ejecución posterior de cada obra.",
+      "url": "https://www.lmneuquen.com/soto-anuncio-35-millones-pesos-obras-san-patricio-del-chanar-n199088",
+      "etiquetas": [
+        "hemeroteca",
+        "2013",
+        "obras públicas",
+        "infraestructura",
+        "barrios",
+        "servicios"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a La Mañana de Neuquén. LIBRITO conserva metadatos y una descripción propia; el anuncio se atribuye a las fuentes citadas."
     }
   ]
 }
