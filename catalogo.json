@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 51,
+  "version": 52,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -4235,6 +4235,158 @@
         "1995",
         "2008",
         "historia administrativa"
+      ]
+    },
+    {
+      "id": "decreto-neuquen-1720-1978-comision-fomento-chanar",
+      "titulo": "Decreto provincial 1720/1978 · disposiciones impositivas y ocupación de la vía pública",
+      "autoria": "Poder Ejecutivo de la Provincia del Neuquén",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "1978-08-07",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Primeros años de la Comisión de Fomento, regulación urbana, ocupación de la vía pública e infracciones de tránsito",
+      "descripcion": "Registro del Decreto provincial 1720/1978, fechado el 7 de agosto de 1978. Autoriza a la Comisión de Fomento de San Patricio del Chañar a ampliar la Ordenanza General Impositiva vigente para incorporar disposiciones sobre ocupación de la vía pública y multas por infracciones de tránsito. Es una referencia normativa temprana, apenas cinco años después de la creación de la Comisión de Fomento. El portal oficial no ofrece texto PDF legible en la ficha consultada; se conserva la referencia sin reconstruir su contenido.",
+      "formato": "Página oficial",
+      "acceso": "origen",
+      "urlOriginal": "https://boficial.neuquen.gov.ar/LeyesDecretosDetalle?Id=332421",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar registro oficial",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Se enlaza el registro del Boletín Oficial. No se aloja una copia del documento.",
+        "referencia": "Decreto provincial 1720/1978, 07-08-1978."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, buscador de Leyes y Decretos.",
+      "integridad": "Se verificaron número, fecha, órgano local destinatario y objeto normativo en la ficha oficial. El texto íntegro no está disponible en la ficha consultada.",
+      "etiquetas": [
+        "1978",
+        "Decreto 1720/1978",
+        "Comisión de Fomento",
+        "historia municipal",
+        "ordenanza impositiva",
+        "vía pública"
+      ]
+    },
+    {
+      "id": "decreto-neuquen-762-1983-reestructura-presupuesto-chanar",
+      "titulo": "Decreto provincial 762/1983 · reestructuración del presupuesto municipal de 1982",
+      "autoria": "Poder Ejecutivo de la Provincia del Neuquén",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "1983-04-15",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Administración municipal, presupuesto, historia institucional y finanzas públicas",
+      "descripcion": "Registro del Decreto provincial 762/1983, fechado el 15 de abril de 1983. Autoriza a la Municipalidad de San Patricio del Chañar a sancionar y promulgar una ordenanza para reestructurar el Presupuesto General del ejercicio 1982. El registro aparece en el índice histórico del Boletín Oficial y señala que el archivo no fue encontrado. Se incorpora como referencia primaria de la administración municipal de los primeros años; no se dispone del texto completo del decreto.",
+      "formato": "Página oficial",
+      "acceso": "origen",
+      "urlOriginal": "https://boficial.neuquen.gov.ar/LeyesDecretos?pagina=14043",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar índice oficial de decretos",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Se enlaza el índice oficial donde aparece el asiento. El PDF figura como no encontrado; no se reproduce una copia.",
+        "referencia": "Decreto provincial 762/1983, 15-04-1983, índice de Leyes y Decretos."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, índice histórico de Leyes y Decretos.",
+      "integridad": "Se verificaron número, fecha, municipio y objeto en el índice oficial. El propio portal informa «Archivo no encontrado».",
+      "etiquetas": [
+        "1983",
+        "Decreto 762/1983",
+        "presupuesto 1982",
+        "Municipalidad",
+        "archivo histórico",
+        "Comisión de Fomento"
+      ]
+    },
+    {
+      "id": "decreto-neuquen-2799-1984-reparacion-techos-chanar",
+      "titulo": "Decreto provincial 2799/1984 · subsidio para reparar techos en San Patricio del Chañar",
+      "autoria": "Poder Ejecutivo de la Provincia del Neuquén",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "1984-10-15",
+      "categoria": "Infraestructura y servicios",
+      "tematica": "Infraestructura edilicia, asistencia provincial, edificios y obras locales",
+      "descripcion": "Registro del Decreto provincial 2799/1984, fechado el 15 de octubre de 1984. Otorga a la Municipalidad de San Patricio del Chañar un subsidio destinado a comprar materiales de construcción para reparar techos en la localidad. La publicación histórica permite documentar una intervención provincial concreta en infraestructura local. La ficha se encuentra en el índice de decretos; debe consultarse el asiento y el PDF antes de atribuir el subsidio a un edificio específico.",
+      "formato": "Página oficial",
+      "acceso": "origen",
+      "urlOriginal": "https://boficial.neuquen.gov.ar/LeyesDecretos?pagina=13466",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar índice oficial de decretos",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Se enlaza el índice del Boletín Oficial que contiene el registro. No se aloja una copia del decreto.",
+        "referencia": "Decreto provincial 2799/1984, 15-10-1984."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, índice histórico de Leyes y Decretos.",
+      "integridad": "Se verificaron número, fecha, beneficiario y finalidad del subsidio en el resultado oficial del índice. La identificación de los techos o edificios requiere el expediente y el texto completo.",
+      "etiquetas": [
+        "1984",
+        "Decreto 2799/1984",
+        "subsidio",
+        "reparación de techos",
+        "Municipalidad",
+        "infraestructura local"
+      ]
+    },
+    {
+      "id": "decreto-neuquen-1313-1986-aporte-cef10-chanar",
+      "titulo": "Decreto provincial 1313/1986 · aporte para un agente municipal afectado al CEF N.º 10",
+      "autoria": "Poder Ejecutivo de la Provincia del Neuquén",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "1986-04-30",
+      "categoria": "Educación y conocimiento",
+      "tematica": "Historia del Centro de Educación Física N.º 10, empleo municipal y desarrollo de instituciones deportivas",
+      "descripcion": "Registro del Decreto provincial 1313/1986, fechado el 30 de abril de 1986. Otorga a la Municipalidad de San Patricio del Chañar un aporte no reintegrable de australes 800 para pagar los haberes de un agente municipal afectado al Centro de Educación Física N.º 10. Es una fuente oficial temprana para investigar la organización y el sostenimiento de la actividad física local. La referencia procede del índice histórico de decretos; se necesita el texto íntegro para conocer el período y demás condiciones del aporte.",
+      "formato": "Página oficial",
+      "acceso": "origen",
+      "urlOriginal": "https://boficial.neuquen.gov.ar/LeyesDecretos?pagina=12921",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar índice oficial de decretos",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Se enlaza el índice del Boletín Oficial que contiene el registro. No se aloja una copia del decreto.",
+        "referencia": "Decreto provincial 1313/1986, 30-04-1986."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, índice histórico de Leyes y Decretos.",
+      "integridad": "Se verificaron número, fecha, municipio beneficiario, monto y destino del aporte en el índice oficial. El decreto completo no fue consultado.",
+      "etiquetas": [
+        "1986",
+        "Decreto 1313/1986",
+        "CEF 10",
+        "deporte",
+        "educación física",
+        "aporte no reintegrable",
+        "historia local"
+      ]
+    },
+    {
+      "id": "decreto-neuquen-2422-1987-desagues-cloacales-chanar",
+      "titulo": "Decreto provincial 2422/1987 · actuaciones para los desagües cloacales y laguna de tratamiento",
+      "autoria": "Poder Ejecutivo de la Provincia del Neuquén",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén · Administración Provincial del Agua",
+      "fecha": "1987-06-30",
+      "categoria": "Infraestructura y servicios",
+      "tematica": "Historia sanitaria, saneamiento, infraestructura urbana y obras públicas",
+      "descripcion": "Registro del Decreto provincial 2422/1987, fechado el 30 de junio de 1987. Aprueba actuaciones efectuadas por la Administración Provincial del Agua referentes a la obra de desagües cloacales y laguna de tratamiento en San Patricio del Chañar. Se trata de una referencia anterior al Decreto 4148/1987, también catalogado, que vuelve a tratar las actuaciones de esa obra en noviembre de 1987. Se conservan ambos registros como actos distintos del procedimiento, sin asumir que sean documentos idénticos ni que la obra haya concluido en esa fecha.",
+      "formato": "Página oficial",
+      "acceso": "origen",
+      "urlOriginal": "https://boficial.neuquen.gov.ar/LeyesDecretos?pagina=12251",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar índice oficial de decretos",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Se enlaza el índice oficial donde figura el decreto. No se aloja ni reconstruye el texto completo.",
+        "referencia": "Decreto provincial 2422/1987, 30-06-1987; Administración Provincial del Agua."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, índice histórico de Leyes y Decretos.",
+      "integridad": "Se verificaron número, fecha, organismo y objeto de la obra en el índice oficial. El decreto 4148/1987 ya catalogado es un acto posterior referido al mismo proyecto; la relación procedimental debe confirmarse con ambos expedientes.",
+      "etiquetas": [
+        "1987",
+        "Decreto 2422/1987",
+        "desagües cloacales",
+        "laguna de tratamiento",
+        "Administración Provincial del Agua",
+        "saneamiento",
+        "infraestructura"
       ]
     }
   ]
