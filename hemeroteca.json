@@ -1,6 +1,6 @@
 {
   "nombre": "Hemeroteca de LIBRITO · San Patricio del Chañar",
-  "version": 26,
+  "version": 27,
   "descripcion": "Índice de noticias y páginas periodísticas que mencionan expresamente San Patricio del Chañar, de distintos diarios, años y formatos.",
   "criterio": "Se incorpora una noticia cuando el texto identifica expresamente a San Patricio del Chañar o trata sobre la localidad. Se conserva título, medio, autoría disponible, fecha, enlace original y una descripción breve. No se reproduce el cuerpo periodístico.",
   "noticias": [
@@ -3452,6 +3452,26 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "Se conserva referencia bibliográfica y descripción propia; consultar noticia en el medio original."
+    },
+    {
+      "id": "prensa-obrera-1997-04-03-piquete-activo",
+      "titulo": "Un piquete activo",
+      "fecha": "1997-04-03",
+      "medio": "Prensa Obrera",
+      "autor": "Norberto E. Calducci",
+      "descripcion": "Crónica del conflicto docente de marzo de 1997. Registra la participación de las seccionales de San Patricio del Chañar y Añelo en los cortes de ruta de la zona de peaje Neuquén–Centenario, junto con el apoyo de familias, estudiantes y chacareros de la región. Se incorpora como testimonio periodístico de la participación de docentes vinculados a la localidad en una protesta regional; el episodio descrito no ocurrió dentro del casco urbano de San Patricio del Chañar.",
+      "url": "https://prensaobrera.com/sindicales/un-piquete-activo",
+      "etiquetas": [
+        "hemeroteca histórica",
+        "1997",
+        "educación",
+        "docentes",
+        "conflicto social",
+        "participación regional"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo publicado por Prensa Obrera. El sitio declara distribución bajo Licencia Creative Commons Atribución 4.0 Internacional. LIBRITO conserva referencia y descripción propia; consultar condiciones de la licencia en el medio original."
     }
   ]
 }
