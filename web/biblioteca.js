@@ -24,7 +24,7 @@ function tarjeta(item){
  for(const dato of etiquetas.filter(Boolean))pistas.append(nodo("span","",dato));card.append(pistas);
  const acciones=nodo("div","documento-acciones");
  if(item.acceso==="origen"||item.acceso==="ficha"){
-  const abrir=nodo("a","accion accion-leer",item.acceso==="ficha"?"Ver ficha y descarga":"Abrir PDF original");
+  const abrir=nodo("a","accion accion-leer",texto(item.accionExterna)||(item.acceso==="ficha"?"Ver ficha y descarga":"Abrir PDF original"));
   abrir.href=item.urlOriginal;abrir.target="_blank";abrir.rel="noopener noreferrer";abrir.setAttribute("aria-label",abrir.textContent+": "+texto(item.titulo));acciones.append(abrir);
  }else{
   const leer=nodo("a","accion accion-leer","Leer e imprimir"),bajar=nodo("a","accion accion-descargar","Descargar PDF");
