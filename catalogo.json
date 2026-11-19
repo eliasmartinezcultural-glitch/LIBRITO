@@ -179,7 +179,7 @@
       "descripcion": "Artículo publicado en Fruticultura & Diversificación, 14 (57), páginas 38–46. El registro del INTA indica acceso abierto y licencia CC BY-NC-SA 4.0: uso no comercial, atribución y compartir bajo la misma licencia.",
       "formato": "PDF",
       "acceso": "ficha",
-      "urlOriginal": "http://hdl.handle.net/20.500.12123/21107",
+      "urlOriginal": "https://hdl.handle.net/20.500.12123/21107",
       "urlFicha": "https://repositoriosdigitales.sicyt.gob.ar/vufind/Record/INTADig_2859921be929d377f0cddbc17d361e67",
       "estado": "Disponible en origen",
       "autorizacion": {
@@ -192,13 +192,13 @@
     },
     {
       "id": "plan-ordenamiento-ambiental-chanar-cfi",
-      "titulo": "Plan de Ordenamiento Territorial Ambiental · Añelo y San Patricio del Chañar",
-      "autoria": "Consejo Federal de Inversiones",
-      "institucion": "Consejo Federal de Inversiones · Gobierno de la Nación",
-      "fecha": "",
+      "titulo": "Plan de Ordenamiento Territorial y Ambiental · primer informe parcial",
+      "autoria": "Laura Edit Perilli y equipo técnico",
+      "institucion": "Consejo Federal de Inversiones · COPADE",
+      "fecha": "2006-10",
       "categoria": "Territorio y cartografía",
       "tematica": "Ordenamiento territorial, ambiente y planificación de San Patricio del Chañar",
-      "descripcion": "Estudio de ordenamiento territorial y ambiental para Añelo, San Patricio del Chañar y Sauzal Bonito. Se ofrece únicamente el acceso al PDF publicado en el portal oficial; LIBRITO no reproduce ni redistribuye el archivo.",
+      "descripcion": "Primer informe parcial del estudio de ordenamiento territorial y ambiental para Añelo, San Patricio del Chañar y Sauzal Bonito. Incluye caracterización de la microrregión, contexto histórico, ambiente, estructura territorial, población y actividades. Se ofrece acceso al PDF original del CFI; LIBRITO no reproduce ni redistribuye el archivo.",
       "formato": "PDF",
       "acceso": "origen",
       "urlOriginal": "https://www.mininterior.gob.ar/planificacion/pdf/planes-loc/NEUQUEN/Plan-de-Ordenamiento-Territorial-Ambiental-para-las-localidades-A%C3%B1elo-San-Patricio-del-Cha%C3%B1ar-y-Sauzal-Bonito.pdf",
@@ -209,8 +209,8 @@
         "base": "El documento se consulta en su fuente oficial. No se presume autorización para alojar, copiar o redistribuir el archivo.",
         "referencia": "Consejo Federal de Inversiones, Plan de Ordenamiento Territorial Ambiental para Añelo, San Patricio del Chañar y Sauzal Bonito."
       },
-      "procedencia": "Consejo Federal de Inversiones; copia alojada en el portal oficial del Ministerio del Interior.",
-      "integridad": "Enlace directo al PDF de la fuente institucional; no alojado en LIBRITO."
+      "procedencia": "Consejo Federal de Inversiones; organismo provincial responsable: Dirección General de Planificación Regional del COPADE. Informe parcial, octubre de 2006.",
+      "integridad": "PDF original enlazado desde el portal institucional; no alojado en LIBRITO."
     }
   ]
 }
