@@ -37,6 +37,19 @@ function draw(){
    card.append(figure);
   }
   card.append(el("h3","",""+n.titulo));card.append(el("p","",n.descripcion));
+  if(Array.isArray(n.etiquetas)&&n.etiquetas.length){
+   const tags=el("div","noticia-etiquetas");
+   n.etiquetas.slice(0,8).forEach(tag=>tags.append(el("span","",tag)));
+   card.append(tags);
+  }
+  if(n.derechos||n.tipo){
+   const details=el("details","noticia-detalle");
+   details.append(el("summary","","Datos de la publicación"));
+   if(n.tipo)details.append(el("p","","Tipo de registro: "+n.tipo));
+   if(n.derechos)details.append(el("p","",n.derechos));
+   details.append(el("p","","Referencia conservada por LIBRITO; consultá el contenido en el medio que lo publicó."));
+   card.append(details);
+  }
   const a=el("a","accion","Leer en el diario");
   if(safeUrl(n.url)){a.href=n.url;a.target="_blank";a.rel="noopener noreferrer";card.append(a)}
   frag.append(card);
