@@ -197,12 +197,12 @@ La validación automática comprueba estructura, existencia, firma básica del P
 
 ## 7. Estado actual — catálogo versión 6
 
-La segunda pasada amplió el catálogo desde 11 a **18 materiales visibles**.
+La segunda pasada amplió el catálogo desde 11 a **19 materiales visibles**.
 
-- **Materiales visibles:** 18.
+- **Materiales visibles:** 19.
 - **PDF alojados físicamente en LIBRITO:** 2.
-- **Accesos directos a PDF o fichas de origen:** 16.
-- **Nuevos registros incorporados en esta pasada:** 7.
+- **Accesos directos a PDF, imágenes o fichas de origen:** 17.
+- **Nuevos registros incorporados en esta pasada:** 8.
 - **Criterio:** los enlaces externos abren la fuente original. No se cuentan como archivos alojados ni como copias descargables desde el servidor de LIBRITO.
 
 ### Nuevos materiales incorporados
@@ -233,7 +233,7 @@ La búsqueda internacional en esta pasada no encontró una colección independie
 
 ### Limitación técnica de esta actualización
 
-Los nuevos documentos quedaron cargados en el catálogo de LIBRITO como enlaces directos a sus fuentes originales. En esta sesión no se pudieron recuperar los binarios PDF desde los servidores externos para alojarlos en la carpeta local del repositorio. Por eso, la web permite abrir el PDF original o llegar a su ficha, pero **no debe anunciar estos 16 materiales externos como descargas alojadas por LIBRITO**. Los dos archivos locales conservan sus botones propios de lectura e impresión y descarga.
+Los nuevos documentos y el plano urbano quedaron cargados en el catálogo de LIBRITO como enlaces directos a sus fuentes originales. En esta sesión no se pudieron recuperar los binarios PDF desde los servidores externos para alojarlos en la carpeta local del repositorio. Por eso, la web permite abrir el PDF original o llegar a su ficha, pero **no debe anunciar estos 16 materiales externos como descargas alojadas por LIBRITO**. Los dos archivos locales conservan sus botones propios de lectura e impresión y descarga.
 
 La próxima etapa debe priorizar la recuperación de los PDF con licencia compatible, empezando por el libro de 2025 CC BY-NC-SA 4.0, y luego solicitar permisos cuando corresponda. La ficha de COPADE 2025 de 367 páginas es la mayor pieza pendiente de alto valor local.
 
@@ -242,3 +242,9 @@ La próxima etapa debe priorizar la recuperación de los PDF con licencia compat
 Para cada nuevo documento se debe registrar: título exacto, autoría, institución, fecha, pertinencia local, enlace al original, páginas, licencia o condición de uso, integridad y estado de recuperación. Los estados internos continúan siendo: identificado, archivo recuperado, verificado, autorizado y publicado. Solo un archivo recuperado, verificado y autorizado puede incorporarse como copia local.
 
 La cantidad de fichas no equivale a la cantidad de archivos alojados. LIBRITO debe mantener esa diferencia visible para que el lector sepa siempre si está descargando desde la biblioteca o desde la institución que publicó el material.
+
+### Incorporación cartográfica adicional — 19 de noviembre de 2026
+
+8. **Plano urbano de San Patricio del Chañar · Mapoteca Digital.** Imagen oficial de la Dirección Provincial de Catastro e Información Territorial, con trazado urbano, RP 7, espacios verdes, instituciones y servicios. Se incorporó al catálogo como imagen JPG externa, no como PDF ni como archivo alojado por LIBRITO. La Mapoteca permite descargar e imprimir sus mapas solo para uso personal y prohíbe reproducir el sitio o sus mapas para comercialización sin autorización expresa. [Abrir plano original](https://dpc.neuquen.gob.ar/MapasYPlanos/Localidades/san_patricio_chagnar.jpg) · [Mapoteca Digital](https://dpc.neuquen.gob.ar/Mapa).
+
+La interfaz de LIBRITO se amplió para admitir imágenes y planos originales externos además de PDF. El material gráfico se identifica como imagen en su fuente original; no se presenta como copia local ni como material de libre explotación comercial.
