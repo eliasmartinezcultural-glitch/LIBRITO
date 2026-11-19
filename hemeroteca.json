@@ -1,6 +1,6 @@
 {
   "nombre": "Hemeroteca de LIBRITO · San Patricio del Chañar",
-  "version": 11,
+  "version": 12,
   "descripcion": "Índice de noticias y páginas periodísticas que mencionan expresamente San Patricio del Chañar, de distintos diarios, años y formatos.",
   "criterio": "Se incorpora una noticia cuando el texto identifica expresamente a San Patricio del Chañar o trata sobre la localidad. Se conserva título, medio, autoría disponible, fecha, enlace original y una descripción breve. No se reproduce el cuerpo periodístico.",
   "noticias": [
@@ -1377,6 +1377,161 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "La publicación pertenece al Consejo Provincial de Educación. LIBRITO conserva metadatos y descripción propia; no reproduce el texto ni las imágenes."
+    },
+    {
+      "id": "rn-2006-05-24-escuela-especial",
+      "titulo": "El Chañar pide un establecimiento especial",
+      "fecha": "2006-05-24",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Crónica sobre el reclamo de familias, docentes y estudiantes de San Patricio del Chañar ante el Consejo Provincial de Educación para contar con una escuela especial. La nota describe cómo funcionaba entonces un anexo en una vivienda alquilada y las limitaciones de espacio y horarios que denunciaba la comunidad. Se conserva como registro periodístico de una demanda educativa local en 2006.",
+      "url": "https://www.rionegro.com.ar/el-chanar-pide-un-establecimiento-especial-JBHRN0605241924614/",
+      "etiquetas": [
+        "hemeroteca histórica",
+        "2006",
+        "educación especial",
+        "comunidad educativa",
+        "Escuela 273"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva metadatos y descripción propia; las declaraciones corresponden al contexto de publicación."
+    },
+    {
+      "id": "rn-2006-08-28-carta-organica",
+      "titulo": "El Chañar ya tiene su Carta Orgánica",
+      "fecha": "2006-08-28",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Nota sobre el trámite legislativo de la Carta Orgánica de San Patricio del Chañar. Explica el mecanismo constitucional aplicado en 2006 y la decisión de girar el expediente a archivo, que el artículo presenta como consecuencia de la sanción automática de la norma. Se incorpora como cobertura periodística del proceso institucional; para el texto normativo debe consultarse la Carta Orgánica original.",
+      "url": "https://www.rionegro.com.ar/el-chanar-ya-tiene-su-carta-organica-XHHRN200681928615/",
+      "etiquetas": [
+        "hemeroteca histórica",
+        "2006",
+        "Carta Orgánica",
+        "instituciones",
+        "historia municipal"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva metadatos y descripción propia; la nota no reemplaza el documento normativo."
+    },
+    {
+      "id": "rn-2007-02-11-fiesta-pelon-peon-rural",
+      "titulo": "Miles de visitantes en El Chañar",
+      "fecha": "2007-02-11",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Cobertura de la XXI Fiesta Provincial del Pelón y IX Fiesta del Peón Rural. Registra la programación artística, las destrezas criollas y el uso del balneario municipal como sede del encuentro. Es un testimonio periodístico de las celebraciones populares y de la convocatoria cultural y turística de la localidad en 2007.",
+      "url": "https://www.rionegro.com.ar/miles-de-visitantes-en-el-chanar-LYHRN2007223112008/",
+      "etiquetas": [
+        "hemeroteca histórica",
+        "2007",
+        "Fiesta del Pelón",
+        "Peón Rural",
+        "cultura",
+        "turismo"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva metadatos y descripción propia; las cifras de convocatoria son estimaciones informadas en la nota."
+    },
+    {
+      "id": "rn-2008-07-26-loteo-social",
+      "titulo": "Novedoso loteo en El Chañar",
+      "fecha": "2008-07-26",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Artículo sobre un acuerdo municipal con una empresa privada para instrumentar un loteo social en San Patricio del Chañar. La nota registra la demanda de suelo para vivienda, la cantidad de lotes que se esperaba ofrecer y la necesidad de infraestructura básica. Se conserva como fuente periodística sobre el acceso a la tierra y la expansión urbana en 2008; las condiciones mencionadas son las de aquel momento.",
+      "url": "https://www.rionegro.com.ar/novedoso-loteo-en-el-chanar-BIHRN200871326603/",
+      "etiquetas": [
+        "hemeroteca histórica",
+        "2008",
+        "vivienda",
+        "loteo social",
+        "desarrollo urbano"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva metadatos y descripción propia; las cifras y condiciones corresponden al momento de publicación."
+    },
+    {
+      "id": "rn-2009-05-21-servicios-crecimiento-demografico",
+      "titulo": "El Chañar: más servicios ante el crecimiento demográfico",
+      "fecha": "2009-05-21",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Cobertura sobre los desafíos de infraestructura de San Patricio del Chañar en 2009 ante el crecimiento urbano y productivo. La nota aborda el proyecto de gasoducto, la extensión de servicios y las demandas sobre escuelas, hospital, comisaría y guardería. Se incorpora como registro de las necesidades y proyectos de servicios públicos planteados en ese período, no como certificación de obras concluidas.",
+      "url": "https://www.rionegro.com.ar/el-chanar-mas-servicios-ante-el-crecimiento-demografico-DFHRN1242873130104/",
+      "etiquetas": [
+        "hemeroteca histórica",
+        "2009",
+        "infraestructura",
+        "servicios públicos",
+        "crecimiento urbano"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva metadatos y descripción propia; los anuncios se presentan como proyectos y compromisos informados en 2009."
+    },
+    {
+      "id": "lm-2010-09-22-epea-2011",
+      "titulo": "El Chañar tendrá una EPEA en 2011",
+      "fecha": "2010-09-22",
+      "medio": "La Mañana de Neuquén",
+      "autor": "Redacción",
+      "descripcion": "Nota sobre el anuncio de creación de una Escuela Provincial de Educación Agropecuaria en San Patricio del Chañar para el ciclo lectivo 2011. Registra el reclamo de la comunidad por ampliar la oferta secundaria y la orientación agropecuaria, así como las gestiones iniciales para encontrar un edificio. Se incorpora como antecedente periodístico del proceso que dio origen a la EPEA N.º 3.",
+      "url": "https://www.lmneuquen.com/el-chanar-tendra-una-epea-2011-n84150",
+      "etiquetas": [
+        "hemeroteca histórica",
+        "2010",
+        "EPEA 3",
+        "educación agropecuaria",
+        "escuela secundaria"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a La Mañana de Neuquén. LIBRITO conserva metadatos y descripción propia; el anuncio se registra como tal, no como prueba de apertura en esa fecha."
+    },
+    {
+      "id": "lm-2010-12-17-fiesta-pelon-25",
+      "titulo": "Presentaron programación de la Fiesta del Pelón",
+      "fecha": "2010-12-17",
+      "medio": "La Mañana de Neuquén",
+      "autor": "Redacción",
+      "descripcion": "Anuncio de la programación de la 25.ª Fiesta Regional y Provincial del Pelón, prevista para febrero de 2011. La nota describe la importancia del festejo para la identidad productiva y cultural de San Patricio del Chañar, junto con propuestas musicales, jineteada, baile popular, bendición de frutos y homenaje a trabajadores rurales. Se conserva como registro de la preparación de una edición aniversario de la fiesta.",
+      "url": "https://www.lmneuquen.com/presentaron-programacion-la-fiesta-del-pelon-n93079",
+      "etiquetas": [
+        "hemeroteca histórica",
+        "2010",
+        "Fiesta del Pelón",
+        "25.ª edición",
+        "tradiciones",
+        "cultura"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a La Mañana de Neuquén. LIBRITO conserva metadatos y descripción propia; la publicación anuncia un evento futuro para febrero de 2011."
+    },
+    {
+      "id": "rn-2013-05-21-40-aniversario-punto-inflexion",
+      "titulo": "El Chañar está “en un punto de inflexión”",
+      "fecha": "2013-05-21",
+      "medio": "Diario Río Negro",
+      "autor": "Oscar Livera",
+      "descripcion": "Cobertura del 40.º aniversario de San Patricio del Chañar centrada en los cambios urbanos, demográficos y productivos que se debatían en 2013. La nota recoge declaraciones del intendente sobre servicios, trabajo rural, bodegas, infraestructura y búsqueda de identidad comunitaria. Se conserva como testimonio periodístico de época; las cifras y evaluaciones citadas corresponden a las fuentes entrevistadas.",
+      "url": "https://www.rionegro.com.ar/el-chanar-esta-en-un-punto-de-inflexion-DRRN_1167848/?amp=1",
+      "etiquetas": [
+        "hemeroteca histórica",
+        "2013",
+        "40.º aniversario",
+        "identidad local",
+        "desarrollo urbano",
+        "producción"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva metadatos y descripción propia; las opiniones y cifras se atribuyen a las personas citadas."
     }
   ]
 }
