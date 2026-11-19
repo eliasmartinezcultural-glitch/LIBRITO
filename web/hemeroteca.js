@@ -2,10 +2,10 @@
 "use strict";
 const input=document.querySelector("#buscador-hemeroteca"),list=document.querySelector("#lista-hemeroteca"),count=document.querySelector("#contador-hemeroteca");
 if(!input||!list||!count)return;
-const norm=v=>String(v||"").toLocaleLowerCase("es").normalize("NFD").replace(/[\\u0300-\\u036f]/g,"");
+const norm=v=>String(v||"").toLocaleLowerCase("es").normalize("NFD").replace(/[\u0300-\u036f]/g,"");
 const safeUrl=v=>{try{const u=new URL(v);return ["https:","http:"].includes(u.protocol)&&!!u.hostname&&!u.username&&!u.password}catch(_){return false}};
 const el=(tag,cls,txt)=>{const n=document.createElement(tag);if(cls)n.className=cls;if(txt!==undefined)n.textContent=txt;return n};
-const date=v=>{const m=String(v||"").match(/^(\\d{4})-(\\d{2})-(\\d{2})$/);return m?m[3]+"/"+m[2]+"/"+m[1]:String(v||"Fecha no informada")};
+const date=v=>{const m=String(v||"").match(/^(\d{4})-(\d{2})-(\d{2})$/);return m?m[3]+"/"+m[2]+"/"+m[1]:String(v||"Fecha no informada")};
 let news=[];
 function draw(){
  const q=norm(input.value.trim());
