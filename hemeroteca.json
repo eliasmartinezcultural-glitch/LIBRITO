@@ -1,6 +1,6 @@
 {
   "nombre": "Hemeroteca de LIBRITO · San Patricio del Chañar",
-  "version": 9,
+  "version": 10,
   "descripcion": "Índice de noticias y páginas periodísticas que mencionan expresamente San Patricio del Chañar, de distintos diarios, años y formatos.",
   "criterio": "Se incorpora una noticia cuando el texto identifica expresamente a San Patricio del Chañar o trata sobre la localidad. Se conserva título, medio, autoría disponible, fecha, enlace original y una descripción breve. No se reproduce el cuerpo periodístico.",
   "noticias": [
@@ -64,17 +64,23 @@
       "fecha": "2002-05-21",
       "medio": "Diario Río Negro",
       "autor": "Redacción",
-      "descripcion": "Aniversario 29, industrialización de frutas, exportaciones y proyectos productivos locales.",
+      "descripcion": "Crónica del 29.º aniversario que registra una gira municipal por Italia y España, la participación en la feria frutícola Macfrut, gestiones de exportación y la iniciativa Productos Patagónicos El Chañar SA. También menciona contactos con la Cámara de Comercio de Ravena y un convenio de hermandad con Alcarrás, España. Se conserva como registro de proyectos y vínculos internacionales anunciados en 2002, sin asumir que todos se hayan concretado.",
       "url": "https://www.rionegro.com.ar/el-chanar-palpita-su-aniversario-mientras-busca-salida-al-exterior-EWHRN0205212021703/",
       "etiquetas": [
         "historia",
         "aniversario",
         "producción",
-        "exportaciones"
+        "exportaciones",
+        "hemeroteca histórica",
+        "2002",
+        "Italia",
+        "España",
+        "exportación",
+        "fruticultura"
       ],
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
-      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva metadatos y descripción propia; las iniciativas mencionadas se presentan como anuncios y gestiones de la época."
     },
     {
       "id": "rn-2002-08-10",
@@ -82,17 +88,23 @@
       "fecha": "2002-08-10",
       "medio": "Diario Río Negro",
       "autor": "Redacción",
-      "descripcion": "Experiencia de huertas familiares vinculada a la ex escuela EMETA, capacitación y producción de alimentos.",
+      "descripcion": "Cobertura sobre el programa de huertas familiares desarrollado junto a la ex escuela EMETA, con participación municipal, educativa e INTA. La nota describe parcelas, cultivos, compostaje, capacitación y el objetivo de ampliar la cantidad de familias participantes. Se incorpora como memoria de una experiencia comunitaria vinculada con la producción de alimentos y la vida cotidiana.",
       "url": "https://www.rionegro.com.ar/huertas-de-el-chanar-daran-de-comer-a-120-familias-BLHRN0208105101015/",
       "etiquetas": [
         "educación",
         "huertas",
         "producción familiar",
-        "alimentación"
+        "alimentación",
+        "hemeroteca histórica",
+        "2002",
+        "huertas familiares",
+        "INTA",
+        "producción de alimentos",
+        "comunidad"
       ],
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
-      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva referencia y descripción propia."
     },
     {
       "id": "rn-2002-09-02",
@@ -135,17 +147,21 @@
       "fecha": "2003-05-21",
       "medio": "Diario Río Negro",
       "autor": "Redacción",
-      "descripcion": "Aniversario 30, planta de tratamiento de residuos y debates sobre producción y ambiente.",
+      "descripcion": "Edición aniversario sobre un proyecto municipal de gestión integral de residuos, clasificación de materiales, compostaje y tratamiento de residuos orgánicos. La crónica describe la iniciativa, su escala prevista y el trabajo conjunto con organismos provinciales y el Consejo Federal de Inversiones. Se registra como proyecto anunciado en 2003, sin afirmar que todas sus etapas se hayan ejecutado según lo previsto.",
       "url": "https://www.rionegro.com.ar/30-anos-el-chanar-busca-el-cambio-hacia-un-municipio-ecologico-21-5-03-GAHRN03052120211006/",
       "etiquetas": [
         "historia",
         "aniversario",
         "ambiente",
-        "residuos"
+        "residuos",
+        "hemeroteca histórica",
+        "2003",
+        "compostaje",
+        "gestión local"
       ],
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
-      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva referencia y descripción propia; las previsiones de la nota no acreditan resultados posteriores."
     },
     {
       "id": "rn-2004-05-24",
@@ -1071,69 +1087,6 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva referencia y descripción propia; las conclusiones citadas se atribuyen a sus autores."
-    },
-    {
-      "id": "rn-2002-05-21-salida-exterior",
-      "titulo": "El Chañar palpita su aniversario mientras busca salida al exterior",
-      "fecha": "2002-05-21",
-      "medio": "Diario Río Negro",
-      "autor": "Redacción",
-      "descripcion": "Crónica del 29.º aniversario que registra una gira municipal por Italia y España, la participación en la feria frutícola Macfrut, gestiones de exportación y la iniciativa Productos Patagónicos El Chañar SA. También menciona contactos con la Cámara de Comercio de Ravena y un convenio de hermandad con Alcarrás, España. Se conserva como registro de proyectos y vínculos internacionales anunciados en 2002, sin asumir que todos se hayan concretado.",
-      "url": "https://www.rionegro.com.ar/el-chanar-palpita-su-aniversario-mientras-busca-salida-al-exterior-EWHRN0205212021703/",
-      "etiquetas": [
-        "hemeroteca histórica",
-        "2002",
-        "aniversario",
-        "Italia",
-        "España",
-        "exportación",
-        "fruticultura"
-      ],
-      "tipo": "articulo_web",
-      "estado": "enlace_al_original",
-      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva metadatos y descripción propia; las iniciativas mencionadas se presentan como anuncios y gestiones de la época."
-    },
-    {
-      "id": "rn-2002-08-10-huertas-familiares",
-      "titulo": "Huertas de El Chañar darán de comer a 120 familias",
-      "fecha": "2002-08-10",
-      "medio": "Diario Río Negro",
-      "autor": "Redacción",
-      "descripcion": "Cobertura sobre el programa de huertas familiares desarrollado junto a la ex escuela EMETA, con participación municipal, educativa e INTA. La nota describe parcelas, cultivos, compostaje, capacitación y el objetivo de ampliar la cantidad de familias participantes. Se incorpora como memoria de una experiencia comunitaria vinculada con la producción de alimentos y la vida cotidiana.",
-      "url": "https://www.rionegro.com.ar/huertas-de-el-chanar-daran-de-comer-a-120-familias-BLHRN0208105101015/",
-      "etiquetas": [
-        "hemeroteca histórica",
-        "2002",
-        "huertas familiares",
-        "educación",
-        "INTA",
-        "producción de alimentos",
-        "comunidad"
-      ],
-      "tipo": "articulo_web",
-      "estado": "enlace_al_original",
-      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva referencia y descripción propia."
-    },
-    {
-      "id": "rn-2003-05-21-municipio-ecologico",
-      "titulo": "30 años: El Chañar busca el cambio hacia un municipio ecológico",
-      "fecha": "2003-05-21",
-      "medio": "Diario Río Negro",
-      "autor": "Redacción",
-      "descripcion": "Edición aniversario sobre un proyecto municipal de gestión integral de residuos, clasificación de materiales, compostaje y tratamiento de residuos orgánicos. La crónica describe la iniciativa, su escala prevista y el trabajo conjunto con organismos provinciales y el Consejo Federal de Inversiones. Se registra como proyecto anunciado en 2003, sin afirmar que todas sus etapas se hayan ejecutado según lo previsto.",
-      "url": "https://www.rionegro.com.ar/30-anos-el-chanar-busca-el-cambio-hacia-un-municipio-ecologico-21-5-03-GAHRN03052120211006/",
-      "etiquetas": [
-        "hemeroteca histórica",
-        "2003",
-        "aniversario",
-        "ambiente",
-        "residuos",
-        "compostaje",
-        "gestión local"
-      ],
-      "tipo": "articulo_web",
-      "estado": "enlace_al_original",
-      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva referencia y descripción propia; las previsiones de la nota no acreditan resultados posteriores."
     },
     {
       "id": "rn-2001-04-19-mapas-inundacion-defensa-civil",
