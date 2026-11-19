@@ -1,6 +1,6 @@
 {
   "nombre": "Recursos de LIBRITO · San Patricio del Chañar",
-  "version": 4,
+  "version": 5,
   "descripcion": "Índice de fotografías, mapas, planos, archivos audiovisuales y otros materiales de consulta relacionados con San Patricio del Chañar.",
   "criterio": "Se registran recursos existentes y se enlaza a sus custodios o fuentes originales. La inclusión no implica autorización para descargar, copiar, republicar, adaptar o usar comercialmente. Cada ficha informa el estado de derechos conocido y el modo de acceso. Si las condiciones no están claras, el recurso se ofrece solo como referencia externa.",
   "recursos": [
@@ -153,6 +153,107 @@
       ],
       "derechos_estado": "Condiciones de reproducción de la cartografía no verificadas para esta hoja individual",
       "derechos": "Conservar la atribución a la Dirección Provincial de Catastro e Información Territorial. Antes de reproducir o redistribuir el mapa, consultar las condiciones vigentes de la Mapoteca y del organismo productor. La publicación del índice no equivale a una licencia abierta."
+    },
+    {
+      "id": "haru-muestra-fotografica-colonia-japonesa-chanar-2022",
+      "titulo": "HARÚ · Muestra fotográfica sobre la primavera y la Colonia Japonesa",
+      "categoria": "Fotografías y exposiciones",
+      "tipo": "Muestra fotográfica documentada",
+      "fecha": "Septiembre de 2022",
+      "autor": "Gustavo Celayes · Bodega Familia Schroeder · Municipalidad de San Patricio del Chañar",
+      "descripcion": "Muestra fotográfica realizada en la Sala Rosa de los Vientos de Bodega Familia Schroeder. La nota de presentación informa que reunió imágenes de la primavera chañarense, la floración de los frutales y la memoria de la Colonia Japonesa establecida en San Patricio del Chañar. Se exhibieron fotografías impresas y textos haiku. Esta ficha documenta la existencia y el contenido temático de la muestra; no ofrece un álbum digital completo ni reproduce las obras.",
+      "url": "https://www.lmneuquen.com/neuquen/las-imagenes-la-primavera-llegan-la-bodega-familia-schroeder-n942307",
+      "fuente": "https://www.lmneuquen.com/neuquen/las-imagenes-la-primavera-llegan-la-bodega-familia-schroeder-n942307",
+      "acceso": "Consulta de la nota periodística que documenta la muestra. La exposición fue temporal y se realizó durante 15 días en septiembre de 2022. Para consultar las fotografías originales, solicitar información al fotógrafo o a sus custodios.",
+      "derechos_estado": "Derechos de las fotografías no especificados en la nota",
+      "derechos": "La autoría fotográfica se atribuye a Gustavo Celayes. La publicación de la nota no habilita la reproducción de las fotografías. Solicitar autorización al autor y conservar los créditos.",
+      "licencia": "No se identifica licencia abierta. Referencia documental; no redistribuir las imágenes.",
+      "etiquetas": [
+        "HARÚ",
+        "Colonia Japonesa",
+        "primavera",
+        "floración",
+        "fotografía",
+        "Gustavo Celayes",
+        "San Patricio del Chañar",
+        "2022"
+      ]
+    },
+    {
+      "id": "temec-modernizacion-riego-lote-1-chanar-2015-2016",
+      "titulo": "Modernización de la red de riego · Lote 1",
+      "categoria": "Registros técnicos",
+      "tipo": "Ficha de obra hidráulica y equipamiento",
+      "fecha": "Febrero de 2015 – agosto de 2016",
+      "autor": "Gonzalo Martínez Dufour · TEMEC S.A. · cliente: CEOSA",
+      "descripcion": "Ficha técnica de la intervención realizada en las derivaciones del canal de riego de San Patricio del Chañar (Lote 1). Registra el suministro y montaje de 14 compuertas AB1 de regulación automática, 15 módulos de orificio y 26 compuertas planas. Informa un volumen de obra de 10.500 kg y enumera servicios de ingeniería, fabricación y montaje. La página menciona planos de implantación como parte de los servicios, pero no publica esos planos para descarga.",
+      "url": "https://www.temec.com.ar/blog/proyectos-riego-11/modernizacion-de-la-red-de-riego-de-san-patricio-del-chanar-lote-1-neuquen-9",
+      "fuente": "https://www.temec.com.ar/blog/proyectos-riego-11/modernizacion-de-la-red-de-riego-de-san-patricio-del-chanar-lote-1-neuquen-9",
+      "acceso": "Consulta de ficha técnica del proyecto en el sitio de TEMEC. No contiene planos de implantación descargables.",
+      "derechos_estado": "Contenido de empresa privada; no se identifica licencia abierta",
+      "derechos": "La información se enlaza desde la publicación original de TEMEC. No copiar imágenes, planos ni documentación técnica sin autorización del titular.",
+      "licencia": "No especificada. Uso de consulta sujeto a las condiciones del sitio y a los derechos de TEMEC y terceros.",
+      "etiquetas": [
+        "riego",
+        "canales",
+        "compuertas",
+        "infraestructura hidráulica",
+        "Lote 1",
+        "CEOSA",
+        "2015",
+        "2016",
+        "San Patricio del Chañar"
+      ]
+    },
+    {
+      "id": "temec-modernizacion-riego-lote-2-chanar-2015-2016",
+      "titulo": "Modernización de la red de riego · Lote 2",
+      "categoria": "Registros técnicos",
+      "tipo": "Ficha de obra hidráulica y equipamiento",
+      "fecha": "Febrero de 2015 – septiembre de 2016",
+      "autor": "Gonzalo Martínez Dufour · TEMEC S.A. · cliente: CN Sapag S.A.",
+      "descripcion": "Ficha técnica de una segunda intervención en las derivaciones del canal de riego de San Patricio del Chañar (Lote 2). Registra el suministro y montaje de 6 compuertas AB1 de regulación automática, 8 módulos de orificio y 7 compuertas planas. Informa un volumen de obra de 6.500 kg y enumera servicios de ingeniería, fabricación y montaje. La publicación menciona planos de implantación, pero no los ofrece como archivos descargables.",
+      "url": "https://www.temec.com.ar/blog/proyectos-riego-11/modernizacion-de-la-red-de-riego-de-san-patricio-del-chanar-lote-2-neuquen-10",
+      "fuente": "https://www.temec.com.ar/blog/proyectos-riego-11/modernizacion-de-la-red-de-riego-de-san-patricio-del-chanar-lote-2-neuquen-10",
+      "acceso": "Consulta de ficha técnica del proyecto en el sitio de TEMEC. No contiene planos de implantación descargables.",
+      "derechos_estado": "Contenido de empresa privada; no se identifica licencia abierta",
+      "derechos": "La información se enlaza desde la publicación original de TEMEC. No copiar imágenes, planos ni documentación técnica sin autorización del titular.",
+      "licencia": "No especificada. Uso de consulta sujeto a las condiciones del sitio y a los derechos de TEMEC y terceros.",
+      "etiquetas": [
+        "riego",
+        "canales",
+        "compuertas",
+        "infraestructura hidráulica",
+        "Lote 2",
+        "CN Sapag",
+        "2015",
+        "2016",
+        "San Patricio del Chañar"
+      ]
+    },
+    {
+      "id": "neuquen-informa-monitoreo-rio-neuquen-dique-el-chanar-2020",
+      "titulo": "Monitoreo de calidad de agua · tramo Dique El Chañar–preconfluencia",
+      "categoria": "Fotografías y registros ambientales",
+      "tipo": "Registro fotográfico de monitoreo hídrico",
+      "fecha": "3 de septiembre de 2020",
+      "autor": "Subsecretaría de Recursos Hídricos de Neuquén · Dirección Provincial de Fiscalización Hídrica · AIC · DPA",
+      "descripcion": "Registro institucional de una campaña de monitoreo de calidad de agua del río Neuquén. La nota identifica el tramo estudiado entre el Dique Compensador El Chañar y la preconfluencia con el río Limay, e incluye fotografías de la toma de muestras. El programa contempló muestras en transectas y análisis físico-químicos. La cobertura corresponde a un tramo fluvial amplio; las imágenes no están georreferenciadas individualmente y no deben interpretarse como fotografías tomadas necesariamente junto al casco urbano.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2020/09/03/153846-monitorean-la-calidad-de-agua-del-rio-neuquen",
+      "fuente": "https://www.neuqueninforma.gob.ar/noticias/2020/09/03/153846-monitorean-la-calidad-de-agua-del-rio-neuquen",
+      "acceso": "Consulta de la publicación oficial; incluye fotografías con epígrafes sobre el monitoreo del tramo Dique Compensador El Chañar–preconfluencia.",
+      "derechos_estado": "Derechos de las fotografías no especificados en la publicación",
+      "derechos": "La publicación está alojada en el portal oficial de Neuquén, pero no indica licencia de las fotografías. Consultar al organismo antes de reproducirlas; LIBRITO enlaza la fuente original.",
+      "licencia": "No identificada. Consulta externa.",
+      "etiquetas": [
+        "río Neuquén",
+        "Dique Compensador El Chañar",
+        "calidad de agua",
+        "monitoreo hídrico",
+        "fotografías",
+        "AIC",
+        "2020"
+      ]
     }
   ]
 }
