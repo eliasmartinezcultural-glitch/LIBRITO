@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 46,
+  "version": 47,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -3641,7 +3641,7 @@
       "fecha": "2017",
       "categoria": "Historia y memoria",
       "tematica": "Mensuras territoriales de 1882–1883, fotografía histórica, cartografía, expediciones y territorio neuquino en el siglo XIX",
-      "descripcion": "Publicación académica e institucional que reúne estudios sobre los álbumes fotográficos de Antonio Pozzo y de Encina, Moreno y Cía., producidos en el contexto de las expediciones y relevamientos territoriales de 1879 y 1882–1883. Incluye la reedición del trabajo de Juan Mario Raone sobre la primera mensura del territorio de El Triángulo y sus fotografías históricas, además de anexos con álbumes de vistas de 1883. Es una fuente documental y bibliográfica de gran valor para investigar las mensuras, los recorridos y la producción de imágenes del Neuquén del siglo XIX. La publicación no demuestra por sí sola que una fotografía determinada haya sido tomada en el paraje Chañar: esa identificación requiere revisar epígrafes, itinerarios y documentación original.",
+      "descripcion": "Publicación académica e institucional que reúne estudios sobre los álbumes fotográficos de Antonio Pozzo y de Encina, Moreno y Cía., producidos en el contexto de las expediciones y relevamientos territoriales de 1879 y 1882–1883. Incluye la reedición del trabajo de Juan Mario Raone sobre la primera mensura del territorio de El Triángulo y sus fotografías históricas. En el análisis cartográfico se identifica expresamente el «Mangrullo Chañar» del ex fortín Chañar y se distinguen otros topónimos del departamento Añelo, entre ellos Tratayen, Vanguardia, Mangrullo y Paso de los Indios. Es una fuente fundamental para investigar la cartografía militar y las mensuras del siglo XIX. No demuestra por sí sola que una fotografía determinada haya sido tomada en el paraje Chañar: esa identificación requiere revisar cada epígrafe y su documentación de origen.",
       "formato": "Libro digital · PDF",
       "acceso": "origen",
       "urlOriginal": "https://ri.conicet.gov.ar/bitstream/handle/11336/109993/CONICET_Digital_Nro.29159332-9370-4704-b60e-2d419a2fbd48_A.pdf?isAllowed=y&sequence=2",
@@ -3654,7 +3654,7 @@
         "referencia": "Rodríguez Aguilar, María Inés (comp.). Patrimonios visuales patagónicos: territorios y sociedades. Buenos Aires, Ministerio de Cultura de la Nación, Museo Roca, 2017. ISBN 978-987-4012-33-3."
       },
       "procedencia": "Repositorio Institucional CONICET Digital y catálogo de la Biblioteca de la Academia Nacional de la Historia; publicación del Museo Roca.",
-      "integridad": "PDF completo consultado. Se verificaron datos editoriales, índice, reedición del capítulo de Juan Mario Raone y anexos fotográficos de Encina y Moreno. La cobertura geográfica de las fotografías no debe extenderse al Chañar sin verificación individual.",
+      "integridad": "PDF institucional consultado. Se verificaron los datos editoriales, la reedición del trabajo de Juan Mario Raone y el pasaje cartográfico que identifica el «Mangrullo Chañar» del ex fortín Chañar, diferenciándolo de otros topónimos del departamento Añelo. La cobertura geográfica de las fotografías no debe extenderse al Chañar sin verificación individual.",
       "etiquetas": [
         "1882",
         "1883",
@@ -3665,7 +3665,46 @@
         "mensura",
         "fotografía histórica",
         "siglo XIX",
-        "Neuquén"
+        "Neuquén",
+        "Mangrullo Chañar",
+        "Fortín Chañar",
+        "departamento Añelo",
+        "cartografía militar"
+      ]
+    },
+    {
+      "id": "boletin-instituto-geografico-argentino-tomo-i-1879-chanar-host",
+      "titulo": "Boletín del Instituto Geográfico Argentino · tomo I (1879): nota geográfica y militar sobre el Chañar",
+      "autoria": "Francisco Host, sargento mayor de Ingenieros; publicación institucional del Instituto Geográfico Argentino",
+      "institucion": "Instituto Geográfico Argentino",
+      "fecha": "1879",
+      "categoria": "Historia y memoria",
+      "tematica": "Geografía histórica del río Neuquén, pasos y caminos antiguos, Chañar, Tratayén y movimientos militares de 1879",
+      "descripcion": "Ejemplar digitalizado del tomo I del Boletín del Instituto Geográfico Argentino. Incluye el cuadro topográfico de la marcha de la columna de la 4.ª División y una nota geográfica y militar firmada por Francisco Host en las Juntas del Limay con Neuquén, el 1.º de agosto de 1879. El pasaje registra rastros de una partida que había cruzado el río Neuquén «en aguas frente al Chañar», ubica el episodio entre los parajes de Culpeo y describe caminos vinculados con Tratayén y el Paso de los Indios. Es una fuente primaria contemporánea para estudiar la geografía histórica y los movimientos militares en el entorno del Chañar. No debe interpretarse como prueba suficiente de la ubicación exacta del fortín ni como descripción del actual casco urbano.",
+      "formato": "PDF digitalizado",
+      "acceso": "origen",
+      "urlOriginal": "https://upload.wikimedia.org/wikipedia/commons/1/11/BaANH50337_Boletin_del_Instituto_Geogr%C3%A1fico_Argentino_%28Tomo_I._1879%29.pdf",
+      "accionExterna": "Consultar tomo digitalizado",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "LIBRITO enlaza el ejemplar digitalizado de una publicación histórica; no aloja ni redistribuye el archivo.",
+        "referencia": "Boletín del Instituto Geográfico Argentino, tomo I, 1879; nota geográfica y militar de Francisco Host."
+      },
+      "procedencia": "Ejemplar digitalizado del Boletín del Instituto Geográfico Argentino, tomo I, 1879; repositorio Wikimedia Commons.",
+      "integridad": "Se consultó el PDF digitalizado y se verificó el pasaje de la nota geográfica y militar de Francisco Host, en la sección encabezada «Carta del Neuquén», página impresa 159 y continuación inmediata. La referencia al Chañar aparece en el contexto de un cruce del río Neuquén; el documento no determina por sí solo la ubicación precisa del fortín.",
+      "etiquetas": [
+        "1879",
+        "Francisco Host",
+        "Instituto Geográfico Argentino",
+        "Chañar",
+        "Culpeo",
+        "Tratayén",
+        "Paso de los Indios",
+        "río Neuquén",
+        "fortines",
+        "geografía histórica",
+        "siglo XIX"
       ]
     }
   ]
