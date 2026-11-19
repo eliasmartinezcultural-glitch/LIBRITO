@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 5,
+  "version": 6,
   "descripcion": "Colección de documentos locales completos y accesos directos a originales institucionales y académicos, con autoría, procedencia y condiciones de uso visibles.",
   "regla": "Los PDF alojados en LIBRITO se distinguen de los documentos que se abren en su fuente original. Nunca se presenta una ficha como archivo alojado.",
   "categorias": [
@@ -255,6 +255,217 @@
       },
       "procedencia": "Enlace difundido por la Municipalidad de San Patricio del Chañar en diciembre de 2023.",
       "integridad": "Publicación PDF de 35 páginas en Google Drive; acceso desde el enlace institucional difundido."
+    },
+    {
+      "id": "libro-mujeres-rurales-2025",
+      "titulo": "Experiencias colectivas y luchas de mujeres rurales en la Argentina",
+      "autoria": "Verónica Trpin (compiladora); capítulo local de Verónica Trpin",
+      "institucion": "Topos, editorial del IPEHCS · CONICET / Universidad Nacional del Comahue",
+      "fecha": "2025",
+      "categoria": "Libros y publicaciones",
+      "tematica": "San Patricio del Chañar, huerteras, producción de alimentos, mujeres rurales, trabajo y territorio",
+      "descripcion": "Libro digital de 92 páginas. El capítulo 6, “Huerteras en las fronteras del extractivismo: Producción de alimentos frescos en San Patricio del Chañar, Neuquén”, estudia las huertas, el CFPA N.º 2 y las redes locales de producción. Licencia CC BY-NC-SA 4.0.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://rdi.uncoma.edu.ar/bitstream/handle/uncomaid/19070/CUA_10_mujeres_rurales_final.pdf?isAllowed=y&sequence=1",
+      "urlFicha": "https://rdi.uncoma.edu.ar/handle/uncomaid/19070",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "licencia_confirmada",
+        "base": "Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0). Compartir con atribución, sin uso comercial y manteniendo la misma licencia.",
+        "referencia": "Licencia indicada en las páginas preliminares del libro digital."
+      },
+      "procedencia": "Repositorio Digital Institucional de la Universidad Nacional del Comahue; Topos, editorial del IPEHCS, Cuadernos n.º 10.",
+      "integridad": "PDF completo de 92 páginas, disponible en el repositorio institucional. LIBRITO enlaza el original; no aloja una copia.",
+      "etiquetas": [
+        "huerteras",
+        "agroecología",
+        "CFPA 2",
+        "mujeres rurales",
+        "economía social",
+        "Vaca Muerta",
+        "alimentos frescos"
+      ]
+    },
+    {
+      "id": "finessi-groch-paisaje-agrario-2012",
+      "titulo": "Dinámica del paisaje agrario de San Patricio del Chañar a través de imágenes satelitales",
+      "autoria": "Florencia Gisella Finessi y Damián Groch",
+      "institucion": "Universidad Nacional del Comahue · Boletín Geográfico",
+      "fecha": "2012",
+      "categoria": "Territorio y cartografía",
+      "tematica": "Historia agraria, riego, expansión productiva, imágenes satelitales y organización territorial",
+      "descripcion": "Artículo académico de 19 páginas, publicado en Boletín Geográfico, año XXXIII, n.º 34, páginas 91–109. Reconstruye las etapas de organización del territorio, los actores productivos y los cambios del paisaje agrario local mediante imágenes satelitales.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://dialnet.unirioja.es/descarga/articulo/5017798.pdf",
+      "urlFicha": "https://revele.uncoma.edu.ar/index.php/geografia/article/view/69",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "El texto completo está disponible para consulta en Dialnet y en la revista universitaria. No se identificó una licencia explícita que autorice a LIBRITO a alojar o redistribuir una copia; se enlaza el original.",
+        "referencia": "Boletín Geográfico, Universidad Nacional del Comahue, año XXXIII, n.º 34, 2012."
+      },
+      "procedencia": "REVELE, Universidad Nacional del Comahue; copia PDF disponible en Dialnet.",
+      "integridad": "PDF original enlazado desde Dialnet; no alojado en LIBRITO.",
+      "etiquetas": [
+        "imágenes satelitales",
+        "fruticultura",
+        "riego",
+        "historia agraria",
+        "paisaje",
+        "territorio"
+      ]
+    },
+    {
+      "id": "fao-diagnostico-valles-neuquen-2014",
+      "titulo": "Diagnóstico de los principales valles y áreas con potencial agrícola de la Provincia del Neuquén",
+      "autoria": "Equipo técnico del Proyecto FAO UTF ARG 017; coordinación provincial de COPADE",
+      "institucion": "Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO) · Provincia del Neuquén",
+      "fecha": "2014-12",
+      "categoria": "Informes y estadísticas",
+      "tematica": "Valle inferior del río Neuquén, San Patricio del Chañar, agricultura, riego, agua y desarrollo productivo",
+      "descripcion": "Informe provincial de diciembre de 2014. Incluye análisis de áreas productivas y sistemas de riego de San Patricio del Chañar y Añelo, actores institucionales, infraestructura hídrica y potencial agrícola.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://openknowledge.fao.org/server/api/core/bitstreams/db58a4f0-e4ab-4ccb-bc33-2268d10996f5/content",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Documento público alojado en el repositorio de conocimiento de FAO. No se presume una licencia de redistribución para esta copia; LIBRITO enlaza el archivo en su fuente original.",
+        "referencia": "Proyecto FAO UTF ARG 017, Desarrollo Institucional para la Inversión, diciembre de 2014."
+      },
+      "procedencia": "FAO Open Knowledge; proyecto ejecutado con contraparte provincial COPADE y Ministerio de Desarrollo Territorial.",
+      "integridad": "PDF completo enlazado desde FAO Open Knowledge; no alojado en LIBRITO.",
+      "etiquetas": [
+        "FAO",
+        "agricultura",
+        "riego",
+        "agua",
+        "valles",
+        "Añelo",
+        "producción",
+        "Neuquén"
+      ]
+    },
+    {
+      "id": "fao-tecnologias-aplicacion-parcelas-2015",
+      "titulo": "Tecnologías de aplicación en parcelas · Documento de Trabajo n.º 6",
+      "autoria": "Equipo técnico del Proyecto FAO UTF ARG 017",
+      "institucion": "FAO · Proyecto Desarrollo Institucional para la Inversión · Provincia del Neuquén",
+      "fecha": "2015-03",
+      "categoria": "Educación y conocimiento",
+      "tematica": "Sistemas de riego de San Patricio del Chañar, riego parcelario, eficiencia hídrica y agricultura",
+      "descripcion": "Documento técnico de marzo de 2015. Incluye datos diferenciados de las áreas de riego de San Patricio del Chañar, superficies bajo riego por gravedad y bombeo, potencial de expansión y tecnologías de aplicación parcelaria.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://www.fao.org/fileadmin/user_upload/rlc/utf017arg/neuquen/DT_06_Tecnolog%C3%ADas_de_aplicaci%C3%B3n_en_parcelas.pdf",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Documento técnico disponible en el portal FAO. No se identificó en esta revisión una licencia específica de redistribución; se enlaza la fuente original.",
+        "referencia": "FAO UTF ARG 017, Documento de Trabajo n.º 6, marzo de 2015."
+      },
+      "procedencia": "FAO, Proyecto UTF ARG 017, documentación técnica de la Provincia del Neuquén.",
+      "integridad": "PDF original enlazado desde FAO; no alojado en LIBRITO.",
+      "etiquetas": [
+        "riego parcelario",
+        "tecnología",
+        "agua",
+        "riego por gravedad",
+        "riego presurizado",
+        "FAO"
+      ]
+    },
+    {
+      "id": "fao-areas-riego-neuquen",
+      "titulo": "Áreas de riego en la Provincia del Neuquén",
+      "autoria": "Equipo técnico del estudio de riego integral",
+      "institucion": "FAO · Proyecto de Desarrollo Institucional para la Inversión",
+      "fecha": "s/f",
+      "categoria": "Territorio y cartografía",
+      "tematica": "Cuenca del río Neuquén, Añelo, San Patricio del Chañar, sistemas de riego y agricultura irrigada",
+      "descripcion": "Documento técnico sobre las áreas de riego existentes y potenciales de Neuquén. Contiene un apartado específico “Tramo Añelo–El Chañar” con información sobre producción agrícola, infraestructura de canales y superficie bajo riego.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://www.fao.org/fileadmin/user_upload/rlc/utf017arg/estudio/riegointegral/areasexistentes/Anexos/PROVINCIA_DE_NEUQUEN_FINAL.pdf",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Documento público disponible en FAO. Fecha y licencia específica no confirmadas en esta revisión; se enlaza el archivo original sin alojar una copia.",
+        "referencia": "Anexo técnico FAO sobre áreas de riego de la Provincia del Neuquén."
+      },
+      "procedencia": "FAO, estudio de riego integral, anexos provinciales.",
+      "integridad": "PDF original enlazado desde FAO; no alojado en LIBRITO.",
+      "etiquetas": [
+        "riego",
+        "Añelo",
+        "El Chañar",
+        "agua",
+        "agricultura",
+        "cuenca Neuquén"
+      ]
+    },
+    {
+      "id": "cfi-lineamientos-region-confluencia-2017",
+      "titulo": "Lineamientos estratégicos · Región Confluencia",
+      "autoria": "Consejo Federal de Inversiones y equipo técnico del programa DAMI",
+      "institucion": "Consejo Federal de Inversiones · Programa DAMI",
+      "fecha": "2017",
+      "categoria": "Informes y estadísticas",
+      "tematica": "San Patricio del Chañar, planificación regional, agua, cloacas, riego, ambiente e infraestructura",
+      "descripcion": "Informe regional de planificación que incluye una ficha del programa DAMI para San Patricio del Chañar, con datos sobre superficie bajo riego, servicios de agua y cloacas, infraestructura y matriz ambiental. El documento abarca la Región Confluencia, no solo la localidad.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://biblioteca.cfi.org.ar/wp-content/uploads/sites/2/2018/09/cfi-region-confluencia-informe-final-28-09-2017.pdf",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Documento alojado en la Biblioteca del CFI. No se identificó autorización para reproducirlo en un repositorio independiente; LIBRITO enlaza la fuente original.",
+        "referencia": "Consejo Federal de Inversiones, Lineamientos estratégicos, Región Confluencia, informe final 28-09-2017."
+      },
+      "procedencia": "Biblioteca del Consejo Federal de Inversiones; informe final regional de 2017.",
+      "integridad": "PDF original enlazado desde la biblioteca institucional del CFI; no alojado en LIBRITO.",
+      "etiquetas": [
+        "CFI",
+        "DAMI",
+        "región Confluencia",
+        "agua",
+        "cloacas",
+        "riego",
+        "planificación"
+      ]
+    },
+    {
+      "id": "estudio-impacto-rp51-rp7-rp8-2021",
+      "titulo": "Nueva conexión entre las rutas provinciales 51, 7 y 8 · Estudio de impacto ambiental",
+      "autoria": "Marta Susana Balderiote, responsable técnica; equipo consultor IATASA",
+      "institucion": "Dirección Provincial de Vialidad · Provincia del Neuquén",
+      "fecha": "2021-06",
+      "categoria": "Territorio y cartografía",
+      "tematica": "San Patricio del Chañar, infraestructura vial, hidrología, geología, patrimonio, ambiente y población",
+      "descripcion": "Informe de impacto ambiental de la segunda etapa del proyecto de nueva traza, puente y pavimentación de la conexión entre las rutas provinciales 51, 7 y 8. El estudio incluye capítulos sobre medio natural, patrimonio, población e infraestructura del área de influencia y referencias al ejido de San Patricio del Chañar.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://ambiente.neuquen.gov.ar/wp-content/uploads/2023/07/11619-E2-AM-IN-001-0_DGP-Infraestructura-y-Loteos.pdf",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Informe técnico publicado en un portal oficial provincial. No se identificó una licencia de redistribución; se enlaza el documento en su fuente original.",
+        "referencia": "Estudio y Proyecto de la Nueva Traza, Puente, Obra Básica y Calzada Pavimentada de la Conexión entre RP 51 y RP 7/8, segunda etapa, junio de 2021."
+      },
+      "procedencia": "Portal oficial de Ambiente de la Provincia del Neuquén; documentación técnica de la Dirección Provincial de Vialidad.",
+      "integridad": "PDF técnico de 496 páginas según el índice del documento; enlace al original, no alojado en LIBRITO.",
+      "etiquetas": [
+        "rutas",
+        "RP 51",
+        "RP 7",
+        "RP 8",
+        "impacto ambiental",
+        "hidrología",
+        "patrimonio",
+        "infraestructura"
+      ]
     }
   ]
 }
