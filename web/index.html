@@ -1,35 +1,66 @@
 <!doctype html>
 <html lang="es">
 <head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#294638">
-<meta name="description" content="Biblioteca Digital Chañarense. Lecturas y documentos completos de San Patricio del Chañar para leer, descargar e imprimir.">
-<title>LIBRITO · Biblioteca del Chañar</title><link rel="stylesheet" href="estilos.css">
+<meta name="description" content="Biblioteca Digital Chañarense: documentos, lecturas, mapas y materiales para conocer San Patricio del Chañar.">
+<meta name="color-scheme" content="light">
+<title>LIBRITO · Biblioteca de San Patricio del Chañar</title>
+<link rel="stylesheet" href="estilos.css">
 </head>
 <body>
-<header class="encabezado"><div class="contenedor encabezado-interior">
-<a class="marca" href="../" aria-label="LIBRITO, inicio"><span class="marca-dibujo" aria-hidden="true">L</span><span><strong>LIBRITO</strong><small>Biblioteca de San Patricio del Chañar</small></span></a>
-<a class="ir-coleccion" href="#coleccion">Ver documentos</a>
-</div></header>
-<main class="contenedor">
-<section class="presentacion" aria-labelledby="titulo-principal">
-<p class="lugar">SAN PATRICIO DEL CHAÑAR · NEUQUÉN</p>
-<h1 id="titulo-principal">Una biblioteca para tener el Chañar cerca.</h1>
-<p class="bajada">Lecturas, documentos y materiales para conocer nuestro lugar. Elegí uno y abrilo o guardalo para leer cuando quieras.</p>
-</section>
-<section class="coleccion" id="coleccion" aria-labelledby="titulo-coleccion">
-<div class="titulo-coleccion"><div><p class="sobrelinea">LA BIBLIOTECA</p><h2 id="titulo-coleccion">Documentos disponibles</h2></div><p class="cantidad"><strong id="total-documentos">—</strong><span>materiales disponibles</span></p></div>
-<div class="buscador-zona">
-<label for="buscador">¿Qué querés encontrar?</label>
-<input id="buscador" type="search" placeholder="Escribí una palabra..." autocomplete="off" spellcheck="false">
-<p class="ayuda-busqueda">Por ejemplo: historia, escuela, ordenanzas o Chañar.</p>
-<div id="filtros-zona" hidden><label for="filtros">Elegir un tema</label><select id="filtros"><option value="Todas">Todos los temas</option></select></div>
-</div>
-<p class="contador" id="contador" aria-live="polite">Cargando los documentos...</p>
-<div id="coleccion-lista" class="lista-documentos" aria-live="polite"><p class="estado">Estamos abriendo la biblioteca...</p></div>
-</section>
-<section class="nota-biblioteca"><span class="nota-sello" aria-hidden="true">L</span><p><strong>Una biblioteca hecha para compartir.</strong><br>Reunimos obras y documentos existentes. Respetamos sus autores, instituciones y créditos. No inventamos ni modificamos los archivos.</p></section>
+<a class="salto" href="#contenido">Saltar al contenido</a>
+<header class="encabezado">
+  <div class="contenedor encabezado-interior">
+    <a class="marca" href="../" aria-label="LIBRITO, ir al inicio">
+      <span class="marca-dibujo" aria-hidden="true">L</span>
+      <span><strong>LIBRITO</strong><small>Biblioteca de San Patricio del Chañar</small></span>
+    </a>
+    <a class="ir-coleccion" href="#coleccion">Ver materiales</a>
+  </div>
+</header>
+<main class="contenedor" id="contenido">
+  <section class="presentacion" aria-labelledby="titulo-principal">
+    <p class="lugar">SAN PATRICIO DEL CHAÑAR · NEUQUÉN</p>
+    <h1 id="titulo-principal">El Chañar, para leer y descubrir.</h1>
+    <p class="bajada">Una biblioteca sencilla para encontrar documentos, historias, mapas y publicaciones de nuestro lugar.</p>
+    <p class="instruccion">Buscá un tema o recorré los materiales. Cada ficha te indica cómo abrirlo.</p>
+  </section>
+  <section class="coleccion" id="coleccion" aria-labelledby="titulo-coleccion">
+    <div class="titulo-coleccion">
+      <div><p class="sobrelinea">LA BIBLIOTECA</p><h2 id="titulo-coleccion">Materiales disponibles</h2></div>
+      <p class="cantidad"><strong id="total-documentos" aria-live="polite">—</strong><span>en la biblioteca</span></p>
+    </div>
+    <div class="buscador-zona">
+      <label for="buscador">¿Qué te gustaría encontrar?</label>
+      <div class="buscador-fila">
+        <input id="buscador" type="search" placeholder="Ej.: historia, escuela, mapas..." autocomplete="off" spellcheck="false" aria-describedby="ayuda-busqueda">
+        <button id="limpiar-busqueda" class="limpiar" type="button" hidden>Limpiar</button>
+      </div>
+      <p class="ayuda-busqueda" id="ayuda-busqueda">Podés escribir con o sin tilde. Por ejemplo: Chañar o Chanar.</p>
+      <div class="filtro-zona" id="filtros-zona" hidden>
+        <label for="filtros">También podés elegir un tema</label>
+        <select id="filtros"><option value="Todas">Todos los temas</option></select>
+      </div>
+    </div>
+    <p class="contador" id="contador" role="status" aria-live="polite">Estamos preparando la biblioteca...</p>
+    <div id="coleccion-lista" class="lista-documentos" aria-busy="true">
+      <p class="estado">Un momento, estamos abriendo los materiales.</p>
+    </div>
+  </section>
+  <section class="nota-biblioteca" aria-label="Sobre esta biblioteca">
+    <span class="nota-sello" aria-hidden="true">L</span>
+    <p><strong>Una biblioteca para compartir.</strong><br>Conservamos los nombres de autores y las fuentes originales. Algunas publicaciones se descargan aquí; otras se abren en el sitio que las publicó.</p>
+  </section>
 </main>
-<footer class="pie"><div class="contenedor pie-interior"><span>LIBRITO · Biblioteca Digital Chañarense</span><span>Un proyecto independiente de Ocarina Producciones</span></div></footer>
+<footer class="pie">
+  <div class="contenedor pie-interior">
+    <span>LIBRITO · Biblioteca Digital Chañarense</span>
+    <span>Un proyecto independiente de Ocarina Producciones</span>
+  </div>
+</footer>
 <script src="biblioteca.js"></script>
-</body></html>
+<noscript><p class="sin-script">Para consultar los materiales necesitás activar JavaScript en tu navegador.</p></noscript>
+</body>
+</html>
