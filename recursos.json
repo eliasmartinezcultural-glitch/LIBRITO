@@ -1,6 +1,6 @@
 {
   "nombre": "Recursos de LIBRITO · San Patricio del Chañar",
-  "version": 12,
+  "version": 13,
   "descripcion": "Índice de fotografías, mapas, planos, archivos audiovisuales y otros materiales de consulta relacionados con San Patricio del Chañar.",
   "criterio": "Se registran recursos existentes y se enlaza a sus custodios o fuentes originales. La inclusión no implica autorización para descargar, copiar, republicar, adaptar o usar comercialmente. Cada ficha informa el estado de derechos conocido y el modo de acceso. Si las condiciones no están claras, el recurso se ofrece solo como referencia externa.",
   "recursos": [
@@ -893,6 +893,58 @@
         "Bodega Familia Schroeder",
         "paisaje",
         "2022"
+      ]
+    },
+    {
+      "id": "mejorinformado-colonia-japonesa-picada-6-sur-chanar-2019",
+      "titulo": "La Colonia Japonesa de San Patricio del Chañar · crónica fotográfica y memoria oral",
+      "categoria": "Fotografías y testimonios",
+      "tipo": "Crónica visual con fotografías del antiguo ingreso y relato de una pionera",
+      "fecha": "20 de junio de 2019",
+      "autor": "Jimena Mascaró / Mime Mascaró; publicación en Mejor Informado, sección 100 Pájaros",
+      "descripcion": "Crónica fotográfica centrada en los vestigios de la Colonia Japonesa sobre la Picada 6 Sur de San Patricio del Chañar. Documenta el antiguo cartel de ingreso con inscripciones en español y japonés, incluye imágenes del acceso y recoge el testimonio indirecto de una mujer pionera que pidió no ser identificada. Describe la llegada de siete familias en el marco de la cooperación entre Japón y Argentina durante la década de 1970 y la vida agrícola de la colonia. Es una pieza valiosa para estudiar memoria migratoria, paisaje y patrimonio; las referencias demográficas corresponden al momento de la crónica y no deben presentarse como datos actuales.",
+      "url": "https://www.mejorinformado.com/100-pajaros/2019/6/20/es-un-imperio-esa-luz-que-se-apaga-una-luciernaga-51508.html",
+      "fuente": "https://www.mejorinformado.com/100-pajaros/2019/6/20/es-un-imperio-esa-luz-que-se-apaga-una-luciernaga-51508.html",
+      "acceso": "Consulta de la crónica y sus fotografías en el sitio del medio.",
+      "derechos_estado": "Derechos de fotografías y texto sujetos al medio y a sus autores",
+      "derechos": "La consulta en línea no autoriza la descarga ni la reutilización de fotografías o texto. Para reproducir imágenes, solicitar autorización a Mejor Informado y a sus titulares. Se preserva el pedido de anonimato de la persona entrevistada.",
+      "licencia": "No se identifica una licencia abierta en la publicación consultada.",
+      "etiquetas": [
+        "colonia japonesa",
+        "fotografía",
+        "memoria oral",
+        "migración",
+        "JICA",
+        "Picada 6 Sur",
+        "patrimonio",
+        "japonés",
+        "2019"
+      ]
+    },
+    {
+      "id": "lmneuquen-archivo-visual-50-aniversario-avistaje-aves-chanar-2023",
+      "titulo": "50.º aniversario de San Patricio del Chañar · registro fotográfico de aves y actividades comunitarias",
+      "categoria": "Fotografías y documentos",
+      "tipo": "Página de diario digitalizada con fotografías de avistaje de aves y cobertura del aniversario",
+      "fecha": "17 de mayo de 2023",
+      "autor": "La Mañana de Neuquén; edición impresa del miércoles 17 de mayo de 2023",
+      "descripcion": "Página digitalizada de la edición impresa de La Mañana de Neuquén dedicada a los preparativos del 50.º aniversario de San Patricio del Chañar. Incluye una fotografía de participantes en una jornada de avistaje de aves y otra de un ave registrada durante la actividad. El texto informa que se fotografiaron y registraron más de 70 especies y menciona la presentación de un libro de testimonios de primeros pobladores, una muestra con fotografías aportadas y digitalizadas por vecinos, y la reposición del cartel de la Colonia Japonesa. Es un documento de prensa útil para localizar actividades y colecciones comunitarias de 2023; no contiene el archivo fotográfico completo ni el libro de testimonios.",
+      "url": "https://media.lmneuquen.com/adjuntos/195/documentos/007/501/0007501651.pdf",
+      "fuente": "https://media.lmneuquen.com/adjuntos/195/documentos/007/501/0007501651.pdf",
+      "acceso": "PDF de una página de la edición impresa, consultable en línea.",
+      "derechos_estado": "Derechos de la página y fotografías sujetos al medio y a sus autores",
+      "derechos": "La ficha permite consultar el facsímil. No implica autorización para extraer o reutilizar las fotografías. Para reproducirlas, solicitar permiso a La Mañana de Neuquén y a los titulares.",
+      "licencia": "No se identifica una licencia abierta en el archivo consultado.",
+      "etiquetas": [
+        "fotografía",
+        "aves",
+        "avistaje",
+        "fotografía nocturna",
+        "50 aniversario",
+        "primeros pobladores",
+        "archivo vecinal",
+        "colonia japonesa",
+        "2023"
       ]
     }
   ]
