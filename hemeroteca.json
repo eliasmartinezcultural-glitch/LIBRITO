@@ -1,6 +1,6 @@
 {
   "nombre": "Hemeroteca de LIBRITO · San Patricio del Chañar",
-  "version": 3,
+  "version": 4,
   "descripcion": "Índice de noticias y páginas periodísticas que mencionan expresamente San Patricio del Chañar, de distintos diarios, años y formatos.",
   "criterio": "Se incorpora una noticia cuando el texto identifica expresamente a San Patricio del Chañar o trata sobre la localidad. Se conserva título, medio, autoría disponible, fecha, enlace original y una descripción breve. No se reproduce el cuerpo periodístico.",
   "noticias": [
@@ -569,6 +569,132 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+    },
+    {
+      "id": "neuquen-informa-2025-04-16-sala-comunitaria-alimentos",
+      "titulo": "San Patricio del Chañar tendrá su sala comunitaria de alimentos",
+      "fecha": "2025-04-16",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación",
+      "descripcion": "Anuncio del proyecto de una sala comunitaria de elaboración en la chacra municipal, con participación del municipio, el Centro PyME-ADENEU y una empresa privada. La nota explica el objetivo de brindar un espacio habilitado para productores y emprendedores.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2025/04/16/248874-san-patricio-del-chanar-tendra-su-sala-comunitaria-de-alimentos",
+      "etiquetas": [
+        "producción",
+        "emprendedores",
+        "chacra municipal",
+        "alimentos"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio original; no se copia ni republica."
+    },
+    {
+      "id": "copade-2025-05-27-desarrollo-territorial",
+      "titulo": "San Patricio del Chañar profundiza su desarrollo territorial",
+      "fecha": "2025-05-27",
+      "medio": "COPADE · Gobierno de la Provincia del Neuquén",
+      "autor": "COPADE",
+      "descripcion": "Información sobre el convenio para actualizar el Código de Planeamiento Urbano y Rural y el Código de Edificación. La publicación también registra otros acuerdos anunciados durante el aniversario 52 de la localidad.",
+      "url": "https://www.copade.gob.ar/san-patricio-del-chanar-profundiza-su-desarrollo-territorial/",
+      "etiquetas": [
+        "territorio",
+        "planificación",
+        "urbanismo",
+        "aniversario"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La publicación completa se consulta en el sitio institucional; no se copia ni republica."
+    },
+    {
+      "id": "neuquen-informa-2026-08-02-centro-deportivo-comunitario",
+      "titulo": "La Provincia construirá un nuevo Centro Deportivo Comunitario en San Patricio del Chañar",
+      "fecha": "2026-08-02",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación",
+      "descripcion": "Anuncio de la licitación para construir un Centro Deportivo Comunitario en la localidad. La nota describe el proyecto, sus espacios deportivos, recreativos y comunitarios y el procedimiento de contratación informado por la Provincia.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2026/08/02/261335-la-provincia-construira-un-nuevo-centro-deportivo-comunitario-en-san-patricio-del-chanar",
+      "etiquetas": [
+        "deporte",
+        "infraestructura",
+        "comunidad",
+        "obras públicas"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio original; no se copia ni republica."
+    },
+    {
+      "id": "neuquen-informa-2026-08-03-club-san-patricio-obras",
+      "titulo": "El Club San Patricio del Chañar se fortalece con obras del programa Clubes Sociales",
+      "fecha": "2026-08-03",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación",
+      "descripcion": "Nota sobre mejoras realizadas en las instalaciones sanitarias y de gas del Club San Patricio del Chañar, junto con la compra de cerco perimetral y mobiliario mediante el programa provincial Clubes Sociales.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2026/08/03/261356-el-club-san-patricio-del-chanar-se-fortalece-con-obras-del-programa-clubes-sociales",
+      "etiquetas": [
+        "deporte",
+        "clubes",
+        "infraestructura",
+        "vida comunitaria"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio original; no se copia ni republica."
+    },
+    {
+      "id": "educacion-neuquen-2026-03-06-escuela-364",
+      "titulo": "Se inauguró el nuevo edificio de la Escuela N° 364 de San Patricio del Chañar",
+      "fecha": "2026-03-06",
+      "medio": "Educación Neuquén",
+      "autor": "Ministerio de Educación · Consejo Provincial de Educación",
+      "descripcion": "Crónica institucional sobre la inauguración del edificio propio de la Escuela Primaria N.º 364. La publicación repasa la historia reciente de la institución y describe sus aulas, biblioteca, SUM, espacios de apoyo y matrícula informada.",
+      "url": "https://www.neuquen.edu.ar/se-inauguro-el-nuevo-edificio-de-la-escuela-n-364-de-san-patricio-del-chanar/",
+      "etiquetas": [
+        "educación",
+        "escuelas",
+        "memoria institucional",
+        "infraestructura"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La publicación completa se consulta en el sitio institucional; no se copia ni republica."
+    },
+    {
+      "id": "chanar-digital-2026-10-09-huellas-agua-tierra",
+      "titulo": "San Patricio del Chañar recupera su memoria: inauguraron la muestra fotográfica Huellas, Agua y Tierra",
+      "fecha": "2026-10-09",
+      "medio": "Chañar Digital",
+      "autor": "Redacción",
+      "descripcion": "Cobertura de la inauguración de la muestra fotográfica permanente dedicada a la historia visual de San Patricio del Chañar. La nota identifica al fotógrafo Gustavo Celayes como responsable de la recopilación y describe el recorrido por imágenes de la transformación local.",
+      "url": "https://www.chanardigital.com.ar/articulo/2026/10/san-patricio-del-chanar-recupera-su-memoria-inauguraron-la-muestra-fotografica-huellas-agua-y-tierra.php",
+      "etiquetas": [
+        "memoria",
+        "fotografía",
+        "patrimonio",
+        "historia local"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia, fotografías y entrevista se consultan en el medio original; no se copian ni republican."
+    },
+    {
+      "id": "neuquen-informa-2026-10-02-sala-elaboracion-avance",
+      "titulo": "La sala de elaboración de alimentos de San Patricio del Chañar cuenta con un avance del 42 por ciento",
+      "fecha": "2026-10-02",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación",
+      "descripcion": "Actualización oficial sobre el avance de la sala comunitaria de elaboración de alimentos. La publicación informa el porcentaje de avance de obra y el trabajo conjunto del municipio, el Centro PyME-ADENEU y la Provincia.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2026/10/02/264963-la-sala-de-elaboracion-de-alimentos-de-san-patricio-del-chanar-cuenta-con-un-avance-del-42-por-ciento",
+      "etiquetas": [
+        "producción",
+        "emprendedores",
+        "obra pública",
+        "economía local"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio original; no se copia ni republica."
     }
   ]
 }
