@@ -1998,3 +1998,11 @@ body{background-color:var(--papel);color:var(--tinta)}
  .seccion-recursos .recurso h3{font-size:20px}
  .seccion-recursos .recurso-datos{grid-template-columns:1fr}
 }
+
+
+/* Crédito de desarrollo visible en la esquina superior derecha */
+.encabezado-interior{gap:14px}
+.credito-cabecera{margin-left:auto;max-width:260px;color:#e8e2d2;text-align:right;font-size:10px;line-height:1.35;letter-spacing:.035em}
+.credito-cabecera strong{display:block;color:#fff5df;font-family:var(--serif);font-size:14px;font-weight:700;letter-spacing:.01em}
+@media(max-width:680px){.credito-cabecera{max-width:165px;font-size:9px}.credito-cabecera strong{font-size:11px}}
+@media(max-width:390px){.credito-cabecera{max-width:135px;font-size:8px}.credito-cabecera strong{font-size:10px}}
