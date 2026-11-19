@@ -1,6 +1,6 @@
 {
   "nombre": "Hemeroteca de LIBRITO · San Patricio del Chañar",
-  "version": 4,
+  "version": 5,
   "descripcion": "Índice de noticias y páginas periodísticas que mencionan expresamente San Patricio del Chañar, de distintos diarios, años y formatos.",
   "criterio": "Se incorpora una noticia cuando el texto identifica expresamente a San Patricio del Chañar o trata sobre la localidad. Se conserva título, medio, autoría disponible, fecha, enlace original y una descripción breve. No se reproduce el cuerpo periodístico.",
   "noticias": [
@@ -882,6 +882,138 @@
       "tipo": "noticia",
       "estado": "Disponible en origen",
       "derechos": "Artículo y fotografías pertenecen al medio editor. LIBRITO conserva referencia y enlace; no reproduce el contenido."
+    },
+    {
+      "id": "neuquen-informa-2026-11-12-cuartel-bomberos",
+      "titulo": "San Patricio del Chañar inauguró el nuevo cuartel de Bomberos Voluntarios",
+      "fecha": "2026-11-12",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación",
+      "descripcion": "Cobertura institucional de la inauguración del cuartel propio de la Central 31 de Bomberos Voluntarios. La nota describe la sede, la incorporación de un camión autobomba y la cooperación entre Provincia, Municipio y empresa privada.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/12/267158-san-patricio-del-chanar-inauguro-el-nuevo-cuartel-de-bomberos-voluntarios",
+      "etiquetas": [
+        "bomberos",
+        "instituciones",
+        "infraestructura",
+        "vida comunitaria",
+        "2026"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia y sus fotografías pertenecen al medio; se consultan en el sitio original."
+    },
+    {
+      "id": "chanar-digital-2026-11-03-cuartel-bomberos",
+      "titulo": "Después de 11 años de espera, Bomberos de San Patricio del Chañar ya tiene su casa propia",
+      "fecha": "2026-11-03",
+      "medio": "Chañar Digital",
+      "autor": "Redacción",
+      "descripcion": "Crónica periodística sobre la inauguración del cuartel de la Central 31, con detalles de la trayectoria de la institución, las nuevas instalaciones, la ceremonia y una entrevista a integrantes del cuerpo y su presidente. Es una cobertura diferente de la publicación institucional provincial sobre el mismo acontecimiento.",
+      "url": "https://chanardigital.com.ar/articulo/2026/11/despues-de-11-anos-de-espera-bomberos-de-san-patricio-del-chanar-ya-tiene-su-casa-propia.php",
+      "etiquetas": [
+        "bomberos",
+        "historia institucional",
+        "entrevista",
+        "comunidad",
+        "2026"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo, entrevista e imágenes pertenecen a Chañar Digital. LIBRITO conserva referencia y enlace; no reproduce el contenido."
+    },
+    {
+      "id": "neuquen-informa-2026-11-14-cloacas-347-lotes",
+      "titulo": "Licitarán la red de cloacas para 347 lotes en San Patricio del Chañar",
+      "fecha": "2026-11-14",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación",
+      "descripcion": "Anuncio oficial de la Licitación Pública 0011/2026 para ejecutar la red cloacal destinada a 347 lotes. La nota informa el presupuesto oficial, el plazo previsto y las fechas de presentación y apertura de ofertas. Se conserva como registro del anuncio, no como constancia de adjudicación o ejecución.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2026/11/14/267315-licitaran-la-red-de-cloacas-para-347-lotes-en-san-patricio-del-chanar",
+      "etiquetas": [
+        "saneamiento",
+        "infraestructura",
+        "servicios públicos",
+        "licitación",
+        "2026"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La publicación y sus imágenes pertenecen al medio; consultar el original."
+    },
+    {
+      "id": "chanar-digital-2026-11-10-falta-agua-chacras",
+      "titulo": "Vecinos de la zona rural de San Patricio del Chañar llevan tres días sin agua y reclaman respuestas",
+      "fecha": "2026-11-10",
+      "medio": "Chañar Digital",
+      "autor": "Redacción",
+      "descripcion": "Cobertura de reclamos de familias de la zona de chacras por interrupciones del suministro de agua. La nota incluye testimonios vecinales y un comunicado municipal sobre tareas para identificar el origen de la falla. Se presenta como registro periodístico de reclamos y respuestas informadas, no como verificación independiente de todas las afirmaciones.",
+      "url": "https://www.chanardigital.com.ar/articulo/2026/11/vecinos-de-la-zona-rural-de-san-patricio-del-chanar-llevan-tres-dias-sin-agua-y-reclaman-respuestas.php",
+      "etiquetas": [
+        "zona rural",
+        "agua",
+        "servicios públicos",
+        "chacras",
+        "2026"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo, testimonios e imágenes pertenecen a Chañar Digital. LIBRITO conserva referencia y enlace."
+    },
+    {
+      "id": "chanar-digital-2026-11-16-himno-identidad",
+      "titulo": "Un himno para San Patricio del Chañar, pero ¿con identidad chañarense?",
+      "fecha": "2026-11-16",
+      "medio": "Chañar Digital",
+      "autor": "Editorial",
+      "descripcion": "Editorial sobre la aprobación del Himno Municipal y la participación de artistas locales en la construcción de símbolos culturales. Se incorpora como documento de opinión periodística sobre identidad y vida cultural; sus valoraciones corresponden a la línea editorial del medio.",
+      "url": "https://www.chanardigital.com.ar/articulo/2026/11/un-himno-para-san-patricio-del-chanar-pero-con-identidad-chanarense.php",
+      "etiquetas": [
+        "cultura",
+        "identidad",
+        "música",
+        "artistas locales",
+        "editorial"
+      ],
+      "tipo": "editorial",
+      "estado": "enlace_al_original",
+      "derechos": "Editorial e imágenes pertenecen a Chañar Digital. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "chanar-digital-2026-11-09-delegacion-lujan",
+      "titulo": "Una delegación de San Patricio del Chañar viajó a Luján para participar de la misa del papa León XIV",
+      "fecha": "2026-11-09",
+      "medio": "Chañar Digital",
+      "autor": "Redacción",
+      "descripcion": "Crónica sobre el viaje de integrantes de la parroquia San Patricio de la localidad a Luján para participar de una celebración religiosa. Se conserva como registro de la vida comunitaria y de una actividad local con proyección nacional.",
+      "url": "https://www.chanardigital.com.ar/articulo/2026/11/una-delegacion-de-san-patricio-del-chanar-viajo-a-lujan-para-participar-de-la-misa-del-papa-leon-xiv.php",
+      "etiquetas": [
+        "comunidad",
+        "parroquia",
+        "viaje",
+        "vida social",
+        "2026"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Chañar Digital. LIBRITO conserva referencia y enlace."
+    },
+    {
+      "id": "neuquen-al-instante-2026-11-18-investigacion-concejal",
+      "titulo": "Acusan a una concejal de San Patricio del Chañar por adjudicarse un terreno fiscal",
+      "fecha": "2026-11-18",
+      "medio": "Neuquén al Instante",
+      "autor": "Redacción",
+      "descripcion": "Cobertura judicial sobre la formulación de cargos a una concejal por presuntas negociaciones incompatibles vinculadas con la adjudicación de un lote fiscal. Se incorpora como noticia sobre un procedimiento en etapa de investigación: la formulación de cargos no equivale a una condena ni acredita responsabilidad penal.",
+      "url": "https://www.neuquenalinstante.com.ar/noticias/2026/11/18/148260-acusan-a-una-concejal-de-san-patricio-del-chanar-por-adjudicarse-un-terreno-fiscal",
+      "etiquetas": [
+        "justicia",
+        "instituciones",
+        "municipio",
+        "2026"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen al medio original. LIBRITO conserva referencia y descripción propia; se aclara el carácter procesal de la información."
     }
   ]
 }
