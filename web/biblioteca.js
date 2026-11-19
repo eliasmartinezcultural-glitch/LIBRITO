@@ -7,7 +7,7 @@ const normalizar=v=>texto(v).toLocaleLowerCase("es").normalize("NFD").replace(/[
 const permitido=r=>typeof r==="string"&&/^documentos\/[A-Za-z0-9._/-]+\.pdf$/i.test(r)&&!r.split("/").includes("..");
 const urlSegura=r=>typeof r==="string"&&/^https?:\/\/[A-Za-z0-9.-]+(?::\d+)?(?:[/?#][^\s]*)?$/i.test(r);
 function disponible(i){
- if(!i||!["PDF","JPG","JPEG","PNG","WEBP"].includes(text(i.formato).toUpperCase()))return false;
+ if(!i||!["PDF","JPG","JPEG","PNG","WEBP","MAPA"].includes(text(i.formato).toUpperCase()))return false;
  if(i.estado==="Publicado"&&permitido(i.archivo)&&i.autorizacion&&i.autorizacion.estado==="confirmada")return true;
  return i.estado==="Disponible en origen"&&["origen","ficha"].includes(i.acceso)&&urlSegura(i.urlOriginal);
 }
@@ -19,12 +19,12 @@ function tarjeta(item){
  const datos=[texto(item.autoria),texto(item.institucion),texto(item.fecha).slice(0,4)].filter(Boolean);if(datos.length)card.append(nodo("p","documento-datos",datos.join(" · ")));
  if(texto(item.descripcion))card.append(nodo("p","documento-descripcion",item.descripcion));
  const pistas=nodo("div","documento-pistas");
- const etiquetas=[texto(item.formato).toUpperCase()||"PDF",Number.isInteger(item.paginas)&&item.paginas>0?item.paginas+(item.paginas===1?" página":" páginas"):"",item.acceso==="origen"||item.acceso==="ficha"?(texto(item.formato).toUpperCase()==="PDF"?"PDF en su fuente original":"Imagen en su fuente original"):"Alojado en LIBRITO",texto(item.categoria)];
+ const etiquetas=[texto(item.formato).toUpperCase()||"PDF",Number.isInteger(item.paginas)&&item.paginas>0?item.paginas+(item.paginas===1?" página":" páginas"):"",item.acceso==="origen"||item.acceso==="ficha"?(texto(item.formato).toUpperCase()==="PDF"?"PDF en su fuente original":(texto(item.formato).toUpperCase()==="MAPA"?"Mapa en su fuente original":"Imagen en su fuente original")):"Alojado en LIBRITO",texto(item.categoria)];
  if(item.autorizacion&&item.autorizacion.estado==="licencia_confirmada")etiquetas.push(texto(item.autorizacion.base).split(".")[0]);
  for(const dato of etiquetas.filter(Boolean))pistas.append(nodo("span","",dato));card.append(pistas);
  const acciones=nodo("div","documento-acciones");
  if(item.acceso==="origen"||item.acceso==="ficha"){
-  const abrir=nodo("a","accion accion-leer",texto(item.accionExterna)||(item.acceso==="ficha"?"Ver ficha y descarga":(texto(item.formato).toUpperCase()==="PDF"?"Abrir PDF original":"Abrir imagen original")));
+  const abrir=nodo("a","accion accion-leer",texto(item.accionExterna)||(item.acceso==="ficha"?"Ver ficha y descarga":(texto(item.formato).toUpperCase()==="PDF"?"Abrir PDF original":(texto(item.formato).toUpperCase()==="MAPA"?"Abrir mapa original":"Abrir imagen original"))));
   abrir.href=item.urlOriginal;abrir.target="_blank";abrir.rel="noopener noreferrer";abrir.setAttribute("aria-label",abrir.textContent+": "+texto(item.titulo));acciones.append(abrir);
  }else{
   const leer=nodo("a","accion accion-leer","Leer e imprimir"),bajar=nodo("a","accion accion-descargar","Descargar PDF");
