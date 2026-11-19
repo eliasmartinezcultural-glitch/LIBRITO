@@ -1,6 +1,6 @@
 {
   "nombre": "Hemeroteca de LIBRITO · San Patricio del Chañar",
-  "version": 19,
+  "version": 20,
   "descripcion": "Índice de noticias y páginas periodísticas que mencionan expresamente San Patricio del Chañar, de distintos diarios, años y formatos.",
   "criterio": "Se incorpora una noticia cuando el texto identifica expresamente a San Patricio del Chañar o trata sobre la localidad. Se conserva título, medio, autoría disponible, fecha, enlace original y una descripción breve. No se reproduce el cuerpo periodístico.",
   "noticias": [
@@ -2411,6 +2411,66 @@
       "tipo": "articulo_web",
       "estado": "Disponible en origen",
       "derechos": "Artículo y fotografías pertenecen a Diario Río Negro y a sus respectivos titulares. LIBRITO conserva la referencia y el enlace; no reproduce el contenido."
+    },
+    {
+      "id": "lmneuquen-2011-04-25-inauguracion-epea3",
+      "titulo": "Se inauguró la EPEA Nº 3 en El Chañar",
+      "fecha": "2011-04-25",
+      "medio": "La Mañana Neuquén",
+      "autor": "Redacción",
+      "descripcion": "Cobertura de la inauguración formal de la Escuela Provincial de Enseñanza Agrotécnica Nº 3. La nota registra que comenzó a funcionar provisoriamente en instalaciones del Puesto de Capacitación Agropecuaria 2 (ex EMETA), mientras se proyectaba su edificio propio, y menciona una primera matrícula de 50 estudiantes. Es una referencia periodística sobre el inicio público de la institución; no reemplaza la resolución de creación ni los archivos escolares.",
+      "url": "https://www.lmneuquen.com/se-inauguro-la-epea-n-3-el-chanar-n105732",
+      "etiquetas": [
+        "2011",
+        "EPEA 3",
+        "educación",
+        "escuela agropecuaria",
+        "inauguración",
+        "memoria institucional"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a La Mañana Neuquén y sus titulares. LIBRITO conserva la referencia y el enlace; no reproduce el contenido."
+    },
+    {
+      "id": "neuquen-informa-2015-03-16-discurso-inauguracion-epea3",
+      "titulo": "Discurso del gobernador Jorge Sapag en la inauguración de la EPEA Nº 3",
+      "fecha": "2015-03-16",
+      "medio": "Neuquén Informa",
+      "autor": "Gobierno de la Provincia del Neuquén",
+      "descripcion": "Transcripción institucional del discurso pronunciado durante la inauguración del edificio de la EPEA Nº 3. El texto refiere el proceso de creación de la escuela, las gestiones para conseguir el terreno y construir el edificio, la matrícula informada en ese acto y las necesidades de talleres y prácticas agropecuarias. Se conserva como fuente discursiva oficial de la ceremonia, no como acta técnica de recepción de obra.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2015/03/16/61722-discurso-del-gobernador-jorge-sapag-en-la-inauguracion-de-la-epea-n-3-de-san-patricio-del-chanar-lunes-16-de-marzo-de-2015",
+      "etiquetas": [
+        "2015",
+        "EPEA 3",
+        "Jorge Sapag",
+        "discurso oficial",
+        "inauguración",
+        "educación agropecuaria"
+      ],
+      "tipo": "discurso_transcripto",
+      "estado": "enlace_al_original",
+      "derechos": "Transcripción y fotografías pertenecen al Gobierno de la Provincia del Neuquén. LIBRITO conserva referencia y enlace."
+    },
+    {
+      "id": "neuquen-informa-2016-10-05-ampliacion-epea3",
+      "titulo": "Continúan los trabajos en la EPEA Nº 3 de San Patricio del Chañar",
+      "fecha": "2016-10-05",
+      "medio": "Neuquén Informa",
+      "autor": "Gobierno de la Provincia del Neuquén",
+      "descripcion": "Parte de avance publicado durante la ampliación del edificio de la EPEA Nº 3. Informa la ejecución de dos aulas adicionales, el porcentaje de avance informado en esa fecha y las características generales de la obra. Se incorpora para documentar el crecimiento edilicio de la institución; los porcentajes y montos son históricos y corresponden a octubre de 2016.",
+      "url": "https://www.neuqueninforma.gob.ar/amp/noticias/2016/10/05/89416-continuan-los-trabajos-en-la-epea-n-3-de-san-patricio-del-chanar",
+      "etiquetas": [
+        "2016",
+        "EPEA 3",
+        "ampliación",
+        "aulas",
+        "infraestructura educativa",
+        "obra pública"
+      ],
+      "tipo": "articulo_institucional",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación y fotografías pertenecen al Gobierno de la Provincia del Neuquén. LIBRITO conserva referencia y enlace."
     }
   ]
 }
