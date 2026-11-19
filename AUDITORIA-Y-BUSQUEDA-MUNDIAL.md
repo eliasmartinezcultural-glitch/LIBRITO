@@ -11,7 +11,7 @@ LIBRITO no debe convertirse en un buscador de internet ni en un portal de enlace
 
 La biblioteca no crea libros, no reescribe documentos, no resume obras ajenas, no convierte videos en publicaciones ni presenta una ficha como si fuera un archivo descargable.
 
-**Regla de portada:** si el visitante toca “Descargar PDF”, recibe el documento completo desde LIBRITO. Si el archivo no está alojado, no está verificado o no puede redistribuirse legalmente, no aparece en el catálogo público.
+**Regla de portada:** los documentos alojados en LIBRITO se ofrecen para leer y descargar directamente. También se admiten enlaces a PDF completos en su fuente institucional o académica cuando el archivo se abre desde el sitio que lo publica; la ficha debe decirlo claramente y conservar autoría, procedencia y licencia. Un enlace externo nunca se presenta como una copia alojada por LIBRITO.
 
 ## 2. Auditoría de la web anterior
 
@@ -190,14 +190,16 @@ La automatización actual es útil, pero no reemplaza el control humano. Para ca
 
 La validación automática comprueba estructura, existencia, firma básica del PDF, tamaño, hash y estados declarados. No puede certificar por sí sola derechos de autor, privacidad ni calidad visual.
 
-## 7. Resultado actual
+## 7. Resultado actual — catálogo versión 4
 
-- **Documentos públicos descargables:** 2.
+- **Materiales visibles en la web:** 9.
+- **PDF alojados en LIBRITO:** 2.
+- **Accesos a PDF o fichas de origen:** 7, identificados como externos.
 - **Registros internos del inventario:** 61.
-- **Nuevos registros de esta búsqueda:** CND-046 a CND-061.
-- **Portada:** reformulada para una experiencia sencilla, con letra grande y una sola columna de documentos.
-- **Fuentes externas:** quedan en documentación interna, no en la web pública.
+- **Portada:** diseño simple, una columna, tipografía grande, búsqueda tolerante a tildes y filtros que solo aparecen cuando aportan valor.
+- **Fuentes externas:** se incorporan únicamente enlaces directos o fichas institucionales que permiten llegar al documento original. No se presentan como copias locales.
+- **Licencias:** se identifican explícitamente los casos CC BY 4.0 y CC BY-NC-SA 4.0. En los documentos sin licencia de redistribución identificada, solo se enlaza la fuente original.
+- **Privacidad:** el Boletín Oficial Municipal 2019 fue revisado y no se incorporó como descarga destacada porque contiene DNI y otros datos personales. Debe tratarse con revisión específica antes de exponerlo en una biblioteca para todo público.
 - **Videos y audios:** excluidos de la biblioteca.
-- **Documentos sin permiso o sin binario completo:** no se publican.
 
-El objetivo de la próxima etapa no es sumar más fichas. Es recuperar los originales prioritarios, obtener permisos cuando correspondan y convertir cada candidato viable en una descarga real.
+El siguiente objetivo es recuperar los originales con licencia compatible para alojarlos de forma estable, solicitar permisos a autores e instituciones y sumar nuevas obras sin confundir cantidad de fichas con cantidad de archivos realmente descargables.
