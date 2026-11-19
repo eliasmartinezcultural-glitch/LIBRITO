@@ -1,6 +1,6 @@
 {
   "nombre": "Hemeroteca de LIBRITO · San Patricio del Chañar",
-  "version": 23,
+  "version": 24,
   "descripcion": "Índice de noticias y páginas periodísticas que mencionan expresamente San Patricio del Chañar, de distintos diarios, años y formatos.",
   "criterio": "Se incorpora una noticia cuando el texto identifica expresamente a San Patricio del Chañar o trata sobre la localidad. Se conserva título, medio, autoría disponible, fecha, enlace original y una descripción breve. No se reproduce el cuerpo periodístico.",
   "noticias": [
@@ -229,6 +229,25 @@
       "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el medio que la publicó; no se copia ni republica."
     },
     {
+      "id": "rionegro-2026-09-19-epet26-avance-70",
+      "titulo": "Avanza la infraestructura educativa en Neuquén: la EPET 26 ya supera el 70% de ejecución",
+      "fecha": "2026-09-19",
+      "medio": "Diario Río Negro",
+      "autor": "Ariana Rodríguez",
+      "descripcion": "Cobertura sobre el avance informado para el nuevo edificio de la EPET 26 en San Patricio del Chañar. La nota publicada el 19 de septiembre de 2026 señala una ejecución superior al 70%, una superficie cercana a 5.000 metros cuadrados y una matrícula de 262 estudiantes. Los porcentajes y datos se atribuyen a la información citada por el medio y corresponden a la fecha de publicación.",
+      "url": "https://www.rionegro.com.ar/municipales/politica/avanza-la-infraestructura-educativa-en-neuquen-la-epet-26-ya-supera-el-70-de-ejecucion-4728273/?amp=1",
+      "etiquetas": [
+        "educación",
+        "EPET 26",
+        "infraestructura escolar",
+        "obras",
+        "2026"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo y fotografía pertenecen a Diario Río Negro. LIBRITO conserva referencia y descripción propia."
+    },
+    {
       "id": "neuquen-informa-2026-09-18-recreo-artistico",
       "titulo": "Las disciplinas artísticas fueron protagonistas en una nueva jornada de ReCreo",
       "fecha": "2026-09-18",
@@ -247,6 +266,25 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "Publicación institucional de Neuquén Informa. LIBRITO conserva metadatos y descripción propia; no reproduce el artículo ni sus imágenes."
+    },
+    {
+      "id": "neuquen-informa-2026-09-07-electricidad-54-lotes-costa-verde",
+      "titulo": "Se habilitó el suministro eléctrico para 54 lotes en San Patricio del Chañar",
+      "fecha": "2026-09-07",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación",
+      "descripcion": "Nota institucional sobre la finalización y habilitación de infraestructura eléctrica para 54 lotes del barrio Costa Verde, en Picada 3. La publicación detalla 1.070 metros de línea de media tensión trifásica de 13,2 kV y una subestación transformadora de 200 kVA. La información corresponde al comunicado oficial provincial.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2026/09/07/263324-se-habilito-el-suministro-electrico-para-54-lotes-en-san-patricio-del-chanar",
+      "etiquetas": [
+        "energía eléctrica",
+        "Costa Verde",
+        "Picada 3",
+        "infraestructura",
+        "2026"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
     },
     {
       "id": "rn-2026-08-14-epea3-huerta-hidroponica",
@@ -449,6 +487,26 @@
       "derechos": "Artículo y fotografías pertenecen a Diario Río Negro y sus autores. LIBRITO conserva metadatos y una descripción propia; las cifras se atribuyen a las fuentes mencionadas en la nota."
     },
     {
+      "id": "neuquen-informa-2026-04-28-financiamiento-obras-energia-gas",
+      "titulo": "La Provincia financiará obras de energía y gas en San Patricio del Chañar",
+      "fecha": "2026-04-28",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación",
+      "descripcion": "Nota sobre dos convenios para infraestructura local: suministro eléctrico para Costa Verde, en Picada III, y financiamiento de la red de gas para 347 lotes. El comunicado informa aportes reintegrables por más de 590 millones de pesos en conjunto. La nota describe compromisos y financiamiento; no acredita por sí sola la ejecución o finalización de ambas obras.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2026/04/28/256890-la-provincia-financiara-obras-de-energia-y-gas-en-san-patricio-del-chanar",
+      "etiquetas": [
+        "energía",
+        "gas",
+        "Costa Verde",
+        "347 lotes",
+        "financiamiento público",
+        "2026"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
+    },
+    {
       "id": "educacion-neuquen-2026-03-06-escuela-364",
       "titulo": "Se inauguró el nuevo edificio de la Escuela N° 364 de San Patricio del Chañar",
       "fecha": "2026-03-06",
@@ -524,6 +582,28 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "Publicación institucional de Neuquén Informa. LIBRITO conserva metadatos y descripción propia; no reproduce el artículo ni sus imágenes."
+    },
+    {
+      "id": "rn-2025-12-06-norberto-serventi-recuerdos-chanar-1971",
+      "titulo": "Un testigo de los primeros trabajos recuerda cómo era El Chañar en 1971",
+      "fecha": "2025-12-06",
+      "medio": "Diario Río Negro",
+      "autor": "Alan Agustini",
+      "descripcion": "Entrevista al ingeniero agrónomo Norberto Serventi, quien relata que conoció San Patricio del Chañar en 1971, cuando comenzaban los trabajos de nivelación de tierras y la plantación de las primeras chacras. Aporta recuerdos sobre los caminos, el riego, las primeras superficies productivas y la transformación de los montes frutales. Se incorpora como testimonio retrospectivo de un protagonista regional, que conviene contrastar con planos, expedientes y documentación de obra.",
+      "url": "https://www.rionegro.com.ar/rural/recorre-los-valles-de-rio-negro-y-neuquen-desde-hace-53-anos-y-anticipa-su-futuro-ya-esta-sucediendo/",
+      "etiquetas": [
+        "2025",
+        "1971",
+        "memoria oral",
+        "fruticultura",
+        "riego",
+        "primeras chacras",
+        "Roberto Gasparri",
+        "historia productiva"
+      ],
+      "tipo": "entrevista",
+      "estado": "Disponible en origen",
+      "derechos": "Artículo y fotografías pertenecen a Diario Río Negro y a sus respectivos titulares. LIBRITO conserva la referencia y el enlace; no reproduce el contenido."
     },
     {
       "id": "educacion-neuquen-2025-07-21-escuela-342-reapertura",
@@ -711,6 +791,25 @@
       "derechos": "Publicación institucional de Turismo Neuquén. LIBRITO conserva metadatos y una descripción propia; no reproduce imágenes ni el artículo completo."
     },
     {
+      "id": "ni-2023-11-14-campus-tecnologico",
+      "titulo": "Inauguraron campus tecnológico para el desarrollo de la economía del conocimiento",
+      "fecha": "2023-11-14",
+      "medio": "Neuquén Informa",
+      "autor": "Redacción",
+      "descripcion": "Nota sobre la inauguración del Campus Educativo Tecnológico de Investigación e Innovación en San Patricio del Chañar, instalado en el antiguo frigorífico municipal. Describe la participación de la Fundación San Patricio y la vinculación del proyecto con formación y economía del conocimiento. Se registra como inauguración y anuncio institucional; no como evaluación de resultados posteriores.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2023/11/14/224205-inauguraron-campus-tecnologico-para-el-desarrollo-de-la-economia-del-conocimiento",
+      "etiquetas": [
+        "2023",
+        "educación",
+        "tecnología",
+        "economía del conocimiento",
+        "instituciones"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
+    },
+    {
       "id": "lm-2023-11-02",
       "titulo": "El juicio por jurados tuvo su estreno en El Chañar",
       "fecha": "2023-11-02",
@@ -726,6 +825,158 @@
       "tipo": "pagina_digitalizada",
       "estado": "enlace_al_original",
       "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+    },
+    {
+      "id": "ni-2023-11-01-tribunal-jurados-municipal",
+      "titulo": "San Patricio del Chañar tiene el primer Tribunal Municipal de Jurados en Argentina",
+      "fecha": "2023-11-01",
+      "medio": "Neuquén Informa",
+      "autor": "Redacción",
+      "descripcion": "Cobertura institucional de la inauguración de la Sala del Jurado Municipal y de la realización del primer juicio por jurado municipal. La nota describe la implementación de una institución prevista en la Carta Orgánica y las declaraciones de autoridades y participantes. Se conserva como registro del hito institucional según la información oficial publicada.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2023/11/01/223703-san-patricio-del-chanar-tiene-el-primer-tribunal-municipal-de-jurados-en-argentina",
+      "etiquetas": [
+        "2023",
+        "justicia municipal",
+        "instituciones",
+        "Carta Orgánica",
+        "participación ciudadana"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "ni-2023-08-15-escuela364-reclamo",
+      "titulo": "Escuela 364 de San Patricio del Chañar: se conformó una comisión especial y se liberó la ruta",
+      "fecha": "2023-08-15",
+      "medio": "Neuquén Informa",
+      "autor": "Redacción",
+      "descripcion": "Cobertura oficial del reclamo de la comunidad educativa por demoras en la construcción del edificio propio de la Escuela 364. Informa la conformación de una comisión especial de seguimiento y medidas transitorias para sostener las actividades escolares. Se registra como noticia del conflicto y de la respuesta institucional, no como cierre definitivo del reclamo.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2023/08/15/219956-escuela-364-de-san-patricio-del-chanar-se-conformo-una-comision-especial-y-se-libero-la-ruta",
+      "etiquetas": [
+        "2023",
+        "educación",
+        "Escuela 364",
+        "reclamo comunitario",
+        "infraestructura escolar"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "rionegro-2023-04-21-ocupacion-municipio-loteo340",
+      "titulo": "Liberaron el edificio municipal de San Patricio del Chañar, pero no descartan volver la semana próxima",
+      "fecha": "2023-04-21",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Crónica de la protesta de familias del loteo 340 que ocuparon la entrada del edificio municipal para reclamar avances en obras de electricidad, agua y gas. Registra el levantamiento temporal de la medida y la advertencia de retomarla si no recibían respuestas. Se conserva como testimonio periodístico de un reclamo habitacional y de servicios.",
+      "url": "https://www.rionegro.com.ar/sociedad/tomaron-el-edificio-municipal-de-san-patricio-del-chanar-2865653/",
+      "etiquetas": [
+        "2023",
+        "vivienda",
+        "loteo 340",
+        "servicios públicos",
+        "reclamo vecinal"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "rionegro-2023-01-04-fallo-cobro-agua",
+      "titulo": "Vaca Muerta: fallo en contra de El Chañar por cobrarle el agua a las empresas",
+      "fecha": "2023-01-04",
+      "medio": "Diario Río Negro",
+      "autor": "Victoria Terzaghi",
+      "descripcion": "Seguimiento judicial de la controversia por el cobro y la regulación municipal del agua utilizada por empresas hidrocarburíferas. La nota informa una medida cautelar que suspendió una clausura vinculada con una planta de agua y describe los argumentos de las partes. Se registra como información sobre una decisión judicial puntual, no como resolución definitiva de todo el conflicto.",
+      "url": "https://www.rionegro.com.ar/energia/vaca-muerta-la-justicia-fallo-en-contra-de-un-municipio-por-el-cobro-del-agua-2678484/",
+      "etiquetas": [
+        "2023",
+        "justicia",
+        "agua",
+        "Vaca Muerta",
+        "municipio"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "rionegro-2022-11-03-regulacion-agua-industria",
+      "titulo": "Vaca Muerta en alerta: advierten riesgo a las inversiones por nuevas exigencias de un municipio",
+      "fecha": "2022-11-03",
+      "medio": "Diario Río Negro",
+      "autor": "Victoria Terzaghi",
+      "descripcion": "Artículo sobre la regulación municipal del uso del agua por parte de empresas hidrocarburíferas y las objeciones planteadas por el sector empresario respecto de competencias y posibles costos. Se conserva como cobertura de un debate entre municipio, Provincia y empresas; las posiciones se atribuyen a sus protagonistas y al medio.",
+      "url": "https://www.rionegro.com.ar/energia/vaca-muerta-en-alerta-advierten-riesgo-a-las-inversiones-por-nuevas-exigencias-de-un-municipio-2574227/",
+      "etiquetas": [
+        "2022",
+        "agua",
+        "Vaca Muerta",
+        "actividad hidrocarburífera",
+        "regulación municipal"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "ni-2022-09-27-proteccion-consumidor",
+      "titulo": "Inauguran oficina de Protección al Consumidor en San Patricio del Chañar",
+      "fecha": "2022-09-27",
+      "medio": "Neuquén Informa",
+      "autor": "Redacción",
+      "descripcion": "Cobertura de la inauguración de una delegación de Protección al Consumidor en la localidad. Explica el convenio entre municipio y Provincia para recibir consultas y reclamos y brindar orientación sobre derechos de usuarios y consumidores. Se conserva como registro de ampliación de servicios institucionales.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2022/09/27/202311-inauguran-oficina-de-proteccion-al-consumidor-en-san-patricio-del-chanar",
+      "etiquetas": [
+        "2022",
+        "servicios públicos",
+        "consumidores",
+        "instituciones",
+        "municipio"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "ni-2022-08-02-transporte-interurbano",
+      "titulo": "Continúa el servicio público interurbano para docentes y comunidades de San Patricio del Chañar y Añelo",
+      "fecha": "2022-08-02",
+      "medio": "Neuquén Informa",
+      "autor": "Redacción",
+      "descripcion": "Nota sobre la continuidad del servicio de transporte entre Neuquén capital, San Patricio del Chañar y Añelo, con especial atención al traslado de docentes y también de vecinos. Describe la articulación entre áreas provinciales y el Consejo Provincial de Educación. Se conserva como registro de conectividad regional en 2022, no como información del servicio vigente.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2022/08/02/198485-continua-el-servicio-publico-interurbano-para-docentes-y-comunidades-de-san-patricio-del-chanar-y-anelo",
+      "etiquetas": [
+        "2022",
+        "transporte",
+        "educación",
+        "conectividad",
+        "servicios públicos"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "rionegro-2022-07-06-denuncia-exintendente",
+      "titulo": "Piden investigar a intendente que regaló vehículos del municipio y lotes a familiares",
+      "fecha": "2022-07-06",
+      "medio": "Diario Río Negro",
+      "autor": "Mario Rojas",
+      "descripcion": "Investigación periodística sobre denuncias presentadas por la gestión municipal contra el exintendente Ramón Osés, relacionadas con vehículos, lotes y operaciones administrativas. Se cataloga estrictamente como cobertura de denuncias y acusaciones: no equivale a una condena ni demuestra por sí sola la comisión de delitos.",
+      "url": "https://www.rionegro.com.ar/politica/piden-investigar-a-intendente-que-regalo-vehiculos-del-municipio-y-lotes-a-familiares-2383583/",
+      "etiquetas": [
+        "2022",
+        "municipio",
+        "denuncias",
+        "administración pública",
+        "política local"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva referencia y descripción propia."
     },
     {
       "id": "lm-2022-05-28",
@@ -762,6 +1013,83 @@
       "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
     },
     {
+      "id": "ni-2022-02-09-fiesta-trabajador-rural",
+      "titulo": "San Patricio del Chañar celebra la Fiesta del Trabajador Rural",
+      "fecha": "2022-02-09",
+      "medio": "Neuquén Informa",
+      "autor": "Redacción",
+      "descripcion": "Anuncio de la Fiesta del Trabajador Rural prevista para febrero de 2022, con música, danzas, gastronomía, emprendedores, productores y destrezas criollas. La nota destaca el homenaje a quienes realizan tareas de temporada en chacras y viñedos. Se conserva como documento de la agenda festiva y de la identidad laboral rural local.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2022/02/09/185566-san-patricio-del-chanar-celebra-la-fiesta-del-trabajador-rural",
+      "etiquetas": [
+        "2022",
+        "fiesta popular",
+        "trabajo rural",
+        "fruticultura",
+        "cultura"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "ni-2021-11-27-acuerdo-144-familias",
+      "titulo": "Acuerdo con 144 familias de la ocupación de San Patricio del Chañar",
+      "fecha": "2021-11-27",
+      "medio": "Neuquén Informa",
+      "autor": "Redacción",
+      "descripcion": "Nota oficial sobre el acuerdo entre autoridades, la empresa propietaria y representantes de 144 familias que ocupaban tierras privadas. Describe la relocalización prevista para permitir la instalación de servicios y la posibilidad de compra de lotes. Se conserva como registro de un acuerdo anunciado, sin presumir que todas sus cláusulas se hayan cumplido.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2021/11/27/179882-acuerdo-con-144-familias-de-la-ocupacion-de-san-patricio-del-chanar",
+      "etiquetas": [
+        "2021",
+        "vivienda",
+        "tierra",
+        "servicios públicos",
+        "acuerdo institucional"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "ni-2021-11-17-festival-maridar",
+      "titulo": "San Patricio del Chañar vivirá una nueva edición del Festival Maridar",
+      "fecha": "2021-11-17",
+      "medio": "Neuquén Informa",
+      "autor": "Redacción",
+      "descripcion": "Anuncio de una nueva edición del Festival Maridar, con gastronomía, bebidas, música, artesanos, productores y participación del CFPA 2 Puesto Chañar. La publicación permite documentar la agenda cultural y gastronómica local de noviembre de 2021; se registra como anuncio previo al evento.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2021/11/17/179132-san-patricio-del-chanar-vivira-una-nueva-edicion-del-festival-maridar",
+      "etiquetas": [
+        "2021",
+        "cultura",
+        "gastronomía",
+        "turismo",
+        "emprendedores",
+        "CFPA 2"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "ni-2021-11-01-jardin-67-inauguracion",
+      "titulo": "Gutiérrez inauguró el Jardín de Infantes N.º 67 de San Patricio del Chañar",
+      "fecha": "2021-11-01",
+      "medio": "Neuquén Informa",
+      "autor": "Redacción",
+      "descripcion": "Cobertura de la inauguración del edificio propio del Jardín de Infantes N.º 67. La nota describe sus seis salas, espacios complementarios, superficie y matrícula beneficiaria informada por el gobierno provincial. Se conserva como registro de infraestructura educativa inaugurada.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2021/11/01/178036-gutierrez-inauguro-el-jardin-de-infantes-n-67-de-san-patricio-del-chanar",
+      "etiquetas": [
+        "2021",
+        "educación",
+        "jardín de infantes",
+        "infraestructura",
+        "niñez"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
+    },
+    {
       "id": "educacion-neuquen-2021-10-15-creacion-epet26",
       "titulo": "El Poder Ejecutivo aprobó la creación de la EPET N.º 26 de San Patricio del Chañar",
       "fecha": "2021-10-15",
@@ -779,6 +1107,44 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "La publicación pertenece al Consejo Provincial de Educación. LIBRITO conserva metadatos y descripción propia; no reproduce el texto ni las imágenes."
+    },
+    {
+      "id": "ni-2021-07-23-programas-culturales",
+      "titulo": "Potencian las propuestas culturales de San Patricio del Chañar",
+      "fecha": "2021-07-23",
+      "medio": "Neuquén Informa",
+      "autor": "Redacción",
+      "descripcion": "Cobertura de la entrega de instrumentos para la Orquesta Escuela Municipal y de un convenio para impulsar el muralismo y el arte urbano. También registra la convocatoria para emplazar esculturas en espacios públicos. Se conserva como noticia sobre políticas culturales y actividad artística local.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2021/07/23/170935-potencian-las-propuestas-culturales-de-san-patricio-del-chanar",
+      "etiquetas": [
+        "2021",
+        "cultura",
+        "música",
+        "Orquesta Escuela",
+        "arte urbano"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "ni-2021-06-25-escuela-364-anuncio",
+      "titulo": "Gutiérrez anunció la construcción de dos nuevas escuelas",
+      "fecha": "2021-06-25",
+      "medio": "Neuquén Informa",
+      "autor": "Redacción",
+      "descripcion": "Anuncio provincial de la construcción de la Escuela Primaria N.º 364 de San Patricio del Chañar, junto con otra escuela en Centenario. Para el edificio local se informaron superficie, aulas, biblioteca, SUM y capacidad prevista. Se cataloga como anuncio y proyecto de obra, no como noticia de inauguración.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2021/06/25/169129-gutierrez-anuncio-la-construccion-de-dos-nuevas-escuelas",
+      "etiquetas": [
+        "2021",
+        "educación",
+        "Escuela 364",
+        "infraestructura escolar",
+        "anuncios"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
     },
     {
       "id": "copade-2021-05-28-proyecto-vegetales-cfpa2",
@@ -818,6 +1184,44 @@
       "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
     },
     {
+      "id": "ni-2021-01-25-residuos-can",
+      "titulo": "Los residuos urbanos de San Patricio del Chañar se depositarán en el CAN",
+      "fecha": "2021-01-25",
+      "medio": "Neuquén Informa",
+      "autor": "Redacción",
+      "descripcion": "Información sobre el convenio entre los municipios de San Patricio del Chañar y Neuquén capital para trasladar al Complejo Ambiental Neuquén los residuos domiciliarios no recuperables. La publicación describe las obligaciones de separación, clasificación y traslado asumidas por el municipio. Se registra el acuerdo anunciado, no una evaluación de sus resultados posteriores.",
+      "url": "https://www.neuqueninforma.gob.ar/amp/noticias/2021/01/25/161245-los-residuos-urbanos-de-san-patricio-del-chanar-se-depositaran-en-el-can",
+      "etiquetas": [
+        "2021",
+        "ambiente",
+        "residuos",
+        "gestión municipal",
+        "acuerdos regionales"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "rionegro-2020-09-29-ocupacion-terrenos",
+      "titulo": "Tomaron terrenos en San Patricio del Chañar",
+      "fecha": "2020-09-29",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Cobertura del inicio de una ocupación de terrenos por parte de familias que reclamaban respuestas a pedidos de acceso a suelo y asistencia. Incluye testimonios de participantes y referencias a la intervención policial y judicial. Se presenta como registro de reclamos y declaraciones de ese momento, no como constatación independiente de cada afirmación.",
+      "url": "https://www.rionegro.com.ar/tomaron-terrenos-en-san-patricio-del-chanar-1517608/",
+      "etiquetas": [
+        "2020",
+        "vivienda",
+        "tierra",
+        "reclamo vecinal",
+        "vida comunitaria"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva referencia y descripción propia."
+    },
+    {
       "id": "rn-2020-07-30-chanar-pueblo-rio-negro",
       "titulo": "El Chañar podría haber sido un pueblo de Río Negro",
       "fecha": "2020-07-30",
@@ -835,6 +1239,293 @@
       "tipo": "noticia",
       "estado": "Disponible en origen",
       "derechos": "Artículo y fotografías pertenecen al medio editor. LIBRITO conserva referencia y enlace; no reproduce el contenido."
+    },
+    {
+      "id": "ni-2020-04-03-proda-en-casa",
+      "titulo": "Comienza en San Patricio del Chañar el plan Proda en Casa",
+      "fecha": "2020-04-03",
+      "medio": "Neuquén Informa",
+      "autor": "Redacción",
+      "descripcion": "Nota sobre la puesta en marcha del programa de agricultura urbana Proda en Casa durante el aislamiento por Covid-19. La iniciativa preveía semillas para 200 familias y acompañamiento técnico a distancia para producir alimentos en los hogares. Se conserva como registro de una respuesta local vinculada con alimentación y producción familiar durante la pandemia.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2020/04/03/147320-comienza-en-san-patricio-del-chanar-el-plan-proda-en-casa",
+      "etiquetas": [
+        "2020",
+        "pandemia",
+        "agricultura urbana",
+        "alimentación",
+        "familias"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "rionegro-2020-01-13-tormenta-calles",
+      "titulo": "La tormenta tiró árboles e inundó calles en San Patricio del Chañar",
+      "fecha": "2020-01-13",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Crónica de las consecuencias de una tormenta en la localidad: calles anegadas, árboles caídos y problemas de escurrimiento en sectores cercanos al hospital. La nota recoge información de Defensa Civil sobre el operativo y la ausencia de evacuaciones. Se conserva como registro de un episodio meteorológico y de la infraestructura urbana en 2020.",
+      "url": "https://www.rionegro.com.ar/la-tormenta-tiro-arboles-e-inundo-calles-en-san-patricio-del-chanar-1225682/",
+      "etiquetas": [
+        "2020",
+        "clima",
+        "tormenta",
+        "servicios urbanos",
+        "memoria local"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo y fotografías pertenecen a Diario Río Negro. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "lmneuquen-2019-12-18-pase-planta-corte-ruta",
+      "titulo": "Polémica y corte de ruta en El Chañar por el pase a planta",
+      "fecha": "2019-12-18",
+      "medio": "La Mañana de Neuquén",
+      "autor": "Redacción",
+      "descripcion": "Crónica del reclamo de trabajadores municipales que incluyó un corte en la Ruta 7 por la situación de concursos y pases a planta permanente. Reúne las posiciones enfrentadas de la nueva gestión municipal y de los trabajadores. Se registra como cobertura de un conflicto laboral e institucional, sin asumir como probadas las acusaciones cruzadas.",
+      "url": "https://www.lmneuquen.com/polemica-y-corte-ruta-el-chanar-el-pase-planta-n672310",
+      "etiquetas": [
+        "2019",
+        "trabajo",
+        "municipio",
+        "Ruta 7",
+        "conflicto laboral"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a La Mañana de Neuquén. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "lmneuquen-2019-12-08-defensor-pueblo",
+      "titulo": "De edil a defensor del Pueblo, un pase que armó gran lío",
+      "fecha": "2019-12-08",
+      "medio": "La Mañana de Neuquén",
+      "autor": "Redacción",
+      "descripcion": "Cobertura de la controversia local por la creación y selección del cargo de defensor del Pueblo, los cuestionamientos al procedimiento y las impugnaciones presentadas por postulantes. Las objeciones se atribuyen a quienes las formularon y no se presentan como una resolución judicial.",
+      "url": "https://www.lmneuquen.com/de-edil-defensor-del-pueblo-un-pase-que-armo-gran-lio-n670324",
+      "etiquetas": [
+        "2019",
+        "instituciones",
+        "Defensoría del Pueblo",
+        "municipio",
+        "política local"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a La Mañana de Neuquén. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "lmneuquen-2019-10-07-dictamen-compra-chacra",
+      "titulo": "Un “falso abogado” firmó la compra de la chacra millonaria",
+      "fecha": "2019-10-07",
+      "medio": "La Mañana de Neuquén",
+      "autor": "Adriano Calalesina",
+      "descripcion": "Seguimiento periodístico de la compra municipal de una chacra de 14 hectáreas. La nota cuestiona la habilitación profesional de quien firmó el dictamen legal y describe documentación consultada por el medio. Se cataloga como una publicación sobre cuestionamientos administrativos y legales, sin dar por acreditada una responsabilidad personal.",
+      "url": "https://www.lmneuquen.com/un-falso-abogado-firmo-la-compra-la-chacra-millonaria-n653840",
+      "etiquetas": [
+        "2019",
+        "tierra",
+        "municipio",
+        "controversia administrativa",
+        "seguimiento periodístico"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a La Mañana de Neuquén. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "lmneuquen-2019-09-11-compra-chacra-municipio",
+      "titulo": "Chañar: polémica compra millonaria de una chacra",
+      "fecha": "2019-09-11",
+      "medio": "La Mañana de Neuquén",
+      "autor": "Adriano Calalesina",
+      "descripcion": "Investigación periodística sobre la compra directa de una chacra por parte del municipio para un proyecto de loteo, el monto informado y los cuestionamientos y denuncias que rodearon la operación. Las irregularidades mencionadas son planteos atribuidos a fuentes y actuaciones referidas por el medio; no se presentan como hechos judicialmente probados.",
+      "url": "https://www.lmneuquen.com/chanar-polemica-compra-millonaria-una-chacra-n649690",
+      "etiquetas": [
+        "2019",
+        "tierra",
+        "urbanización",
+        "municipio",
+        "investigación periodística"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a La Mañana de Neuquén. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "lmneuquen-2019-08-01-aumento-sueldo-intendente",
+      "titulo": "Chañar: sin obras, pero al intendente le suben el sueldo",
+      "fecha": "2019-08-01",
+      "medio": "La Mañana de Neuquén",
+      "autor": "Redacción",
+      "descripcion": "Artículo sobre la ordenanza que incrementó la remuneración del intendente Ramón Osés y el debate político local en torno al aumento y a la situación de las obras públicas. Se presenta como cobertura de una controversia municipal, con las valoraciones atribuidas a las fuentes y sectores citados.",
+      "url": "https://www.lmneuquen.com/chanar-obras-pero-al-intendente-le-suben-el-sueldo-n644046",
+      "etiquetas": [
+        "2019",
+        "municipio",
+        "Concejo Deliberante",
+        "presupuesto",
+        "política local"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a La Mañana de Neuquén. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "lmneuquen-2019-03-11-eleccion-bertoya",
+      "titulo": "Bertoya arrasó y regresó como líder en El Chañar",
+      "fecha": "2019-03-11",
+      "medio": "La Mañana de Neuquén",
+      "autor": "Redacción",
+      "descripcion": "Crónica de las elecciones municipales de marzo de 2019 y del triunfo de Leandro Bertoya, con resultados porcentuales informados por el medio y declaraciones sobre sus propuestas productivas. Se conserva como registro periodístico del proceso electoral; los datos corresponden al escrutinio y a las fuentes citadas en la publicación.",
+      "url": "https://www.lmneuquen.com/bertoya-arraso-y-regreso-como-lider-el-chanar-n626302",
+      "etiquetas": [
+        "2019",
+        "elecciones",
+        "municipio",
+        "política local",
+        "producción"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a La Mañana de Neuquén. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "rn-2018-10-27-cultura-productiva-resiste",
+      "titulo": "La cultura productiva resiste en El Chañar frente a Vaca Muerta",
+      "fecha": "2018-10-27",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Cobertura sobre la convivencia entre la fruticultura, la formación agropecuaria y la expansión hidrocarburífera en San Patricio del Chañar. Incluye testimonios de integrantes de la comunidad educativa de la EPEA 3, referencias al trabajo en chacras y datos de planificación urbana de 2018. Se conserva como registro periodístico de una etapa de transformación local; las cifras corresponden al momento de publicación, no a la situación actual.",
+      "url": "https://www.rionegro.com.ar/la-cultura-productiva-resiste-en-el-chanar-frente-a-vaca-muerta-DJ5902533/",
+      "etiquetas": [
+        "2018",
+        "fruticultura",
+        "EPEA 3",
+        "producción",
+        "memoria productiva",
+        "educación",
+        "territorio"
+      ],
+      "tipo": "articulo_web",
+      "estado": "Disponible en origen",
+      "derechos": "Artículo y fotografías pertenecen a Diario Río Negro y a sus respectivos titulares. LIBRITO conserva la referencia y el enlace; no reproduce el contenido."
+    },
+    {
+      "id": "ni-2018-08-17-licitacion-agua-potable",
+      "titulo": "La Provincia licitó la obra de agua potable de San Patricio del Chañar",
+      "fecha": "2018-08-17",
+      "medio": "Neuquén Informa",
+      "autor": "Redacción",
+      "descripcion": "Cobertura de la apertura de ofertas para la primera etapa de readecuación del sistema de agua potable local. Describe las propuestas económicas, el presupuesto oficial, el plazo previsto y las etapas proyectadas para captación, potabilización y reserva. Se registra como noticia del proceso licitatorio, no como constancia de obra terminada.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2018/08/17/122012-la-provincia-licito-la-obra-de-agua-potable-de-san-patricio-del-chanar",
+      "etiquetas": [
+        "2018",
+        "agua potable",
+        "infraestructura",
+        "licitación",
+        "servicios públicos"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "lmneuquen-2018-04-27-intendente-balances",
+      "titulo": "Un intendente está en la mira por no rendir sus cuentas",
+      "fecha": "2018-04-27",
+      "medio": "La Mañana de Neuquén",
+      "autor": "Redacción",
+      "descripcion": "Nota sobre el cuestionamiento del Concejo Deliberante al intendente Ramón Osés por la falta de presentación de balances municipales correspondientes a ejercicios anteriores. Describe el pedido de interpelación y las posiciones de concejales. Las observaciones y acusaciones se atribuyen a sus fuentes; el artículo no equivale a una sentencia ni a una determinación definitiva de responsabilidad.",
+      "url": "https://www.lmneuquen.com/un-intendente-esta-la-mira-no-rendir-sus-cuentas-n589688",
+      "etiquetas": [
+        "2018",
+        "municipio",
+        "transparencia",
+        "Concejo Deliberante",
+        "política local"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a La Mañana de Neuquén. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "lmneuquen-2018-03-27-toma-municipio-empleados",
+      "titulo": "Empleados tomaron el municipio del San Patricio del Chañar",
+      "fecha": "2018-03-27",
+      "medio": "La Mañana de Neuquén",
+      "autor": "Redacción",
+      "descripcion": "Cobertura de una protesta de trabajadores municipales que ocuparon dependencias como medida de reclamo por salarios, indumentaria, herramientas y condiciones laborales. Incluye declaraciones de una delegada gremial. Se conserva como registro de un conflicto laboral según las voces citadas por el medio, no como verificación independiente de cada denuncia.",
+      "url": "https://www.lmneuquen.com/empleados-tomaron-el-municipio-del-san-patricio-del-chanar-n585962",
+      "etiquetas": [
+        "2018",
+        "trabajo",
+        "municipio",
+        "reclamo laboral",
+        "vida institucional"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a La Mañana de Neuquén. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "ni-2017-08-23-camion-desobstructor",
+      "titulo": "Se firmaron acuerdos para mejorar los servicios en Chos Malal y San Patricio del Chañar",
+      "fecha": "2017-08-23",
+      "medio": "Neuquén Informa",
+      "autor": "Redacción",
+      "descripcion": "Nota sobre un aporte no reintegrable de cinco millones de pesos al municipio de San Patricio del Chañar para adquirir un camión desobstructor-succionador. La publicación informa el acuerdo y el destino previsto del aporte; no se toma como prueba de entrega efectiva del vehículo.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2017/08/23/105753-se-firmaron-acuerdos-para-mejorar-los-servicios-en-chos-malal-y-san-patricio-del-chanar",
+      "etiquetas": [
+        "2017",
+        "servicios públicos",
+        "saneamiento",
+        "municipio",
+        "equipamiento"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "ni-2017-07-17-residuos-chanar-campo-grande",
+      "titulo": "Proponen disposición final de residuos conjunta para San Patricio del Chañar y Campo Grande",
+      "fecha": "2017-07-17",
+      "medio": "Neuquén Informa",
+      "autor": "Redacción",
+      "descripcion": "Cobertura de la presentación de un estudio técnico para identificar sitios aptos para la disposición final de residuos sólidos urbanos de San Patricio del Chañar y Campo Grande. Documenta una iniciativa de planificación interprovincial financiada por el CFI; no acredita que el relleno sanitario se haya construido.",
+      "url": "https://www.neuqueninforma.gob.ar/amp/noticias/2017/07/17/103773-proponen-disposicion-final-de-residuos-conjunta-para-san-patricio-del-chanar-y-campo-grande",
+      "etiquetas": [
+        "2017",
+        "ambiente",
+        "residuos",
+        "planificación regional",
+        "Campo Grande"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "ni-2017-05-21-aniversario-44",
+      "titulo": "Gutiérrez presidió el acto por los 44 años de San Patricio del Chañar",
+      "fecha": "2017-05-21",
+      "medio": "Neuquén Informa",
+      "autor": "Redacción",
+      "descripcion": "Crónica institucional del 44.º aniversario de la localidad. Registra anuncios y recorridos por obras de educación, espacios recreativos, viviendas, gas y tratamiento de líquidos cloacales, además del homenaje al exgobernador Pedro Salvatori. Se conserva como testimonio oficial de los anuncios y actos informados en esa fecha, no como certificación de finalización de las obras.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2017/05/21/100880-gutierrez-presidio-el-acto-por-los-44-anos-de-san-patricio-del-chanar",
+      "etiquetas": [
+        "2017",
+        "aniversario",
+        "memoria local",
+        "obras públicas",
+        "vida institucional"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
     },
     {
       "id": "educacion-neuquen-2017-02-22-epea3-comunidad",
@@ -874,6 +1565,69 @@
       "tipo": "agenda_institucional",
       "estado": "enlace_al_original",
       "derechos": "Publicación del Ministerio de Turismo de Neuquén. LIBRITO conserva metadatos y descripción propia; no reproduce fotografías ni el contenido íntegro."
+    },
+    {
+      "id": "rn-2016-12-23-erika-barion-memoria-pionera",
+      "titulo": "Erika Barion, incansable mujer hacedora",
+      "fecha": "2016-12-23",
+      "medio": "Diario Río Negro",
+      "autor": "Beatriz Carolina Chávez",
+      "descripcion": "Perfil construido a partir de una conversación con Erika Barion y del recuerdo de su nieta. La nota recoge su llegada a El Chañar en 1973 junto con su esposo, la vida inicial en la chacra, el trabajo docente, su participación en iniciativas comunitarias y su colaboración en gestiones vinculadas con la escuela, el hospital y la capilla. Se incorpora como testimonio periodístico de memoria oral; no reemplaza actas, registros escolares ni documentación institucional.",
+      "url": "https://www.rionegro.com.ar/erika-barion-incansable-mujer-hacedora-BM1871223/",
+      "etiquetas": [
+        "2016",
+        "memoria oral",
+        "primeros pobladores",
+        "mujeres",
+        "escuela",
+        "hospital",
+        "vida comunitaria",
+        "historia local"
+      ],
+      "tipo": "articulo_web",
+      "estado": "Disponible en origen",
+      "derechos": "Artículo y fotografías pertenecen a Diario Río Negro y a sus respectivos titulares. LIBRITO conserva la referencia y el enlace; no reproduce el contenido."
+    },
+    {
+      "id": "rn-2016-11-23-pedido-jardin-infantes-chanar",
+      "titulo": "Pidieron un jardín de infantes para El Chañar",
+      "fecha": "2016-11-23",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Cobertura de un reclamo de madres y padres de San Patricio del Chañar ante el Consejo Provincial de Educación por la falta de vacantes en educación inicial. La nota recoge testimonios sobre la demanda de jardines, la cantidad de niñas y niños que las familias estimaban sin cupo y la necesidad de infraestructura. Se conserva como registro periodístico de una demanda educativa en 2016; las cifras corresponden a testimonios de aquella fecha.",
+      "url": "https://www.rionegro.com.ar/pidieron-un-jardin-de-infantes-CD1674730/",
+      "etiquetas": [
+        "2016",
+        "educación inicial",
+        "jardín de infantes",
+        "familias",
+        "escuela",
+        "infraestructura educativa",
+        "memoria social"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro y sus titulares. LIBRITO conserva la referencia y el enlace; no reproduce el contenido."
+    },
+    {
+      "id": "neuquen-informa-2016-10-05-ampliacion-epea3",
+      "titulo": "Continúan los trabajos en la EPEA Nº 3 de San Patricio del Chañar",
+      "fecha": "2016-10-05",
+      "medio": "Neuquén Informa",
+      "autor": "Gobierno de la Provincia del Neuquén",
+      "descripcion": "Parte de avance publicado durante la ampliación del edificio de la EPEA Nº 3. Informa la ejecución de dos aulas adicionales, el porcentaje de avance informado en esa fecha y las características generales de la obra. Se incorpora para documentar el crecimiento edilicio de la institución; los porcentajes y montos son históricos y corresponden a octubre de 2016.",
+      "url": "https://www.neuqueninforma.gob.ar/amp/noticias/2016/10/05/89416-continuan-los-trabajos-en-la-epea-n-3-de-san-patricio-del-chanar",
+      "etiquetas": [
+        "2016",
+        "EPEA 3",
+        "ampliación",
+        "aulas",
+        "infraestructura educativa",
+        "obra pública"
+      ],
+      "tipo": "articulo_institucional",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación y fotografías pertenecen al Gobierno de la Provincia del Neuquén. LIBRITO conserva referencia y enlace."
     },
     {
       "id": "rn-2016-07-16-obra-riego-chanar",
@@ -1051,6 +1805,26 @@
       "tipo": "noticia",
       "estado": "Disponible en origen",
       "derechos": "Artículo y fotografías pertenecen al medio editor. LIBRITO conserva referencia y enlace; no reproduce el contenido."
+    },
+    {
+      "id": "neuquen-informa-2015-03-16-discurso-inauguracion-epea3",
+      "titulo": "Discurso del gobernador Jorge Sapag en la inauguración de la EPEA Nº 3",
+      "fecha": "2015-03-16",
+      "medio": "Neuquén Informa",
+      "autor": "Gobierno de la Provincia del Neuquén",
+      "descripcion": "Transcripción institucional del discurso pronunciado durante la inauguración del edificio de la EPEA Nº 3. El texto refiere el proceso de creación de la escuela, las gestiones para conseguir el terreno y construir el edificio, la matrícula informada en ese acto y las necesidades de talleres y prácticas agropecuarias. Se conserva como fuente discursiva oficial de la ceremonia, no como acta técnica de recepción de obra.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2015/03/16/61722-discurso-del-gobernador-jorge-sapag-en-la-inauguracion-de-la-epea-n-3-de-san-patricio-del-chanar-lunes-16-de-marzo-de-2015",
+      "etiquetas": [
+        "2015",
+        "EPEA 3",
+        "Jorge Sapag",
+        "discurso oficial",
+        "inauguración",
+        "educación agropecuaria"
+      ],
+      "tipo": "discurso_transcripto",
+      "estado": "enlace_al_original",
+      "derechos": "Transcripción y fotografías pertenecen al Gobierno de la Provincia del Neuquén. LIBRITO conserva referencia y enlace."
     },
     {
       "id": "hcdn-2014-11-17-proyecto-interes-fiesta-pelon",
@@ -1406,6 +2180,46 @@
       "derechos": "Artículo y fotografías pertenecen al medio editor. LIBRITO conserva referencia y enlace; no reproduce el contenido."
     },
     {
+      "id": "lmneuquen-2012-04-12-ocuparon-escuela-epea3",
+      "titulo": "Ocuparon una escuela",
+      "fecha": "2012-04-12",
+      "medio": "La Mañana Neuquén",
+      "autor": "Redacción",
+      "descripcion": "Cobertura de un reclamo de familias de estudiantes de la EPEA Nº 3 por falta de aulas, crecimiento de matrícula y condiciones de funcionamiento durante la etapa inicial de la escuela. La nota describe el uso de tráileres y el funcionamiento provisorio en el predio del centro de capacitación agropecuaria. Se conserva como testimonio periodístico de una demanda educativa en 2012; las declaraciones pertenecen a las personas entrevistadas y no se presentan como una resolución oficial.",
+      "url": "https://www.lmneuquen.com/ocuparon-una-escuela--n143649",
+      "etiquetas": [
+        "2012",
+        "EPEA 3",
+        "educación",
+        "familias",
+        "infraestructura escolar",
+        "memoria educativa"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a La Mañana Neuquén y sus titulares. LIBRITO conserva la referencia y el enlace; no reproduce el contenido."
+    },
+    {
+      "id": "lmneuquen-2011-04-25-inauguracion-epea3",
+      "titulo": "Se inauguró la EPEA Nº 3 en El Chañar",
+      "fecha": "2011-04-25",
+      "medio": "La Mañana Neuquén",
+      "autor": "Redacción",
+      "descripcion": "Cobertura de la inauguración formal de la Escuela Provincial de Enseñanza Agrotécnica Nº 3. La nota registra que comenzó a funcionar provisoriamente en instalaciones del Puesto de Capacitación Agropecuaria 2 (ex EMETA), mientras se proyectaba su edificio propio, y menciona una primera matrícula de 50 estudiantes. Es una referencia periodística sobre el inicio público de la institución; no reemplaza la resolución de creación ni los archivos escolares.",
+      "url": "https://www.lmneuquen.com/se-inauguro-la-epea-n-3-el-chanar-n105732",
+      "etiquetas": [
+        "2011",
+        "EPEA 3",
+        "educación",
+        "escuela agropecuaria",
+        "inauguración",
+        "memoria institucional"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a La Mañana Neuquén y sus titulares. LIBRITO conserva la referencia y el enlace; no reproduce el contenido."
+    },
+    {
       "id": "lm-2011-03-18-escuela-agrotecnica",
       "titulo": "Abren escuela agrotécnica en San Patricio del Chañar",
       "fecha": "2011-03-18",
@@ -1733,6 +2547,27 @@
       "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva metadatos y descripción propia; los anuncios se presentan como proyectos y compromisos informados en 2009."
     },
     {
+      "id": "rn-2009-05-21-volvio-el-colectivo-chanar",
+      "titulo": "Volvió el colectivo",
+      "fecha": "2009-05-21",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Crónica sobre la recuperación de un servicio interurbano de transporte para San Patricio del Chañar después de décadas con frecuencias insuficientes o ausencia de colectivos. La nota describe los recorridos que conectaban la localidad con Campo Grande, Barda del Medio, Cinco Saltos, Cipolletti, Neuquén y Centenario. Se incorpora como registro de movilidad cotidiana y conectividad regional en 2009; no informa sobre el servicio actual.",
+      "url": "https://www.rionegro.com.ar/volvio-el-colectivo-FFHRN1242873131174/",
+      "etiquetas": [
+        "2009",
+        "transporte público",
+        "colectivo",
+        "conectividad",
+        "movilidad",
+        "vida cotidiana",
+        "memoria local"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro y sus titulares. LIBRITO conserva la referencia y el enlace; no reproduce el contenido."
+    },
+    {
       "id": "lm-2009-04-21-eurnekian-industria-vitivinicola",
       "titulo": "Eurnekian consolida la industria vitivinícola de San Patricio del Chañar",
       "fecha": "2009-04-21",
@@ -2019,24 +2854,6 @@
       "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva metadatos y una descripción propia; el aviso original se consulta en el medio."
     },
     {
-      "id": "rn-2004-05-24",
-      "titulo": "Colorido festejo en el aniversario de El Chañar",
-      "fecha": "2004-05-24",
-      "medio": "Diario Río Negro",
-      "autor": "Redacción",
-      "descripcion": "Aniversario 31, participación de estudiantes, murgas, carrozas y homenajes a pioneros.",
-      "url": "https://www.rionegro.com.ar/colorido-festejo-en-el-aniversario-de-el-chanar-KCHRN04052419242006/",
-      "etiquetas": [
-        "historia",
-        "aniversario",
-        "escuelas",
-        "memoria"
-      ],
-      "tipo": "articulo_web",
-      "estado": "enlace_al_original",
-      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
-    },
-    {
       "id": "rn-2004-05-24-aniversario-31",
       "titulo": "Colorido festejo en el aniversario de El Chañar",
       "fecha": "2004-05-24",
@@ -2113,23 +2930,6 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva metadatos y una descripción propia; la publicación completa se consulta en el medio original."
-    },
-    {
-      "id": "rn-2002-09-02",
-      "titulo": "Las heladas todavía no fueron tan dañinas en El Chañar",
-      "fecha": "2002-09-02",
-      "medio": "Diario Río Negro",
-      "autor": "Redacción",
-      "descripcion": "Registro de heladas primaverales y preocupación de productores por fruta de carozo y pepita.",
-      "url": "https://www.rionegro.com.ar/las-heladas-todavia-no-fueron-tan-daninas-en-el-chanar-NVHRN02090219022104/",
-      "etiquetas": [
-        "agricultura",
-        "clima",
-        "fruticultura"
-      ],
-      "tipo": "articulo_web",
-      "estado": "enlace_al_original",
-      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
     },
     {
       "id": "rn-2002-09-02-heladas-frutales",
@@ -2346,251 +3146,6 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "Se conserva referencia bibliográfica y descripción propia; consultar noticia en el medio original."
-    },
-    {
-      "id": "rn-2016-12-23-erika-barion-memoria-pionera",
-      "titulo": "Erika Barion, incansable mujer hacedora",
-      "fecha": "2016-12-23",
-      "medio": "Diario Río Negro",
-      "autor": "Beatriz Carolina Chávez",
-      "descripcion": "Perfil construido a partir de una conversación con Erika Barion y del recuerdo de su nieta. La nota recoge su llegada a El Chañar en 1973 junto con su esposo, la vida inicial en la chacra, el trabajo docente, su participación en iniciativas comunitarias y su colaboración en gestiones vinculadas con la escuela, el hospital y la capilla. Se incorpora como testimonio periodístico de memoria oral; no reemplaza actas, registros escolares ni documentación institucional.",
-      "url": "https://www.rionegro.com.ar/erika-barion-incansable-mujer-hacedora-BM1871223/",
-      "etiquetas": [
-        "2016",
-        "memoria oral",
-        "primeros pobladores",
-        "mujeres",
-        "escuela",
-        "hospital",
-        "vida comunitaria",
-        "historia local"
-      ],
-      "tipo": "articulo_web",
-      "estado": "Disponible en origen",
-      "derechos": "Artículo y fotografías pertenecen a Diario Río Negro y a sus respectivos titulares. LIBRITO conserva la referencia y el enlace; no reproduce el contenido."
-    },
-    {
-      "id": "rn-2025-12-06-norberto-serventi-recuerdos-chanar-1971",
-      "titulo": "Un testigo de los primeros trabajos recuerda cómo era El Chañar en 1971",
-      "fecha": "2025-12-06",
-      "medio": "Diario Río Negro",
-      "autor": "Alan Agustini",
-      "descripcion": "Entrevista al ingeniero agrónomo Norberto Serventi, quien relata que conoció San Patricio del Chañar en 1971, cuando comenzaban los trabajos de nivelación de tierras y la plantación de las primeras chacras. Aporta recuerdos sobre los caminos, el riego, las primeras superficies productivas y la transformación de los montes frutales. Se incorpora como testimonio retrospectivo de un protagonista regional, que conviene contrastar con planos, expedientes y documentación de obra.",
-      "url": "https://www.rionegro.com.ar/rural/recorre-los-valles-de-rio-negro-y-neuquen-desde-hace-53-anos-y-anticipa-su-futuro-ya-esta-sucediendo/",
-      "etiquetas": [
-        "2025",
-        "1971",
-        "memoria oral",
-        "fruticultura",
-        "riego",
-        "primeras chacras",
-        "Roberto Gasparri",
-        "historia productiva"
-      ],
-      "tipo": "entrevista",
-      "estado": "Disponible en origen",
-      "derechos": "Artículo y fotografías pertenecen a Diario Río Negro y a sus respectivos titulares. LIBRITO conserva la referencia y el enlace; no reproduce el contenido."
-    },
-    {
-      "id": "rn-2018-10-27-cultura-productiva-resiste",
-      "titulo": "La cultura productiva resiste en El Chañar frente a Vaca Muerta",
-      "fecha": "2018-10-27",
-      "medio": "Diario Río Negro",
-      "autor": "Redacción",
-      "descripcion": "Cobertura sobre la convivencia entre la fruticultura, la formación agropecuaria y la expansión hidrocarburífera en San Patricio del Chañar. Incluye testimonios de integrantes de la comunidad educativa de la EPEA 3, referencias al trabajo en chacras y datos de planificación urbana de 2018. Se conserva como registro periodístico de una etapa de transformación local; las cifras corresponden al momento de publicación, no a la situación actual.",
-      "url": "https://www.rionegro.com.ar/la-cultura-productiva-resiste-en-el-chanar-frente-a-vaca-muerta-DJ5902533/",
-      "etiquetas": [
-        "2018",
-        "fruticultura",
-        "EPEA 3",
-        "producción",
-        "memoria productiva",
-        "educación",
-        "territorio"
-      ],
-      "tipo": "articulo_web",
-      "estado": "Disponible en origen",
-      "derechos": "Artículo y fotografías pertenecen a Diario Río Negro y a sus respectivos titulares. LIBRITO conserva la referencia y el enlace; no reproduce el contenido."
-    },
-    {
-      "id": "lmneuquen-2011-04-25-inauguracion-epea3",
-      "titulo": "Se inauguró la EPEA Nº 3 en El Chañar",
-      "fecha": "2011-04-25",
-      "medio": "La Mañana Neuquén",
-      "autor": "Redacción",
-      "descripcion": "Cobertura de la inauguración formal de la Escuela Provincial de Enseñanza Agrotécnica Nº 3. La nota registra que comenzó a funcionar provisoriamente en instalaciones del Puesto de Capacitación Agropecuaria 2 (ex EMETA), mientras se proyectaba su edificio propio, y menciona una primera matrícula de 50 estudiantes. Es una referencia periodística sobre el inicio público de la institución; no reemplaza la resolución de creación ni los archivos escolares.",
-      "url": "https://www.lmneuquen.com/se-inauguro-la-epea-n-3-el-chanar-n105732",
-      "etiquetas": [
-        "2011",
-        "EPEA 3",
-        "educación",
-        "escuela agropecuaria",
-        "inauguración",
-        "memoria institucional"
-      ],
-      "tipo": "articulo_web",
-      "estado": "enlace_al_original",
-      "derechos": "Artículo e imágenes pertenecen a La Mañana Neuquén y sus titulares. LIBRITO conserva la referencia y el enlace; no reproduce el contenido."
-    },
-    {
-      "id": "neuquen-informa-2015-03-16-discurso-inauguracion-epea3",
-      "titulo": "Discurso del gobernador Jorge Sapag en la inauguración de la EPEA Nº 3",
-      "fecha": "2015-03-16",
-      "medio": "Neuquén Informa",
-      "autor": "Gobierno de la Provincia del Neuquén",
-      "descripcion": "Transcripción institucional del discurso pronunciado durante la inauguración del edificio de la EPEA Nº 3. El texto refiere el proceso de creación de la escuela, las gestiones para conseguir el terreno y construir el edificio, la matrícula informada en ese acto y las necesidades de talleres y prácticas agropecuarias. Se conserva como fuente discursiva oficial de la ceremonia, no como acta técnica de recepción de obra.",
-      "url": "https://www.neuqueninforma.gob.ar/noticias/2015/03/16/61722-discurso-del-gobernador-jorge-sapag-en-la-inauguracion-de-la-epea-n-3-de-san-patricio-del-chanar-lunes-16-de-marzo-de-2015",
-      "etiquetas": [
-        "2015",
-        "EPEA 3",
-        "Jorge Sapag",
-        "discurso oficial",
-        "inauguración",
-        "educación agropecuaria"
-      ],
-      "tipo": "discurso_transcripto",
-      "estado": "enlace_al_original",
-      "derechos": "Transcripción y fotografías pertenecen al Gobierno de la Provincia del Neuquén. LIBRITO conserva referencia y enlace."
-    },
-    {
-      "id": "neuquen-informa-2016-10-05-ampliacion-epea3",
-      "titulo": "Continúan los trabajos en la EPEA Nº 3 de San Patricio del Chañar",
-      "fecha": "2016-10-05",
-      "medio": "Neuquén Informa",
-      "autor": "Gobierno de la Provincia del Neuquén",
-      "descripcion": "Parte de avance publicado durante la ampliación del edificio de la EPEA Nº 3. Informa la ejecución de dos aulas adicionales, el porcentaje de avance informado en esa fecha y las características generales de la obra. Se incorpora para documentar el crecimiento edilicio de la institución; los porcentajes y montos son históricos y corresponden a octubre de 2016.",
-      "url": "https://www.neuqueninforma.gob.ar/amp/noticias/2016/10/05/89416-continuan-los-trabajos-en-la-epea-n-3-de-san-patricio-del-chanar",
-      "etiquetas": [
-        "2016",
-        "EPEA 3",
-        "ampliación",
-        "aulas",
-        "infraestructura educativa",
-        "obra pública"
-      ],
-      "tipo": "articulo_institucional",
-      "estado": "enlace_al_original",
-      "derechos": "Publicación y fotografías pertenecen al Gobierno de la Provincia del Neuquén. LIBRITO conserva referencia y enlace."
-    },
-    {
-      "id": "rn-2016-11-23-pedido-jardin-infantes-chanar",
-      "titulo": "Pidieron un jardín de infantes para El Chañar",
-      "fecha": "2016-11-23",
-      "medio": "Diario Río Negro",
-      "autor": "Redacción",
-      "descripcion": "Cobertura de un reclamo de madres y padres de San Patricio del Chañar ante el Consejo Provincial de Educación por la falta de vacantes en educación inicial. La nota recoge testimonios sobre la demanda de jardines, la cantidad de niñas y niños que las familias estimaban sin cupo y la necesidad de infraestructura. Se conserva como registro periodístico de una demanda educativa en 2016; las cifras corresponden a testimonios de aquella fecha.",
-      "url": "https://www.rionegro.com.ar/pidieron-un-jardin-de-infantes-CD1674730/",
-      "etiquetas": [
-        "2016",
-        "educación inicial",
-        "jardín de infantes",
-        "familias",
-        "escuela",
-        "infraestructura educativa",
-        "memoria social"
-      ],
-      "tipo": "articulo_web",
-      "estado": "enlace_al_original",
-      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro y sus titulares. LIBRITO conserva la referencia y el enlace; no reproduce el contenido."
-    },
-    {
-      "id": "rn-2009-05-21-volvio-el-colectivo-chanar",
-      "titulo": "Volvió el colectivo",
-      "fecha": "2009-05-21",
-      "medio": "Diario Río Negro",
-      "autor": "Redacción",
-      "descripcion": "Crónica sobre la recuperación de un servicio interurbano de transporte para San Patricio del Chañar después de décadas con frecuencias insuficientes o ausencia de colectivos. La nota describe los recorridos que conectaban la localidad con Campo Grande, Barda del Medio, Cinco Saltos, Cipolletti, Neuquén y Centenario. Se incorpora como registro de movilidad cotidiana y conectividad regional en 2009; no informa sobre el servicio actual.",
-      "url": "https://www.rionegro.com.ar/volvio-el-colectivo-FFHRN1242873131174/",
-      "etiquetas": [
-        "2009",
-        "transporte público",
-        "colectivo",
-        "conectividad",
-        "movilidad",
-        "vida cotidiana",
-        "memoria local"
-      ],
-      "tipo": "articulo_web",
-      "estado": "enlace_al_original",
-      "derechos": "Artículo e imágenes pertenecen a Diario Río Negro y sus titulares. LIBRITO conserva la referencia y el enlace; no reproduce el contenido."
-    },
-    {
-      "id": "lmneuquen-2012-04-12-ocuparon-escuela-epea3",
-      "titulo": "Ocuparon una escuela",
-      "fecha": "2012-04-12",
-      "medio": "La Mañana Neuquén",
-      "autor": "Redacción",
-      "descripcion": "Cobertura de un reclamo de familias de estudiantes de la EPEA Nº 3 por falta de aulas, crecimiento de matrícula y condiciones de funcionamiento durante la etapa inicial de la escuela. La nota describe el uso de tráileres y el funcionamiento provisorio en el predio del centro de capacitación agropecuaria. Se conserva como testimonio periodístico de una demanda educativa en 2012; las declaraciones pertenecen a las personas entrevistadas y no se presentan como una resolución oficial.",
-      "url": "https://www.lmneuquen.com/ocuparon-una-escuela--n143649",
-      "etiquetas": [
-        "2012",
-        "EPEA 3",
-        "educación",
-        "familias",
-        "infraestructura escolar",
-        "memoria educativa"
-      ],
-      "tipo": "articulo_web",
-      "estado": "enlace_al_original",
-      "derechos": "Artículo e imágenes pertenecen a La Mañana Neuquén y sus titulares. LIBRITO conserva la referencia y el enlace; no reproduce el contenido."
-    },
-    {
-      "id": "rionegro-2026-09-19-epet26-avance-70",
-      "titulo": "Avanza la infraestructura educativa en Neuquén: la EPET 26 ya supera el 70% de ejecución",
-      "fecha": "2026-09-19",
-      "medio": "Diario Río Negro",
-      "autor": "Ariana Rodríguez",
-      "descripcion": "Cobertura sobre el avance informado para el nuevo edificio de la EPET 26 en San Patricio del Chañar. La nota publicada el 19 de septiembre de 2026 señala una ejecución superior al 70%, una superficie cercana a 5.000 metros cuadrados y una matrícula de 262 estudiantes. Los porcentajes y datos se atribuyen a la información citada por el medio y corresponden a la fecha de publicación.",
-      "url": "https://www.rionegro.com.ar/municipales/politica/avanza-la-infraestructura-educativa-en-neuquen-la-epet-26-ya-supera-el-70-de-ejecucion-4728273/?amp=1",
-      "etiquetas": [
-        "educación",
-        "EPET 26",
-        "infraestructura escolar",
-        "obras",
-        "2026"
-      ],
-      "tipo": "articulo_web",
-      "estado": "enlace_al_original",
-      "derechos": "Artículo y fotografía pertenecen a Diario Río Negro. LIBRITO conserva referencia y descripción propia."
-    },
-    {
-      "id": "neuquen-informa-2026-09-07-electricidad-54-lotes-costa-verde",
-      "titulo": "Se habilitó el suministro eléctrico para 54 lotes en San Patricio del Chañar",
-      "fecha": "2026-09-07",
-      "medio": "Neuquén Informa",
-      "autor": "Secretaría de Prensa y Comunicación",
-      "descripcion": "Nota institucional sobre la finalización y habilitación de infraestructura eléctrica para 54 lotes del barrio Costa Verde, en Picada 3. La publicación detalla 1.070 metros de línea de media tensión trifásica de 13,2 kV y una subestación transformadora de 200 kVA. La información corresponde al comunicado oficial provincial.",
-      "url": "https://www.neuqueninforma.gob.ar/noticias/2026/09/07/263324-se-habilito-el-suministro-electrico-para-54-lotes-en-san-patricio-del-chanar",
-      "etiquetas": [
-        "energía eléctrica",
-        "Costa Verde",
-        "Picada 3",
-        "infraestructura",
-        "2026"
-      ],
-      "tipo": "articulo_web",
-      "estado": "enlace_al_original",
-      "derechos": "Artículo e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
-    },
-    {
-      "id": "neuquen-informa-2026-04-28-financiamiento-obras-energia-gas",
-      "titulo": "La Provincia financiará obras de energía y gas en San Patricio del Chañar",
-      "fecha": "2026-04-28",
-      "medio": "Neuquén Informa",
-      "autor": "Secretaría de Prensa y Comunicación",
-      "descripcion": "Nota sobre dos convenios para infraestructura local: suministro eléctrico para Costa Verde, en Picada III, y financiamiento de la red de gas para 347 lotes. El comunicado informa aportes reintegrables por más de 590 millones de pesos en conjunto. La nota describe compromisos y financiamiento; no acredita por sí sola la ejecución o finalización de ambas obras.",
-      "url": "https://www.neuqueninforma.gob.ar/noticias/2026/04/28/256890-la-provincia-financiara-obras-de-energia-y-gas-en-san-patricio-del-chanar",
-      "etiquetas": [
-        "energía",
-        "gas",
-        "Costa Verde",
-        "347 lotes",
-        "financiamiento público",
-        "2026"
-      ],
-      "tipo": "articulo_web",
-      "estado": "enlace_al_original",
-      "derechos": "Artículo e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
     }
   ]
 }
