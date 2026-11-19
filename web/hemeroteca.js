@@ -15,18 +15,24 @@ const safeUrl=v=>{try{const u=new URL(v);return ["https:","http:"].includes(u.pr
 const el=(tag,cls,txt)=>{const n=document.createElement(tag);if(cls)n.className=cls;if(txt!==undefined)n.textContent=txt;return n};
 const date=v=>{const m=String(v||"").match(/^(\d{4})-(\d{2})-(\d{2})$/);return m?m[3]+"/"+m[2]+"/"+m[1]:String(v||"Fecha no informada")};
 let news=[];
-function addOptions(select,values,firstLabel){
+function addOptions(select,values,counts){
  const fragment=document.createDocumentFragment();
- values.forEach(value=>{const option=el("option","",value);option.value=value;fragment.append(option)});
+ values.forEach(value=>{const amount=counts&&counts[value]?counts[value]:0;const label=amount?value+" · "+amount:""+value;const option=el("option","",label);option.value=value;fragment.append(option)});
  select.append(fragment);
 }
 function populateFilters(){
  const years=[...new Set(news.map(n=>String(n.fecha||"").slice(0,4)).filter(y=>/^\d{4}$/.test(y)))].sort((a,b)=>Number(b)-Number(a));
  const media=[...new Set(news.map(n=>String(n.medio||"").trim()).filter(Boolean))].sort((a,b)=>a.localeCompare(b,"es"));
  const topics=[...new Set(news.flatMap(n=>Array.isArray(n.etiquetas)?n.etiquetas:[]).map(t=>String(t).trim()).filter(Boolean))].sort((a,b)=>a.localeCompare(b,"es"));
- addOptions(yearSelect,years);
- addOptions(mediumSelect,media);
- addOptions(topicSelect,topics);
+ const yearCounts={},mediumCounts={},topicCounts={};
+ news.forEach(n=>{
+  const y=String(n.fecha||"").slice(0,4);if(y)yearCounts[y]=(yearCounts[y]||0)+1;
+  if(n.medio)mediumCounts[n.medio]=(mediumCounts[n.medio]||0)+1;
+  (n.etiquetas||[]).forEach(t=>{const tag=String(t).trim();if(tag)topicCounts[tag]=(topicCounts[tag]||0)+1});
+ });
+ addOptions(yearSelect,years,yearCounts);
+ addOptions(mediumSelect,media,mediumCounts);
+ addOptions(topicSelect,topics,topicCounts);
 }
 function draw(){
  const q=norm(input.value.trim()),year=yearSelect.value,medium=mediumSelect.value,topic=norm(topicSelect.value);
@@ -35,7 +41,7 @@ function draw(){
   return (!q||searchable.includes(q))&&(!year||String(n.fecha).slice(0,4)===year)&&(!medium||n.medio===medium)&&(!topic||(n.etiquetas||[]).some(t=>norm(t)===topic));
  }).sort((a,b)=>orderSelect.value==="antigua"?String(a.fecha).localeCompare(String(b.fecha)):String(b.fecha).localeCompare(String(a.fecha)));
  total.textContent=String(news.length);
- const active=Boolean(q||year||medium||topic);
+ const active=Boolean(q||year||medium||topic||orderSelect.value!=="reciente");
  count.textContent=active?found.length+" de "+news.length+" noticias · "+[year,medium,topicSelect.value].filter(Boolean).join(" · "):"Colección completa · "+news.length+" noticias · "+new Set(news.map(n=>String(n.fecha).slice(0,4))).size+" años documentados";
  clearButton.disabled=!active;
  list.replaceChildren();list.setAttribute("aria-busy","false");
