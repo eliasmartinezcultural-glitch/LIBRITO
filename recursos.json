@@ -1,6 +1,6 @@
 {
   "nombre": "Recursos de LIBRITO · San Patricio del Chañar",
-  "version": 25,
+  "version": 26,
   "descripcion": "Índice de fotografías, mapas, planos, archivos audiovisuales y otros materiales de consulta relacionados con San Patricio del Chañar.",
   "criterio": "Se registran recursos existentes y se enlaza a sus custodios o fuentes originales. La inclusión no implica autorización para descargar, copiar, republicar, adaptar o usar comercialmente. Cada ficha informa el estado de derechos conocido y el modo de acceso. Si las condiciones no están claras, el recurso se ofrece solo como referencia externa.",
   "recursos": [
@@ -1666,6 +1666,61 @@
         "Huellas Agua y Tierra",
         "Hostería El Chañar",
         "San Patricio del Chañar",
+        "2026"
+      ]
+    },
+    {
+      "id": "vaca-muerta-news-entrevista-intendente-gonzalo-nunez-2024",
+      "titulo": "La actualidad de San Patricio del Chañar · entrevista al intendente Gonzalo Núñez",
+      "categoria": "Video",
+      "tipo": "Entrevista audiovisual",
+      "fecha": "2024-03-16",
+      "autor": "Vaca Muerta News · entrevistado: Gonzalo Núñez",
+      "descripcion": "Entrevista audiovisual al intendente de San Patricio del Chañar sobre la situación del municipio al inicio de su gestión, el estado en que encontró la administración y su mirada sobre el futuro de la localidad. Es una fuente testimonial y de comunicación política: las valoraciones y afirmaciones del entrevistado deben atribuirse a él y contrastarse con documentos, estadísticas y otras fuentes.",
+      "url": "https://www.youtube.com/watch?v=lgxLpyouJ_c",
+      "fuente": "Canal de YouTube Vaca Muerta News, publicación del 16-03-2024.",
+      "acceso": "Reproducción en YouTube.",
+      "derechos_estado": "Titularidad y licencia del video no especificadas en la ficha consultada",
+      "derechos": "El audiovisual pertenece al canal y a sus titulares. LIBRITO enlaza la publicación original y no descarga ni redistribuye el video.",
+      "licencia": "No se identifica una licencia abierta.",
+      "etiquetas": [
+        "Gonzalo Núñez",
+        "intendencia",
+        "municipio",
+        "gestión municipal",
+        "entrevista",
+        "Vaca Muerta News",
+        "San Patricio del Chañar",
+        "2024"
+      ]
+    },
+    {
+      "id": "television-publica-aire-de-campo-fruticultura-chanar-chichinales-2026",
+      "titulo": "De San Patricio del Chañar a Chichinales · la cadena frutícola del Alto Valle",
+      "categoria": "Video",
+      "tipo": "Informe audiovisual de televisión pública",
+      "fecha": "2026-07-22",
+      "autor": "Televisión Pública Argentina · programa Aire de Campo Express · conducción de Antonella Piersanti",
+      "descripcion": "Informe audiovisual emitido por Televisión Pública el 22 de julio de 2026 sobre la cadena frutícola del Alto Valle de Río Negro y Neuquén. La descripción del canal presenta el corredor productivo desde San Patricio del Chañar hasta Chichinales y aborda cosecha, peras, manzanas, empleo rural, exportaciones y barrera sanitaria patagónica. Su alcance es regional: no todas las cifras de superficie, producción y empleo corresponden específicamente a San Patricio del Chañar.",
+      "url": "https://www.youtube.com/watch?v=vsl2_ceLwRg",
+      "fuente": "Canal oficial de YouTube de Televisión Pública Argentina, programa Aire de Campo Express, emisión 22-07-2026.",
+      "acceso": "Reproducción en YouTube.",
+      "derechos_estado": "Titularidad de Televisión Pública Argentina; no se identifica licencia abierta específica del video",
+      "derechos": "El video pertenece a Televisión Pública Argentina y a sus titulares. LIBRITO enlaza la publicación original sin copiar ni redistribuir el audiovisual.",
+      "licencia": "No se identifica una licencia abierta específica para el video.",
+      "etiquetas": [
+        "Televisión Pública",
+        "Aire de Campo Express",
+        "fruticultura",
+        "peras",
+        "manzanas",
+        "cosecha",
+        "trabajo rural",
+        "exportaciones",
+        "barrera sanitaria",
+        "Alto Valle",
+        "San Patricio del Chañar",
+        "Chichinales",
         "2026"
       ]
     }
