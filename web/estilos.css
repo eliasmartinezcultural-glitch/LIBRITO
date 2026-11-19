@@ -261,3 +261,68 @@ h2{margin:0;color:var(--verde-oscuro);font:normal clamp(30px,4vw,42px)/1.12 var(
 @media print{
  .seccion-hemeroteca .noticia-detalle{display:block}
 }
+
+
+/* Edición de archivo y materiales breves: jerarquía visual, lectura clara y consulta responsable.
+   Solo presentación CSS; no modifica el HTML, los datos ni el comportamiento de LIBRITO. */
+.seccion-obras .documento{
+  position:relative;
+  box-shadow:0 6px 18px rgba(47,57,43,.055);
+}
+.seccion-obras .documento-meta{
+  display:inline-flex;
+  align-items:center;
+  max-width:100%;
+  min-height:25px;
+  margin-bottom:11px;
+  padding:5px 10px;
+  border:1px solid #e5ddcc;
+  border-radius:30px;
+  background:linear-gradient(110deg,#f7f1e5,#f0f1e8);
+  color:#76583f;
+  font-size:10px;
+  font-weight:800;
+  letter-spacing:.045em;
+  line-height:1.3;
+  text-transform:none;
+}
+.seccion-obras .documento-titulo{
+  max-width:34ch;
+  text-wrap:pretty;
+}
+.seccion-obras .documento-descripcion{
+  font-size:13.5px;
+  line-height:1.62;
+}
+.seccion-obras .documento-firma{
+  padding-bottom:9px;
+  border-bottom:1px solid rgba(222,216,201,.7);
+}
+.seccion-obras .documento-detalle{
+  margin-top:14px;
+  padding:9px 11px 7px;
+  border:1px solid #e8e1d4;
+  border-radius:8px 13px 8px 13px;
+  background:rgba(247,244,235,.62);
+}
+.seccion-obras .documento-detalle summary{
+  color:#53634f;
+  font-size:12px;
+}
+.seccion-obras .documento-detalle p{
+  font-size:11.5px;
+  line-height:1.58;
+}
+.seccion-obras .documento:focus-within{
+  outline:2px solid rgba(110,134,100,.35);
+  outline-offset:3px;
+}
+@media(max-width:650px){
+  .seccion-obras .documento-meta{font-size:10px;min-height:27px}
+  .seccion-obras .documento-descripcion{font-size:13.5px;line-height:1.65}
+  .seccion-obras .documento-detalle{padding-inline:10px}
+}
+@media print{
+  .seccion-obras .documento-meta{background:white;border:1px solid #aaa}
+  .seccion-obras .documento-detalle{background:white;border:1px solid #aaa}
+}
