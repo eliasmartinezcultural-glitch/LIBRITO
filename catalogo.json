@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 29,
+  "version": 30,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -2304,6 +2304,126 @@
         "siglo XIX",
         "fortines",
         "mapas históricos"
+      ]
+    },
+    {
+      "id": "mapoteca-neuquen-historicos-1901-1941",
+      "titulo": "Mapoteca Digital · mapas históricos del Neuquén (1901–1941)",
+      "autoria": "Dirección Provincial de Catastro e Información Territorial",
+      "institucion": "Gobierno de la Provincia del Neuquén",
+      "fecha": "1901–1941",
+      "categoria": "Territorio y cartografía",
+      "tematica": "Cartografía histórica provincial, divisiones administrativas y evolución de la representación territorial",
+      "descripcion": "Acceso institucional a la colección de mapas históricos que incluye, entre otros, Catastro Neuquén 1901 (partes I y II), Neuquén 1906, mapa negativo 1919 y Neuquén 1941. Son piezas de contexto provincial: no deben interpretarse como planos específicos del paraje El Chañar ni como límites municipales actuales. La colección también contiene el mapa de la Gobernación de 1887 ya catalogado por separado.",
+      "formato": "Página web",
+      "acceso": "origen",
+      "urlOriginal": "https://dpc.neuquen.gov.ar/dpcasp/mapoteca_digital/mapas_historicos.asp",
+      "estado": "Colección disponible en origen",
+      "accionExterna": "Explorar mapas históricos",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "La Mapoteca informa que sus mapas pueden descargarse e imprimirse para uso personal y restringe la reproducción comercial sin autorización expresa. LIBRITO enlaza la colección original.",
+        "referencia": "Dirección Provincial de Catastro e Información Territorial, Mapoteca Digital."
+      },
+      "procedencia": "Mapoteca Digital provincial, sección Mapas Históricos.",
+      "integridad": "Página institucional consultada; reúne piezas cartográficas de distintos años. LIBRITO no aloja copias de los mapas.",
+      "etiquetas": [
+        "1901",
+        "1906",
+        "1919",
+        "1941",
+        "mapoteca",
+        "Neuquén histórico",
+        "cartografía"
+      ]
+    },
+    {
+      "id": "masneuquen-mapa-neuquen-1909",
+      "titulo": "Mapa de la Gobernación del Neuquén · 1909",
+      "autoria": "Oficina cartográfica de Pablo Ludwig; atlas de Aquilino Fernández",
+      "institucion": "Más Neuquén · Mapas y Planos",
+      "fecha": "1909",
+      "categoria": "Territorio y cartografía",
+      "tematica": "Cartografía histórica provincial, división territorial y contexto del norte patagónico",
+      "descripcion": "Mapa de la Gobernación del Neuquén publicado en el Pequeño Atlas General de la República Argentina, editado en 1909. La página identifica la obra y su contexto editorial. Se incorpora como cartografía provincial de época para comparar cómo se representaba el territorio; no es un plano específico de San Patricio del Chañar.",
+      "formato": "Página web",
+      "acceso": "origen",
+      "urlOriginal": "https://masneuquen.com/mapa-de-neuquen-1909/",
+      "estado": "Disponible en origen",
+      "accionExterna": "Ver mapa y referencia",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Se enlaza la publicación original y su material cartográfico; no se copia ni redistribuye la imagen.",
+        "referencia": "Más Neuquén, sección Mapas y Planos."
+      },
+      "procedencia": "Más Neuquén; mapa atribuido al Pequeño Atlas General de la República Argentina, 1909.",
+      "integridad": "Referencia digital consultada. La imagen y su descarga permanecen en el sitio de origen.",
+      "etiquetas": [
+        "1909",
+        "mapa",
+        "Neuquén",
+        "atlas",
+        "siglo XX temprano",
+        "cartografía histórica"
+      ]
+    },
+    {
+      "id": "masneuquen-mapa-neuquen-1906-igm",
+      "titulo": "Mapa del Neuquén · Instituto Geográfico Militar · 1906",
+      "autoria": "Instituto Geográfico Militar",
+      "institucion": "Más Neuquén · Mapas y Planos",
+      "fecha": "1906",
+      "categoria": "Territorio y cartografía",
+      "tematica": "División administrativa histórica del Neuquén, departamentos y organización territorial",
+      "descripcion": "Reproducción y explicación de un mapa provincial de 1906 elaborado por el Instituto Geográfico Militar. La publicación comenta la división administrativa fijada por decreto en 1904 y sus diferencias respecto de divisiones posteriores. Es una fuente de contexto territorial provincial, no un plano urbano ni parcelario de San Patricio del Chañar.",
+      "formato": "Página web",
+      "acceso": "origen",
+      "urlOriginal": "https://masneuquen.com/mapa-del-neuquen-del-ano-1906-elaborado-por-el-instituto-geografico-militar/",
+      "estado": "Disponible en origen",
+      "accionExterna": "Ver mapa histórico",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Se enlaza la publicación que presenta el mapa y su procedencia; no se copia ni redistribuye la imagen.",
+        "referencia": "Más Neuquén; mapa atribuido al Instituto Geográfico Militar y gentileza de la Dirección Provincial de Catastro."
+      },
+      "procedencia": "Más Neuquén, Mapas y Planos; referencia a material cartográfico del Instituto Geográfico Militar.",
+      "integridad": "Página de referencia consultada; la imagen de alta resolución se ofrece desde el sitio de origen.",
+      "etiquetas": [
+        "1906",
+        "Instituto Geográfico Militar",
+        "Neuquén",
+        "división administrativa",
+        "mapa histórico"
+      ]
+    },
+    {
+      "id": "masneuquen-mapa-neuquen-1926",
+      "titulo": "Mapa de la Gobernación del Neuquén · 1926",
+      "autoria": "Editorial Ángel Estrada",
+      "institucion": "Más Neuquén · Mapas y Planos",
+      "fecha": "1926",
+      "categoria": "Territorio y cartografía",
+      "tematica": "Cartografía histórica provincial, caminos y ferrocarriles, representación del territorio neuquino",
+      "descripcion": "Mapa de la Gobernación del Neuquén publicado por la editorial Ángel Estrada en 1926 e impreso en Edimburgo, según la referencia de Más Neuquén. La página destaca la representación de la línea ferroviaria de la época. Se incorpora como documento cartográfico provincial de contexto; no representa específicamente San Patricio del Chañar.",
+      "formato": "Página web",
+      "acceso": "origen",
+      "urlOriginal": "https://masneuquen.com/mapa-de-1926-gobernacion-del-neuquen/",
+      "estado": "Disponible en origen",
+      "accionExterna": "Ver mapa histórico",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Se enlaza la publicación que presenta la referencia cartográfica; no se copia ni redistribuye la imagen.",
+        "referencia": "Más Neuquén, sección Mapas y Planos."
+      },
+      "procedencia": "Más Neuquén; mapa de la Gobernación del Neuquén, Editorial Ángel Estrada, 1926.",
+      "integridad": "Referencia digital consultada; la imagen en alta resolución permanece en el sitio de origen.",
+      "etiquetas": [
+        "1926",
+        "Neuquén",
+        "mapa histórico",
+        "Editorial Ángel Estrada",
+        "ferrocarril",
+        "cartografía"
       ]
     }
   ]
