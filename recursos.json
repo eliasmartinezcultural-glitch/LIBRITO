@@ -1,6 +1,6 @@
 {
   "nombre": "Recursos de LIBRITO · San Patricio del Chañar",
-  "version": 9,
+  "version": 10,
   "descripcion": "Índice de fotografías, mapas, planos, archivos audiovisuales y otros materiales de consulta relacionados con San Patricio del Chañar.",
   "criterio": "Se registran recursos existentes y se enlaza a sus custodios o fuentes originales. La inclusión no implica autorización para descargar, copiar, republicar, adaptar o usar comercialmente. Cada ficha informa el estado de derechos conocido y el modo de acceso. Si las condiciones no están claras, el recurso se ofrece solo como referencia externa.",
   "recursos": [
@@ -617,6 +617,102 @@
         "2025"
       ],
       "fuente": "https://ambiente.neuquen.gov.ar/wp-content/uploads/2025/02/EIA-Poliducto.pdf"
+    },
+    {
+      "id": "youtube-san-patricio-del-chanar-desde-el-aire-2015",
+      "titulo": "San Patricio del Chañar desde el aire · registro audiovisual aéreo",
+      "categoria": "Video",
+      "tipo": "Video aéreo de la localidad publicado en YouTube",
+      "fecha": "26 de septiembre de 2015",
+      "autor": "Patricio Peñas; canal Estudio VeamosLasFotos",
+      "descripcion": "Video titulado San Patricio del Chañar (desde el aire), publicado en 2015 por un canal dedicado a fotografía y video. Es un registro visual aéreo útil para observar el paisaje urbano y productivo desde una perspectiva elevada. La ficha pública no detalla el equipo utilizado, la altura de vuelo ni las coordenadas exactas de cada toma; no debe tratarse como relevamiento cartográfico ni como imagen satelital oficial.",
+      "url": "https://www.youtube.com/watch?v=TUgasyuno7k",
+      "fuente": "https://www.youtube.com/watch?v=TUgasyuno7k",
+      "acceso": "Reproducción en línea en YouTube. No se ofrece aquí descarga ni copia del video.",
+      "derechos_estado": "Derechos del video no informados en la ficha consultada",
+      "derechos": "El video pertenece a su autor y canal publicador. Solicitar autorización antes de descargar, editar, reproducir públicamente o reutilizar fragmentos.",
+      "licencia": "No indicada en la publicación consultada.",
+      "etiquetas": [
+        "video",
+        "aéreo",
+        "vista desde el aire",
+        "paisaje urbano",
+        "paisaje productivo",
+        "2015"
+      ]
+    },
+    {
+      "id": "youtube-plaza-central-chanar-un-chanarense-suelto-2024",
+      "titulo": "Plaza central de San Patricio del Chañar · recorrido audiovisual",
+      "categoria": "Video",
+      "tipo": "Video breve de registro urbano y patrimonial",
+      "fecha": "13 de noviembre de 2024",
+      "autor": "Canal Un Chañarense Suelto",
+      "descripcion": "Video breve dedicado a mostrar la plaza central de San Patricio del Chañar. Es un registro audiovisual local de un espacio público y puede servir para observar su aspecto en la fecha de publicación. El canal lo presenta como material de turismo, patrimonio, cultura y naturaleza. No se lo debe interpretar como relevamiento arquitectónico ni como descripción exhaustiva de la plaza.",
+      "url": "https://www.youtube.com/watch?v=ZJ_3BOLQjrc",
+      "fuente": "https://www.youtube.com/watch?v=ZJ_3BOLQjrc",
+      "acceso": "Reproducción en línea en YouTube. No se ofrece aquí descarga ni copia del video.",
+      "derechos_estado": "Derechos del video no informados en la ficha consultada",
+      "derechos": "El video pertenece al canal Un Chañarense Suelto. Para reutilizarlo fuera de la plataforma, solicitar autorización al responsable del canal.",
+      "licencia": "No indicada en la publicación consultada.",
+      "etiquetas": [
+        "video",
+        "plaza central",
+        "espacio público",
+        "patrimonio",
+        "turismo",
+        "cultura",
+        "2024"
+      ]
+    },
+    {
+      "id": "lmneuquen-kayak-rio-neuquen-chanar-villa-manzano-2022",
+      "titulo": "Travesía en kayak por el río Neuquén · galería de San Patricio del Chañar y Villa Manzano",
+      "categoria": "Fotografías",
+      "tipo": "Galería fotográfica de actividad recreativa y paisaje fluvial",
+      "fecha": "13 de febrero de 2022",
+      "autor": "La Mañana de Neuquén; cobertura periodística",
+      "descripcion": "Galería asociada a una travesía en kayak que unió San Patricio del Chañar y Villa Manzano por el río Neuquén. La cobertura informa una actividad de alrededor de veinte kilómetros y menciona un avistaje de aves al llegar a San Patricio del Chañar. Las imágenes permiten consultar el paisaje del río y una actividad recreativa vinculada con la localidad; el recorrido también incluye territorio de Villa Manzano, por lo que no todas las fotografías deben atribuirse al ejido chañarense.",
+      "url": "https://www.lmneuquen.com/unieron-san-patricio-del-chanar-y-villa-manzano-kayak-n885624",
+      "fuente": "https://www.lmneuquen.com/unieron-san-patricio-del-chanar-y-villa-manzano-kayak-n885624",
+      "acceso": "Consulta de la nota y galería fotográfica en el sitio del medio.",
+      "derechos_estado": "Derechos de las fotografías no informados en la nota consultada",
+      "derechos": "Las fotografías pertenecen a sus autores y/o al medio. No descargarlas ni republicarlas sin autorización. La ficha enlaza a la cobertura original.",
+      "licencia": "No indicada en la publicación consultada.",
+      "etiquetas": [
+        "fotografías",
+        "río Neuquén",
+        "kayak",
+        "paisaje fluvial",
+        "aves",
+        "recreación",
+        "Villa Manzano",
+        "2022"
+      ]
+    },
+    {
+      "id": "tripadvisor-galeria-fotografica-san-patricio-del-chanar",
+      "titulo": "Galería de fotografías de visitantes · San Patricio del Chañar",
+      "categoria": "Fotografías",
+      "tipo": "Galería colaborativa de imágenes de viajeros",
+      "fecha": "Colección de fotografías de distintas fechas; consultar fechas y autores individuales",
+      "autor": "Visitantes y colaboradores de Tripadvisor",
+      "descripcion": "Galería colaborativa con fotografías aportadas por viajeros bajo la ubicación San Patricio del Chañar. La página consultada muestra imágenes de bodegas, viñedos y experiencias turísticas, con publicaciones de distintos años. Es útil como índice visual para descubrir perspectivas de visitantes y lugares fotografiados, pero cada imagen debe evaluarse individualmente: la ubicación, fecha, autoría y relación exacta con la localidad pueden variar.",
+      "url": "https://www.tripadvisor.co/LocationPhotos-g3750325-San_Patricio_del_Chanar_Province_of_Neuquen_Patagonia.html",
+      "fuente": "https://www.tripadvisor.co/LocationPhotos-g3750325-San_Patricio_del_Chanar_Province_of_Neuquen_Patagonia.html",
+      "acceso": "Consulta en línea de la galería de Tripadvisor. Las imágenes se muestran dentro de la plataforma.",
+      "derechos_estado": "Derechos individuales de cada fotografía sujetos a sus autores y a las condiciones de Tripadvisor",
+      "derechos": "No se concede permiso de descarga, republicación o reutilización por el solo hecho de que las fotografías sean visibles. Consultar al autor de cada imagen y respetar las condiciones de la plataforma.",
+      "licencia": "No se identifica una licencia abierta general para la galería.",
+      "etiquetas": [
+        "fotografías",
+        "galería de visitantes",
+        "turismo",
+        "bodegas",
+        "viñedos",
+        "paisaje",
+        "Tripadvisor"
+      ]
     }
   ]
 }
