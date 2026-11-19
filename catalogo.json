@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 33,
+  "version": 34,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -2576,6 +2576,69 @@
         "primeras obras",
         "riego",
         "escuela"
+      ]
+    },
+    {
+      "id": "roca-respuestas-locales-procesos-globales-2008",
+      "titulo": "Respuestas locales a procesos globales · un estudio de caso en la Norpatagonia",
+      "autoria": "Silvia Andrea Roca Vázquez",
+      "institucion": "Universidad de Granada · Departamento de Sociología",
+      "fecha": "2008-07-01",
+      "categoria": "Investigaciones y estudios académicos",
+      "tematica": "Transformaciones sociales, agroindustria frutícola, globalización, economía, política e identidad local entre 1995 y 2005",
+      "descripcion": "Registro académico de una tesis doctoral defendida en la Universidad de Granada en 2008. El estudio toma a San Patricio del Chañar como caso para analizar los cambios sociales entre 1995 y 2005, con atención a la expansión de la agroindustria de fruta fresca para exportación y a las dimensiones socioeconómica, político-institucional y simbólico-cultural. La ficha institucional permite identificar la tesis y su resumen; la disponibilidad de un texto completo descargable debe comprobarse en el repositorio.",
+      "formato": "Ficha académica y resumen",
+      "acceso": "origen",
+      "urlOriginal": "https://produccioncientifica.ugr.es/documentos/5eb2889429995203e2409a72",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar ficha académica",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Se enlaza el registro académico institucional. No se reproduce la tesis ni se presume que exista descarga pública.",
+        "referencia": "Universidad de Granada, producción científica, tesis de Silvia Andrea Roca Vázquez, defensa 01/07/2008."
+      },
+      "procedencia": "Repositorio de producción científica de la Universidad de Granada.",
+      "integridad": "Registro bibliográfico institucional localizado; el acceso al registro presentó demoras durante la consulta. Se conserva como ficha de referencia, no como copia íntegra.",
+      "etiquetas": [
+        "2008",
+        "tesis doctoral",
+        "Silvia Andrea Roca",
+        "1995-2005",
+        "agroindustria",
+        "fruticultura",
+        "globalización",
+        "transformaciones sociales"
+      ]
+    },
+    {
+      "id": "bo-neuquen-decreto-2636-2022-epea3",
+      "titulo": "Decreto 2636/2022 · creación de cargos para la EPEA Nº 3",
+      "autoria": "Poder Ejecutivo de la Provincia del Neuquén",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2022-12-29",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Educación pública, organización institucional y planta funcional de la EPEA Nº 3",
+      "descripcion": "Registro oficial del Decreto 2636/2022, publicado el 29 de diciembre de 2022. Convalida actuaciones del Consejo Provincial de Educación y crea cargos de auxiliares de servicio para la Escuela Provincial de Enseñanza Agrotécnica Nº 3 de San Patricio del Chañar. El texto expone necesidades vinculadas con el comedor, la higiene y el funcionamiento de una escuela de jornada extendida. Se incorpora como documento administrativo sobre una etapa posterior de consolidación institucional.",
+      "formato": "Página web",
+      "acceso": "origen",
+      "urlOriginal": "https://boficial.neuquen.gov.ar/LeyesDecretosDetalle?Id=416696",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar decreto oficial",
+      "autorizacion": {
+        "estado": "solo_referencia",
+        "base": "Se enlaza la ficha y el texto normativo oficial. LIBRITO no reconstruye ni modifica la norma.",
+        "referencia": "Boletín Oficial de Neuquén, Decreto 2636/2022, 29/12/2022, edición 4115."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, buscador de Leyes y Decretos.",
+      "integridad": "La ficha oficial identifica número, fecha, referencia y texto de la norma.",
+      "etiquetas": [
+        "2022",
+        "EPEA 3",
+        "educación",
+        "escuela agropecuaria",
+        "planta funcional",
+        "auxiliares de servicio",
+        "decreto"
       ]
     }
   ]
