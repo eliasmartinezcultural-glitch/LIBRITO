@@ -753,6 +753,135 @@
       "tipo": "noticia",
       "estado": "Disponible en origen",
       "derechos": "Artículo y fotografías pertenecen al medio editor. LIBRITO conserva referencia y enlace; no reproduce el contenido."
+    },
+    {
+      "id": "rn-2007-06-04-elecciones-soto-chanar",
+      "titulo": "Elecciones en Neuquén: Soto, del MPN, en El Chañar",
+      "fecha": "2007-06-04",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Crónica electoral sobre los resultados de los comicios municipales en San Patricio del Chañar y las candidaturas que participaron. Se conserva como registro periodístico de la vida institucional local; las cifras y resultados deben contrastarse con los registros electorales oficiales.",
+      "url": "https://www.rionegro.com.ar/elecciones-en-neuquen-soto-del-mpn-en-el-chanar-DDHRN2007617042021/",
+      "etiquetas": [
+        "elecciones",
+        "vida institucional",
+        "2007"
+      ],
+      "tipo": "noticia",
+      "estado": "Disponible en origen",
+      "derechos": "Artículo y fotografías pertenecen al medio editor. LIBRITO conserva referencia y enlace; no reproduce el contenido."
+    },
+    {
+      "id": "rn-2007-12-23-levantaron-corte-ruta",
+      "titulo": "Levantaron el corte de ruta en San Patricio del Chañar",
+      "fecha": "2007-12-23",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Cobertura de una protesta vecinal vinculada con reclamos de servicios y acceso a terrenos, con referencias a la Ruta Provincial 7. Se incorpora como documento de época sobre demandas sociales y urbanas, sin presentar la versión periodística como una reconstrucción completa de los hechos.",
+      "url": "https://www.rionegro.com.ar/levantaron-el-corte-de-ruta-en-san-patricio-del-chanar-DBHRN20071213232013/",
+      "etiquetas": [
+        "vida comunitaria",
+        "servicios",
+        "territorio",
+        "Ruta 7",
+        "2007"
+      ],
+      "tipo": "noticia",
+      "estado": "Disponible en origen",
+      "derechos": "Artículo y fotografías pertenecen al medio editor. LIBRITO conserva referencia y enlace; no reproduce el contenido."
+    },
+    {
+      "id": "neuquen-informa-2010-discurso-37-aniversario",
+      "titulo": "Discurso del gobernador Jorge Sapag en el 37.º aniversario de San Patricio del Chañar",
+      "fecha": "2010-05-21",
+      "medio": "Neuquén Informa",
+      "autor": "Jorge Sapag",
+      "descripcion": "Transcripción publicada del discurso pronunciado durante el acto aniversario de 2010. Incluye evocaciones de los primeros pobladores, Roberto Gasparri, la primera Comisión de Fomento y referencias a obras y servicios de la localidad. Es una fuente primaria para estudiar el discurso institucional de ese acto, no una verificación independiente de cada afirmación.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2010/05/21/8271-discurso-del-gobernador-jorge-sapag-en-el-37-aniversario-de-san-patricio-del-chanar-20-de-mayo-de-2010",
+      "etiquetas": [
+        "aniversario",
+        "2010",
+        "pioneros",
+        "memoria institucional",
+        "discurso"
+      ],
+      "tipo": "discurso",
+      "estado": "Disponible en origen",
+      "derechos": "Transcripción y fotografías pertenecen a la publicación original. LIBRITO conserva referencia y enlace."
+    },
+    {
+      "id": "rn-2012-06-22-cloacas-chanar",
+      "titulo": "Cloacas para El Chañar",
+      "fecha": "2012-06-22",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Nota sobre el proceso licitatorio para ampliar la red cloacal, reacondicionar y ampliar las lagunas de tratamiento en San Patricio del Chañar, dentro de un programa de servicios básicos municipales con financiamiento internacional.",
+      "url": "https://www.rionegro.com.ar/cloacas-para-el-chanar-EYRN_902677/",
+      "etiquetas": [
+        "saneamiento",
+        "infraestructura",
+        "servicios públicos",
+        "2012"
+      ],
+      "tipo": "noticia",
+      "estado": "Disponible en origen",
+      "derechos": "Artículo y fotografías pertenecen al medio editor. LIBRITO conserva referencia y enlace; no reproduce el contenido."
+    },
+    {
+      "id": "neuquen-informa-2015-05-21-aniversario-42",
+      "titulo": "San Patricio del Chañar festejó el 42.º aniversario de su fundación",
+      "fecha": "2015-05-21",
+      "medio": "Neuquén Informa",
+      "autor": "Redacción",
+      "descripcion": "Cobertura oficial del aniversario 42 y de las inauguraciones de la Planta de Tratamiento de Líquidos Cloacales, aulas de la Escuela Especial Nº 19 y Sala de Artes del CPEM Nº 31.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2015/05/21/64802-san-patricio-del-chanar-festejo-el-42-aniversario-de-su-fundacion",
+      "etiquetas": [
+        "aniversario",
+        "2015",
+        "obras públicas",
+        "educación",
+        "saneamiento"
+      ],
+      "tipo": "noticia",
+      "estado": "Disponible en origen",
+      "derechos": "Artículo y fotografías pertenecen al medio editor. LIBRITO conserva referencia y enlace; no reproduce el contenido."
+    },
+    {
+      "id": "neuquen-informa-2016-05-21-aniversario-43",
+      "titulo": "43.º aniversario de San Patricio del Chañar",
+      "fecha": "2016-05-21",
+      "medio": "Neuquén Informa",
+      "autor": "Gobierno de la Provincia del Neuquén",
+      "descripcion": "Registro oficial de la conmemoración del 43.º aniversario. La publicación incluye fragmentos del mensaje pronunciado durante el acto y referencias a instituciones, comunidad educativa, clubes y vida local.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2016/05/21/81953-43-aniversario-de-san-patricio-del-chanar",
+      "etiquetas": [
+        "aniversario",
+        "2016",
+        "instituciones",
+        "comunidad"
+      ],
+      "tipo": "noticia",
+      "estado": "Disponible en origen",
+      "derechos": "Artículo y fotografías pertenecen al medio editor. LIBRITO conserva referencia y enlace; no reproduce el contenido."
+    },
+    {
+      "id": "rn-2016-07-16-obra-riego-chanar",
+      "titulo": "Una millonaria obra de riego para El Chañar que acumula errores",
+      "fecha": "2016-07-16",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Cobertura sobre el proyecto de modernización del sistema de riego, los nuevos canales, la distribución del agua y las observaciones formuladas por productores durante la ejecución de las obras. Es un registro periodístico de debate público sobre infraestructura productiva.",
+      "url": "https://www.rionegro.com.ar/una-millonaria-obra-de-riego-para-el-chanar-que-acumula-errores-YF766256/",
+      "etiquetas": [
+        "riego",
+        "producción",
+        "infraestructura",
+        "2016",
+        "chacras"
+      ],
+      "tipo": "noticia",
+      "estado": "Disponible en origen",
+      "derechos": "Artículo y fotografías pertenecen al medio editor. LIBRITO conserva referencia y enlace; no reproduce el contenido."
     }
   ]
 }
