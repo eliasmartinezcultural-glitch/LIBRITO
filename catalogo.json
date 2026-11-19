@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 25,
+  "version": 26,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -1394,7 +1394,12 @@
         "referencia": "Universidad Nacional del Comahue, Facultad de Ciencias del Ambiente y la Salud; tesis de María Clara López Ordieres, Neuquén, 2016."
       },
       "procedencia": "Repositorio Digital Institucional de la Universidad Nacional del Comahue; Facultad de Ciencias del Ambiente y la Salud.",
-      "integridad": "PDF original enlazado desde el repositorio institucional. Se verificaron portada, autoría, fecha, resumen y apartados que mencionan expresamente a San Patricio del Chañar."
+      "integridad": "PDF original enlazado desde el repositorio institucional. Se verificaron portada, autoría, fecha, resumen y apartados que mencionan expresamente a San Patricio del Chañar.",
+      "etiquetas": [
+        "riego",
+        "infraestructura hídrica",
+        "producción agrícola"
+      ]
     },
     {
       "id": "bases-concurso-parque-deportivo-cultural-2020",
@@ -1471,10 +1476,10 @@
       "categoria": "Libros y publicaciones",
       "tematica": "Biografía, historia local, fruticultura, pioneros y desarrollo de San Patricio del Chañar",
       "descripcion": "Registro bibliográfico institucional del libro Roberto Gasparri: El visionario, escrito por Javier Avena y publicado en San Patricio del Chañar en 2009. La ficha informa una extensión de 202 páginas y describe la obra como una biografía del empresario e impulsor de la colonia agrícola local. La Biblioteca de la Legislatura consigna un ejemplar en su colección Patagónica. Se incorpora como referencia para localizar y consultar el libro; no se ofrece una descarga del texto.",
-      "formato": "Ficha de catálogo bibliográfico",
+      "formato": "Página web",
       "acceso": "ficha",
       "urlOriginal": "https://www.legislaturaneuquen.gob.ar/BibliotecaCatalogoLibro?libro=2808",
-      "estado": "Ficha bibliográfica disponible",
+      "estado": "Disponible en origen",
       "accionExterna": "Consultar catálogo bibliográfico",
       "autorizacion": {
         "estado": "enlace_a_catalogo",
@@ -1515,10 +1520,10 @@
       "categoria": "Normativa y documentos públicos",
       "tematica": "Escuela N.º 273, cooperadora escolar, participación comunitaria y vida institucional",
       "descripcion": "Aviso publicado en el Boletín Oficial provincial del 6 de septiembre de 2002. La Comisión Directiva de la Cooperadora Escolar Santísima Trinidad de San Patricio del Chañar convoca a Asamblea General Ordinaria en las instalaciones de la Escuela N.º 273 e incluye el orden del día. Es una pieza breve de archivo que documenta la actividad formal de una organización escolar local en 2002; no se presenta como acta de la asamblea.",
-      "formato": "Registro de Boletín Oficial",
+      "formato": "Página web",
       "acceso": "origen",
       "urlOriginal": "https://infoleg.neuquen.gov.ar/BoletinDetalle?Id=317",
-      "estado": "Referencia disponible en índice oficial",
+      "estado": "Disponible en origen",
       "accionExterna": "Consultar Boletín Oficial",
       "autorizacion": {
         "estado": "enlace_a_publicacion_oficial",
@@ -1559,7 +1564,7 @@
       "categoria": "Normativa y documentos públicos",
       "tematica": "Historia escolar, memoria institucional, balances y renovación de autoridades",
       "descripcion": "Convocatoria a Asamblea General Ordinaria de la Cooperadora Escolar Santísima Trinidad, prevista para el 17 de septiembre de 2003 en la Escuela N.º 273. El orden del día incluye la consideración de la memoria y del estado de ingresos y gastos del ejercicio cerrado el 30 de junio de 2003, además de la renovación de autoridades. El aviso documenta la convocatoria, no el desarrollo ni los resultados de la reunión.",
-      "formato": "Referencia web",
+      "formato": "Página web",
       "acceso": "origen",
       "urlOriginal": "https://infoleg.neuquen.gov.ar/BoletinDetalle?Id=369",
       "urlFicha": "https://infoleg.neuquen.gov.ar/BoletinDetalle?Id=369",
@@ -1581,7 +1586,7 @@
       "categoria": "Normativa y documentos públicos",
       "tematica": "Organización comunitaria, desarrollo local y asociaciones civiles",
       "descripcion": "Convocatoria a la Asamblea General Ordinaria de ADINEC, prevista para el 10 de agosto de 2002 en la Escuela Primaria N.º 342, ubicada en el Parque Industrial de San Patricio del Chañar. El aviso indica que se tratarían la renovación de autoridades y revisores de cuentas y el informe de gestión del período irregular cerrado el 31 de mayo de 2002. No contiene el acta ni acredita los resultados de la asamblea.",
-      "formato": "Referencia web",
+      "formato": "Página web",
       "acceso": "origen",
       "urlOriginal": "https://infoleg.neuquen.gov.ar/BoletinDetalle?Id=311",
       "urlFicha": "https://infoleg.neuquen.gov.ar/BoletinDetalle?Id=311",
@@ -1658,7 +1663,12 @@
         "referencia": "Anexo al Boletín Oficial de la Provincia del Neuquén, edición 2820, 25-04-2003."
       },
       "procedencia": "Boletín Oficial de la Provincia del Neuquén, anexo de ordenanzas municipales, edición 2820, 25 de abril de 2003.",
-      "integridad": "PDF oficial completo; ordenanzas identificadas en páginas 2 a 4 del anexo."
+      "integridad": "PDF oficial completo; ordenanzas identificadas en páginas 2 a 4 del anexo.",
+      "etiquetas": [
+        "riego",
+        "infraestructura hídrica",
+        "producción agrícola"
+      ]
     },
     {
       "id": "boletin-neuquen-adinec-asamblea-2005",
@@ -1669,7 +1679,7 @@
       "categoria": "Normativa y documentos públicos",
       "tematica": "Historia institucional, desarrollo local y rendición de cuentas de asociaciones civiles",
       "descripcion": "Convocatoria a Asamblea General Ordinaria de ADINEC para el 9 de junio de 2005 en la Municipalidad de San Patricio del Chañar. El orden del día prevé tratar la convocatoria postergada y poner a consideración la memoria, el inventario, los estados contables y el informe de revisores de cuentas. La publicación registra el llamado, no incorpora los estados contables ni el acta.",
-      "formato": "Referencia web",
+      "formato": "Página web",
       "acceso": "origen",
       "urlOriginal": "https://infoleg.neuquen.gov.ar/BoletinDetalle?Id=462",
       "urlFicha": "https://infoleg.neuquen.gov.ar/BoletinDetalle?Id=462",
@@ -1691,7 +1701,7 @@
       "categoria": "Normativa y documentos públicos",
       "tematica": "Historia del riego, organización de regantes, producción agrícola y administración comunitaria",
       "descripcion": "Convocatoria a Asamblea General Ordinaria del Consorcio de Riego y Drenaje de El Chañar para el 16 de agosto de 2003, en su local de calle Pehuén. El aviso propone tratar la memoria y el balance del ejercicio cerrado el 31 de diciembre de 2002, el presupuesto 2003 y la renovación parcial de la comisión administradora. Es una fuente directa sobre la vida institucional del sistema de riego; no contiene el acta ni el balance.",
-      "formato": "Referencia web",
+      "formato": "Página web",
       "acceso": "origen",
       "urlOriginal": "https://infoleg.neuquen.gob.ar/BoletinDetalle?id=364",
       "urlFicha": "https://infoleg.neuquen.gob.ar/BoletinDetalle?id=364",
@@ -1702,7 +1712,12 @@
         "referencia": "Boletín Oficial de la Provincia del Neuquén, 01-08-2003, página 14."
       },
       "procedencia": "Boletín Oficial de la Provincia del Neuquén, convocatoria publicada el 1 de agosto de 2003.",
-      "integridad": "Registro identificado en el índice oficial; acceso automatizado inestable durante la investigación."
+      "integridad": "Registro identificado en el índice oficial; acceso automatizado inestable durante la investigación.",
+      "etiquetas": [
+        "riego",
+        "infraestructura hídrica",
+        "producción agrícola"
+      ]
     },
     {
       "id": "boletin-neuquen-camara-productores-chanar-asamblea-2005",
@@ -1713,7 +1728,7 @@
       "categoria": "Normativa y documentos públicos",
       "tematica": "Historia productiva, organización de productores, fruticultura y memoria institucional",
       "descripcion": "Convocatoria a Asamblea General Ordinaria de la Cámara de Productores Agropecuarios, prevista para el 26 de octubre de 2005 en el local del Consorcio de Riego y Drenaje El Chañar. El orden del día incluye memorias y balances de ejercicios comprendidos entre 1995 y 2005, además de la renovación de la comisión administradora. El aviso enumera autoridades y vocales salientes, entre ellos Roberto Gasparri como vocal primero. Es una fuente especialmente valiosa para identificar actores y continuidad institucional, pero no contiene los balances ni acredita el resultado de la elección.",
-      "formato": "Referencia web",
+      "formato": "Página web",
       "acceso": "origen",
       "urlOriginal": "https://boletinoficial.neuquen.gov.ar/BoletinDetalle?Id=483",
       "urlFicha": "https://boletinoficial.neuquen.gov.ar/BoletinDetalle?Id=483",
@@ -1724,7 +1739,12 @@
         "referencia": "Boletín Oficial de la Provincia del Neuquén, 14-10-2005, página 20."
       },
       "procedencia": "Boletín Oficial de la Provincia del Neuquén, convocatoria publicada el 14 de octubre de 2005.",
-      "integridad": "Texto recuperado del índice oficial; la ficha web directa no respondió durante esta consulta."
+      "integridad": "Texto recuperado del índice oficial; la ficha web directa no respondió durante esta consulta.",
+      "etiquetas": [
+        "riego",
+        "infraestructura hídrica",
+        "producción agrícola"
+      ]
     },
     {
       "id": "neuquen-ley-1125-1978-juzgado-paz-chanar",
@@ -1735,7 +1755,7 @@
       "categoria": "Normativa y documentos públicos",
       "tematica": "Historia institucional, justicia de paz y organización administrativa local",
       "descripcion": "Registro oficial de la Ley provincial 1125, fechada el 31 de octubre de 1978, que crea un Juzgado de Paz en San Patricio del Chañar, además de otros juzgados en la provincia. La ficha legislativa indica que la norma fue modificada por la Ley 1195. Es un antecedente normativo primario para investigar la organización judicial local; consultar el texto íntegro y sus modificaciones antes de extraer conclusiones sobre su puesta en funcionamiento.",
-      "formato": "Referencia web",
+      "formato": "Página web",
       "acceso": "origen",
       "urlOriginal": "https://boficial.neuquen.gov.ar/LeyesDecretosDetalle?Id=210081",
       "urlFicha": "https://boficial.neuquen.gov.ar/LeyesDecretosDetalle?Id=210081",
@@ -1768,7 +1788,13 @@
         "referencia": "Boletín Oficial de la Provincia del Neuquén, edición 3306, 13-07-2012, páginas 24–25."
       },
       "procedencia": "Boletín Oficial de la Provincia del Neuquén; publicación del PROSAP y del Gobierno provincial.",
-      "integridad": "PDF oficial completo, consulta pública localizada en páginas 24–25."
+      "integridad": "PDF oficial completo, consulta pública localizada en páginas 24–25.",
+      "etiquetas": [
+        "riego",
+        "infraestructura hídrica",
+        "producción agrícola",
+        "PROSAP"
+      ]
     },
     {
       "id": "prosap-licitacion-internacional-riego-chanar-2012",
@@ -1790,7 +1816,13 @@
         "referencia": "Boletín Oficial de la Provincia del Neuquén, edición 3331, 28-12-2012, página 21."
       },
       "procedencia": "Boletín Oficial de la Provincia del Neuquén, llamado a licitación del PROSAP y Ministerio de Desarrollo Territorial.",
-      "integridad": "PDF oficial completo; aviso localizado en página 21."
+      "integridad": "PDF oficial completo; aviso localizado en página 21.",
+      "etiquetas": [
+        "riego",
+        "infraestructura hídrica",
+        "producción agrícola",
+        "PROSAP"
+      ]
     },
     {
       "id": "uai-prosap-auditoria-riego-chanar-2016",
@@ -1812,7 +1844,13 @@
         "referencia": "Informe Definitivo UAI N.º 028-001/2016, Programa 41 PROSAP II BIRF 7597-AR, 55 páginas."
       },
       "procedencia": "Unidad de Auditoría Interna del Ministerio de Agroindustria de la Nación; verificación de obras en Neuquén, octubre de 2016.",
-      "integridad": "PDF oficial completo de 55 páginas, con apartado local y anexo fotográfico de los lotes 1 y 2."
+      "integridad": "PDF oficial completo de 55 páginas, con apartado local y anexo fotográfico de los lotes 1 y 2.",
+      "etiquetas": [
+        "riego",
+        "infraestructura hídrica",
+        "producción agrícola",
+        "PROSAP"
+      ]
     },
     {
       "id": "neuquen-informa-discurso-sapag-obras-chanar-2011",
@@ -1823,7 +1861,7 @@
       "categoria": "Historia y memoria",
       "tematica": "Memoria institucional, obras públicas, Roberto Gasparri, infraestructura urbana y modernización del riego",
       "descripcion": "Transcripción institucional del discurso pronunciado durante una recorrida de obras en San Patricio del Chañar. Incluye referencias al homenaje a Roberto Gasparri, obras de infraestructura urbana, alumbrado, la Escuela Especial 19 y el anuncio del proyecto PROSAP para modernizar el sistema de riego. Las cifras, previsiones y valoraciones se conservan como declaraciones del gobernador en esa fecha, no como comprobación independiente de su ejecución.",
-      "formato": "Transcripción web",
+      "formato": "Página web",
       "acceso": "origen",
       "urlOriginal": "https://www.neuqueninforma.gob.ar/amp/noticias/2011/02/03/10504-discurso-del-gobernador-jorge-sapag-durante-una-recorrida-de-obras-en-san-patricio-del-chanar-3-de-febrero-de-2011",
       "urlFicha": "https://www.neuqueninforma.gob.ar/",
@@ -1834,7 +1872,63 @@
         "referencia": "Neuquén Informa, 03-02-2011."
       },
       "procedencia": "Neuquén Informa, Secretaría de Prensa y Comunicación del Gobierno de la Provincia del Neuquén.",
-      "integridad": "Transcripción web oficial consultada; declaraciones atribuidas al gobernador."
+      "integridad": "Transcripción web oficial consultada; declaraciones atribuidas al gobernador.",
+      "etiquetas": [
+        "riego",
+        "infraestructura hídrica",
+        "producción agrícola",
+        "PROSAP"
+      ]
+    },
+    {
+      "id": "diprose-informe-gestion-2016-2019-riego-chanar",
+      "titulo": "Informe de gestión DIPROSE 2016–2019 · obra de riego finalizada en San Patricio del Chañar",
+      "autoria": "Dirección General de Programas y Proyectos Sectoriales y Especiales (DIPROSE)",
+      "institucion": "Ministerio de Agricultura, Ganadería y Pesca de la Nación",
+      "fecha": "2019-12",
+      "categoria": "Informes y estadísticas",
+      "tematica": "Historia del riego, infraestructura rural, producción vitivinícola y frutícola, inversión pública",
+      "descripcion": "Informe nacional de gestión del período 2016–2019. En la sección de obras de riego finalizadas incluye una ficha específica de San Patricio del Chañar: informa que la obra concluyó en marzo de 2017, que permitió incorporar 2.500 hectáreas al sistema productivo y que alcanzó a 145 productores. Describe la modificación de la red de drenaje y el nuevo sistema de distribución. Consigna una inversión total de US$ 34.014.812 y el ciclo de ejecución enero de 2014–marzo de 2017. Es una fuente oficial retrospectiva de cierre; sus cifras se atribuyen al informe y no deben confundirse con presupuestos preliminares publicados en años anteriores.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://www.argentina.gob.ar/sites/default/files/informegestiondiprose-04-12-19_baja.pdf",
+      "urlFicha": "https://www.argentina.gob.ar/sites/default/files/informegestiondiprose-04-12-19_baja.pdf",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Informe público alojado en el portal oficial nacional. LIBRITO conserva la referencia y una descripción propia; no redistribuye el PDF.",
+        "referencia": "DIPROSE, Informe de gestión, diciembre de 2019, sección Sistemas de riego, página impresa 19–20."
+      },
+      "procedencia": "Dirección General de Programas y Proyectos Sectoriales y Especiales (DIPROSE), informe institucional de gestión 2016–2019.",
+      "integridad": "PDF completo consultado; la ficha local se encuentra en las páginas impresas 19–20 del apartado de obras finalizadas."
+    },
+    {
+      "id": "legislatura-neuquen-informe-hacienda-2010-riego-chanar",
+      "titulo": "Tareas realizadas por la Subsecretaría de Hacienda en 2010 · proyecto de riego de San Patricio del Chañar",
+      "autoria": "Subsecretaría de Hacienda de la Provincia del Neuquén",
+      "institucion": "Gobierno de la Provincia del Neuquén · Honorable Legislatura",
+      "fecha": "2010",
+      "categoria": "Informes y estadísticas",
+      "tematica": "Antecedentes del proyecto PROSAP, planificación presupuestaria, recursos hídricos y desarrollo productivo",
+      "descripcion": "Informe de gestión provincial incluido en la documentación presentada ante la Legislatura. En el apartado sobre el Programa de Servicios Agrícolas Provinciales describe el proyecto de modernización del sistema de riego de San Patricio del Chañar: unificación y revestimiento de canales, reparación de obras de arte, profundización de desagües y mejoras de drenaje. Registra para ese momento un monto estimado de US$ 27 millones y 1.320 beneficiarios directos según la formulación entonces informada. Son cifras y alcances de planificación de 2010, no el costo final ni el número definitivo de beneficiarios de la obra concluida en 2017.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://www.legislaturaneuquen.gob.ar/svrfiles/hln/documentos/DiaSesio/XL/AnexoReunion2/Hacienda.pdf",
+      "urlFicha": "https://www.legislaturaneuquen.gob.ar/svrfiles/hln/documentos/DiaSesio/XL/AnexoReunion2/Hacienda.pdf",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Documento institucional de acceso público en el sitio de la Legislatura provincial. LIBRITO enlaza el original y no reproduce el informe.",
+        "referencia": "Informe de gestión del Poder Ejecutivo, tomo Hacienda, apartado Tareas realizadas por la Subsecretaría de Hacienda en 2010."
+      },
+      "procedencia": "Subsecretaría de Hacienda de la Provincia del Neuquén; anexo documental del informe de gestión presentado ante la Honorable Legislatura.",
+      "integridad": "PDF oficial completo; apartado específico de modernización del sistema de riego local.",
+      "etiquetas": [
+        "riego",
+        "infraestructura hídrica",
+        "producción agrícola",
+        "PROSAP"
+      ]
     }
   ]
 }
