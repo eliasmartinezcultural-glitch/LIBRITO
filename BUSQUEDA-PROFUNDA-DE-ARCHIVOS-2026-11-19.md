@@ -153,3 +153,16 @@ Estado de referencia del catálogo: 21 registros; 2 PDF alojados localmente y 19
 ## Limitación de esta sesión
 
 Se identificaron enlaces y licencias, pero la descarga binaria desde los servidores institucionales falló en el entorno de trabajo. Por eso no se creó ningún PDF nuevo, no se modificó el catálogo y el avance permanece en 2/36. Esta limitación técnica no equivale a que los archivos no existan o no puedan recuperarse por descarga manual o por solicitud a la institución.
+
+
+## Ampliación de la ley editorial — compartir todo hallazgo pertinente
+
+La misión de LIBRITO no se limita a reunir PDF que podamos alojar en nuestro propio repositorio. Debe identificar y facilitar el acceso a todo archivo que trate sobre San Patricio del Chañar y aporte valor, aunque sea parte de una obra regional, provincial, nacional o internacional. La relación local debe describirse con precisión.
+
+La búsqueda no debe descartar un documento por tener derechos reservados o por no contar todavía con permiso de republicación. En esos casos se registra el hallazgo, se conserva la autoría y procedencia, se enlaza el original cuando existe acceso público y se solicita autorización si se quiere alojar una copia. La falta de permiso para copiar no es razón para ocultar la existencia de la obra.
+
+Los modos de compartir son: (1) copia completa en LIBRITO, cuando existe licencia o permiso aplicable; (2) enlace directo al original y a su ficha, cuando la fuente permite consultarlo pero no está autorizada la copia local; (3) referencia documental y gestión de acceso, cuando está en un archivo, biblioteca o fondo que requiere consulta o autorización.
+
+Atribuir correctamente no reemplaza el permiso de reproducción. LIBRITO no se apropia de obras, no quita créditos ni marcas, no modifica silenciosamente los originales y no presenta obras ajenas como propias. El objetivo es maximizar el acceso al conocimiento chañarense, no maximizar artificialmente el número de archivos alojados.
+
+El contador 2/36 mide únicamente PDF completos alojados y aprobados. No representa el total de materiales que LIBRITO puede reunir, enlazar o documentar. La colección general debe crecer también con materiales externos pertinentes, sin confundirlos con descargas locales.
