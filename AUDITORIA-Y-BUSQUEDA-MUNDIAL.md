@@ -254,3 +254,46 @@ La interfaz de LIBRITO se amplió para admitir imágenes y planos originales ext
 La interfaz también admite ahora el tipo de material “MAPA” para distinguirlo de PDF e imágenes corrientes. El archivo sigue alojado por la institución provincial y no se copia a LIBRITO.
 
 10. **De Buenos Aires al Neuquén · reseña geográfica, industrial y administrativa** (1902), Gabriel Carrasco. Libro de 116 páginas, fuente primaria de época sobre el territorio neuquino y el viaje desde la Confluencia hacia el norte. Se incorpora como lectura histórica regional complementaria, no como obra dedicada exclusivamente a San Patricio del Chañar. Google Play Books informa una edición digital gratuita; la Biblioteca Florentino Ameghino de la UNLP conserva el registro bibliográfico de la edición impresa. [Leer edición digital](https://play.google.com/store/books/details/Gabriel_Carrasco_De_Buenos_Aires_al_Neuqu%C3%A9n?id=Qg5bAAAAMAAJ) · [Registro bibliográfico UNLP](https://www.bfa.fcnym.unlp.edu.ar/id/15516). LIBRITO no aloja una copia PDF.
+
+
+## 9. Revisión de experiencia pública y accesibilidad — 19 de noviembre de 2026
+
+Se rehízo la experiencia de portada y el motor de fichas en la raíz y en `/web`.
+
+### Cambios aplicados
+
+- La portada ahora explica en lenguaje directo qué ofrece la biblioteca y cómo se usa.
+- Se añadió un enlace para saltar directamente al contenido con teclado.
+- Buscador y controles tienen etiquetas visibles, instrucciones breves y tamaños táctiles amplios.
+- La búsqueda ignora tildes y mayúsculas, y ahora incluye autoría, institución, fecha, formato, descripción, tema y palabras clave.
+- Se incorporó un botón “Limpiar” que borra búsqueda y categoría y devuelve el foco al buscador.
+- El selector temático aparece solo cuando hay categorías para elegir.
+- Cada ficha muestra de manera separada tipo de material, categoría, autoría, institución, fecha y modo de acceso.
+- Los archivos alojados tienen acciones inequívocas: “Abrir PDF para leer” y “Descargar PDF”.
+- Las referencias externas indican que se abren fuera de LIBRITO y que la descarga depende de la fuente original.
+- Los créditos, procedencia y condiciones quedan en una sección desplegable con texto legible.
+- Se eliminaron mensajes ambiguos sobre “descarga” cuando solo hay una ficha externa.
+- Se mejoraron los estados de carga, error, reintento y búsqueda sin resultados.
+- Se aumentaron tamaños de texto, contraste, áreas táctiles y adaptación a pantallas pequeñas.
+- Se respeta la preferencia del dispositivo por movimiento reducido y se mantiene una hoja de impresión simple.
+- La interfaz no necesita registro, cookies, almacenamiento local ni servicios externos para funcionar, salvo la conexión necesaria para cargar el catálogo y los documentos.
+
+### Auditoría del catálogo
+
+Se revisaron los 21 registros: no hay IDs duplicados y todos contienen título, autoría, institución, fecha, categoría, descripción, formato, estado, procedencia, integridad y condiciones de uso. Se distinguen 2 PDF alojados y 19 accesos externos. Los archivos externos no se confunden con archivos locales.
+
+### Corrección de una falla importante del validador
+
+El validador anterior exigía que todos los registros fueran PDF locales, tuvieran archivo y SHA-256, y por eso era incompatible con el catálogo mixto de 2 PDF locales y 19 referencias externas. Se reemplazó por una validación que distingue ambos tipos de registro y comprueba:
+- IDs únicos, campos obligatorios y categorías reconocidas.
+- Formatos admitidos y estados válidos.
+- URLs HTTP/HTTPS de las fuentes externas.
+- Rutas seguras, existencia, firma, hash SHA-256 y estructura de los PDF locales.
+- Correspondencia entre PDF locales y catálogo, sin archivos huérfanos.
+- Portadas, etiquetas esenciales y recursos de la interfaz.
+
+La automatización también ejecuta `node --check` sobre el JavaScript. La validación no puede certificar por sí sola la autorización jurídica, la exactitud histórica, la lectura visual de cada PDF ni la accesibilidad con usuarios reales.
+
+### Alcance de las pruebas
+
+Los archivos y el catálogo se inspeccionaron en GitHub. La URL pública de GitHub Pages no pudo ser abierta mediante el verificador web en esta sesión, por lo que no se afirma que la publicación en vivo ni la prueba en navegadores y dispositivos reales estén confirmadas. La automatización de GitHub Actions debe completar la validación posterior a estos cambios.
