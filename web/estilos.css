@@ -237,3 +237,11 @@ h2{margin:0;color:var(--verde-oscuro);font:normal clamp(30px,4vw,42px)/1.12 var(
  .seccion-hemeroteca .hemeroteca-anio{break-after:avoid;background:white}
  .seccion-hemeroteca .noticia-imagen{max-width:100%;break-inside:avoid}
 }
+
+/* Presentación fotográfica opcional para fichas de Obras: la imagen solo aparece si el registro aporta una URL segura. */
+.seccion-obras .documento-imagen{width:100%;margin:0 0 14px;overflow:hidden;border:1px solid #e4dece;border-radius:6px 15px 6px 15px;background:#eee9de}
+.seccion-obras .documento-imagen img{display:block;width:100%;aspect-ratio:16/9;object-fit:cover}
+.seccion-obras .documento-imagen figcaption{padding:6px 9px;color:#687269;font-size:10px;line-height:1.4}
+.seccion-obras .documento-imagen img:not([src]){display:none}
+@media(max-width:650px){.seccion-obras .documento-imagen{margin-bottom:12px}}
+@media print{.seccion-obras .documento-imagen{break-inside:avoid}}
