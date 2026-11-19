@@ -1,6 +1,6 @@
 {
   "nombre": "Recursos de LIBRITO · San Patricio del Chañar",
-  "version": 14,
+  "version": 15,
   "descripcion": "Índice de fotografías, mapas, planos, archivos audiovisuales y otros materiales de consulta relacionados con San Patricio del Chañar.",
   "criterio": "Se registran recursos existentes y se enlaza a sus custodios o fuentes originales. La inclusión no implica autorización para descargar, copiar, republicar, adaptar o usar comercialmente. Cada ficha informa el estado de derechos conocido y el modo de acceso. Si las condiciones no están claras, el recurso se ofrece solo como referencia externa.",
   "recursos": [
@@ -954,7 +954,7 @@
       "tipo": "Ficha técnica de asentamiento agrícola japonés en Neuquén",
       "fecha": "Datos relevados al 1 de abril y al 31 de julio de 1985; publicación catalogada en 1986",
       "autor": "Agencia de Cooperación Internacional del Japón (JICA) · publicación institucional de migración",
-      "descripcion": "Documento japonés de la serie 移住地概要 (Resumen de colonias de asentamiento), edición del año fiscal 1985, publicada en 1986. Identifica expresamente la colonia El Chañar en el departamento Añelo, provincia del Neuquén, con una superficie de 76 hectáreas y comienzo de la radicación en 1973. Describe su orientación frutícola, la plantación de manzanos desde 1974 y cultivos como frutilla, melón, chaucha e manzana. En el relevamiento de abril de 1985 registra tres hogares japoneses residentes con 14 personas y cuatro unidades agrícolas no residentes; la ficha consigna siete unidades agrícolas en total. Es un registro histórico japonés directo sobre la colonia vinculada con San Patricio del Chañar; las cifras corresponden exclusivamente a las fechas de corte del documento.",
+      "descripcion": "Documento japonés de la serie 移住地概要 (Resumen de colonias de asentamiento), edición del año fiscal 1985, publicada en 1986. Identifica expresamente la colonia El Chañar en el departamento Añelo, provincia del Neuquén, con una superficie de 76 hectáreas y comienzo de la radicación en 1973. Describe su orientación frutícola, la plantación de manzanos desde 1974 y cultivos como frutilla, melón, chaucha y manzana. En el relevamiento de abril de 1985 registra tres hogares japoneses residentes con 14 personas y cuatro unidades agrícolas no residentes; la ficha consigna siete unidades agrícolas en total. Es un registro histórico japonés directo sobre la colonia vinculada con San Patricio del Chañar; las cifras corresponden exclusivamente a las fechas de corte del documento.",
       "url": "https://openjicareport.jica.go.jp/pdf/10196368_02.pdf",
       "fuente": "JICA Report PDF · catálogo institucional: https://openjicareport.jica.go.jp/234/234_700.html",
       "acceso": "PDF de consulta en japonés, alojado en el repositorio oficial de informes de JICA. La información específica sobre El Chañar aparece en las páginas impresas 185–187 del documento.",
@@ -1008,7 +1008,7 @@
     {
       "id": "jica-cooperacion-agricola-colonias-japonesas-el-chanar-2000",
       "titulo": "Cooperación agrícola japonesa en Sudamérica · ensayos frutícolas en El Chañar",
-      "categoria": "Registros técnicos y audiovisuales",
+      "categoria": "Registros técnicos y documentales",
       "tipo": "Informe técnico internacional con cartografía y referencias a ensayos agrícolas",
       "fecha": "Marzo de 2000",
       "autor": "Agencia de Cooperación Internacional del Japón (JICA) · Departamento de Estudios de Desarrollo Agrícola y Pesquera",
@@ -1060,6 +1060,36 @@
         "espacios verdes",
         "instituciones",
         "catastro"
+      ]
+    },
+    {
+      "id": "regione-marche-attilio-gasparri-memoria-fotografica-italia-argentina",
+      "titulo": "Atilio Gasparri, el inmigrante que sembró el desierto · archivo familiar y memoria fotográfica",
+      "categoria": "Fotografías y documentos históricos",
+      "tipo": "Dossier biográfico ilustrado con fotografías familiares y registros de la empresa Gasparri",
+      "fecha": "Documento digital sin fecha de edición identificada; contiene fotografías y documentos de distintas épocas, entre ellos registros de 1968 y 1973",
+      "autor": "Colección Marchigiani nel Mondo · Regione Marche, Italia; autor individual no identificado en el PDF",
+      "descripcion": "Dossier biográfico publicado en el portal de la Región de Las Marcas, Italia, dedicado a Atilio Gasparri, nacido en Campofilone en 1897, y a la historia familiar que conecta Italia con la Patagonia argentina. Incluye fotografías históricas de Campofilone, la familia Gasparri, sus emprendimientos frutícolas y Gasparri Hnos.; también reproduce imágenes vinculadas directamente con El Chañar, entre ellas un cartel de campo previo a las obras de riego, trabajadores plantando árboles en 1968 y un antiguo cartel de ingreso a la localidad. El texto explica el vínculo entre Atilio y su sobrino Roberto Gasparri y la visión de desarrollo de San Patricio del Chañar. Es una fuente extranjera especialmente valiosa por conservar imágenes y memoria familiar; algunos pasajes son testimoniales y deben contrastarse con documentación independiente.",
+      "url": "https://static.regione.marche.it/portals/0/Marchigiani_nel_Mondo/Documenti/Atilio_Gasparri.pdf",
+      "fuente": "Regione Marche · Marchigiani nel Mondo",
+      "acceso": "PDF de consulta directa en el portal oficial de la Región de Las Marcas, Italia. Contiene fotografías, mapas, reproducciones documentales y relato biográfico.",
+      "derechos_estado": "No se identifica licencia abierta ni autoría individual de las fotografías en el PDF",
+      "derechos": "El documento está alojado en un portal institucional italiano, pero ello no demuestra que todas las fotografías y documentos familiares sean de dominio público. LIBRITO enlaza el PDF original sin extraer ni redistribuir imágenes. Para reproducción o uso editorial, solicitar autorización a la Región de Las Marcas y/o a los titulares de cada fotografía y documento.",
+      "licencia": "No identificada. Referencia externa para consulta.",
+      "etiquetas": [
+        "Italia",
+        "Regione Marche",
+        "Campofilone",
+        "Atilio Gasparri",
+        "Roberto Gasparri",
+        "Gasparri Hnos.",
+        "San Patricio del Chañar",
+        "fotografía histórica",
+        "memoria familiar",
+        "inmigración italiana",
+        "riego",
+        "1968",
+        "1973"
       ]
     }
   ]
