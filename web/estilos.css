@@ -182,3 +182,16 @@ h2{margin:0;color:var(--verde-oscuro);font:normal clamp(30px,4vw,42px)/1.12 var(
  .cabecera-seccion{margin-top:20px;padding:25px 0 22px}
  .volver{min-height:38px;padding:7px 10px;font-size:12px}
 }
+
+/* Personalización cromática sutil: conserva la estructura y la composición existentes. */
+.seccion-obras .documento{border-color:#e5dece;background:linear-gradient(180deg,#fffdf8 0%,#fffefa 100%)}
+.seccion-obras .documento:nth-of-type(4n+1){border-top-color:#6e8664}
+.seccion-obras .documento:nth-of-type(4n+2){border-top-color:#b47b55}
+.seccion-obras .documento:nth-of-type(4n+3){border-top-color:#b5a06b}
+.seccion-obras .documento:nth-of-type(4n){border-top-color:#7d9991}
+.seccion-obras .grupo-titulo:before{background:linear-gradient(90deg,var(--tierra),var(--oro))}
+.seccion-hemeroteca .noticia{border-color:#e4d9cc;background:linear-gradient(180deg,#fffdfa 0%,#fffaf4 100%)}
+.seccion-hemeroteca .noticia:nth-of-type(3n+1){border-top-color:#a96745}
+.seccion-hemeroteca .noticia:nth-of-type(3n+2){border-top-color:#8a9a75}
+.seccion-hemeroteca .noticia:nth-of-type(3n){border-top-color:#c39b62}
+.seccion-hemeroteca .noticia-meta{color:#946044}
