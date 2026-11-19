@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 49,
+  "version": 50,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -3877,6 +3877,179 @@
         "mensura",
         "dibujo histórico",
         "expedición"
+      ]
+    },
+    {
+      "id": "de-las-casas-noticia-caciques-pehuenches-pampas-1779",
+      "titulo": "Noticia individual de los caciques o capitanes pehuenches y pampas (1779)",
+      "autoria": "Diego de las Casas y Ventura Echeverría",
+      "institucion": "Autoridades coloniales del Virreinato del Río de la Plata; transcripción publicada en la colección de Pedro de Angelis",
+      "fecha": "1779",
+      "categoria": "Historia y memoria",
+      "tematica": "Pueblos originarios, cacicazgos, caminos, aguadas y geografía histórica de las fronteras coloniales",
+      "descripcion": "Documento fechado en 1779, conocido por su título extenso «Noticia individual de los caciques o capitanes pehuenches y pampas que residen al sud…». La obra registra caciques, lugares, aguadas, distancias y caminos en las fronteras de Córdoba, Buenos Aires y Santa Fe. Juan Mario Raone señaló una mención del nombre «Neuquen» entre los caciques, pero esa referencia no demuestra que el documento describa el actual valle inferior del río Neuquén ni el paraje Chañar. Se incorpora como antecedente documental para estudiar las denominaciones indígenas y la geografía política de la época; requiere cotejo con el texto completo y su manuscrito original.",
+      "formato": "Documento histórico transcripto en colección digital",
+      "acceso": "origen",
+      "urlOriginal": "https://www.cervantesvirtual.com/obra-visor/coleccion-de-viajes-y-expediciones-a-los-campos-de-buenos-aires-y-a-las-costas-de-patagonia--0/html/",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar colección digital",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "LIBRITO enlaza una edición digital de una colección histórica; no reproduce el documento ni atribuye derechos sobre la transcripción.",
+        "referencia": "De Angelis, Pedro (comp.). Colección de viajes y expediciones a los campos de Buenos Aires y a las costas de Patagonia; documento de Diego de las Casas y Ventura Echeverría, 1779."
+      },
+      "procedencia": "Biblioteca Virtual Miguel de Cervantes, colección digital de obras históricas.",
+      "integridad": "Se verificó el título del documento en la colección digital y se contrastó la referencia al nombre «Neuquen» con bibliografía posterior de Juan Mario Raone. No se verificó aún el manuscrito original ni una relación geográfica con San Patricio del Chañar.",
+      "etiquetas": [
+        "1779",
+        "Diego de las Casas",
+        "Ventura Echeverría",
+        "pehuenches",
+        "pampas",
+        "caciques",
+        "caminos",
+        "aguadas",
+        "Neuquen",
+        "siglo XVIII",
+        "fuente histórica"
+      ]
+    },
+    {
+      "id": "justo-molina-diario-viaje-chillan-buenos-aires-1805",
+      "titulo": "Diario de viaje de Justo Molina Vasconcellos por el camino de Chillán a Buenos Aires (1805)",
+      "autoria": "Justo Molina Vasconcellos",
+      "institucion": "Archivo General de la Nación Argentina · Sala IX · División Colonia",
+      "fecha": "1805",
+      "categoria": "Historia y memoria",
+      "tematica": "Caminos cordilleranos, comunicaciones entre Chile y Buenos Aires, geografía histórica y circulación por el territorio neuquino",
+      "descripcion": "Referencia archivística a un diario de viaje de Justo Molina Vasconcellos, relativo al camino desde Chillán hacia Buenos Aires por el boquete de Antuco. Una investigación académica cita su localización en el Archivo General de la Nación: Sala IX, División Colonia, legajo 39-5-5, expediente 1. El itinerario es una pista para reconstruir las rutas transcordilleranas de comienzos del siglo XIX, pero no se ha demostrado que pase por el actual San Patricio del Chañar. LIBRITO registra la signatura para facilitar la consulta del manuscrito; no presenta una copia digital como si estuviera disponible.",
+      "formato": "Manuscrito · referencia archivística",
+      "acceso": "ficha",
+      "urlOriginal": "https://revistas.unal.edu.co/index.php/rcg/article/download/75960/84324?inline=1",
+      "urlFicha": "https://www.argentina.gob.ar/interior/archivo-general-de-la-nacion",
+      "estado": "Referencia archivística localizada · original por consultar",
+      "accionExterna": "Consultar referencia y solicitar el manuscrito",
+      "autorizacion": {
+        "estado": "solo_referencia",
+        "base": "Se informa la signatura archivística y se enlaza al estudio que la cita. No se reproduce el manuscrito.",
+        "referencia": "Archivo General de la Nación, Sala IX, División Colonia, legajo 39-5-5, expediente 1; referencia bibliográfica a Molina Basconcelos, Justo de, 1805."
+      },
+      "procedencia": "Signatura citada en bibliografía académica de la Universidad Nacional de Colombia; consulta pendiente en el Archivo General de la Nación.",
+      "integridad": "La signatura se verificó en la bibliografía del artículo académico. No se tuvo acceso al manuscrito original ni se verificó el itinerario completo.",
+      "etiquetas": [
+        "1805",
+        "Justo Molina Vasconcellos",
+        "Archivo General de la Nación",
+        "Sala IX",
+        "División Colonia",
+        "Antuco",
+        "Chillán",
+        "Buenos Aires",
+        "caminos históricos",
+        "siglo XIX"
+      ]
+    },
+    {
+      "id": "aguirre-urreta-ramos-expedicion-luis-cruz-1806",
+      "titulo": "Los primeros registros geológicos y paleontológicos del Neuquén: la expedición de Luis de la Cruz y Goyeneche en 1806",
+      "autoria": "Beatriz Aguirre-Urreta y Víctor A. Ramos",
+      "institucion": "Revista del Museo de La Plata · Facultad de Ciencias Naturales y Museo · Universidad Nacional de La Plata",
+      "fecha": "2016",
+      "categoria": "Historia y memoria",
+      "tematica": "Expedición de 1806, rutas transcordilleranas, río Neuquén, geología histórica y primeros registros paleontológicos",
+      "descripcion": "Artículo académico publicado en Revista del Museo de La Plata, volumen 1, número especial, páginas 17–26. Reconstruye el viaje de reconocimiento de Luis de la Cruz y Goyeneche en 1806, desde el paso Pichachén por el río Reñileuvú hasta la confluencia de los ríos Curi Leuvú y Neuquén y otros parajes del norte neuquino. Identifica además el mapa original levantado por De la Cruz, conservado en el Archivo Histórico Nacional de Chile, Mapa n.º 224, Fondo Varios, volumen 934, foja 232. Es una fuente para conocer las rutas y observaciones de comienzos del siglo XIX en el norte provincial; el recorrido estudiado no llega al actual San Patricio del Chañar.",
+      "formato": "Artículo académico · PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://sedici.unlp.edu.ar/bitstream/handle/10915/67771/Revista_completa.pdf-PDFA.pdf%3Fsequence%3D1%26isAllowed%3Dy",
+      "urlFicha": "https://sedici.unlp.edu.ar/handle/10915/67307",
+      "estado": "Disponible en origen",
+      "accionExterna": "Leer artículo y consultar referencias al mapa original",
+      "autorizacion": {
+        "estado": "licencia_confirmada",
+        "base": "El registro institucional indica licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional. Se enlaza el artículo original; cualquier reutilización debe respetar la licencia.",
+        "referencia": "Aguirre-Urreta, Beatriz y Víctor A. Ramos, Revista del Museo de La Plata, 2016, vol. 1, n.º 3, pp. 17–26."
+      },
+      "procedencia": "SEDICI, repositorio institucional de la Universidad Nacional de La Plata.",
+      "integridad": "Se verificaron autoría, fecha, resumen, páginas, licencia y referencia archivística del mapa de 1806. El recorrido descrito corresponde al norte de Neuquén y no acredita presencia en el actual Chañar.",
+      "etiquetas": [
+        "1806",
+        "Luis de la Cruz y Goyeneche",
+        "Beatriz Aguirre-Urreta",
+        "Víctor Ramos",
+        "Archivo Histórico Nacional de Chile",
+        "mapa 224",
+        "Pichachén",
+        "río Neuquén",
+        "norte neuquino",
+        "geología histórica"
+      ]
+    },
+    {
+      "id": "vilariño-dabramo-perez-bernal-ruta-aldao-1788-2026",
+      "titulo": "La ruta del viaje de Francisco Esquivel Aldao (1788): un estudio de movilidad humana en la Patagonia argentina",
+      "autoria": "Martín R. Vilariño, Sergio L. D’Abramo, S. Iván Pérez y Valeria Bernal",
+      "institucion": "Revista Con-temporánea · Instituto Nacional de Antropología e Historia",
+      "fecha": "2026",
+      "categoria": "Historia y memoria",
+      "tematica": "Expedición de 1788, rutas históricas, movilidad indígena y fronteras coloniales en Mendoza y Neuquén",
+      "descripcion": "Investigación que reconstruye mediante fuentes documentales y modelado geográfico la ruta del comandante Francisco Esquivel Aldao desde el Fuerte de San Carlos, Mendoza, hasta Rucapulli, Neuquén, durante la expedición de 1788. Estudia la influencia de las condiciones ambientales y de la presencia de grupos originarios en la elección del recorrido. Es un antecedente para investigar conexiones históricas entre Cuyo y Neuquén, pero el trayecto presentado no demuestra paso por el valle inferior ni por el actual San Patricio del Chañar.",
+      "formato": "Artículo de investigación · publicación digital",
+      "acceso": "origen",
+      "urlOriginal": "https://con-temporanea.inah.gob.mx/index.php?a=listar_contenidos&c=presentacion&id=NTA%3D",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar artículo",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Se enlaza la publicación institucional del INAH. No se reproduce el artículo ni sus imágenes.",
+        "referencia": "Con-temporánea, Expediente H; publicación institucional del Instituto Nacional de Antropología e Historia, 2026."
+      },
+      "procedencia": "Revista Con-temporánea, Instituto Nacional de Antropología e Historia, México.",
+      "integridad": "Se verificaron autores, título, fecha de publicación, resumen y extremos geográficos declarados. El alcance del estudio es la ruta San Carlos–Rucapulli, no el paraje Chañar.",
+      "etiquetas": [
+        "1788",
+        "Francisco Esquivel Aldao",
+        "Martín Vilariño",
+        "Sergio D’Abramo",
+        "Neuquén",
+        "Mendoza",
+        "Rucapulli",
+        "pehuenches",
+        "rutas históricas",
+        "siglo XVIII"
+      ]
+    },
+    {
+      "id": "alvarez-alfonso-mapa-historico-neuquen-siglos-xvi-xix",
+      "titulo": "Mapa histórico del Neuquén: recorridos y expediciones entre los siglos XVI y XIX",
+      "autoria": "Gregorio Álvarez; dibujo cartográfico de María Inés Alfonso",
+      "institucion": "Publicado en Neuquén, Geografía, Historia, Toponimia; reproducción digital en Más Neuquén",
+      "fecha": "s/f",
+      "categoria": "Mapas y planos",
+      "tematica": "Cartografía histórica regional, rutas de expediciones, caminos cordilleranos y exploraciones del Neuquén",
+      "descripcion": "Mapa de síntesis histórica que reúne recorridos atribuidos a expediciones de los siglos XVI al XIX: viajes de Basilio Villarino, expediciones de Aldao, Justo de Molina y Luis de la Cruz, entre otros. La publicación informa que fue dibujado por María Inés Alfonso y apareció en la obra Neuquén, Geografía, Historia, Toponimia, de Gregorio Álvarez. Es una herramienta secundaria para orientar la búsqueda de itinerarios y comparar rutas; no es un mapa original del siglo XVI ni demuestra por sí solo que los recorridos más antiguos hayan atravesado el actual San Patricio del Chañar.",
+      "formato": "Mapa histórico de síntesis · reproducción digital",
+      "acceso": "origen",
+      "urlOriginal": "https://masneuquen.com/mapa-historico-del-neuquen-por-gregorio-alvarez-siglos-xvi-al-xix/",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar mapa y referencias",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Se enlaza la publicación que presenta la reproducción. No se descarga ni redistribuye el archivo de alta resolución.",
+        "referencia": "Gregorio Álvarez, Neuquén, Geografía, Historia, Toponimia; dibujo de María Inés Alfonso."
+      },
+      "procedencia": "Publicación Más Neuquén, sección Mapas y Planos.",
+      "integridad": "Se verificaron la descripción, autoría atribuida, procedencia editorial y los itinerarios enumerados por la publicación. Es una síntesis cartográfica moderna y contiene rutas calificadas como posibles o probables.",
+      "etiquetas": [
+        "Gregorio Álvarez",
+        "María Inés Alfonso",
+        "mapa histórico",
+        "Neuquén",
+        "siglos XVI al XIX",
+        "Villarino",
+        "Aldao",
+        "Justo Molina",
+        "Luis de la Cruz",
+        "rutas históricas"
       ]
     }
   ]
