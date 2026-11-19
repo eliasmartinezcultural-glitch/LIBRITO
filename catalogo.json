@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 30,
+  "version": 31,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -2424,6 +2424,126 @@
         "Editorial Ángel Estrada",
         "ferrocarril",
         "cartografía"
+      ]
+    },
+    {
+      "id": "bo-neuquen-decretos-agua-chanar-1975",
+      "titulo": "Abastecimiento de agua potable · decretos provinciales 3883 y 3884/1975",
+      "autoria": "Poder Ejecutivo de la Provincia del Neuquén",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "1975-12-19",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Infraestructura histórica, agua potable y obras públicas en San Patricio del Chañar",
+      "descripcion": "Índice oficial de decretos del 19 de diciembre de 1975. Los registros 3883 y 3884 mencionan expresamente la provisión de agua potable a San Patricio del Chañar y el reconocimiento de mayores costos de obra. El portal informa que los archivos PDF no fueron encontrados físicamente; por eso esta ficha documenta la referencia del índice, no el texto íntegro de los decretos.",
+      "formato": "Página web",
+      "acceso": "origen",
+      "urlOriginal": "https://boficial.neuquen.gov.ar/LeyesDecretos?pagina=16304",
+      "estado": "Referencia de índice · PDF no disponible en el portal",
+      "accionExterna": "Consultar índice oficial",
+      "autorizacion": {
+        "estado": "solo_referencia",
+        "base": "Se enlaza el índice público del Boletín Oficial. No se aloja ni reconstruye el texto de los decretos.",
+        "referencia": "Boletín Oficial de la Provincia del Neuquén, decretos 3883 y 3884, 19/12/1975."
+      },
+      "procedencia": "Buscador de Leyes y Decretos del Boletín Oficial de la Provincia del Neuquén.",
+      "integridad": "Referencia localizada en el índice oficial. El propio portal señala que los archivos no fueron encontrados físicamente; pendiente de localizar ejemplar impreso o copia de archivo.",
+      "etiquetas": [
+        "1975",
+        "agua potable",
+        "infraestructura",
+        "decretos",
+        "archivo oficial",
+        "documentación faltante"
+      ]
+    },
+    {
+      "id": "bo-neuquen-decreto-1073-1976-ferraresso",
+      "titulo": "Decreto 1073/1976 · confirmación de Tulio E. Ferraresso en la Comisión de Fomento",
+      "autoria": "Poder Ejecutivo de la Provincia del Neuquén",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "1976-08-03",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Primeras autoridades, Comisión de Fomento y organización institucional local",
+      "descripcion": "Registro oficial del Decreto provincial 1073/1976, fechado el 3 de agosto de 1976. Su referencia indica que confirma a Tulio E. Ferraresso en el cargo de presidente de la Comisión de Fomento de San Patricio del Chañar. El portal informa que el archivo PDF no se encontró físicamente: se conserva la referencia y no se atribuye contenido adicional al documento.",
+      "formato": "Página web",
+      "acceso": "origen",
+      "urlOriginal": "https://boficial.neuquen.gov.ar/LeyesDecretosDetalle?Id=344191",
+      "estado": "Referencia oficial · PDF no disponible",
+      "accionExterna": "Consultar registro oficial",
+      "autorizacion": {
+        "estado": "solo_referencia",
+        "base": "Enlace a la ficha pública del Boletín Oficial; no se reproduce un documento cuyo archivo no está disponible.",
+        "referencia": "Boletín Oficial de Neuquén, Decreto 1073/1976, 03/08/1976."
+      },
+      "procedencia": "Buscador oficial de Leyes y Decretos de la Provincia del Neuquén.",
+      "integridad": "La ficha oficial identifica número, fecha y objeto del decreto. El archivo adjunto figura como no encontrado físicamente.",
+      "etiquetas": [
+        "1976",
+        "Tulio Ferraresso",
+        "Comisión de Fomento",
+        "autoridades",
+        "decreto",
+        "archivo histórico"
+      ]
+    },
+    {
+      "id": "bo-neuquen-decreto-1720-1978-chanar",
+      "titulo": "Decreto 1720/1978 · atribuciones normativas de la Comisión de Fomento",
+      "autoria": "Poder Ejecutivo de la Provincia del Neuquén",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "1978-08-07",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Administración local, ordenanzas, uso de la vía pública y tránsito",
+      "descripcion": "Registro oficial del Decreto provincial 1720/1978, fechado el 7 de agosto de 1978. Autoriza a la Comisión de Fomento de San Patricio del Chañar a sancionar y promulgar una ordenanza para ampliar disposiciones de la ordenanza general impositiva, relacionadas con ocupación de la vía pública y multas de tránsito. El portal indica que no dispone del PDF del decreto.",
+      "formato": "Página web",
+      "acceso": "origen",
+      "urlOriginal": "https://boficial.neuquen.gov.ar/LeyesDecretosDetalle?Id=332421",
+      "estado": "Referencia oficial · PDF no disponible",
+      "accionExterna": "Consultar registro oficial",
+      "autorizacion": {
+        "estado": "solo_referencia",
+        "base": "Se enlaza la ficha pública del Boletín Oficial. No se reproduce ni reconstruye el texto del decreto.",
+        "referencia": "Boletín Oficial de Neuquén, Decreto 1720/1978, 07/08/1978."
+      },
+      "procedencia": "Buscador oficial de Leyes y Decretos de la Provincia del Neuquén.",
+      "integridad": "La ficha oficial identifica número, fecha y objeto. El portal informa que no dispone del texto PDF.",
+      "etiquetas": [
+        "1978",
+        "Comisión de Fomento",
+        "ordenanzas",
+        "tránsito",
+        "administración local",
+        "decreto"
+      ]
+    },
+    {
+      "id": "bo-neuquen-decreto-1202-1979-chanar-presupuesto",
+      "titulo": "Decreto 1202/1979 · presupuesto municipal de San Patricio del Chañar",
+      "autoria": "Poder Ejecutivo de la Provincia del Neuquén",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "1979-06-15",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Administración municipal, presupuesto y primeras etapas institucionales",
+      "descripcion": "Registro oficial del Decreto provincial 1202/1979, fechado el 15 de junio de 1979. Su referencia autoriza a la Municipalidad de San Patricio del Chañar a sancionar y promulgar una ordenanza para poner en vigencia el Presupuesto General del ejercicio 1979. El portal muestra la opción de descarga, pero informa que el archivo no se encontró físicamente.",
+      "formato": "Página web",
+      "acceso": "origen",
+      "urlOriginal": "https://boficial.neuquen.gov.ar/LeyesDecretosDetalle?Id=331856",
+      "estado": "Referencia oficial · PDF no disponible",
+      "accionExterna": "Consultar registro oficial",
+      "autorizacion": {
+        "estado": "solo_referencia",
+        "base": "Se enlaza el registro oficial de la norma. No se reproduce ni reconstruye el texto del decreto.",
+        "referencia": "Boletín Oficial de Neuquén, Decreto 1202/1979, 15/06/1979."
+      },
+      "procedencia": "Buscador oficial de Leyes y Decretos de la Provincia del Neuquén.",
+      "integridad": "La ficha oficial identifica número, fecha y objeto. El archivo adjunto no está disponible físicamente en el portal.",
+      "etiquetas": [
+        "1979",
+        "presupuesto",
+        "Municipalidad",
+        "administración local",
+        "decreto",
+        "archivo histórico"
       ]
     }
   ]
