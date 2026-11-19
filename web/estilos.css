@@ -1909,3 +1909,92 @@ body{background-color:var(--papel);color:var(--tinta)}
 .seccion-recursos .boton-compartir.copiar{background:#f4eadb;color:#725139;border-color:#ddc7a6}
 .recursos-criterio{border-color:#d8dccc;background:linear-gradient(115deg,#f9faf4,#f0f3e9);color:#526357}
 @media(prefers-contrast:more){.puertas-principales .puerta,.recurso,.donativo,.recursos-filtros{border-color:#68796a}}
+
+
+/* Recursos: tarjetas compactas; la información documental completa queda desplegable. */
+.seccion-recursos .recurso{
+ padding:17px 18px 15px;
+ border-radius:7px 15px 7px 15px;
+ box-shadow:0 5px 15px rgba(39,66,51,.055);
+}
+.seccion-recursos .recurso-meta{
+ margin:0 0 7px;
+ font-size:10px;
+ letter-spacing:.045em;
+ line-height:1.4;
+}
+.seccion-recursos .recurso h3{
+ margin:0 0 12px;
+ font-size:21px;
+ line-height:1.2;
+}
+.seccion-recursos .recurso .accion{
+ min-height:39px;
+ margin:0;
+ padding:8px 14px;
+ font-size:12px;
+}
+.seccion-recursos .recurso-compartir{
+ display:flex;
+ flex-wrap:wrap;
+ align-items:center;
+ gap:7px;
+ margin:9px 0 0;
+}
+.seccion-recursos .recurso-compartir .boton-compartir{
+ min-height:33px;
+ padding:6px 10px;
+ border-radius:7px;
+ font-size:11px;
+}
+.seccion-recursos .recurso-derechos{
+ margin:10px 0 0;
+ padding:8px 0 0;
+ border:0;
+ border-top:1px solid #e1e7dd;
+ border-radius:0;
+ background:transparent;
+ font-size:12px;
+}
+.seccion-recursos .recurso-derechos summary{
+ min-height:30px;
+ display:flex;
+ align-items:center;
+ font-size:11px;
+}
+.seccion-recursos .recurso-derechos .recurso-descripcion{
+ margin:8px 0 10px;
+ font-size:12px;
+ line-height:1.5;
+}
+.seccion-recursos .recurso-datos{
+ display:grid;
+ grid-template-columns:repeat(2,minmax(0,1fr));
+ gap:7px 12px;
+ margin:8px 0;
+}
+.seccion-recursos .recurso-dato{
+ padding-top:6px;
+}
+.seccion-recursos .recurso-dato dt{
+ font-size:10px;
+}
+.seccion-recursos .recurso-dato dd,
+.seccion-recursos .recurso-nota-derechos{
+ font-size:11px;
+ line-height:1.45;
+}
+.seccion-recursos .recurso-nota-derechos{
+ margin:8px 0;
+}
+.seccion-recursos .recurso-etiquetas{
+ margin:8px 0;
+}
+.seccion-recursos .recurso-etiquetas span{
+ font-size:9px;
+}
+@media(max-width:650px){
+ .seccion-recursos .recurso{padding:15px 15px 13px}
+ .seccion-recursos .recurso h3{font-size:20px}
+ .seccion-recursos .recurso-datos{grid-template-columns:1fr}
+}
