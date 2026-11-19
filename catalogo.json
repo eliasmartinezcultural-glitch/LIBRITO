@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 7,
+  "version": 8,
   "descripcion": "Colección de documentos locales completos y accesos directos a originales institucionales y académicos, con autoría, procedencia y condiciones de uso visibles.",
   "regla": "Los PDF alojados en LIBRITO se distinguen de los documentos que se abren en su fuente original. Nunca se presenta una ficha como archivo alojado.",
   "categorias": [
@@ -497,6 +497,37 @@
         "instituciones",
         "mapoteca",
         "cartografía"
+      ]
+    },
+    {
+      "id": "gobernacion-neuquen-mapa-1887",
+      "titulo": "Gobernación del Neuquén · mapa histórico de 1887",
+      "autoria": "Dirección Provincial de Catastro e Información Territorial",
+      "institucion": "Gobierno de la Provincia del Neuquén · Mapoteca Digital",
+      "fecha": "1887",
+      "categoria": "Territorio y cartografía",
+      "tematica": "Cartografía histórica de Neuquén, organización territorial provincial y contexto geográfico del área del Chañar",
+      "descripcion": "Mapa histórico de la Gobernación del Neuquén publicado en 1887. Es una pieza de contexto provincial del siglo XIX; no representa el ejido municipal actual ni debe utilizarse como plano parcelario o límite vigente.",
+      "formato": "MAPA",
+      "acceso": "origen",
+      "urlOriginal": "https://catastro.neuquen.gov.ar/site/Itc.services/Services/FileDownload.aspx?IDTipoArchivo=0&codigo=437536-668487",
+      "urlFicha": "https://dpc.neuquen.gob.ar/Mapa",
+      "accionExterna": "Abrir mapa histórico original",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "La Mapoteca Digital provincial indica que sus mapas pueden descargarse e imprimirse solo para uso personal y prohíbe su reproducción total o parcial para comercialización sin autorización expresa. LIBRITO enlaza el original.",
+        "referencia": "Mapoteca Digital, Dirección Provincial de Catastro e Información Territorial del Neuquén."
+      },
+      "procedencia": "Mapoteca Digital de la Dirección Provincial de Catastro e Información Territorial; colección de mapas históricos.",
+      "integridad": "Archivo original vinculado desde la ficha de la Mapoteca; el servidor entrega el binario de descarga. No alojado en LIBRITO.",
+      "etiquetas": [
+        "1887",
+        "mapa histórico",
+        "gobernación",
+        "Neuquén",
+        "cartografía",
+        "siglo XIX"
       ]
     }
   ]
