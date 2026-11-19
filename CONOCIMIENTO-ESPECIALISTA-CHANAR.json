@@ -1,0 +1,1246 @@
+{
+  "nombre": "Conocimiento especializado de San Patricio del Chañar",
+  "id": "chanar-especialista",
+  "version": 1,
+  "fecha_corte": "2026-11-19",
+  "proposito": "Base estructurada para orientar búsquedas documentales, ampliar vocabulario, reconocer conexiones locales e internacionales y verificar candidatos antes de incorporarlos a LIBRITO.",
+  "ambito": {
+    "localidad_principal": "San Patricio del Chañar",
+    "provincia": "Neuquén",
+    "pais": "Argentina",
+    "departamento": "Añelo",
+    "variantes_toponimicas": [
+      "San Patricio del Chañar",
+      "San Patricio del Chanar",
+      "San Patricio de Chañar",
+      "San Patricio del Chañar, Neuquén",
+      "S.P. del Chañar",
+      "SP del Chañar",
+      "El Chañar",
+      "El Chanar",
+      "Chañar",
+      "Chanar",
+      "Chañar NQN",
+      "San Patricio",
+      "colonia El Chañar",
+      "colonia San Patricio del Chañar"
+    ],
+    "advertencia": "El Chañar y Chañar son topónimos comunes. Nunca atribuir un resultado a la localidad neuquina solo por coincidencia nominal. Exigir Neuquén, Añelo, río Neuquén, RP 7/8, referencias locales o una conexión documental inequívoca."
+  },
+  "estado_de_conocimiento": {
+    "catalogo_obras": 170,
+    "hemeroteca": 181,
+    "recursos": 61,
+    "fecha_de_conteo": "2026-11-19",
+    "nota": "Conteos observados en los archivos del repositorio en esta fecha; pueden cambiar. Antes de sumar, volver a consultar catalogo.json, hemeroteca.json y recursos.json."
+  },
+  "perfil_territorial": {
+    "descripcion": "Localidad del departamento Añelo, provincia del Neuquén, en el valle del río Neuquén. Su historia reciente está ligada a la transformación de tierras áridas en una colonia agrícola mediante obras de captación, bombeo, riego y drenaje; luego se consolidaron fruticultura, vitivinicultura, bodegas y, en el contexto regional, actividades hidrocarburíferas vinculadas a Vaca Muerta.",
+    "accesos_y_referencias": [
+      "Ruta Provincial 7",
+      "Ruta Provincial 8",
+      "río Neuquén",
+      "valle del río Neuquén",
+      "barda",
+      "Añelo",
+      "Centenario",
+      "Neuquén capital",
+      "Cinco Saltos"
+    ],
+    "cautela": "Las distancias, límites del ejido, superficies agrícolas, porcentajes productivos y datos demográficos cambian según año y fuente. Registrar siempre fecha, unidad y organismo."
+  },
+  "entidades": [
+    {
+      "id": "municipio",
+      "nombre": "Municipalidad de San Patricio del Chañar",
+      "clase": "institución",
+      "alias": [
+        "Municipalidad",
+        "Municipio de San Patricio del Chañar",
+        "Comisión de Fomento"
+      ],
+      "relacion": "Gobierno local, normativa, identidad, historia, cultura, servicios y planificación.",
+      "busqueda": [
+        "site:sanpatricio.gob.ar",
+        "site:sanpatricio.gob.ar/identidad",
+        "Municipalidad San Patricio del Chañar PDF"
+      ]
+    },
+    {
+      "id": "concejo",
+      "nombre": "Honorable Concejo Deliberante de San Patricio del Chañar",
+      "clase": "institución",
+      "alias": [
+        "HCD",
+        "Concejo Deliberante",
+        "Concejo Municipal"
+      ],
+      "relacion": "Ordenanzas, declaraciones, resoluciones, actas, sesiones y normativa local."
+    },
+    {
+      "id": "gasparri",
+      "nombre": "Familia Gasparri / Roberto Gasparri / Atilio Gasparri",
+      "clase": "personas_y_familia",
+      "alias": [
+        "Gasparri Hnos.",
+        "Gasparri Hermanos",
+        "Roberto Gasparri",
+        "Atilio Gasparri",
+        "Ing. Gasparri"
+      ],
+      "relacion": "Pioneros del desarrollo agrícola moderno y de la sistematización de tierras; vínculos migratorios con Italia y emprendimientos frutícolas.",
+      "cautela": "No confundir integrantes de la familia ni fechas de emigración, llegada a Argentina, llegada a Neuquén y llegada a El Chañar. Las fuentes difieren."
+    },
+    {
+      "id": "campofilone",
+      "nombre": "Campofilone / Campo Filone",
+      "clase": "lugar_internacional",
+      "alias": [
+        "Campofilone",
+        "Campo Filone",
+        "Comune di Campofilone"
+      ],
+      "relacion": "Localidad italiana asociada por fuentes institucionales con la familia Gasparri y el origen del nombre San Patricio.",
+      "busqueda": [
+        "Campofilone Gasparri Argentina",
+        "Campo Filone Roberto Gasparri Neuquén",
+        "Comune di Campofilone Gasparri Chañar"
+      ]
+    },
+    {
+      "id": "torre-san-patricio",
+      "nombre": "Torre San Patrizio",
+      "clase": "lugar_internacional",
+      "alias": [
+        "Torre di San Patrizio",
+        "Torre San Patrizio"
+      ],
+      "relacion": "Localidad de la región de Marche vinculada en fuentes locales con los orígenes familiares Gasparri.",
+      "cautela": "Verificar grafía, vínculo familiar y jurisdicción histórica en fuentes italianas."
+    },
+    {
+      "id": "aicardi",
+      "nombre": "Familia Aicardi / Nicolás Aicardi / Enrique Rohde / Lucy Ramos",
+      "clase": "personas_y_familia",
+      "alias": [
+        "Nicolás Aicardi",
+        "Enrique Rohde",
+        "Lucy Ramos",
+        "Familia Aicardi"
+      ],
+      "relacion": "Conexión documentada por prensa entre una historia familiar de inmigración desde Génova, sarmientos y un emprendimiento vitivinícola en San Patricio del Chañar.",
+      "cautela": "La noticia periodística es pista para investigar; no convertir relato familiar en genealogía comprobada sin registros primarios."
+    },
+    {
+      "id": "viola-malma",
+      "nombre": "Familia Viola / Bodega Malma",
+      "clase": "empresa_y_familia",
+      "alias": [
+        "Malma",
+        "Bodega Malma",
+        "Malma Wines",
+        "Familia Viola",
+        "Julio Viola"
+      ],
+      "relacion": "Proyecto vitivinícola originado en San Patricio del Chañar y vinculado a mercados internacionales."
+    },
+    {
+      "id": "familia-schroeder",
+      "nombre": "Bodega Familia Schroeder",
+      "clase": "empresa",
+      "alias": [
+        "Familia Schroeder",
+        "Bodega Schroeder",
+        "Schroeder Estate",
+        "Saurus",
+        "Saurus Select",
+        "Alto Limay"
+      ],
+      "relacion": "Bodega local, exportación, premios internacionales y conexión con el hallazgo paleontológico de Panamericansaurus schroederi.",
+      "cautela": "La ficha paleontológica de la bodega no implica que todos los fósiles del área procedan de la misma parcela ni que Proyecto Dino sea el mismo yacimiento."
+    },
+    {
+      "id": "secreto-patagonico",
+      "nombre": "Secreto Patagónico",
+      "clase": "empresa",
+      "alias": [
+        "Bodega Secreto Patagónico",
+        "Mantra",
+        "Mantra Rebel"
+      ],
+      "relacion": "Emprendimiento vitivinícola de San Patricio del Chañar con mercados de exportación declarados."
+    },
+    {
+      "id": "patritti",
+      "nombre": "Bodega Patritti",
+      "clase": "empresa",
+      "alias": [
+        "Patritti",
+        "Primogénito",
+        "Sangre Azul"
+      ],
+      "relacion": "Bodega y producción vitivinícola vinculada al polo de San Patricio del Chañar."
+    },
+    {
+      "id": "colonia-japonesa",
+      "nombre": "Colonia agrícola japonesa El Chañar",
+      "clase": "comunidad_migratoria",
+      "alias": [
+        "El Chañar Japanese colony",
+        "エル・チャニャール",
+        "アルゼンチン 日本人移住地 エル・チャニャール",
+        "日本人移住地 エル・チャニャール"
+      ],
+      "relacion": "Asentamiento agrícola japonés documentado por informes de JICA desde 1973 y en fichas posteriores de 1985-1986 y 1991.",
+      "cautela": "Distinguir residentes, unidades agrícolas, hogares, superficie y fecha de relevamiento. Los registros japoneses pueden usar romanizaciones distintas."
+    },
+    {
+      "id": "jica",
+      "nombre": "Japan International Cooperation Agency (JICA)",
+      "clase": "institución_internacional",
+      "alias": [
+        "JICA",
+        "国際協力機構",
+        "日本国際協力事業団"
+      ],
+      "relacion": "Informes de colonias agrícolas, migración japonesa, fruticultura y ensayos varietales con menciones directas a El Chañar."
+    },
+    {
+      "id": "rio-neuquen",
+      "nombre": "Río Neuquén",
+      "clase": "territorio",
+      "alias": [
+        "Neuquén River",
+        "Río Neuquen",
+        "valle inferior del río Neuquén",
+        "Neuquén valley"
+      ],
+      "relacion": "Eje geográfico, hídrico, agrícola, ambiental y de infraestructura para comprender la localidad.",
+      "cautela": "No confundir estudios de otras estaciones del río con datos medidos en San Patricio del Chañar."
+    },
+    {
+      "id": "tratayen",
+      "nombre": "Tratayén",
+      "clase": "paraje_y_colonia_historica",
+      "alias": [
+        "Colonia Tratayen",
+        "Tratayén",
+        "Tratayen",
+        "Fortín Tratayen"
+      ],
+      "relacion": "Área y asentamiento histórico próximo al Chañar, con referencias a mensuras, colonización, telégrafo y usos agrícolas.",
+      "cautela": "Tratayén no es sinónimo de San Patricio del Chañar ni todo documento sobre Tratayén pertenece al ejido urbano actual. Explicar el vínculo espacial e histórico."
+    },
+    {
+      "id": "fortin-chanar",
+      "nombre": "Fortín Chañar / Mangrullo Chañar",
+      "clase": "historia_militar_y_toponimia",
+      "alias": [
+        "Fortin Chañar",
+        "Mangrullo Chañar",
+        "Mangrullo del Chañar",
+        "rastrillada Paso de Indios"
+      ],
+      "relacion": "Referencias históricas del siglo XIX en la zona; buscar planos, mensuras y documentos originales.",
+      "cautela": "No afirmar ubicación exacta ni continuidad urbana con la localidad actual sin documentación cartográfica."
+    },
+    {
+      "id": "panamericansaurus",
+      "nombre": "Panamericansaurus schroederi",
+      "clase": "paleontologia",
+      "alias": [
+        "Panamericansaurus",
+        "MUCPv-417",
+        "Bodega Familia Schroeder fossil",
+        "Formación Allen"
+      ],
+      "relacion": "Titanosaurio cuyo holotipo fue hallado aproximadamente 3 km al oeste de San Patricio del Chañar; publicación original de Calvo y Porfiri (2010).",
+      "cautela": "No confundir con otros dinosaurios o sitios de Proyecto Dino en Lago Barreales. Verificar siempre localidad del holotipo y colección paleontológica."
+    },
+    {
+      "id": "proyecto-dino",
+      "nombre": "Proyecto Dino / Museo de Geología y Paleontología de la Universidad Nacional del Comahue",
+      "clase": "ciencia_y_museo",
+      "alias": [
+        "Proyecto Dino",
+        "Museo Geológico y Paleontológico UNCo",
+        "Lago Barreales"
+      ],
+      "relacion": "Proyecto paleontológico regional de Neuquén. Puede tener conexiones científicas con Chañar, pero no atribuir todos sus hallazgos a San Patricio del Chañar.",
+      "cautela": "Separar Lago Barreales, Bodega Schroeder y otros yacimientos."
+    },
+    {
+      "id": "aic",
+      "nombre": "Autoridad Interjurisdiccional de las Cuencas (AIC)",
+      "clase": "organismo_tecnico",
+      "alias": [
+        "AIC",
+        "AIC Cuenca",
+        "Autoridad de Cuencas"
+      ],
+      "relacion": "Informes de hidrología, calidad de agua, crecidas, estaciones de monitoreo y datos ambientales del río Neuquén."
+    },
+    {
+      "id": "copade",
+      "nombre": "COPADE / Consejo de Planificación y Acción para el Desarrollo",
+      "clase": "organismo_tecnico",
+      "alias": [
+        "COPADE",
+        "Consejo de Planificación y Acción para el Desarrollo"
+      ],
+      "relacion": "Planificación territorial, mapas, diagnósticos, equipamiento, infraestructura y ordenamiento regional."
+    },
+    {
+      "id": "ign",
+      "nombre": "Instituto Geográfico Nacional",
+      "clase": "organismo_cartografico",
+      "alias": [
+        "IGN",
+        "Instituto Geográfico Militar",
+        "IGM",
+        "cartas topográficas"
+      ],
+      "relacion": "Cartografía histórica y actual, mosaicos satelitales, topónimos, hojas topográficas y datos geoespaciales."
+    },
+    {
+      "id": "inta",
+      "nombre": "Instituto Nacional de Tecnología Agropecuaria",
+      "clase": "organismo_agropecuario",
+      "alias": [
+        "INTA",
+        "Estación Experimental Agropecuaria Alto Valle",
+        "INTA Alto Valle",
+        "Instituto de Floricultura"
+      ],
+      "relacion": "Fruticultura, riego, variedades, sanidad vegetal, horticultura, floricultura, vitivinicultura y extensión rural."
+    },
+    {
+      "id": "dique-ballester",
+      "nombre": "Dique Ingeniero Ballester y sistema de riego del Alto Valle",
+      "clase": "infraestructura_hidrica",
+      "alias": [
+        "Dique Ballester",
+        "Dique Ing. Ballester",
+        "canal principal",
+        "bocatoma",
+        "riego gravitacional",
+        "riego presurizado"
+      ],
+      "relacion": "Infraestructura regional que forma parte del contexto de la expansión agrícola y de los sistemas de riego vinculados al valle del río Neuquén.",
+      "cautela": "Distinguir infraestructura del Alto Valle, bocatomas locales y redes específicas de Chañar."
+    },
+    {
+      "id": "vaca-muerta",
+      "nombre": "Vaca Muerta y actividad hidrocarburífera regional",
+      "clase": "economia_y_energia",
+      "alias": [
+        "Vaca Muerta",
+        "shale oil",
+        "shale gas",
+        "formación Vaca Muerta",
+        "actividad petrolera",
+        "actividad gasífera"
+      ],
+      "relacion": "Contexto económico y demográfico regional contemporáneo; buscar efectos concretos sobre empleo, vivienda, rutas, servicios, ambiente y actividad comercial de Chañar.",
+      "cautela": "No etiquetar toda noticia de Vaca Muerta como noticia local. Exigir que trate sobre la localidad o sus habitantes, territorio o instituciones."
+    }
+  ],
+  "cronologia_base": [
+    {
+      "periodo": "Siglo XIX",
+      "hecho": "Referencias a fortines, mangrullo, rastrilladas y paso por el área conocida como El Chañar.",
+      "estado": "contexto histórico; requiere contrastar mensuras y documentos originales",
+      "fuentes": [
+        "https://www.sanpatricio.gob.ar/identidad"
+      ]
+    },
+    {
+      "periodo": "1881-1882",
+      "hecho": "Mensura de Encina, Moreno y Cía citada por la reseña municipal para referencias del mangrullo y el paraje.",
+      "estado": "referencia municipal a planos y documentación de mensura; localizar originales",
+      "fuentes": [
+        "https://www.sanpatricio.gob.ar/identidad"
+      ]
+    },
+    {
+      "periodo": "c. 1913",
+      "hecho": "Mensura del ingeniero Tressens en colonia Tratayén; se menciona un núcleo urbano de unas veinte manzanas.",
+      "estado": "dato citado por la Municipalidad; confirmar en plano original",
+      "fuentes": [
+        "https://www.sanpatricio.gob.ar/identidad"
+      ]
+    },
+    {
+      "periodo": "c. 1920",
+      "hecho": "El plan territorial CFI refiere antecedentes de una colonia Tratayén al oeste de El Chañar, entre la barda y el río.",
+      "estado": "fuente secundaria oficial; no equiparar con la localidad actual",
+      "fuentes": [
+        "https://www.argentina.gob.ar/sites/default/files/plan_de_ordenamiento_territorial_y_ambiental_para_las_localidades_des_anelo_san_patricio_del_chanar_y_sauzal_bonito_0.pdf"
+      ]
+    },
+    {
+      "periodo": "1966",
+      "hecho": "Fuentes municipales y provinciales refieren compras de tierras o concesiones de riego en el área; la secuencia y los titulares varían según la fuente.",
+      "estado": "fecha en discusión; no condensar hechos diferentes",
+      "fuentes": [
+        "https://www.sanpatricio.gob.ar/identidad",
+        "https://www.neuqueninforma.gob.ar/noticias/2014/05/22/48785-jorge-sapag-asistira-al-41-aniversario-de-san-patricio-del-chanar"
+      ]
+    },
+    {
+      "periodo": "1968",
+      "hecho": "Gasparri Hnos. adquiere aproximadamente 20.000 hectáreas de monte bruto y comienza el proyecto de sistematización agrícola según reseña municipal/CFI.",
+      "estado": "repetido en fuentes institucionales; verificar escrituras y documentación de la empresa para detalles",
+      "fuentes": [
+        "https://www.sanpatricio.gob.ar/identidad",
+        "https://www.mininterior.gob.ar/planificacion/pdf/planes-loc/NEUQUEN/Plan-de-Ordenamiento-Territorial-Ambiental-para-las-localidades-A%C3%B1elo-San-Patricio-del-Cha%C3%B1ar-y-Sauzal-Bonito.pdf"
+      ]
+    },
+    {
+      "periodo": "1969-1971",
+      "hecho": "Obras de sistematización, bombeo y riego; primeras plantaciones y cosechas; primera bocatoma en 1971 según historia municipal.",
+      "estado": "fechas y hectáreas dependen de etapa y fuente",
+      "fuentes": [
+        "https://www.sanpatricio.gob.ar/identidad"
+      ]
+    },
+    {
+      "periodo": "1973",
+      "hecho": "Fecha reconocida de fundación de la ciudad: 21 de mayo de 1973; creación de la Comisión de Fomento por decreto 1339 según fuentes oficiales.",
+      "estado": "fecha formal reconocida por Carta Orgánica",
+      "fuentes": [
+        "https://infoleg.neuquen.gov.ar/Boletines/bo04021302862a.pdf",
+        "https://www.neuqueninforma.gob.ar/noticias/2016/05/20/81371-san-patricio-del-chanar-festeja-manana-sus-43-anos"
+      ]
+    },
+    {
+      "periodo": "1973-1974",
+      "hecho": "Fuentes difieren al distinguir fundación, decreto de creación y puesta en funcionamiento de autoridades de la Comisión de Fomento.",
+      "estado": "mantener las fechas separadas",
+      "fuentes": [
+        "https://www.neuqueninforma.gob.ar/noticias/2014/05/22/48785-jorge-sapag-asistira-al-41-aniversario-de-san-patricio-del-chanar",
+        "https://www.neuqueninforma.gob.ar/noticias/2016/05/20/81371-san-patricio-del-chanar-festeja-manana-sus-43-anos"
+      ]
+    },
+    {
+      "periodo": "1973",
+      "hecho": "Registros de JICA consignan el inicio de la colonia agrícola japonesa El Chañar, con 76 hectáreas y siete unidades/hogares según ficha histórica.",
+      "estado": "documentación primaria institucional japonesa; revisar definiciones y página del documento",
+      "fuentes": [
+        "https://openjicareport.jica.go.jp/pdf/10239598_06.pdf"
+      ]
+    },
+    {
+      "periodo": "1974-1975",
+      "hecho": "Puesta en marcha de instituciones locales, escuela, club y primeras producciones industriales de fruta según crónicas provinciales.",
+      "estado": "pistas para Hemeroteca y búsqueda documental",
+      "fuentes": [
+        "https://www.neuqueninforma.gob.ar/noticias/2014/05/22/48785-jorge-sapag-asistira-al-41-aniversario-de-san-patricio-del-chanar"
+      ]
+    },
+    {
+      "periodo": "1978, 1987, 2003",
+      "hecho": "Cambios de categoría municipal reseñados por fuentes provinciales; la Carta Orgánica reconoce denominación y fundación.",
+      "estado": "verificar cada ley y publicación oficial",
+      "fuentes": [
+        "https://www.neuqueninforma.gob.ar/amp/noticias/2013/05/17/29151-ana-pechen-preside-la-ceremonia-aniversario-de-san-patricio-del-chanar",
+        "https://infoleg.neuquen.gov.ar/Boletines/bo04021302862a.pdf"
+      ]
+    },
+    {
+      "periodo": "1985-1986",
+      "hecho": "JICA releva hogares, población, lotes, superficie y cultivos de la colonia japonesa.",
+      "estado": "ficha documental en japonés; revisar páginas 185-187 impresas",
+      "fuentes": [
+        "https://openjicareport.jica.go.jp/pdf/10196368_02.pdf"
+      ]
+    },
+    {
+      "periodo": "1991",
+      "hecho": "JICA actualiza el registro de la colonia agrícola japonesa.",
+      "estado": "ficha documental en japonés; revisar páginas 203-204 impresas",
+      "fuentes": [
+        "https://openjicareport.jica.go.jp/pdf/10974657_03.pdf"
+      ]
+    },
+    {
+      "periodo": "1999-2004",
+      "hecho": "Inicio de proyectos vitivinícolas y expansión de bodegas locales; Malma y otros proyectos se desarrollan en el polo vitivinícola.",
+      "estado": "cada empresa tiene su cronología; no asignar una única fecha al sector",
+      "fuentes": [
+        "https://www.bodegamalma.com/en/",
+        "https://exportargentina.org.ar/companies/6573"
+      ]
+    },
+    {
+      "periodo": "2000",
+      "hecho": "Informe JICA sobre cooperación agrícola y ensayos de pera japonesa, manzana y cereza en colonia El Chañar.",
+      "estado": "informe técnico internacional; identificar parte y página impresa",
+      "fuentes": [
+        "https://openjicareport.jica.go.jp/807/807/807_700_11575057.html"
+      ]
+    },
+    {
+      "periodo": "2003-2013",
+      "hecho": "AIC monitorea metales pesados en estaciones Tratayén y Embalse El Chañar.",
+      "estado": "informe preliminar 2014; no presentarlo como dictamen final",
+      "fuentes": [
+        "https://www.aic.gob.ar/sitio/archivos/201803/informe%20preliminar%20metales%20pesados%202003-13.pdf"
+      ]
+    },
+    {
+      "periodo": "2010",
+      "hecho": "Publicación científica original de Panamericansaurus schroederi, hallado aproximadamente 3 km al oeste de San Patricio del Chañar.",
+      "estado": "artículo científico primario",
+      "fuentes": [
+        "https://seer.ufu.br/index.php/braziliangeojournal/article/view/8170"
+      ]
+    },
+    {
+      "periodo": "2006",
+      "hecho": "Plan de ordenamiento territorial y ambiental para Añelo, San Patricio del Chañar y Sauzal Bonito.",
+      "estado": "informe regional con contenido local sustancial",
+      "fuentes": [
+        "https://www.mininterior.gob.ar/planificacion/pdf/planes-loc/NEUQUEN/Plan-de-Ordenamiento-Territorial-Ambiental-para-las-localidades-A%C3%B1elo-San-Patricio-del-Cha%C3%B1ar-y-Sauzal-Bonito.pdf"
+      ]
+    },
+    {
+      "periodo": "2020-2026",
+      "hecho": "Continuidad de documentación de infraestructura, ambiente, vitivinicultura, exportaciones, memoria visual, actividad económica y transformación demográfica.",
+      "estado": "investigar por año y tema; no asumir actualidad de datos viejos",
+      "fuentes": [
+        "https://www.sanpatricio.gob.ar/identidad",
+        "https://exportargentina.org.ar/companies/6573",
+        "https://exportargentina.org.ar/companies/3266"
+      ]
+    }
+  ],
+  "clusters_tematicos": [
+    {
+      "tema": "Historia, fundación y memoria",
+      "terminos": [
+        "historia local",
+        "fundación",
+        "aniversario",
+        "pioneros",
+        "primeros pobladores",
+        "memoria oral",
+        "testimonios",
+        "mensura",
+        "fortín",
+        "mangrullo",
+        "rastrillada",
+        "paraje El Chañar",
+        "colonia Tratayén",
+        "archivo familiar",
+        "fotografía antigua",
+        "historia institucional"
+      ],
+      "buscar_en": [
+        "catálogo",
+        "hemeroteca",
+        "recursos",
+        "archivos municipales",
+        "bibliotecas",
+        "archivos provinciales",
+        "familias y colecciones privadas"
+      ]
+    },
+    {
+      "tema": "Territorio, geografía y cartografía",
+      "terminos": [
+        "departamento Añelo",
+        "ejido municipal",
+        "valle del río Neuquén",
+        "barda",
+        "meseta",
+        "parcelamiento",
+        "chacras",
+        "mensura",
+        "plano urbano",
+        "catastro",
+        "carta topográfica",
+        "mapa histórico",
+        "fotografía aérea",
+        "ortofoto",
+        "imagen satelital",
+        "Sentinel-2",
+        "SAOCOM",
+        "uso del suelo",
+        "expansión urbana",
+        "riesgo hídrico"
+      ],
+      "buscar_en": [
+        "IGN",
+        "Catastro Neuquén",
+        "COPADE",
+        "CFI",
+        "CONAE",
+        "mapotecas universitarias",
+        "David Rumsey",
+        "BnF Gallica"
+      ]
+    },
+    {
+      "tema": "Agua, riego y ambiente",
+      "terminos": [
+        "río Neuquén",
+        "bocatoma",
+        "canal de riego",
+        "riego gravitacional",
+        "riego presurizado",
+        "drenaje",
+        "bombas",
+        "caudal",
+        "crecida",
+        "inundación",
+        "calidad de agua",
+        "metales pesados",
+        "sedimentos",
+        "estación de monitoreo",
+        "heladas",
+        "viento",
+        "sequía",
+        "suelos",
+        "biodiversidad",
+        "flora nativa"
+      ],
+      "buscar_en": [
+        "AIC",
+        "DPA",
+        "INTA",
+        "INA",
+        "universidades",
+        "organismos ambientales",
+        "informes de impacto"
+      ]
+    },
+    {
+      "tema": "Agricultura y trabajo rural",
+      "terminos": [
+        "colonia agrícola",
+        "fruticultura",
+        "peras",
+        "manzanas",
+        "frutas de carozo",
+        "pelón",
+        "durazno",
+        "cereza",
+        "frutilla",
+        "melón",
+        "horticultura",
+        "chacra",
+        "galpón de empaque",
+        "frigorífico",
+        "packing",
+        "cosecha",
+        "trabajador rural",
+        "tractor",
+        "maquinaria agrícola",
+        "riego por goteo",
+        "variedades frutales",
+        "sanidad vegetal"
+      ],
+      "buscar_en": [
+        "INTA",
+        "JICA",
+        "SENASA",
+        "universidades",
+        "cooperativas",
+        "empresas exportadoras",
+        "prensa agraria"
+      ]
+    },
+    {
+      "tema": "Vitivinicultura y comercio exterior",
+      "terminos": [
+        "bodega",
+        "viñedo",
+        "vitivinicultura",
+        "enología",
+        "terroir",
+        "vendimia",
+        "cepas",
+        "Malbec",
+        "Pinot Noir",
+        "Merlot",
+        "Chardonnay",
+        "Sauvignon Blanc",
+        "Saurus",
+        "Malma",
+        "Secreto Patagónico",
+        "Patritti",
+        "Schroeder",
+        "exportación",
+        "importador",
+        "distribuidor",
+        "carta de vinos",
+        "wine club",
+        "feria internacional",
+        "medalla",
+        "concurso de vinos"
+      ],
+      "buscar_en": [
+        "ExportArgentina",
+        "Wines of Argentina",
+        "importadores extranjeros",
+        "concursos",
+        "ferias",
+        "prensa especializada",
+        "restaurantes y wine clubs"
+      ]
+    },
+    {
+      "tema": "Paleontología, geología y ciencia",
+      "terminos": [
+        "Panamericansaurus schroederi",
+        "MUCPv-417",
+        "Formación Allen",
+        "Cretácico Superior",
+        "Titanosauria",
+        "saurópodo",
+        "holotipo",
+        "localidad tipo",
+        "yacimiento fósil",
+        "Bodega Familia Schroeder",
+        "colección paleontológica",
+        "geología",
+        "estratigrafía",
+        "paleontología"
+      ],
+      "buscar_en": [
+        "Universidad Nacional del Comahue",
+        "repositorios académicos",
+        "revistas científicas",
+        "PBDB",
+        "GBIF",
+        "iDigBio",
+        "Open Paleo",
+        "Mindat"
+      ],
+      "cautela": "Comprobar localidad del hallazgo y diferenciar yacimientos cercanos."
+    },
+    {
+      "tema": "Migraciones, familias y conexiones internacionales",
+      "terminos": [
+        "inmigración italiana",
+        "Marche",
+        "Campofilone",
+        "Torre San Patrizio",
+        "Génova",
+        "Aicardi",
+        "Gasparri",
+        "inmigración japonesa",
+        "colonia japonesa",
+        "JICA",
+        "Nikkei",
+        "agricultores japoneses",
+        "pasajeros",
+        "listas de embarque",
+        "genealogía",
+        "descendientes",
+        "intercambio cultural"
+      ],
+      "buscar_en": [
+        "archivos italianos",
+        "archivos de pasajeros",
+        "JICA",
+        "archivos diplomáticos",
+        "municipios de origen",
+        "asociaciones migrantes"
+      ],
+      "cautela": "No publicar datos personales sensibles ni atribuir parentescos sin prueba documental."
+    },
+    {
+      "tema": "Instituciones, normativa y servicios",
+      "terminos": [
+        "Carta Orgánica",
+        "ordenanza",
+        "decreto",
+        "resolución",
+        "boletín oficial",
+        "presupuesto",
+        "rendición de cuentas",
+        "concejo deliberante",
+        "comisión de fomento",
+        "municipalidad",
+        "escuela",
+        "hospital",
+        "centro de salud",
+        "biblioteca",
+        "club",
+        "comisaría",
+        "registro civil",
+        "servicios públicos",
+        "agua potable",
+        "gas natural",
+        "energía eléctrica"
+      ],
+      "buscar_en": [
+        "Municipalidad",
+        "HCD",
+        "Boletín Oficial Neuquén",
+        "InfoLeg",
+        "Legislatura",
+        "CPE",
+        "Ministerios",
+        "organismos provinciales"
+      ]
+    },
+    {
+      "tema": "Cultura, patrimonio, educación y vida cotidiana",
+      "terminos": [
+        "Fiesta del Pelón",
+        "Día del Trabajador Rural",
+        "himno municipal",
+        "escudo",
+        "artes visuales",
+        "música",
+        "folklore",
+        "artesanos",
+        "artistas",
+        "escuelas",
+        "actos escolares",
+        "deportes",
+        "club Atlético San Patricio",
+        "biblioteca",
+        "museo",
+        "patrimonio",
+        "recetas",
+        "tradiciones",
+        "fotografía",
+        "programas culturales"
+      ],
+      "buscar_en": [
+        "escuelas",
+        "clubes",
+        "municipio",
+        "bibliotecas",
+        "archivos familiares",
+        "programas de fiestas",
+        "radios locales",
+        "medios regionales"
+      ]
+    },
+    {
+      "tema": "Población, vivienda y transformaciones económicas",
+      "terminos": [
+        "censo",
+        "población",
+        "migración interna",
+        "crecimiento demográfico",
+        "vivienda",
+        "loteo",
+        "urbanización",
+        "empleo",
+        "mercado laboral",
+        "alquileres",
+        "servicios",
+        "Vaca Muerta",
+        "hidrocarburos",
+        "proveedores",
+        "comercio",
+        "industria",
+        "plan estratégico",
+        "ordenamiento territorial"
+      ],
+      "buscar_en": [
+        "INDEC",
+        "Dirección Provincial de Estadística",
+        "CFI",
+        "COPADE",
+        "municipio",
+        "universidades",
+        "medios locales"
+      ],
+      "cautela": "Separar datos de Añelo, Sauzal Bonito y microrregión de los datos exclusivos de San Patricio del Chañar."
+    },
+    {
+      "tema": "Turismo, paisaje y gastronomía",
+      "terminos": [
+        "Ruta del Vino",
+        "turismo rural",
+        "bodegas",
+        "visitas guiadas",
+        "enoturismo",
+        "gastronomía",
+        "paisaje agrario",
+        "río Neuquén",
+        "alamedas",
+        "barda",
+        "alojamiento",
+        "hostería",
+        "Fiesta del Pelón",
+        "senderos",
+        "fotografía de paisaje"
+      ],
+      "buscar_en": [
+        "Turismo Neuquén",
+        "bodegas",
+        "municipio",
+        "guías turísticos",
+        "mapas y catálogos de turismo"
+      ]
+    }
+  ],
+  "vocabulario_multilingue": {
+    "es": [
+      "San Patricio del Chañar",
+      "San Patricio del Chanar",
+      "El Chañar",
+      "colonia agrícola",
+      "colonia japonesa",
+      "valle del río Neuquén",
+      "bodega",
+      "fruticultura",
+      "riego",
+      "paleontología"
+    ],
+    "en": [
+      "San Patricio del Chañar Neuquén Argentina",
+      "El Chañar agricultural colony Argentina",
+      "Japanese agricultural settlement Neuquén",
+      "Neuquén River valley agriculture",
+      "San Patricio del Chañar winery",
+      "San Patricio del Chañar vineyard",
+      "Panamericansaurus schroederi type locality",
+      "Bodega Familia Schroeder fossil site",
+      "Neuquén Patagonia fruit production"
+    ],
+    "it": [
+      "San Patricio del Chañar Argentina",
+      "famiglia Gasparri Argentina",
+      "Roberto Gasparri Neuquén",
+      "Campofilone Argentina Gasparri",
+      "Torre San Patrizio Gasparri",
+      "immigrazione marchigiana Argentina",
+      "vigneti Patagonia argentina",
+      "cantine San Patricio del Chañar"
+    ],
+    "ja": [
+      "アルゼンチン エル・チャニャール 日本人移住地",
+      "エル・チャニャール 農業移住地",
+      "サン・パトリシオ・デル・チャニャール",
+      "ネウケン州 日本人移住",
+      "アルゼンチン 果樹栽培 JICA",
+      "エル・チャニャール JICA"
+    ],
+    "pt": [
+      "San Patricio del Chañar Argentina",
+      "colônia agrícola japonesa El Chañar",
+      "produção de frutas Neuquén Argentina",
+      "vinícolas San Patricio del Chañar",
+      "Panamericansaurus schroederi Argentina"
+    ],
+    "fr": [
+      "San Patricio del Chañar Argentine",
+      "colonie agricole japonaise El Chañar",
+      "vallée du río Neuquén agriculture",
+      "vignobles de Patagonie argentine",
+      "Gasparri Argentine Neuquén"
+    ],
+    "de": [
+      "San Patricio del Chañar Argentinien",
+      "japanische Agrarkolonie El Chañar",
+      "Weingüter Neuquén Patagonien",
+      "Panamericansaurus schroederi"
+    ],
+    "zh": [
+      "阿根廷 内乌肯 圣帕特里西奥德尔查尼亚尔",
+      "阿根廷 日本移民 农业殖民地 查尼亚尔",
+      "内乌肯河 谷地 葡萄酒 阿根廷"
+    ],
+    "ko": [
+      "아르헨티나 산 파트리시오 델 차냐르",
+      "아르헨티나 일본 농업 이민 엘 차냐르",
+      "네우켄 파타고니아 와이너리"
+    ],
+    "ar": [
+      "سان باتريسيو ديل تشانيار الأرجنتين",
+      "مزارع باتاغونيا الأرجنتين نيوقين"
+    ]
+  },
+  "fuentes_y_repositorios": [
+    {
+      "nombre": "Municipalidad · Nuestra Identidad",
+      "url": "https://www.sanpatricio.gob.ar/identidad",
+      "alcance": "Historia institucional, topónimos, Gasparri, tierras, riego y desarrollo agrícola.",
+      "nivel": "institucional local"
+    },
+    {
+      "nombre": "Carta Orgánica Municipal 2006",
+      "url": "https://infoleg.neuquen.gov.ar/Boletines/bo04021302862a.pdf",
+      "alcance": "Nombre oficial, fecha de fundación y marco institucional.",
+      "nivel": "normativa primaria"
+    },
+    {
+      "nombre": "Neuquén Informa · historia local",
+      "url": "https://www.neuqueninforma.gob.ar/amp/noticias/2013/05/17/29151-ana-pechen-preside-la-ceremonia-aniversario-de-san-patricio-del-chanar",
+      "alcance": "Historia, nombre, familia Gasparri, categorías municipales y producción.",
+      "nivel": "fuente gubernamental periodística"
+    },
+    {
+      "nombre": "CFI · Plan de Ordenamiento Territorial Ambiental",
+      "url": "https://www.mininterior.gob.ar/planificacion/pdf/planes-loc/NEUQUEN/Plan-de-Ordenamiento-Territorial-Ambiental-para-las-localidades-A%C3%B1elo-San-Patricio-del-Cha%C3%B1ar-y-Sauzal-Bonito.pdf",
+      "alcance": "Historia territorial, colonia Tratayén, agricultura, comunidades y planificación.",
+      "nivel": "informe técnico regional"
+    },
+    {
+      "nombre": "JICA · registro histórico 1973",
+      "url": "https://openjicareport.jica.go.jp/pdf/10239598_06.pdf",
+      "alcance": "Colonia agrícola japonesa El Chañar.",
+      "nivel": "documento institucional primario"
+    },
+    {
+      "nombre": "JICA · ficha colonia 1985-1986",
+      "url": "https://openjicareport.jica.go.jp/pdf/10196368_02.pdf",
+      "alcance": "Datos de hogares, superficie, lotes y cultivos.",
+      "nivel": "documento institucional primario"
+    },
+    {
+      "nombre": "JICA · ficha 1991",
+      "url": "https://openjicareport.jica.go.jp/pdf/10974657_03.pdf",
+      "alcance": "Actualización de la colonia japonesa.",
+      "nivel": "documento institucional primario"
+    },
+    {
+      "nombre": "JICA · cooperación agrícola 2000",
+      "url": "https://openjicareport.jica.go.jp/807/807/807_700_11575057.html",
+      "alcance": "Ensayos frutícolas y variedades en El Chañar.",
+      "nivel": "informe técnico"
+    },
+    {
+      "nombre": "AIC · monitoreo de metales 2003-2013",
+      "url": "https://www.aic.gob.ar/sitio/archivos/201803/informe%20preliminar%20metales%20pesados%202003-13.pdf",
+      "alcance": "Estaciones Tratayén y Embalse El Chañar; informe preliminar.",
+      "nivel": "informe técnico primario"
+    },
+    {
+      "nombre": "IGN · mosaicos satelitales",
+      "url": "https://www.ign.gob.ar/NuestrasActividades/SensoresRomotos/MosaicosSatelitalesOpticos",
+      "alcance": "Imágenes satelitales de Neuquén y cobertura del territorio.",
+      "nivel": "organismo cartográfico"
+    },
+    {
+      "nombre": "CONAE · Geoportal",
+      "url": "https://geoportal.conae.gov.ar/",
+      "alcance": "Datos e imágenes satelitales y radar.",
+      "nivel": "organismo científico"
+    },
+    {
+      "nombre": "COPADE",
+      "url": "https://www.copade.gob.ar/",
+      "alcance": "Planificación territorial, mapas y diagnósticos provinciales.",
+      "nivel": "organismo de planificación"
+    },
+    {
+      "nombre": "INTA",
+      "url": "https://www.argentina.gob.ar/inta",
+      "alcance": "Fruticultura, vitivinicultura, horticultura, riego y sanidad.",
+      "nivel": "organismo técnico"
+    },
+    {
+      "nombre": "ExportArgentina · Malma",
+      "url": "https://exportargentina.org.ar/companies/6573",
+      "alcance": "Mercados de exportación declarados por Bodega Malma.",
+      "nivel": "directorio exportador"
+    },
+    {
+      "nombre": "ExportArgentina · Secreto Patagónico",
+      "url": "https://exportargentina.org.ar/companies/3266",
+      "alcance": "Mercados de exportación declarados por Secreto Patagónico.",
+      "nivel": "directorio exportador"
+    },
+    {
+      "nombre": "Bodega Malma · sitio oficial en inglés",
+      "url": "https://www.bodegamalma.com/en/",
+      "alcance": "Historia y presentación internacional de la bodega.",
+      "nivel": "fuente corporativa"
+    },
+    {
+      "nombre": "Familia Schroeder · China Wine & Spirits Awards",
+      "url": "https://familiaschroeder.com/arg/chinawinespiritsawards2021/",
+      "alcance": "Premio declarado por la propia bodega.",
+      "nivel": "fuente corporativa"
+    },
+    {
+      "nombre": "Artículo científico Panamericansaurus (2010)",
+      "url": "https://seer.ufu.br/index.php/braziliangeojournal/article/view/8170",
+      "alcance": "Descripción científica y localidad del holotipo.",
+      "nivel": "publicación científica primaria"
+    },
+    {
+      "nombre": "Open Paleo · Panamericansaurus",
+      "url": "https://open-paleo.org/genus/panamericansaurus/",
+      "alcance": "Ficha taxonómica secundaria y referencias.",
+      "nivel": "base especializada secundaria"
+    },
+    {
+      "nombre": "Mindat · Bodega Familia Schroeder",
+      "url": "https://www.mindat.org/paleo_loc.php?id=52554",
+      "alcance": "Índice paleontológico internacional; coordenadas aproximadas.",
+      "nivel": "base secundaria; verificar"
+    },
+    {
+      "nombre": "Regione Marche · Atilio Gasparri",
+      "url": "https://static.regione.marche.it/portals/0/Marchigiani_nel_Mondo/Documenti/Atilio_Gasparri.pdf",
+      "alcance": "Dossier familiar y fotográfico con relación directa a Chañar.",
+      "nivel": "archivo regional italiano"
+    },
+    {
+      "nombre": "Altreitalie · Cerca le tue radici",
+      "url": "https://www.altreitalie.it/Servizi/Cerca_Le_Tue_Radici/Cerca_Le_Tue_Radici.kl",
+      "alcance": "Base de pasajeros italianos a Buenos Aires 1882-1920; herramienta de contraste, no prueba genealógica por sí sola.",
+      "nivel": "base de datos histórica"
+    },
+    {
+      "nombre": "David Rumsey Historical Map Collection",
+      "url": "https://www.davidrumsey.com/",
+      "alcance": "Cartografía histórica de Neuquén y Patagonia; distinguir mapas provinciales de planos locales.",
+      "nivel": "colección cartográfica"
+    },
+    {
+      "nombre": "BnF Gallica",
+      "url": "https://gallica.bnf.fr/",
+      "alcance": "Fotografía, mapas y prensa histórica francesa e internacional.",
+      "nivel": "biblioteca nacional"
+    },
+    {
+      "nombre": "Biblioteca Nacional Mariano Moreno · Hemeroteca Digital",
+      "url": "https://hemerotecadigital.bn.gob.ar/",
+      "alcance": "Prensa histórica argentina y regional.",
+      "nivel": "hemeroteca"
+    },
+    {
+      "nombre": "CONICET · repositorio institucional",
+      "url": "https://ri.conicet.gov.ar/",
+      "alcance": "Investigaciones, tesis, artículos y documentos científicos.",
+      "nivel": "repositorio académico"
+    },
+    {
+      "nombre": "SEDICI · Universidad Nacional de La Plata",
+      "url": "https://sedici.unlp.edu.ar/",
+      "alcance": "Tesis, artículos y estudios sobre migraciones, agricultura y paleontología.",
+      "nivel": "repositorio académico"
+    },
+    {
+      "nombre": "SciELO",
+      "url": "https://scielo.org/",
+      "alcance": "Artículos científicos de América Latina, incluyendo estudios sobre paisaje agrario y circuitos agroalimentarios.",
+      "nivel": "biblioteca científica"
+    }
+  ],
+  "consultas_modelo": [
+    {
+      "objetivo": "Búsqueda exacta de la localidad",
+      "consulta": "\"San Patricio del Chañar\" OR \"San Patricio del Chanar\" Neuquén"
+    },
+    {
+      "objetivo": "Búsqueda por topónimo histórico",
+      "consulta": "(\"El Chañar\" OR \"Fortín Chañar\" OR \"Mangrullo Chañar\") Neuquén Añelo"
+    },
+    {
+      "objetivo": "Búsqueda de Tratayén",
+      "consulta": "(Tratayén OR Tratayen) (Neuquén OR Añelo OR \"río Neuquén\") colonia mensura fortín"
+    },
+    {
+      "objetivo": "Historia de Gasparri",
+      "consulta": "(\"Roberto Gasparri\" OR \"Atilio Gasparri\" OR \"Gasparri Hnos\") (Neuquén OR Chañar OR Patagonia)"
+    },
+    {
+      "objetivo": "Archivos italianos",
+      "consulta": "(\"Campofilone\" OR \"Torre San Patrizio\" OR \"Gasparri\") Argentina emigrazione archivio"
+    },
+    {
+      "objetivo": "Migración japonesa",
+      "consulta": "(\"El Chañar\" OR \"San Patricio del Chañar\") (JICA OR Japanese OR 日本人移住地 OR 移住)"
+    },
+    {
+      "objetivo": "Fruticultura",
+      "consulta": "(\"San Patricio del Chañar\" OR \"colonia El Chañar\") (peras OR manzanas OR fruticultura OR riego OR INTA OR JICA)"
+    },
+    {
+      "objetivo": "Vinos en el exterior",
+      "consulta": "(\"San Patricio del Chañar\" OR Malma OR Schroeder OR \"Secreto Patagónico\" OR Patritti) (importer OR distributor OR export OR award OR wine list)"
+    },
+    {
+      "objetivo": "Paleontología",
+      "consulta": "(\"Panamericansaurus schroederi\" OR MUCPv-417) (\"San Patricio del Chañar\" OR \"Bodega Familia Schroeder\")"
+    },
+    {
+      "objetivo": "Agua y ambiente",
+      "consulta": "(\"Embalse El Chañar\" OR \"San Patricio del Chañar\" OR Tratayén) (AIC OR caudal OR calidad de agua OR metales OR crecida OR ambiente)"
+    },
+    {
+      "objetivo": "Cartografía y satélite",
+      "consulta": "(\"San Patricio del Chañar\" OR \"El Chañar\" Neuquén) (mapa OR plano OR mensura OR aerial OR satellite OR Sentinel OR SAOCOM OR topographic map)"
+    },
+    {
+      "objetivo": "Normativa local",
+      "consulta": "site:neuquen.gov.ar OR site:neuquen.gov.ar OR site:sanpatricio.gob.ar \"San Patricio del Chañar\" (ordenanza OR decreto OR presupuesto OR boletín)"
+    },
+    {
+      "objetivo": "Prensa histórica",
+      "consulta": "(\"San Patricio del Chañar\" OR \"El Chañar\") (diario OR periódico OR hemeroteca OR archivo) Neuquén"
+    },
+    {
+      "objetivo": "Turismo y cultura",
+      "consulta": "(\"San Patricio del Chañar\") (Fiesta del Pelón OR turismo OR patrimonio OR museo OR escuela OR club OR artista OR cultura)"
+    },
+    {
+      "objetivo": "Población y vivienda",
+      "consulta": "(\"San Patricio del Chañar\") (censo OR vivienda OR población OR urbanización OR empleo OR Vaca Muerta)"
+    },
+    {
+      "objetivo": "Búsqueda en portugués",
+      "consulta": "(\"San Patricio del Chañar\" OR \"El Chañar\") Argentina (vinícola OR imigração japonesa OR agricultura OR paleontologia)"
+    },
+    {
+      "objetivo": "Búsqueda en italiano",
+      "consulta": "(\"San Patricio del Chañar\" OR \"El Chañar\") Argentina (Gasparri OR Campofilone OR immigrazione OR vigneti)"
+    },
+    {
+      "objetivo": "Búsqueda en japonés",
+      "consulta": "(\"エル・チャニャール\" OR \"サン・パトリシオ・デル・チャニャール\") アルゼンチン JICA 農業 移住"
+    }
+  ],
+  "reglas_de_inclusion": [
+    "La relación con San Patricio del Chañar debe ser demostrable, no inferida por palabras parecidas.",
+    "Priorizar fuente primaria, documento original, repositorio institucional o publicación científica; usar prensa como fuente periodística y no como prueba universal.",
+    "Un material regional puede incluirse si contiene información sustancial sobre Chañar y la ficha explica qué parte es local y qué parte es contexto.",
+    "No considerar una mención incidental suficiente para una incorporación.",
+    "No confundir localidad, ejido, colonia agrícola, paraje, bodega, yacimiento paleontológico y microrregión.",
+    "No duplicar una misma obra en catálogo, hemeroteca y recursos. Elegir una sección principal y establecer relaciones internas si el sistema lo permite.",
+    "No confundir una noticia con una obra, ni una tesis con un recurso visual, ni una ficha de base de datos con la fuente científica original.",
+    "Comprobar que la URL abre, que el contenido corresponde al título, que el idioma y fecha están identificados y que la fuente custodia realmente el material.",
+    "Registrar derechos, licencia, acceso y permisos por separado. La disponibilidad en línea o el crédito no equivalen a permiso de redistribución.",
+    "No descargar ni alojar archivos ajenos sin permiso o base jurídica comprobada.",
+    "No presentar datos históricos como actuales. Toda cifra debe llevar fecha, unidad, territorio y fuente.",
+    "Mantener contradicciones documentales visibles hasta resolverlas con fuentes de mayor calidad; no elegir arbitrariamente una versión."
+  ],
+  "clasificacion_secciones": {
+    "obras": "Libros, investigaciones, tesis, artículos académicos, informes técnicos, documentos oficiales, normas, mapas y publicaciones terminadas cuyo valor principal es documental o bibliográfico.",
+    "hemeroteca": "Noticias, crónicas, entrevistas periodísticas, editoriales, reportajes y coberturas de medios. Registrar la referencia y enlazar el original; no copiar el artículo.",
+    "recursos": "Fotografías, archivos audiovisuales, audios, colecciones visuales, mapas de consulta, imágenes satelitales, planos, bases de datos y materiales de referencia que no correspondan mejor a Obras o Hemeroteca.",
+    "regla": "La clasificación depende del tipo y función del material, no de la palabra clave ni de la institución que lo publica."
+  },
+  "alertas_de_falsos_positivos": [
+    "Otros lugares llamados El Chañar o Chañar en Salta, Catamarca, Chile u otros países.",
+    "Productos llamados chañar, harina de chañar, arrope de chañar o árbol chañar sin conexión con la localidad neuquina.",
+    "Lago Barreales y Proyecto Dino: cercanía regional no significa que todos sus fósiles procedan de San Patricio del Chañar.",
+    "Añelo, Sauzal Bonito, Vista Alegre, Centenario y Tratayén: localidades o áreas distintas; aceptar materiales solo cuando exista vínculo concreto con Chañar.",
+    "Vaca Muerta: tema regional; no asumir relación local por la sola mención de la formación o de la cuenca.",
+    "Campo Filone/Campofilone y Torre San Patrizio: vínculo italiano documentado con la familia Gasparri; verificar nombres y parentescos en fuentes italianas.",
+    "La palabra Chañar en nombres de empresas, apellidos, productos o establecimientos puede no referirse a San Patricio del Chañar."
+  ],
+  "entregable_de_cada_busqueda": [
+    "Resumen del tema y por qué puede aportar conocimiento local.",
+    "Lista de candidatos con título, autoría/institución, fecha, idioma, país, tipo, URL y sección sugerida.",
+    "Prueba textual o página concreta que establece el vínculo con San Patricio del Chañar.",
+    "Nivel de relación: específico, sustancial o contextual.",
+    "Estado de acceso: archivo completo, lectura web, ficha de catálogo, referencia indirecta o acceso restringido.",
+    "Derechos y condiciones de reutilización conocidas; si no se conocen, decirlo.",
+    "Verificación de duplicados contra catalogo.json, hemeroteca.json y recursos.json.",
+    "Decisión: incorporar, investigar más, derivar a otra sección o descartar con motivo."
+  ]
+}
