@@ -49,3 +49,18 @@ Cada registro conserva título, fecha, diario, autoría disponible, enlace al or
 - **Hemeroteca:** noticias periodísticas indexadas por fecha, medio y tema, siempre con enlace al artículo original.
 
 La hemeroteca es un índice de referencias, no una reproducción de diarios. Cada noticia se conserva como fuente periodística fechada y debe contextualizarse: una noticia, una opinión firmada y un documento oficial no tienen el mismo valor probatorio.
+
+## Accesos directos
+
+- [Portada de LIBRITO](https://eliasmartinezcultural-glitch.github.io/LIBRITO/)
+- [Obras y documentos](https://eliasmartinezcultural-glitch.github.io/LIBRITO/obras.html)
+- [Hemeroteca](https://eliasmartinezcultural-glitch.github.io/LIBRITO/hemeroteca.html)
+- [Ficha imprimible para el aula](https://eliasmartinezcultural-glitch.github.io/LIBRITO/ficha-aula.html)
+
+## Compartir por WhatsApp
+
+Mensaje breve sugerido:
+
+> Te comparto LIBRITO, la Biblioteca Digital Chañarense. Reúne documentos, mapas, investigaciones y noticias sobre San Patricio del Chañar, respetando sus créditos y fuentes originales. La consulta es gratuita.
+
+Para acompañarlo, adjuntá la imagen de difusión y pegá el enlace a la portada. WhatsApp no permite adjuntar automáticamente una imagen desde un enlace de mensaje; la imagen debe seleccionarse como archivo adjunto.
