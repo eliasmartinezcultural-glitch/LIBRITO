@@ -1,6 +1,6 @@
 {
   "nombre": "Hemeroteca de LIBRITO · San Patricio del Chañar",
-  "version": 22,
+  "version": 23,
   "descripcion": "Índice de noticias y páginas periodísticas que mencionan expresamente San Patricio del Chañar, de distintos diarios, años y formatos.",
   "criterio": "Se incorpora una noticia cuando el texto identifica expresamente a San Patricio del Chañar o trata sobre la localidad. Se conserva título, medio, autoría disponible, fecha, enlace original y una descripción breve. No se reproduce el cuerpo periodístico.",
   "noticias": [
@@ -2533,6 +2533,64 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "Artículo e imágenes pertenecen a La Mañana Neuquén y sus titulares. LIBRITO conserva la referencia y el enlace; no reproduce el contenido."
+    },
+    {
+      "id": "rionegro-2026-09-19-epet26-avance-70",
+      "titulo": "Avanza la infraestructura educativa en Neuquén: la EPET 26 ya supera el 70% de ejecución",
+      "fecha": "2026-09-19",
+      "medio": "Diario Río Negro",
+      "autor": "Ariana Rodríguez",
+      "descripcion": "Cobertura sobre el avance informado para el nuevo edificio de la EPET 26 en San Patricio del Chañar. La nota publicada el 19 de septiembre de 2026 señala una ejecución superior al 70%, una superficie cercana a 5.000 metros cuadrados y una matrícula de 262 estudiantes. Los porcentajes y datos se atribuyen a la información citada por el medio y corresponden a la fecha de publicación.",
+      "url": "https://www.rionegro.com.ar/municipales/politica/avanza-la-infraestructura-educativa-en-neuquen-la-epet-26-ya-supera-el-70-de-ejecucion-4728273/?amp=1",
+      "etiquetas": [
+        "educación",
+        "EPET 26",
+        "infraestructura escolar",
+        "obras",
+        "2026"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo y fotografía pertenecen a Diario Río Negro. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "neuquen-informa-2026-09-07-electricidad-54-lotes-costa-verde",
+      "titulo": "Se habilitó el suministro eléctrico para 54 lotes en San Patricio del Chañar",
+      "fecha": "2026-09-07",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación",
+      "descripcion": "Nota institucional sobre la finalización y habilitación de infraestructura eléctrica para 54 lotes del barrio Costa Verde, en Picada 3. La publicación detalla 1.070 metros de línea de media tensión trifásica de 13,2 kV y una subestación transformadora de 200 kVA. La información corresponde al comunicado oficial provincial.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2026/09/07/263324-se-habilito-el-suministro-electrico-para-54-lotes-en-san-patricio-del-chanar",
+      "etiquetas": [
+        "energía eléctrica",
+        "Costa Verde",
+        "Picada 3",
+        "infraestructura",
+        "2026"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "neuquen-informa-2026-04-28-financiamiento-obras-energia-gas",
+      "titulo": "La Provincia financiará obras de energía y gas en San Patricio del Chañar",
+      "fecha": "2026-04-28",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación",
+      "descripcion": "Nota sobre dos convenios para infraestructura local: suministro eléctrico para Costa Verde, en Picada III, y financiamiento de la red de gas para 347 lotes. El comunicado informa aportes reintegrables por más de 590 millones de pesos en conjunto. La nota describe compromisos y financiamiento; no acredita por sí sola la ejecución o finalización de ambas obras.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2026/04/28/256890-la-provincia-financiara-obras-de-energia-y-gas-en-san-patricio-del-chanar",
+      "etiquetas": [
+        "energía",
+        "gas",
+        "Costa Verde",
+        "347 lotes",
+        "financiamiento público",
+        "2026"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Neuquén Informa. LIBRITO conserva referencia y descripción propia."
     }
   ]
 }
