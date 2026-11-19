@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 38,
+  "version": 39,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -2883,6 +2883,48 @@
       },
       "procedencia": "Poder Ejecutivo de la Provincia del Neuquén; portal InfoLEG provincial.",
       "integridad": "Ficha oficial de la norma con texto completo disponible en la página de consulta."
+    },
+    {
+      "id": "neuquen-decreto-1803-2016-ampliacion-escuela-273",
+      "titulo": "Decreto provincial 1803/2016 · ampliación de la Escuela Primaria N.º 273",
+      "autoria": "Poder Ejecutivo de la Provincia del Neuquén",
+      "institucion": "Subsecretaría de Obras Públicas · Provincia del Neuquén",
+      "fecha": "2016-12-05",
+      "categoria": "Educación y conocimiento",
+      "tematica": "Infraestructura escolar, Escuela Primaria N.º 273 y ampliación edilicia",
+      "descripcion": "El Decreto 1803/2016 crea el Plan 78 Aulas para ampliar edificios escolares en distintas localidades. Su anexo incluye expresamente a la Escuela Primaria N.º 273 de San Patricio del Chañar y describe la construcción de un aula de 70 m². El registro documenta la obra prevista en el plan y no acredita por sí solo su finalización.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/Decretos/2016/d_1803_2016.pdf",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Se enlaza el decreto y su anexo desde el portal oficial provincial. LIBRITO no aloja ni redistribuye el PDF.",
+        "referencia": "Decreto provincial 1803/2016, 05-12-2016, Plan 78 Aulas, anexo único."
+      },
+      "procedencia": "Poder Ejecutivo de la Provincia del Neuquén; portal oficial InfoLEG Neuquén.",
+      "integridad": "PDF oficial con el decreto y su anexo; la referencia a la Escuela Primaria N.º 273 aparece en el anexo, página impresa 24."
+    },
+    {
+      "id": "neuquen-decreto-1355-2021-escuela-364-auxiliares",
+      "titulo": "Decreto provincial 1355/2021 · dos cargos de auxiliares para la Escuela Primaria N.º 364",
+      "autoria": "Poder Ejecutivo de la Provincia del Neuquén",
+      "institucion": "Consejo Provincial de Educación · Provincia del Neuquén",
+      "fecha": "2021-08-09",
+      "categoria": "Educación y conocimiento",
+      "tematica": "Escuela Primaria N.º 364, auxiliares de servicio y organización escolar",
+      "descripcion": "Decreto que convalida lo actuado por el Consejo Provincial de Educación mediante Resolución 500/21 y crea dos cargos de auxiliares de servicio para la planta funcional de la Escuela Primaria N.º 364 de San Patricio del Chañar, a partir del 8 de julio de 2021. Se incorpora como antecedente administrativo de la organización y el funcionamiento de la escuela.",
+      "formato": "PÁGINA WEB",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/LeyesDecretosDetalle?Id=400147",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Texto de una norma provincial consultable en el portal oficial de InfoLEG Neuquén. LIBRITO enlaza la fuente original.",
+        "referencia": "Decreto provincial 1355/2021, 09-08-2021; Boletín Oficial, edición 3946."
+      },
+      "procedencia": "Poder Ejecutivo de la Provincia del Neuquén; portal InfoLEG provincial.",
+      "integridad": "Ficha oficial de la norma con texto y referencia administrativa disponibles en la página de consulta."
     }
   ]
 }
