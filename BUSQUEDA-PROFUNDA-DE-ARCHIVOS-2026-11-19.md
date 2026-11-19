@@ -166,3 +166,63 @@ Los modos de compartir son: (1) copia completa en LIBRITO, cuando existe licenci
 Atribuir correctamente no reemplaza el permiso de reproducción. LIBRITO no se apropia de obras, no quita créditos ni marcas, no modifica silenciosamente los originales y no presenta obras ajenas como propias. El objetivo es maximizar el acceso al conocimiento chañarense, no maximizar artificialmente el número de archivos alojados.
 
 El contador 2/36 mide únicamente PDF completos alojados y aprobados. No representa el total de materiales que LIBRITO puede reunir, enlazar o documentar. La colección general debe crecer también con materiales externos pertinentes, sin confundirlos con descargas locales.
+
+
+## Nueva búsqueda educativa y académica — 19 de noviembre de 2026
+
+La búsqueda se amplió hacia tesis, trabajos finales universitarios, informes de prácticas docentes, investigaciones sobre escuelas locales y publicaciones oficiales que puedan servir a estudiantes, docentes e investigadores. Se agregan al catálogo como **accesos a las fuentes originales**. Ninguno de estos hallazgos se cuenta como PDF alojado por LIBRITO ni se presume que su disponibilidad pública autorice republicarlo.
+
+### 1. Formación profesional agropecuaria en el CFPA n.º 2 (2025)
+- **Título:** Análisis de los aportes subjetivantes que emergen en la formación profesional agropecuaria.
+- **Autora:** Mariana Alejandra González.
+- **Publicación:** (En)clave Comahue, n.º 31, 2025, páginas 215–235.
+- **PDF original:** https://rdi.uncoma.edu.ar/bitstream/handle/uncomaid/19184/000%2BENCLAVE%2B31%2B09%2BMariana%2BAlejandra%2BGonz%C3%A1lez%2BAn%C3%A1lisis%2Bde%2Blos%2Baportes%2Bsubjetivantes%2B215-235.pdf?isAllowed=y&sequence=1
+- **Registro de la edición:** https://dialnet.unirioja.es/ejemplar/715464
+- **Aporte local:** investigación cualitativa realizada en 2023 en el Centro de Formación Profesional Agropecuario n.º 2 de San Patricio del Chañar. Analiza formación de personas adultas, aprendizaje de oficios, producción de alimentos, emprendimientos, vínculos educativos y relación entre institución y territorio.
+- **Utilidad educativa:** especialmente valioso para estudiantes de educación, formación profesional, trabajo social, desarrollo territorial, economía social y estudios rurales.
+- **Derechos:** no se identificó una licencia explícita en el PDF consultado. Mantener enlace al original; no alojar copia sin confirmar condiciones.
+
+### 2. Sedentarismo y actividad física en adolescentes del Chañar (2025)
+- **Autora:** Sheila Melani Rivero.
+- **Título:** Sedentarismo y actividad física en adolescentes de San Patricio del Chañar: una revisión antes y luego de la pandemia.
+- **Institución:** Universidad Nacional de Río Negro, Licenciatura en Educación Física y Deportes.
+- **Ficha institucional:** https://rid.unrn.edu.ar/handle/20.500.12049/12880
+- **Aporte local:** tesis que investiga estudiantes de nivel medio y compara prácticas de actividad física antes y después de la pandemia; la ficha identifica como ámbitos de estudio el CPEM n.º 31 y la EPEA n.º 3. El registro informa un PDF adjunto de 821,46 kB.
+- **Utilidad educativa:** educación física, adolescencia, metodología de investigación, salud comunitaria y lectura crítica de datos locales.
+- **Derechos:** la ficha ofrece el archivo para consulta, pero no se comprobó licencia de redistribución. Enlazar la ficha institucional; no usar copias de terceros.
+
+### 3. Sistema sensorial y TIC en el CPEM n.º 31 (trabajo final 2021)
+- **Autor:** Carlos Walter Quezada Grob.
+- **Título:** El estudio del Sistema Sensorial, comprendido en las Ciencias Biológicas, mediante la utilización de las Tecnologías de la Comunicación (TIC).
+- **Institución:** Universidad Nacional del Comahue, Especialización en Educación Mediada por Tecnología Digital.
+- **PDF original:** https://rdi.uncoma.edu.ar/bitstream/handle/uncomaid/16856/Quezada_Grob%20Informe%20final%20de%20Pasant%C3%ADa.pdf?isAllowed=y&sequence=1
+- **Registro de trabajos finales:** https://www.especializacion-emtd.com/pasant%C3%ADa/tfc-2020-2022/
+- **Aporte local:** informe de una intervención de Ciencias Biológicas sobre los órganos de los sentidos realizada en cuarto año del CPEM n.º 31 “Ing. R. Gasparri”, en San Patricio del Chañar. Describe el uso de teléfonos y herramientas digitales para trabajar contenidos del sistema sensorial.
+- **Utilidad educativa:** ciencias naturales, biología, recursos TIC, didáctica y antecedentes de experiencias escolares locales. Debe leerse considerando que la experiencia corresponde a 2019 y el trabajo final se presentó en 2021.
+- **Derechos:** no se identificó licencia de redistribución. Enlazar el repositorio universitario.
+
+### 4. Experiencias municipales — Plan local de promo-prevención
+- **Título:** Experiencias municipales: políticas de abordaje de los consumos problemáticos de drogas.
+- **Organismo:** SEDRONAR, Programa Municipios en Acción.
+- **PDF original:** https://www.argentina.gob.ar/sites/default/files/experiencias_municipales_final-compressed_0.pdf
+- **Aporte local:** incluye una sección específica sobre San Patricio del Chañar y su Plan Municipal de Promo-Prevención. Documenta objetivos para niñas, niños, adolescentes y jóvenes, y acciones previstas con escuelas, espacios deportivos, orientación vocacional y participación comunitaria.
+- **Utilidad educativa:** ciudadanía, políticas públicas, prevención, participación juvenil, investigación social y análisis de programas municipales. Es un documento institucional de época: no presentarlo como descripción de la situación actual.
+- **Derechos:** no se identificó una licencia explícita para republicar el PDF. Mantener el enlace oficial.
+
+### 5. Pistas adicionales detectadas, todavía sin ficha incorporada
+- **Obras para educación — EPEA n.º 3 y escuelas locales:** el portal del Ministerio de Educación de Neuquén contiene listados de obras y menciones a la EPEA n.º 3, Escuela Primaria n.º 273 y otros establecimientos. Página de consulta: https://www.neuquen.edu.ar/obras-para-educacion/. Por ahora es información web institucional, no un archivo educativo descargable individual.
+- **Jornada de trabajo de escuelas primarias de la localidad (24-10-2019):** documento de observaciones curriculares con participación de las escuelas n.º 191, 273, 342, 364, 264 y Especial n.º 19. PDF: https://www.neuquen.edu.ar/wp-content/uploads/2019/11/Jornada-de-Octubre-191-273-342-364-264-Esp-19.pdf. Puede servir como registro de trabajo docente, pero debe verificarse su alcance, autoría y autorización antes de incorporarlo como recurso público destacado.
+- **Educación técnica local:** el portal oficial del Ministerio de Educación conserva la noticia sobre la creación de la EPET n.º 26 en San Patricio del Chañar (15-10-2021): https://www.neuquen.edu.ar/el-poder-ejecutivo-aprobo-la-creacion-de-la-epet-n26-de-san-patricio-del-chanar/. Es una fuente contextual, no un archivo descargable independiente.
+
+## Criterio de selección aplicado
+
+Se priorizaron obras que cumplen al menos una de estas condiciones: estudian directamente a la localidad; documentan una escuela, institución o experiencia formativa local; aportan datos, métodos o antecedentes útiles para trabajos escolares y universitarios; o permiten estudiar políticas públicas y vida comunitaria del Chañar.
+
+Se excluyeron de esta tanda los resultados que solo mencionan la localidad en listados administrativos sin aportar un documento educativo sustantivo. Las noticias institucionales se registran como pistas, no se hacen pasar por libros, manuales o archivos educativos.
+
+## Estado después de esta tanda
+
+- Se añadieron 4 registros nuevos al catálogo, todos con acceso a la fuente original.
+- No se descargó ni alojó una nueva copia PDF en el repositorio.
+- No aumenta el contador de archivos locales autorizados.
+- El avance de la colección descargable sigue siendo 2/36 hasta que se recuperen, verifiquen y autoricen nuevas copias.
