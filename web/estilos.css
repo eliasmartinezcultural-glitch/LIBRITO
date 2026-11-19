@@ -375,3 +375,58 @@ body{
 }
 @media(prefers-reduced-motion:reduce){.puertas-principales .puerta,.seccion-obras .documento,.seccion-hemeroteca .noticia{transition:none}}
 @media print{.foto-portada{box-shadow:none}.foto-portada img{height:auto;max-height:190px}}
+
+
+/* Contadores de colección: cifras reales cargadas desde los índices JSON. */
+.cantidad{
+  min-width:112px;
+  justify-content:center;
+  gap:8px;
+  padding:9px 15px 10px;
+  border:1px solid rgba(105,119,91,.25);
+  border-radius:8px 18px 8px 18px;
+  background:linear-gradient(145deg,#fffdf7 0%,#edf1e8 100%);
+  box-shadow:0 5px 16px rgba(47,57,43,.055);
+}
+.cantidad strong{
+  color:var(--verde-oscuro);
+  font:normal 34px/.95 var(--serif);
+  font-variant-numeric:tabular-nums;
+  letter-spacing:-.04em;
+}
+.cantidad span{
+  max-width:70px;
+  color:#657064;
+  font-size:10px;
+  font-weight:800;
+  letter-spacing:.055em;
+  line-height:1.2;
+  text-transform:uppercase;
+}
+.contador,.hemeroteca-contador{
+  min-height:36px;
+  display:flex;
+  align-items:center;
+  margin:0 0 14px;
+  padding:9px 12px;
+  border-left:3px solid var(--oro);
+  border-radius:0 9px 9px 0;
+  background:rgba(255,253,248,.72);
+  color:#5d695e;
+  font-size:12px;
+  line-height:1.45;
+}
+@media(max-width:520px){
+  .titulo-coleccion{align-items:center;gap:9px}
+  .cantidad{min-width:90px;padding:8px 10px;gap:6px}
+  .cantidad strong{font-size:29px}
+  .cantidad span{font-size:9px}
+}
+@media(max-width:350px){
+  .cantidad{min-width:78px;padding:7px 8px}
+  .cantidad strong{font-size:26px}
+  .cantidad span{max-width:45px}
+}
+@media print{
+  .cantidad,.contador,.hemeroteca-contador{background:white;box-shadow:none;border:1px solid #aaa}
+}
