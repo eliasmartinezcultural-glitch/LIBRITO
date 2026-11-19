@@ -253,3 +253,16 @@ La cifra principal de la portada es el total de materiales disponibles. La meta 
 No perseguir 36 por velocidad. Perseguir 36 por valor documental y confianza.
 
 Una biblioteca local pequeña, precisa, fácil de usar y legalmente responsable vale más que un catálogo grande lleno de enlaces rotos, fichas vacías o copias dudosas.
+
+
+## 12. Nuevas pistas oficiales localizadas en la búsqueda del 19 de noviembre de 2026
+
+Se localizaron documentos oficiales adicionales que pueden ampliar la colección, pero se mantienen como **pistas externas** hasta recuperar el archivo completo y confirmar las condiciones para alojarlo:
+
+- **Decreto provincial 1566/2026 — Centro Deportivo Comunitario, nuevo edificio en San Patricio del Chañar.** Publicado el 5 de octubre de 2026 en el Boletín Oficial provincial. El texto identifica la obra y la licitación pública. Es una pieza normativa local contemporánea; comprobar el PDF descargable y conservar el anexo técnico si lo hubiera. https://boficial.neuquen.gov.ar/LeyesDecretosDetalle?Id=426178
+- **Decreto provincial 868/2026 — aporte a la Municipalidad para la red de gas de 347 lotes.** Publicado el 23 de junio de 2026. La ficha del Boletín Oficial identifica anexos descargables y menciona ordenanzas municipales 1539/2025 y 1557/2026. Verificar si los anexos contienen información local de valor documental y si pueden incorporarse completos. https://boficial.neuquen.gov.ar/LeyesDecretosDetalle?Id=425471
+- **Decreto provincial 2186/1977 — provisión de agua potable a San Patricio del Chañar.** La ficha oficial confirma la recepción definitiva de la obra el 19 de agosto de 1977, pero el portal indica que el archivo PDF no está físicamente disponible. No se contabiliza como archivo recuperado. https://boficial.neuquen.gov.ar/LeyesDecretosDetalle?Id=334142
+- **Informe de gestión DIPROSE / PROSAP (2019).** Incluye una ficha de la obra de riego en San Patricio del Chañar, finalizada en marzo de 2017, y describe el alcance territorial y sus destinatarios. Es una referencia institucional útil para historia productiva reciente; verificar el archivo completo y sus condiciones de redistribución. https://www.argentina.gob.ar/sites/default/files/informegestiondiprose-04-12-19_baja.pdf
+- **Estudios estratégicos para el desarrollo territorial de la región de Vaca Muerta.** Publicación nacional que contiene un análisis específico de San Patricio del Chañar, con evolución de la huella urbana e indicadores intercensales. Mantener como fuente externa hasta verificar integridad, autoría, licencia y pertinencia del documento completo. https://www.argentina.gob.ar/sites/default/files/estudios_estrategicos_para_el_desarrollo_territorial_de_la_region_de_vacamuerta.pdf
+
+**Criterio:** una ficha oficial de una norma o un PDF accesible en un portal público no implica automáticamente que todo anexo, fotografía, plano o informe adjunto pueda redistribuirse sin revisión. Se conserva el enlace a la fuente hasta cerrar la verificación.
