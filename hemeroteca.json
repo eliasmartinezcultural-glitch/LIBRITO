@@ -1,6 +1,6 @@
 {
   "nombre": "Hemeroteca de LIBRITO · San Patricio del Chañar",
-  "version": 10,
+  "version": 11,
   "descripcion": "Índice de noticias y páginas periodísticas que mencionan expresamente San Patricio del Chañar, de distintos diarios, años y formatos.",
   "criterio": "Se incorpora una noticia cuando el texto identifica expresamente a San Patricio del Chañar o trata sobre la localidad. Se conserva título, medio, autoría disponible, fecha, enlace original y una descripción breve. No se reproduce el cuerpo periodístico.",
   "noticias": [
@@ -1238,6 +1238,145 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el medio que la publicó; no se copia ni republica."
+    },
+    {
+      "id": "lm-2013-03-11-casa-cultura",
+      "titulo": "Terminan una casa de artes en El Chañar",
+      "fecha": "2013-03-11",
+      "medio": "La Mañana de Neuquén",
+      "autor": "Redacción",
+      "descripcion": "Crónica sobre la etapa final de la Casa de la Cultura de San Patricio del Chañar, cuya construcción había comenzado en 2007 tras un concurso de proyectos arquitectónicos. Describe sus espacios previstos —sala de exposiciones, aulas-taller y auditorio— y las dificultades de financiamiento atravesadas durante la obra. Se conserva como registro periodístico de la infraestructura cultural local en 2013, sin asumir que las fechas previstas en la nota se hayan cumplido exactamente.",
+      "url": "https://www.lmneuquen.com/terminan-una-casa-artes-el-chanar-n180274",
+      "etiquetas": [
+        "hemeroteca histórica",
+        "2013",
+        "cultura",
+        "Casa de la Cultura",
+        "arquitectura",
+        "obra pública"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a La Mañana de Neuquén. LIBRITO conserva metadatos y descripción propia; la consulta completa se realiza en el medio."
+    },
+    {
+      "id": "lm-2013-08-07-epea-subsidio",
+      "titulo": "El Chañar: subsidiaron a un colegio con $500 mil",
+      "fecha": "2013-08-07",
+      "medio": "La Mañana de Neuquén",
+      "autor": "Redacción",
+      "descripcion": "Cobertura sobre un aporte nacional destinado a la EPEA N.º 3 de San Patricio del Chañar. La nota describe la compra de una chacra de siete hectáreas, la construcción de un galpón y la adquisición de herramientas y equipamiento para las prácticas agropecuarias. También registra el funcionamiento inicial de la escuela en aulas adaptadas en tráileres. Los montos se presentan como cifras informadas en 2013, no como valores actuales.",
+      "url": "https://www.lmneuquen.com/el-chanar-subsidiaron-un-colegio-500-mil-n196151",
+      "etiquetas": [
+        "hemeroteca histórica",
+        "2013",
+        "EPEA 3",
+        "educación agropecuaria",
+        "infraestructura escolar",
+        "formación"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a La Mañana de Neuquén. LIBRITO conserva metadatos y descripción propia; las cifras corresponden al momento de publicación."
+    },
+    {
+      "id": "neuquen-informa-2013-06-11-licitacion-epea3",
+      "titulo": "Licitaron el nuevo edificio para la EPEA N.º 3 de San Patricio del Chañar",
+      "fecha": "2013-06-11",
+      "medio": "Neuquén Informa",
+      "autor": "Gobierno de la Provincia del Neuquén",
+      "descripcion": "Comunicado oficial sobre la licitación del edificio propio de la Escuela Provincial de Educación Agropecuaria N.º 3. Describe el predio de siete hectáreas y media, las aulas, laboratorios y espacios previstos para prácticas productivas, además de la consulta comunitaria sobre la orientación de la escuela. Registra la etapa licitatoria de junio de 2013.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2013/06/11/30690-licitaron-el-nuevo-edificio-para-la-epea-n-3-de-san-patricio-del-chanar",
+      "etiquetas": [
+        "hemeroteca histórica",
+        "2013",
+        "EPEA 3",
+        "educación",
+        "licitación",
+        "infraestructura escolar"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "La publicación pertenece al Gobierno de la Provincia del Neuquén. LIBRITO conserva metadatos y descripción propia; el texto completo se consulta en el sitio emisor."
+    },
+    {
+      "id": "neuquen-informa-2013-09-06-adjudicacion-epea3",
+      "titulo": "Se aprobó la adjudicación de la obra EPEA N.º 3 de San Patricio del Chañar",
+      "fecha": "2013-09-06",
+      "medio": "Neuquén Informa",
+      "autor": "Gobierno de la Provincia del Neuquén",
+      "descripcion": "Comunicado oficial que documenta la adjudicación de la obra del nuevo edificio de la EPEA N.º 3, luego de la licitación realizada en junio de 2013. Detalla la empresa adjudicataria, el contrato, la superficie prevista y la organización de aulas, laboratorio, comedor y espacios destinados a prácticas agrarias. Se registra como una etapa administrativa distinta de la convocatoria licitatoria.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2013/09/06/35398-se-aprobo-la-adjudicacion-de-la-obra-epea-n-3-de-san-patricio-del-chanar",
+      "etiquetas": [
+        "hemeroteca histórica",
+        "2013",
+        "EPEA 3",
+        "educación",
+        "adjudicación",
+        "infraestructura escolar"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "La publicación pertenece al Gobierno de la Provincia del Neuquén. LIBRITO conserva metadatos y descripción propia; el texto completo se consulta en el sitio emisor."
+    },
+    {
+      "id": "educacion-neuquen-2021-10-15-creacion-epet26",
+      "titulo": "El Poder Ejecutivo aprobó la creación de la EPET N.º 26 de San Patricio del Chañar",
+      "fecha": "2021-10-15",
+      "medio": "Educación Neuquén",
+      "autor": "Consejo Provincial de Educación",
+      "descripcion": "Información institucional sobre la aprobación de la creación de la EPET N.º 26, luego de un proceso de consulta comunitaria para ampliar la oferta de educación técnica en la localidad. La publicación indica que la escuela comenzaría a funcionar en el ciclo lectivo 2022 y la ubica junto a la EPEA N.º 3 y el CPEM N.º 31 dentro de la oferta educativa local.",
+      "url": "https://www.neuquen.edu.ar/el-poder-ejecutivo-aprobo-la-creacion-de-la-epet-n26-de-san-patricio-del-chanar/",
+      "etiquetas": [
+        "educación",
+        "EPET 26",
+        "educación técnica",
+        "2021",
+        "Consejo Provincial de Educación"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "La publicación pertenece al Consejo Provincial de Educación. LIBRITO conserva metadatos y descripción propia; no reproduce el texto ni las imágenes."
+    },
+    {
+      "id": "copade-2021-05-28-proyecto-vegetales-cfpa2",
+      "titulo": "Reconocimiento a proyecto educativo neuquino · Vegetales deshidratados y mínimamente procesados",
+      "fecha": "2021-05-28",
+      "medio": "COPADE · Gobierno de la Provincia del Neuquén",
+      "autor": "Secretaría de Planificación y Acción para el Desarrollo (COPADE)",
+      "descripcion": "Artículo institucional sobre el proyecto del CFPA N.º 2 de San Patricio del Chañar seleccionado en la convocatoria nacional Ciencia y Tecnología contra el Hambre. Describe la propuesta de procesamiento de vegetales, preservación, empaque y tecnologías aplicadas a la agricultura familiar, así como su articulación con organismos provinciales, la Universidad Nacional del Comahue y equipos de investigación.",
+      "url": "https://www.copade.gob.ar/reconocimiento-a-proyecto-educativo-neuquino/",
+      "etiquetas": [
+        "educación",
+        "CFPA 2",
+        "Puesto Chañar",
+        "agroalimentos",
+        "ciencia y tecnología",
+        "agricultura familiar"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "La publicación pertenece a COPADE. LIBRITO conserva metadatos y descripción propia; el contenido completo se consulta en el sitio institucional."
+    },
+    {
+      "id": "educacion-neuquen-2024-08-12-dia-educacion-agropecuaria-epea3",
+      "titulo": "Celebraron el Día de la Educación Agropecuaria en la EPEA 3",
+      "fecha": "2024-08-12",
+      "medio": "Educación Neuquén",
+      "autor": "Consejo Provincial de Educación",
+      "descripcion": "Registro institucional de una jornada realizada en la EPEA N.º 3 de San Patricio del Chañar. Describe actividades de estudiantes, exposición y venta de productos elaborados, plantación y parquización, y articulación de prácticas entre la EPEA 3, la EPET 26 y el CFPA 2. Es una referencia sobre proyectos educativos y vínculos entre instituciones locales.",
+      "url": "https://www.neuquen.edu.ar/celebraron-el-dia-de-la-educacion-agropecuaria-en-la-epea-3/",
+      "etiquetas": [
+        "educación",
+        "EPEA 3",
+        "EPET 26",
+        "CFPA 2",
+        "producción",
+        "comunidad educativa"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "La publicación pertenece al Consejo Provincial de Educación. LIBRITO conserva metadatos y descripción propia; no reproduce el texto ni las imágenes."
     }
   ]
 }
