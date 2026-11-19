@@ -145,7 +145,7 @@
     const compartir = nodo("div", "acciones-compartir");
     const enlaceFicha = location.href.split("#")[0] + "#" + card.id;
     const wa = nodo("a", "boton-compartir whatsapp", "Enviar por WhatsApp");
-    wa.href = "https://wa.me/?text=" + encodeURIComponent("Te comparto este material de LIBRITO: " + (texto(item.titulo) || "Obra") + " · " + enlaceFicha);
+    wa.href = "https://wa.me/?text=" + encodeURIComponent("Hola, te comparto esta obra de LIBRITO: " + (texto(item.titulo) || "Material de consulta") + ". Es parte de la Biblioteca Digital Chañarense, que reúne y organiza materiales sobre San Patricio del Chañar y conserva sus créditos y fuentes originales. Podés consultarla acá: " + enlaceFicha);
     wa.target = "_blank"; wa.rel = "noopener noreferrer";
     const copiar = nodo("button", "boton-compartir copiar", "Copiar enlace");
     copiar.type = "button"; copiar.dataset.copiarUrl = enlaceFicha;
