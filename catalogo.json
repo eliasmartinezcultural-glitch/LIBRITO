@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 27,
+  "version": 28,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -2113,6 +2113,167 @@
       },
       "procedencia": "Boletín Oficial de la Provincia del Neuquén, edición 4275, página 54.",
       "integridad": "PDF oficial completo abierto y texto de la convocatoria localizado en la página 54."
+    },
+    {
+      "id": "boletin-neuquen-consorcio-riego-chanar-asamblea-2005",
+      "titulo": "Consorcio de Riego y Drenaje El Chañar · convocatoria y balance del ejercicio 2004",
+      "autoria": "Consorcio de Riego y Drenaje El Chañar",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2005-07-08",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Historia del riego, balances, presupuesto y autoridades del Consorcio",
+      "descripcion": "Convocatoria a Asamblea General Ordinaria prevista para el 16 de julio de 2005 en el local del Consorcio, calle Pehuén s/n. El orden del día incluye la consideración de la memoria, balance general y cuadros anexos del ejercicio cerrado el 31 de diciembre de 2004, el presupuesto 2005 y la renovación parcial de la Comisión Administradora. El aviso identifica una secuencia de ejercicios y autoridades, pero no contiene por sí mismo el balance ni el acta de la reunión.",
+      "formato": "Página web",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/BoletinDetalle?id=469",
+      "urlFicha": "https://infoleg.neuquen.gov.ar/BoletinDetalle?id=469",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar Boletín Oficial",
+      "autorizacion": {
+        "estado": "enlace_a_publicacion_oficial",
+        "base": "Se enlaza el índice de la publicación oficial provincial; LIBRITO no reproduce el aviso.",
+        "referencia": "Boletín Oficial de la Provincia del Neuquén, 8 de julio de 2005, página 35."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, aviso publicado el 08-07-2005.",
+      "integridad": "Texto de la convocatoria recuperado del índice oficial. La ficha directa queda pendiente de revalidación."
+    },
+    {
+      "id": "boletin-neuquen-consorcio-riego-chanar-asamblea-2006",
+      "titulo": "Consorcio de Riego y Drenaje El Chañar · convocatoria a asamblea de 2006",
+      "autoria": "Consorcio de Riego y Drenaje El Chañar",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2006-07-28",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Historia del riego, administración de regantes, balances y autoridades",
+      "descripcion": "Aviso publicado en la edición 2992 del Boletín Oficial para una Asamblea General Ordinaria prevista el 19 de agosto de 2006, a las 9 horas, en el local del Consorcio de calle Pehuén s/n. El orden del día contempla memoria, balance y cuadros anexos del ejercicio cerrado el 31 de diciembre de 2005, presupuesto 2006, renovación de cargos y elección de revisores de cuentas. La edición también reproduce disposiciones estatutarias sobre representación, quórum y votaciones; no debe confundirse la convocatoria con el acta de esa asamblea.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/Boletines/2992%2028-07-2006.pdf",
+      "urlFicha": "https://infoleg.neuquen.gov.ar/Boletines/2992%2028-07-2006.pdf",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar edición oficial completa",
+      "autorizacion": {
+        "estado": "enlace_a_publicacion_oficial",
+        "base": "Se enlaza el PDF de la edición oficial provincial; LIBRITO no aloja ni redistribuye el archivo.",
+        "referencia": "Boletín Oficial de la Provincia del Neuquén, edición 2992, 28-07-2006, páginas 27–28."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, edición 2992.",
+      "integridad": "PDF oficial abierto y texto de la convocatoria localizado en las páginas 27–28."
+    },
+    {
+      "id": "boletin-neuquen-consorcio-riego-chanar-asamblea-2008",
+      "titulo": "Consorcio de Riego y Drenaje El Chañar · convocatoria y renovación de autoridades de 2008",
+      "autoria": "Consorcio de Riego y Drenaje El Chañar",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2008-08-29",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Historia del riego, organización de regantes, balances y autoridades",
+      "descripcion": "Convocatoria a Asamblea General Ordinaria prevista para el 6 de septiembre de 2008 en la sede del Consorcio, calle Pehuén s/n. El orden del día incluye la consideración de memoria, balance y cuadros anexos del ejercicio cerrado el 31 de diciembre de 2007, presupuesto 2008, renovación parcial de autoridades y elección de revisores de cuentas. La publicación ofrece una nueva referencia para seguir la administración de la entidad, pero no contiene el acta ni el balance aprobado.",
+      "formato": "Página web",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/BoletinDetalle?id=634",
+      "urlFicha": "https://infoleg.neuquen.gov.ar/BoletinDetalle?id=634",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar Boletín Oficial",
+      "autorizacion": {
+        "estado": "enlace_a_publicacion_oficial",
+        "base": "Se enlaza el registro de la publicación oficial provincial; LIBRITO no reproduce el aviso.",
+        "referencia": "Boletín Oficial de la Provincia del Neuquén, 29 de agosto de 2008."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, índice oficial, aviso del 29-08-2008.",
+      "integridad": "Texto del aviso localizado en el índice oficial. El acceso directo a la ficha queda pendiente de revalidación."
+    },
+    {
+      "id": "boletin-neuquen-consorcio-riego-chanar-asamblea-2009",
+      "titulo": "Consorcio de Riego y Drenaje El Chañar · memoria y balance del ejercicio 2008",
+      "autoria": "Consorcio de Riego y Drenaje El Chañar",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2009-06-12",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Historia del riego, balances, presupuesto y autoridades del Consorcio",
+      "descripcion": "Convocatoria a Asamblea General Ordinaria para el 27 de junio de 2009 en el local del Consorcio, calle Pehuén s/n. El orden del día incluye la consideración de la memoria, balance general y cuadros anexos del ejercicio cerrado el 31 de diciembre de 2008, el presupuesto 2009, renovación parcial de autoridades y elección de revisores de cuentas. El aviso identifica como firmantes al secretario Elpidio Perticarini y al presidente Juan José Ibáñez. No contiene el acta ni los estados contables.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/Boletines/3144%2012-06-2009.pdf",
+      "urlFicha": "https://infoleg.neuquen.gov.ar/Boletines/3144%2012-06-2009.pdf",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar edición oficial completa",
+      "autorizacion": {
+        "estado": "enlace_a_publicacion_oficial",
+        "base": "Se enlaza la edición oficial del Boletín Oficial provincial; LIBRITO no aloja ni redistribuye el PDF.",
+        "referencia": "Boletín Oficial de la Provincia del Neuquén, edición 3144, 12-06-2009, página 21."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, edición 3144.",
+      "integridad": "PDF oficial abierto y texto de la convocatoria consultado en la página 21."
+    },
+    {
+      "id": "boletin-neuquen-consorcio-riego-chanar-asamblea-2010",
+      "titulo": "Consorcio de Riego y Drenaje El Chañar · convocatoria a asamblea de julio de 2010",
+      "autoria": "Comisión Directiva del Consorcio de Riego y Drenaje El Chañar",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2010-06-18",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Historia del riego, memoria institucional, balances y administración de regantes",
+      "descripcion": "Convocatoria a Asamblea General Ordinaria prevista para el 3 de julio de 2010, a las 9 horas, en el local del Consorcio de calle Pehuén s/n. El aviso fue publicado en junio de 2010 y constituye otra referencia cronológica para localizar el acta, la memoria y el balance correspondientes. La información indexada identifica la fecha, sede y convocatoria; antes de describir el contenido completo del orden del día debe cotejarse la edición íntegra.",
+      "formato": "Página web",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/BoletinDetalle?Id=731",
+      "urlFicha": "https://infoleg.neuquen.gov.ar/BoletinDetalle?Id=731",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar Boletín Oficial",
+      "autorizacion": {
+        "estado": "enlace_a_publicacion_oficial",
+        "base": "Se enlaza la ficha del índice oficial provincial; LIBRITO no reproduce el aviso.",
+        "referencia": "Boletín Oficial de la Provincia del Neuquén, junio de 2010."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, índice oficial, ficha 731.",
+      "integridad": "La búsqueda oficial identifica fecha y sede de la convocatoria. La ficha directa presentó error temporal; el orden del día queda pendiente de cotejo."
+    },
+    {
+      "id": "boletin-neuquen-camara-productores-asamblea-2010",
+      "titulo": "Cámara de Productores Agropecuarios de San Patricio del Chañar · memoria y balance 2009",
+      "autoria": "Comisión Directiva de la Cámara de Productores Agropecuarios de San Patricio del Chañar",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2010-04-16",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Historia productiva, memoria institucional, balances y autoridades de la Cámara",
+      "descripcion": "Convocatoria a Asamblea General Ordinaria para el 30 de abril de 2010, a las 16 horas, en el local del Consorcio de Riego y Drenaje El Chañar, calle Pehuén s/n. El orden del día incluye la memoria, balance, cuadros anexos e informe de la Comisión Revisora de Cuentas del ejercicio económico N.º 15, cerrado el 31 de julio de 2009, renovación total de autoridades, Tribunal de Conducta y revisores de cuentas. El aviso identifica como firmantes a Francisco Anton, secretario, y Franco Luis Gasparri, presidente. No contiene el balance ni el acta de la asamblea.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/Boletines/3188%2016-04-2010.pdf",
+      "urlFicha": "https://infoleg.neuquen.gov.ar/Boletines/3188%2016-04-2010.pdf",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar edición oficial completa",
+      "autorizacion": {
+        "estado": "enlace_a_publicacion_oficial",
+        "base": "Se enlaza la edición oficial del Boletín Oficial provincial; LIBRITO no aloja ni reproduce el PDF.",
+        "referencia": "Boletín Oficial de la Provincia del Neuquén, edición 3188, 16-04-2010, página 31."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, edición 3188.",
+      "integridad": "PDF oficial abierto y convocatoria completa consultada en las páginas 30–31."
+    },
+    {
+      "id": "boletin-neuquen-camara-productores-asamblea-2012",
+      "titulo": "Cámara de Productores Agropecuarios del Chañar · memoria y balance del ejercicio 2011",
+      "autoria": "Comisión Directiva de la Cámara de Productores Agropecuarios del Chañar",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2012-07-06",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Historia productiva, balances, administración y memoria de la Cámara",
+      "descripcion": "Convocatoria a Asamblea General Ordinaria prevista para el 13 de julio de 2012, a las 15 horas, en la sede de calle Pehuén s/n, Casa 89, de San Patricio del Chañar. El orden del día incluye la memoria, balance general, cuadros de resultados y anexos e informe de la Comisión Revisora de Cuentas del ejercicio económico N.º 17, cerrado el 31 de julio de 2011. El aviso señala que la convocatoria se realiza fuera de término. Es una referencia para localizar la documentación contable y el acta, no el balance mismo.",
+      "formato": "Página web",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/BoletinDetalle?id=837",
+      "urlFicha": "https://infoleg.neuquen.gov.ar/BoletinDetalle?id=837",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar Boletín Oficial",
+      "autorizacion": {
+        "estado": "enlace_a_publicacion_oficial",
+        "base": "Se enlaza el registro de la publicación oficial provincial; LIBRITO no reproduce el aviso.",
+        "referencia": "Boletín Oficial de la Provincia del Neuquén, 6 de julio de 2012, página 31."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, índice oficial, ficha 837.",
+      "integridad": "Texto de la convocatoria recuperado del índice oficial. La ficha directa presentó timeout durante esta consulta."
     }
   ]
 }
