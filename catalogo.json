@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 40,
+  "version": 41,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -2988,6 +2988,228 @@
       },
       "procedencia": "Municipalidad de San Patricio del Chañar; publicación en el Boletín Oficial provincial.",
       "integridad": "Página oficial de detalle del Boletín Oficial que reproduce el decreto municipal y sus fundamentos."
+    },
+    {
+      "id": "ordenanza-1365-2023-usos-suelo-desarrollos",
+      "titulo": "Ordenanza Municipal 1365/23 · ratificación de cambios de uso del suelo y nuevos desarrollos",
+      "autoria": "Honorable Concejo Deliberante de San Patricio del Chañar",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2023-11-22",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Ordenamiento territorial, suelo productivo, urbanizaciones y nodos de servicios",
+      "descripcion": "La Ordenanza 1365/23 ratifica cinco decretos municipales de cambio de uso del suelo: los desarrollos identificados en el texto como Las Cortaderas, Oasis del Chañar, Nodo Logístico R7, un loteo residencial abierto y un proyecto de servicios de ruta, hotel, estación de servicio y alojamiento. La norma permite reconstruir decisiones de planificación territorial adoptadas en noviembre de 2023. La aprobación de cambios de uso no demuestra que los proyectos se hayan ejecutado ni que estén actualmente operativos.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/Boletines/Firmado_bol231207_4234.pdf",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar Boletín Oficial original",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Se enlaza la edición oficial del Boletín Oficial provincial. LIBRITO conserva la referencia y no aloja ni redistribuye el PDF.",
+        "referencia": "Boletín Oficial de Neuquén, edición 4234, 07-12-2023, páginas impresas 110–111."
+      },
+      "procedencia": "Dirección del Boletín Oficial y Archivo de la Provincia del Neuquén; edición oficial provincial.",
+      "integridad": "PDF oficial consultado. La norma se encuentra en las páginas impresas 110–111; el enlace conduce al ejemplar completo, no a un archivo separado.",
+      "etiquetas": [
+        "2023",
+        "Ordenanza 1365/23",
+        "uso del suelo",
+        "ordenamiento territorial",
+        "Las Cortaderas",
+        "Oasis del Chañar",
+        "Nodo Logístico R7",
+        "desarrollo urbano"
+      ]
+    },
+    {
+      "id": "ordenanza-1366-2023-mensura-cultivo-almendras",
+      "titulo": "Ordenanza Municipal 1366/23 · mensura y parcelas rurales para cultivo de almendras",
+      "autoria": "Honorable Concejo Deliberante de San Patricio del Chañar",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2023-11-22",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Producción agrícola, mensura rural, fruticultura y uso del suelo",
+      "descripcion": "La Ordenanza 1366/23 otorga el visado municipal a un proyecto de mensura sobre la parcela identificada con nomenclatura catastral 062008273220000. El texto fija el destino de las parcelas resultantes como rurales de explotación intensiva vinculadas al cultivo comercial de almendras, establece que las dimensiones definitivas deberán registrarse ante Catastro provincial y prohíbe subdivisiones por debajo de las dimensiones aprobadas. También asigna al solicitante los gastos de infraestructura de servicios. Es un antecedente normativo sobre la continuidad de actividades agrícolas dentro del ejido; no acredita por sí solo la ejecución de la mensura ni la producción efectiva.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/Boletines/Firmado_bol231207_4234.pdf",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar Boletín Oficial original",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Se enlaza la edición oficial del Boletín Oficial provincial. LIBRITO conserva la referencia y no aloja ni redistribuye el PDF.",
+        "referencia": "Boletín Oficial de Neuquén, edición 4234, 07-12-2023, páginas impresas 112–113."
+      },
+      "procedencia": "Dirección del Boletín Oficial y Archivo de la Provincia del Neuquén; edición oficial provincial.",
+      "integridad": "PDF oficial consultado. La norma se encuentra en las páginas impresas 112–113; el enlace conduce al ejemplar completo, no a un archivo separado.",
+      "etiquetas": [
+        "2023",
+        "Ordenanza 1366/23",
+        "almendras",
+        "fruticultura",
+        "mensura",
+        "parcelas rurales",
+        "producción agrícola"
+      ]
+    },
+    {
+      "id": "ordenanza-1367-2023-cef10-trabajos-complementarios",
+      "titulo": "Ordenanza Municipal 1367/23 · trabajos complementarios para el CEF N.º 10",
+      "autoria": "Honorable Concejo Deliberante de San Patricio del Chañar",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2023-11-22",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Educación y conocimiento, infraestructura deportiva, CEF 10, instalaciones sanitarias y electricidad",
+      "descripcion": "La Ordenanza 1367/23 autoriza al Ejecutivo municipal a contratar trabajos complementarios de electricidad e instalaciones sanitarias para concluir la obra del CEF N.º 10. Sus fundamentos describen antecedentes de la ampliación de sanitarios y vestuarios, la reactivación de una obra que el propio texto señalaba como paralizada y la necesidad de tareas adicionales para poner en funcionamiento la pileta. El anexo enumera, entre otros trabajos, tableros eléctricos, bombas presurizadoras, duchas, instalaciones de sala de máquinas y tareas en el vaso de la piscina. Se registra como autorización y antecedente administrativo: no equivale a una certificación independiente de finalización o habilitación.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/Boletines/Firmado_bol231207_4234.pdf",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar Boletín Oficial original",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Se enlaza la edición oficial del Boletín Oficial provincial. LIBRITO conserva la referencia y no aloja ni redistribuye el PDF.",
+        "referencia": "Boletín Oficial de Neuquén, edición 4234, 07-12-2023, páginas impresas 113–116."
+      },
+      "procedencia": "Dirección del Boletín Oficial y Archivo de la Provincia del Neuquén; edición oficial provincial.",
+      "integridad": "PDF oficial consultado. La norma se encuentra en las páginas impresas 113–116; el enlace conduce al ejemplar completo, no a un archivo separado.",
+      "etiquetas": [
+        "2023",
+        "Ordenanza 1367/23",
+        "CEF 10",
+        "pileta",
+        "deporte",
+        "infraestructura educativa",
+        "obra pública",
+        "instalaciones"
+      ]
+    },
+    {
+      "id": "ordenanza-1368-2023-adhesion-ley-2818-suelo",
+      "titulo": "Ordenanza Municipal 1368/23 · adhesión a la Ley Provincial 2818 y regulación de usos no agrarios",
+      "autoria": "Honorable Concejo Deliberante de San Patricio del Chañar",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2023-11-22",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Normativa y documentos públicos, ordenamiento territorial, suelo rural y planificación",
+      "descripcion": "La Ordenanza 1368/23 dispone la adhesión municipal a la Ley Provincial 2818. Su artículo 2 establece que la norma se aplica a tierras autorizadas para usos no agrarios bajo las Ordenanzas 467/06, 1173/20 y 1174/20, y prohíbe desarrollos urbanísticos dentro del ejido municipal fuera de esos lotes. También faculta al Ejecutivo a reglamentarla y determinar la autoridad de aplicación. Es una pieza relevante para leer junto con las ordenanzas locales sobre chacras, riego, drenaje y cambios de uso del suelo; el registro no reemplaza el texto de la ley provincial ni las normas relacionadas.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/Boletines/Firmado_bol231207_4234.pdf",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar Boletín Oficial original",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Se enlaza la edición oficial del Boletín Oficial provincial. LIBRITO conserva la referencia y no aloja ni redistribuye el PDF.",
+        "referencia": "Boletín Oficial de Neuquén, edición 4234, 07-12-2023, páginas impresas 116–117."
+      },
+      "procedencia": "Dirección del Boletín Oficial y Archivo de la Provincia del Neuquén; edición oficial provincial.",
+      "integridad": "PDF oficial consultado. La norma se encuentra en las páginas impresas 116–117; el enlace conduce al ejemplar completo, no a un archivo separado.",
+      "etiquetas": [
+        "2023",
+        "Ordenanza 1368/23",
+        "Ley Provincial 2818",
+        "suelo rural",
+        "usos no agrarios",
+        "riego",
+        "ordenamiento territorial"
+      ]
+    },
+    {
+      "id": "ordenanza-1369-2023-lote-vivienda-zeis2",
+      "titulo": "Ordenanza Municipal 1369/23 · cambio de destino de un lote municipal para urbanización residencial",
+      "autoria": "Honorable Concejo Deliberante de San Patricio del Chañar",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2023-11-22",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Territorio e infraestructura, vivienda, hábitat, suelo urbano y equipamiento comunitario",
+      "descripcion": "La Ordenanza 1369/23 permite afectar a uso urbano residencial el lote municipal identificado como NC 062007948930000, que previamente estaba destinado al parque industrial municipal ZEIS 2. El texto prevé mensura y subdivisión, apertura de calles y veredas, enripiado y provisión de agua, electricidad, cloacas y gas; contempla convenios con organizaciones y personas inscriptas en el Registro Único Municipal de Vivienda y Hábitat. También prevé reservar lotes fiscales para escuelas, atención primaria de salud, policía y espacios verdes. Sus fundamentos citan cifras de demanda habitacional relevadas por el Municipio en 2023; esas cifras se presentan como antecedentes del texto normativo, no como estadísticas verificadas independientemente por LIBRITO. La ordenanza documenta la autorización y el esquema previsto, no la ejecución posterior de las obras.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/Boletines/Firmado_bol231207_4234.pdf",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar Boletín Oficial original",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Se enlaza la edición oficial del Boletín Oficial provincial. LIBRITO conserva la referencia y no aloja ni redistribuye el PDF.",
+        "referencia": "Boletín Oficial de Neuquén, edición 4234, 07-12-2023, páginas impresas 117–119."
+      },
+      "procedencia": "Dirección del Boletín Oficial y Archivo de la Provincia del Neuquén; edición oficial provincial.",
+      "integridad": "PDF oficial consultado. La norma se encuentra en las páginas impresas 117–119; el enlace conduce al ejemplar completo, no a un archivo separado.",
+      "etiquetas": [
+        "2023",
+        "Ordenanza 1369/23",
+        "vivienda",
+        "hábitat",
+        "ZEIS 2",
+        "urbanización",
+        "servicios públicos",
+        "espacios verdes"
+      ]
+    },
+    {
+      "id": "ordenanza-1371-2023-utilidad-publica-expropiacion-vivienda",
+      "titulo": "Ordenanza Municipal 1371/23 · declaración de utilidad pública sujeta a expropiación para expansión urbana",
+      "autoria": "Honorable Concejo Deliberante de San Patricio del Chañar",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2023-11-22",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Normativa y documentos públicos, vivienda, expansión urbana, hábitat y planificación territorial",
+      "descripcion": "La Ordenanza 1371/23 declara de utilidad pública, sujeto a expropiación, tres fracciones de tierra ubicadas en el sector sur del ejido urbano, identificadas en el texto con sus nomenclaturas catastrales y titularidad registral. La norma solicita a la Legislatura provincial autorización para la expropiación y acompañamiento para obtener financiamiento de la indemnización. El destino previsto es expansión urbana, loteo para vivienda de vecinos y equipamiento urbano e industrial. Sus fundamentos citan un relevamiento municipal de demanda habitacional y describen antecedentes del asentamiento sobre esos terrenos. Es fundamental distinguir la declaración municipal y el pedido de autorización de una expropiación efectivamente consumada: este documento, por sí solo, no acredita que la Legislatura la haya autorizado ni que se haya concretado.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/Boletines/Firmado_bol231207_4234.pdf",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar Boletín Oficial original",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Se enlaza la edición oficial del Boletín Oficial provincial. LIBRITO conserva la referencia y no aloja ni redistribuye el PDF.",
+        "referencia": "Boletín Oficial de Neuquén, edición 4234, 07-12-2023, páginas impresas 121–126."
+      },
+      "procedencia": "Dirección del Boletín Oficial y Archivo de la Provincia del Neuquén; edición oficial provincial.",
+      "integridad": "PDF oficial consultado. La norma se encuentra en las páginas impresas 121–126; el enlace conduce al ejemplar completo, no a un archivo separado.",
+      "etiquetas": [
+        "2023",
+        "Ordenanza 1371/23",
+        "vivienda",
+        "hábitat",
+        "expropiación",
+        "expansión urbana",
+        "suelo",
+        "planificación territorial"
+      ]
+    },
+    {
+      "id": "ordenanza-1437-2024-higiene-terrenos-baldios",
+      "titulo": "Ordenanza Municipal 1437/24 · higiene y mantenimiento de terrenos baldíos y espacios públicos",
+      "autoria": "Honorable Concejo Deliberante de San Patricio del Chañar",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2024-11-14",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Normativa y documentos públicos, ambiente urbano, higiene, residuos y participación vecinal",
+      "descripcion": "La Ordenanza 1437/24 define qué se considera terreno baldío a sus efectos y establece obligaciones de limpieza y mantenimiento, con prohibiciones relativas al depósito de residuos y materiales en terrenos, calles y otros espacios no habilitados. Prevé campañas anuales de difusión, mecanismos de denuncia vecinal, inspección municipal y actuaciones ante el Juzgado Municipal de Faltas. El Decreto Municipal 1944/24, publicado en el mismo ejemplar, promulga la ordenanza. Se incorpora como fuente normativa sobre ambiente urbano y responsabilidades de mantenimiento; no se interpreta como evidencia de cómo se fiscalizó o aplicó posteriormente.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/Boletines/boletin-firmado24112-4368%2029%20nov.pdf",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar Boletín Oficial original",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Se enlaza la edición oficial del Boletín Oficial provincial. LIBRITO conserva la referencia y no aloja ni redistribuye el PDF.",
+        "referencia": "Boletín Oficial de Neuquén, edición 4368, 29-11-2024, páginas impresas 276–277."
+      },
+      "procedencia": "Dirección del Boletín Oficial y Archivo de la Provincia del Neuquén; edición oficial provincial.",
+      "integridad": "PDF oficial consultado. La norma se encuentra en las páginas impresas 276–277; el enlace conduce al ejemplar completo, no a un archivo separado.",
+      "etiquetas": [
+        "2024",
+        "Ordenanza 1437/24",
+        "Decreto 1944/24",
+        "terrenos baldíos",
+        "higiene urbana",
+        "ambiente",
+        "residuos",
+        "espacios públicos"
+      ]
     }
   ]
 }
