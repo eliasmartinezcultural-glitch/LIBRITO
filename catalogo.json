@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 14,
+  "version": 15,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -905,6 +905,126 @@
       },
       "procedencia": "Más Neuquén; fuente declarada en el artículo: «Cosas de Neuquén – Fechas Importantes – Médicos y Medicina», de Víctor Peláez.",
       "integridad": "Referencia externa; conservar autoría, medio y atribución de fuente declarada."
+    },
+    {
+      "id": "roca-respuestas-locales-globales-granada-2008",
+      "titulo": "Respuestas locales a procesos globales: un estudio de caso en la Norpatagonia",
+      "autoria": "Silvia Andrea Roca Vázquez",
+      "institucion": "Universidad de Granada · registro académico en Universidad Pablo de Olavide",
+      "fecha": "2008",
+      "categoria": "Educación y conocimiento",
+      "tematica": "San Patricio del Chañar, globalización, transformaciones sociales, agroindustria de exportación y territorio",
+      "descripcion": "Tesis doctoral defendida en la Universidad de Granada el 1 de julio de 2008. Estudia específicamente los cambios sociales de San Patricio del Chañar entre 1995 y 2005 y la relación entre procesos globales y dinámicas locales. Su registro académico se localiza en un repositorio universitario español. La ficha permite descubrir una investigación sobre la localidad producida y catalogada fuera de la Patagonia.",
+      "formato": "Tesis doctoral · ficha académica",
+      "acceso": "origen",
+      "urlOriginal": "https://investiga.upo.es/documentos/5eb2889429995203e2409a72",
+      "urlFicha": "https://investiga.upo.es/documentos/5eb2889429995203e2409a72",
+      "estado": "Disponible en origen",
+      "idioma": "Español",
+      "alcance": "Internacional · España",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Se enlaza el registro académico institucional. No se aloja ni redistribuye una copia de la tesis.",
+        "referencia": "Universidad Pablo de Olavide, registro de tesis; Universidad de Granada, defensa 01-07-2008."
+      },
+      "procedencia": "Repositorio institucional de investigación de la Universidad Pablo de Olavide, España.",
+      "integridad": "Registro bibliográfico y resumen académico; consultar el repositorio para las opciones de acceso al texto completo."
+    },
+    {
+      "id": "rodriguez-chara-romero-turismo-rural-chanar-2020",
+      "titulo": "Experiencia de turismo rural: el circuito de producción de agroalimentos y la feria De la Tierra a tu Mesa en San Patricio del Chañar",
+      "autoria": "María Daniela Rodríguez, Jorge Ariel Federico Chara y María Florencia Romero",
+      "institucion": "PASOS Edita · publicación académica alojada por la Universidad Autónoma del Estado de México",
+      "fecha": "2020",
+      "categoria": "Libros y publicaciones",
+      "tematica": "Turismo rural, agroalimentos, educación agropecuaria, productores y feria local",
+      "descripcion": "Capítulo 14 del libro Casos de planeación y gestión turística: comportamientos, problemas y avances. Analiza el circuito interpretativo de producción de agroalimentos y la feria De la Tierra a tu Mesa, experiencia iniciada en 2010 en San Patricio del Chañar. El trabajo aparece dentro de una publicación académica de alcance latinoamericano alojada en un repositorio universitario mexicano.",
+      "formato": "Capítulo de libro · PDF completo",
+      "acceso": "origen",
+      "urlOriginal": "https://ri.uaemex.mx/bitstream/handle/20.500.11799/109818/Libro_Completo.pdf?isAllowed=y&sequence=1",
+      "urlFicha": "https://ri.uaemex.mx/handle/20.500.11799/109818",
+      "estado": "Disponible en origen",
+      "idioma": "Español",
+      "alcance": "Internacional · México",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Se enlaza el libro completo alojado por el repositorio universitario. No se copia ni redistribuye el PDF desde LIBRITO; verificar las condiciones editoriales antes de reutilizarlo.",
+        "referencia": "PASOS Edita, Colección PASOS Edita n.º 27, 2020; repositorio institucional UAEMex."
+      },
+      "procedencia": "Repositorio Institucional de la Universidad Autónoma del Estado de México; libro coordinado por Nora Leticia Bringas Rábago, Maribel Osorio García y Ana Pricila Sosa Ferreira.",
+      "integridad": "PDF del libro completo; el capítulo local comienza en la sección identificada como capítulo 14."
+    },
+    {
+      "id": "bid-caracterizacion-regiones-vitivinicolas-2026",
+      "titulo": "Caracterización de las regiones vitivinícolas argentinas",
+      "autoria": "Equipo técnico de caracterización vitivinícola",
+      "institucion": "Banco Interamericano de Desarrollo · publicación técnica",
+      "fecha": "2026",
+      "categoria": "Territorio y cartografía",
+      "tematica": "San Patricio del Chañar, vitivinicultura, suelos, paisaje, unidades edáficas y producción",
+      "descripcion": "Estudio técnico de alcance nacional sobre las regiones vitivinícolas argentinas. Incluye mapas y caracterización específica de las subáreas San Patricio del Chañar y Loma de la Lata, con información sobre suelos, paisaje productivo, relieve, agua y viñedos. Es una referencia internacional útil para encontrar el nombre de la localidad en una publicación de un organismo multilateral.",
+      "formato": "PDF · informe técnico con mapas",
+      "acceso": "origen",
+      "urlOriginal": "https://publications.iadb.org/publications/spanish/document/Caracterizacion-de-las-regiones-vitivinicolas-argentinas.pdf",
+      "urlFicha": "https://publications.iadb.org/",
+      "estado": "Disponible en origen",
+      "idioma": "Español",
+      "alcance": "Internacional · organismo multilateral",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Se enlaza la publicación del BID desde su plataforma oficial. No se aloja una copia en LIBRITO ni se atribuye una licencia de redistribución no verificada.",
+        "referencia": "Banco Interamericano de Desarrollo, Caracterización de las regiones vitivinícolas argentinas."
+      },
+      "procedencia": "Publications del Banco Interamericano de Desarrollo.",
+      "integridad": "PDF original enlazado desde la plataforma editorial del BID."
+    },
+    {
+      "id": "camara-diputados-italia-campo-filone-2023",
+      "titulo": "San Patricio del Chañar y Campo Filone, Italia · referencia histórica sobre el origen del nombre",
+      "autoria": "Tanya Bertoldi · fundamentos del proyecto de declaración 1347-D-2023",
+      "institucion": "Honorable Cámara de Diputados de la Nación Argentina",
+      "fecha": "2023",
+      "categoria": "Historia y memoria",
+      "tematica": "Vínculos migratorios, familia Gasparri, Campo Filone, Ascoli Piceno e historia del nombre San Patricio",
+      "descripcion": "Documento legislativo que menciona expresamente a Campo Filone, en la provincia italiana de Ascoli Piceno, y vincula esa localidad con la historia familiar de los Gasparri y el nombre San Patricio del Chañar. Esta ficha no afirma que se haya localizado una publicación italiana sobre el pueblo neuquino: conserva una referencia documental argentina que permite seguir esa conexión transnacional y abrir nuevas líneas de búsqueda en archivos italianos.",
+      "formato": "PDF · proyecto legislativo",
+      "acceso": "origen",
+      "urlOriginal": "https://www4.hcdn.gob.ar/dependencias/dsecretaria/Periodo2023/PDF2023/TP2023/1347-D-2023.pdf",
+      "urlFicha": "https://www.hcdn.gob.ar/",
+      "estado": "Disponible en origen",
+      "idioma": "Español",
+      "alcance": "Vínculo internacional · Italia / Argentina",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Documento legislativo alojado por la Cámara de Diputados de la Nación. LIBRITO enlaza el original y no aloja una copia.",
+        "referencia": "Cámara de Diputados de la Nación, expediente 1347-D-2023."
+      },
+      "procedencia": "Honorable Cámara de Diputados de la Nación Argentina, período parlamentario 2023.",
+      "integridad": "PDF original de fundamentos legislativos."
+    },
+    {
+      "id": "unrn-rivero-sedentarismo-adolescentes-2025",
+      "titulo": "Sedentarismo y actividad física en adolescentes de San Patricio del Chañar: una revisión antes y luego de la pandemia",
+      "autoria": "Sheila Melani Rivero · dirección de Fernando Marrón",
+      "institucion": "Universidad Nacional de Río Negro · Repositorio Institucional Digital",
+      "fecha": "2025",
+      "categoria": "Educación y conocimiento",
+      "tematica": "Adolescencia, actividad física, sedentarismo, pandemia y vida cotidiana local",
+      "descripcion": "Tesis de grado que toma como campo de estudio a adolescentes de San Patricio del Chañar y compara aspectos de actividad física y sedentarismo antes y después de la pandemia. Se incorpora como investigación académica específica sobre la población local, accesible desde el repositorio institucional universitario.",
+      "formato": "Tesis de grado · registro institucional",
+      "acceso": "origen",
+      "urlOriginal": "https://rid.unrn.edu.ar/handle/20.500.12049/12880",
+      "urlFicha": "https://rid.unrn.edu.ar/handle/20.500.12049/12880",
+      "estado": "Disponible en origen",
+      "idioma": "Español",
+      "alcance": "Universitario · Argentina",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Se enlaza el registro del repositorio institucional. No se aloja ni redistribuye el archivo.",
+        "referencia": "Rivero, Sheila Melani (2025), Universidad Nacional de Río Negro."
+      },
+      "procedencia": "Repositorio Institucional Digital de la Universidad Nacional de Río Negro.",
+      "integridad": "Registro académico con datos de autoría, dirección y fecha de publicación."
     }
   ]
 }
