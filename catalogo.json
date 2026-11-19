@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 24,
+  "version": 25,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -1373,6 +1373,28 @@
       },
       "procedencia": "Dirección Provincial de Estadística y Censos de la Provincia del Neuquén.",
       "integridad": "PDF estadístico oficial; el municipio aparece en el Cuadro 20 y en el gráfico comparativo de superficies autorizadas."
+    },
+    {
+      "id": "unco-lopez-ordieres-calidad-agua-baja-cuenca-2016",
+      "titulo": "Determinación de la calidad química del agua de la baja cuenca del río Neuquén asociada a las actividades hidrocarburífera y agrícola",
+      "autoria": "María Clara López Ordieres",
+      "institucion": "Facultad de Ciencias del Ambiente y la Salud · Universidad Nacional del Comahue",
+      "fecha": "2016",
+      "categoria": "Educación y conocimiento",
+      "tematica": "Baja cuenca del río Neuquén, San Patricio del Chañar, agua, canales de riego, producción agrícola y actividades hidrocarburíferas",
+      "descripcion": "Tesis de grado para la Licenciatura en Saneamiento y Protección Ambiental. Estudia la calidad química del agua y los sedimentos de la baja cuenca del río Neuquén. Incluye un apartado específico sobre San Patricio del Chañar, su superficie productiva, áreas bajo riego, cultivos y usos del agua, y contextualiza el tramo del río y el sistema de riego. Es una investigación regional con información local relevante, no un estudio exclusivo de la localidad. Los resultados y cifras corresponden al marco temporal de la tesis (2016).",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://rdi.uncoma.edu.ar/bitstream/handle/uncomaid/5806/Tesis%20Lopez%20Ordieres%20Clara_LSPA.pdf?isAllowed=y&sequence=1",
+      "urlFicha": "https://rdi.uncoma.edu.ar/",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "enlace_a_repositorio_academico",
+        "base": "Se enlaza el PDF alojado por la Universidad Nacional del Comahue. No se presume autorización para alojar o redistribuir una copia en LIBRITO.",
+        "referencia": "Universidad Nacional del Comahue, Facultad de Ciencias del Ambiente y la Salud; tesis de María Clara López Ordieres, Neuquén, 2016."
+      },
+      "procedencia": "Repositorio Digital Institucional de la Universidad Nacional del Comahue; Facultad de Ciencias del Ambiente y la Salud.",
+      "integridad": "PDF original enlazado desde el repositorio institucional. Se verificaron portada, autoría, fecha, resumen y apartados que mencionan expresamente a San Patricio del Chañar."
     }
   ]
 }
