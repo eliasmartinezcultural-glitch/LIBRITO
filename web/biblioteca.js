@@ -36,8 +36,10 @@
   function disponible(item) {
     if (!item || typeof item !== "object") return false;
     const tipo = texto(item.formato).trim().toUpperCase();
-    const formatosAdmitidos = ["PDF", "JPG", "JPEG", "PNG", "WEBP", "MAPA", "PÁGINA WEB", "PAGINA WEB"];
-    if (!formatosAdmitidos.includes(tipo)) return false;
+    // El catálogo admite descripciones de formato más específicas
+    // (por ejemplo, "PDF digitalizado" o "Mapa histórico digitalizado").
+    // No se debe ocultar una ficha válida por cómo está redactado su formato.
+    if (!tipo) return false;
 
     if (item.estado === "Publicado") {
       return tipo === "PDF" &&
