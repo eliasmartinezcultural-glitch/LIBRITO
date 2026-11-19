@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 4,
+  "version": 5,
   "descripcion": "Colección de documentos locales completos y accesos directos a originales institucionales y académicos, con autoría, procedencia y condiciones de uso visibles.",
   "regla": "Los PDF alojados en LIBRITO se distinguen de los documentos que se abren en su fuente original. Nunca se presenta una ficha como archivo alojado.",
   "categorias": [
@@ -211,6 +211,50 @@
       },
       "procedencia": "Consejo Federal de Inversiones; organismo provincial responsable: Dirección General de Planificación Regional del COPADE. Informe parcial, octubre de 2006.",
       "integridad": "PDF original enlazado desde el portal institucional; no alojado en LIBRITO."
+    },
+    {
+      "id": "revista-cincuentenario-2023",
+      "titulo": "Cincuentenario · San Patricio del Chañar",
+      "autoria": "Municipalidad de San Patricio del Chañar · publicación institucional",
+      "institucion": "Municipalidad de San Patricio del Chañar",
+      "fecha": "2023-12-06",
+      "categoria": "Historia y memoria",
+      "tematica": "Memoria local, aniversario, historia, identidad y comunidad",
+      "descripcion": "Publicación digital presentada por el Municipio en diciembre de 2023 con motivo del cincuentenario de la localidad. El archivo se consulta en Google Drive desde el enlace difundido por la Municipalidad.",
+      "formato": "PDF",
+      "acceso": "ficha",
+      "accionExterna": "Abrir revista original",
+      "urlOriginal": "https://bit.ly/RevistaCincuentenario",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Se enlaza la publicación institucional desde el enlace difundido por el Municipio. No se aloja ni redistribuye una copia en LIBRITO; las condiciones del archivo original deben respetarse.",
+        "referencia": "Presentación municipal de las revistas Cincuentenario y Gestión 2019–2023, 06-12-2023."
+      },
+      "procedencia": "Enlace difundido por la Municipalidad de San Patricio del Chañar en diciembre de 2023.",
+      "integridad": "Publicación PDF en Google Drive; acceso desde el enlace institucional difundido."
+    },
+    {
+      "id": "gestion-municipal-2019-2023",
+      "titulo": "Gestión municipal 2019–2023",
+      "autoria": "Municipalidad de San Patricio del Chañar · publicación institucional",
+      "institucion": "Municipalidad de San Patricio del Chañar",
+      "fecha": "2023-12-06",
+      "categoria": "Cultura y patrimonio",
+      "tematica": "Gestión municipal, obras, espacios públicos, economía social, cultura y deporte",
+      "descripcion": "Memoria institucional del período 2019–2023, publicada en diciembre de 2023. El documento de 35 páginas incluye apartados sobre espacios públicos, nuevas inversiones, economía social, cultura y deporte.",
+      "formato": "PDF",
+      "acceso": "ficha",
+      "accionExterna": "Abrir publicación original",
+      "urlOriginal": "https://bit.ly/Gestion2019-2023",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "Se enlaza la publicación institucional desde el enlace difundido por el Municipio. No se aloja ni redistribuye una copia en LIBRITO; las condiciones del archivo original deben respetarse.",
+        "referencia": "Presentación municipal de las revistas Cincuentenario y Gestión 2019–2023, 06-12-2023."
+      },
+      "procedencia": "Enlace difundido por la Municipalidad de San Patricio del Chañar en diciembre de 2023.",
+      "integridad": "Publicación PDF de 35 páginas en Google Drive; acceso desde el enlace institucional difundido."
     }
   ]
 }
