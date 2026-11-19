@@ -1,6 +1,6 @@
 {
   "nombre": "Hemeroteca de LIBRITO · San Patricio del Chañar",
-  "version": 28,
+  "version": 29,
   "descripcion": "Índice de noticias y páginas periodísticas que mencionan expresamente San Patricio del Chañar, de distintos diarios, años y formatos.",
   "criterio": "Se incorpora una noticia cuando el texto identifica expresamente a San Patricio del Chañar o trata sobre la localidad. Se conserva título, medio, autoría disponible, fecha, enlace original y una descripción breve. No se reproduce el cuerpo periodístico.",
   "noticias": [
@@ -3655,6 +3655,27 @@
       "tipo": "cronica_deportiva",
       "estado": "enlace_al_original",
       "derechos": "Artículo e imágenes pertenecen a Cutral Co al Instante y sus autores o fuentes acreditadas. LIBRITO conserva metadatos y una descripción propia."
+    },
+    {
+      "id": "rionegro-2026-05-21-oficina-turismo-ruta7",
+      "titulo": "Aniversario de San Patricio del Chañar: el nuevo espacio sobre la Ruta 7 que busca atraer a más visitantes",
+      "fecha": "2026-05-21",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Nota publicada durante el 53.º aniversario de la localidad sobre la próxima apertura de una Oficina de Turismo junto a la Ruta Provincial 7. Describe la propuesta de brindar información sobre atractivos, servicios, circuitos de bodegas y emprendimientos, e informa la elección de una embajadora turística y una suplente. La nota recoge declaraciones de la directora de Turismo municipal; al ser previa a la apertura, no acredita por sí sola la fecha efectiva de inauguración ni el funcionamiento actual.",
+      "url": "https://www.rionegro.com.ar/voy-turismo/aniversario-de-san-patricio-del-chanar-el-nuevo-espacio-sobre-la-ruta-7-que-busca-atraer-a-mas-visitantes/",
+      "etiquetas": [
+        "turismo",
+        "Ruta Provincial 7",
+        "oficina de turismo",
+        "bodegas",
+        "emprendedores",
+        "embajadora turística",
+        "aniversario 2026"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo y fotografías pertenecen a Diario Río Negro y a sus autores o fuentes acreditadas. LIBRITO conserva metadatos y una descripción propia."
     }
   ]
 }
