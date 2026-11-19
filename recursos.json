@@ -1,6 +1,6 @@
 {
   "nombre": "Recursos de LIBRITO · San Patricio del Chañar",
-  "version": 7,
+  "version": 8,
   "descripcion": "Índice de fotografías, mapas, planos, archivos audiovisuales y otros materiales de consulta relacionados con San Patricio del Chañar.",
   "criterio": "Se registran recursos existentes y se enlaza a sus custodios o fuentes originales. La inclusión no implica autorización para descargar, copiar, republicar, adaptar o usar comercialmente. Cada ficha informa el estado de derechos conocido y el modo de acceso. Si las condiciones no están claras, el recurso se ofrece solo como referencia externa.",
   "recursos": [
@@ -354,6 +354,93 @@
         "Encina y Moreno",
         "1883",
         "valle del Neuquén"
+      ]
+    },
+    {
+      "id": "proyecto-dino-panamericansaurus-schroederi-hallazgo-chanar-2003",
+      "titulo": "Panamericansaurus schroederi · hallazgo paleontológico junto a San Patricio del Chañar",
+      "categoria": "Paleontología y patrimonio prehistórico",
+      "tipo": "Registro científico de fósil, holotipo y localidad de excavación",
+      "fecha": "Hallazgo en 2003 · especie publicada en 2010",
+      "autor": "Jorge O. Calvo y Juan D. Porfiri · Universidad Nacional del Comahue · Proyecto Dino / CePaLB",
+      "descripcion": "Artículo científico que describe Panamericansaurus schroederi, un dinosaurio saurópodo titanosaurio del Cretácico Superior. El material tipo MUCPv-417 fue rescatado a unos 3 km al oeste de la ciudad de San Patricio del Chañar, en el lugar donde actualmente se encuentra Bodega Familia Schroeder. La publicación identifica la Formación Allen y describe las piezas recuperadas: vértebras caudales y sacra, húmero, arcos hemales y fragmentos de costillas. Es una evidencia paleontológica directa del terreno cercano a la localidad, de aproximadamente 72–75 millones de años de antigüedad; no es evidencia de presencia humana.",
+      "url": "https://seer.ufu.br/index.php/braziliangeojournal/article/view/8170",
+      "fuente": "Calvo, J. O. y Porfiri, J. D. (2010). «Panamericansaurus schroederi gen. nov. sp. nov. Un nuevo Sauropoda (Titanosauridae-Aeolosaurini) de la Provincia del Neuquén, Cretácico Superior de Patagonia, Argentina». Brazilian Geographical Journal, 1(1), 100–115. El artículo identifica la localidad del holotipo a 3 km al oeste de San Patricio del Chañar.",
+      "acceso": "Artículo científico en línea; incluye descripción anatómica, fotografías de los restos, figura de ubicación del sitio de excavación y bibliografía.",
+      "derechos_estado": "La revista indica derechos reservados a los autores y permite reproducir figuras, mapas e ilustraciones con atribución a la publicación original",
+      "derechos": "Consultar y citar la publicación original. Para reutilizar figuras, respetar la condición de atribución indicada por la revista y conservar autores, título y datos editoriales.",
+      "licencia": "La revista indica derechos reservados a los autores; reproducción de figuras, mapas e ilustraciones permitida con atribución a la fuente original.",
+      "etiquetas": [
+        "San Patricio del Chañar",
+        "Bodega Familia Schroeder",
+        "Panamericansaurus schroederi",
+        "Proyecto Dino",
+        "CePaLB",
+        "Cretácico Superior",
+        "Formación Allen",
+        "Campaniano",
+        "Maastrichtiano",
+        "fósiles",
+        "dinosaurio",
+        "MUCPv-417"
+      ]
+    },
+    {
+      "id": "bajo-anelo-registro-arqueologico-sitios-arte-rupestre-2018",
+      "titulo": "Sitios arqueológicos y arte rupestre del Bajo del Añelo · registro de campo y mapas",
+      "categoria": "Arqueología y patrimonio indígena",
+      "tipo": "Registro arqueológico regional con mapas de sitios, fotografías y materiales",
+      "fecha": "Investigaciones publicadas en 2018 · campañas de campo previas",
+      "autor": "Diego D. Rindel, S. Iván Pérez, Guadalupe Romero Villanueva, Diego Gobbo y Anabel Feely",
+      "descripcion": "Investigación arqueológica del noreste de Neuquén que reúne 35 sitios registrados en el área amplia de estudio, con una concentración importante en el Bajo del Añelo. Presenta mapas de ubicación, fotografías de paredones con arte rupestre y evidencias de superficie: materiales líticos, instrumentos de molienda, cerámica y restos faunísticos. Entre las localidades estudiadas figuran Quebrada de la Piedra Pintada, Cerro de las Brujas y Embalse Carranza. La publicación interpreta ocupaciones y desplazamientos de cazadores-recolectores, probablemente vinculados con aguadas, cursos estacionales y recursos como el guanaco. Advertencia territorial: el artículo estudia el Bajo del Añelo y áreas de Auca Mahuida; no demuestra que esos 35 sitios estén dentro del ejido de San Patricio del Chañar ni identifica un sitio arqueológico dentro del casco urbano. Se incorpora como evidencia del paisaje arqueológico del departamento y entorno regional que debe mantenerse separado de los hallazgos locales directos.",
+      "url": "https://interseccionesantro.soc.unicen.edu.ar/index.php/intersecciones/article/view/367",
+      "fuente": "Rindel, D. D.; Pérez, S. I.; Romero Villanueva, G.; Gobbo, D. y Feely, A. (2018). «Investigaciones arqueológicas en el noreste de Neuquén: evidencias materiales y tendencias distribucionales preliminares». InterSecciones en Antropología, 19(2). DOI: 10.37176/iea.19.2.2018.367.",
+      "acceso": "Artículo científico en línea y versiones PDF disponibles en repositorios académicos. Consultar especialmente la Figura 1 (mapa de 35 sitios), las Figuras 3 y 4 (fotografías y distribución de evidencias) y la descripción de las localidades del Bajo del Añelo.",
+      "derechos_estado": "Publicación académica de acceso abierto; verificar las condiciones de reutilización de cada figura en la página editorial",
+      "derechos": "LIBRITO enlaza al artículo y no aloja las fotografías ni los mapas. Citar a todos los autores y a la revista. La apertura de consulta no debe interpretarse automáticamente como permiso para republicar imágenes o datos georreferenciados sensibles.",
+      "licencia": "Consultar la licencia y política editorial vigentes en la página de la revista antes de reutilizar figuras.",
+      "etiquetas": [
+        "Bajo del Añelo",
+        "Añelo",
+        "arqueología",
+        "cazadores-recolectores",
+        "arte rupestre",
+        "Quebrada de la Piedra Pintada",
+        "Cerro de las Brujas",
+        "Embalse Carranza",
+        "material lítico",
+        "cerámica",
+        "guanaco",
+        "Holoceno",
+        "Neuquén"
+      ]
+    },
+    {
+      "id": "conectividad-estacional-paisaje-registro-arqueologico-norte-neuquen-2023",
+      "titulo": "Conectividad estacional del paisaje y registro arqueológico del norte de Neuquén",
+      "categoria": "Arqueología y patrimonio indígena",
+      "tipo": "Investigación espacial y síntesis cartográfica de sitios arqueológicos",
+      "fecha": "2023",
+      "autor": "Sergio L. D’Abramo, Diego Gobbo, S. Iván Pérez y Valeria Bernal",
+      "descripcion": "Estudio que compila 255 sitios arqueológicos a partir de bibliografía e investigaciones de campo en las cuencas del río Neuquén, el margen sur del río Colorado y la cuenca endorreica del Bajo del Añelo. Analiza cómo la conectividad estacional entre ambientes, fuentes de agua, rutas de circulación y áreas de recursos pudo organizar los desplazamientos humanos. Es útil para investigar el marco territorial en el que se encuentra San Patricio del Chañar, especialmente el vínculo entre valles, bajos y aguadas. La escala es regional: la publicación no debe citarse como prueba de un sitio dentro del ejido de Chañar sin comprobar la ubicación de cada punto cartografiado.",
+      "url": "https://www.scielo.org.ar/scielo.php?lng=es&nrm=iso&pid=S1852-48262023000100041&script=sci_arttext",
+      "fuente": "D’Abramo, S. L.; Gobbo, D.; Pérez, S. I. y Bernal, V. (2023). «Conectividad estacional del paisaje y el registro arqueológico del norte de Neuquén (Noroeste de Patagonia)». Revista del Museo de Antropología.",
+      "acceso": "Consulta del artículo científico en SciELO. Incluye área de estudio, cartografía y análisis espacial de la distribución de sitios arqueológicos.",
+      "derechos_estado": "Artículo académico en repositorio abierto; verificar licencia editorial y condiciones de reutilización de mapas y datos",
+      "derechos": "Se enlaza a la publicación original. No copiar mapas ni datos espaciales sin comprobar las condiciones de la revista y la sensibilidad de la información arqueológica.",
+      "licencia": "Consultar la licencia indicada en la página de SciELO y en la versión editorial del artículo.",
+      "etiquetas": [
+        "Neuquén",
+        "Bajo del Añelo",
+        "río Neuquén",
+        "arqueología",
+        "255 sitios arqueológicos",
+        "movilidad estacional",
+        "conectividad del paisaje",
+        "cazadores-recolectores",
+        "Holoceno",
+        "agua",
+        "aguadas"
       ]
     }
   ]
