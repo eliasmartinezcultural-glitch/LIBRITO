@@ -1032,3 +1032,38 @@ a:hover{text-decoration-thickness:2px}
 @media print{
   .pie-creditos strong,.pie-creditos b{color:#222!important}
 }
+
+
+/* LIBRITO · Filtros combinables de Hemeroteca · noviembre 2026 */
+.hemeroteca-ayuda{margin:8px 0 15px;color:#667064;font-size:13px;line-height:1.55}
+.hemeroteca-controles{
+ display:grid;grid-template-columns:repeat(4,minmax(0,1fr));
+ gap:12px;margin-top:14px;align-items:end
+}
+.filtro-campo{display:flex;min-width:0;flex-direction:column;gap:6px}
+.hemeroteca-filtros .filtro-campo label{margin:0;color:#465448;font-size:12px;font-weight:800;letter-spacing:.04em}
+.filtro-campo select{
+ width:100%;min-height:48px;padding:10px 34px 10px 12px;
+ border:1px solid #c5cbbb;border-radius:9px;background:#fffdf8;color:#2d3c31;
+ font:inherit;font-size:14px
+}
+.hemeroteca-limpiar{
+ display:inline-flex;align-items:center;justify-content:center;
+ min-height:44px;margin-top:14px;padding:9px 15px;
+ border:1px solid #7b8a78;border-radius:8px 14px 8px 14px;
+ background:#edf0e8;color:#334b39;font:inherit;font-size:13px;font-weight:750;cursor:pointer
+}
+.hemeroteca-limpiar:hover:not(:disabled){background:#e0e8dc}
+.hemeroteca-limpiar:disabled{opacity:.5;cursor:default}
+.hemeroteca-filtros input:focus-visible,.filtro-campo select:focus-visible,.hemeroteca-limpiar:focus-visible{
+ outline:3px solid #9b593b;outline-offset:3px
+}
+@media(max-width:760px){.hemeroteca-controles{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}}
+@media(max-width:390px){
+ .hemeroteca-controles{grid-template-columns:1fr 1fr}
+ .filtro-campo select{min-height:48px;padding-inline:9px;font-size:13px}
+ .hemeroteca-limpiar{width:100%}
+}
+@media print{
+ .hemeroteca-controles,.hemeroteca-limpiar,.hemeroteca-ayuda{display:none!important}
+}
