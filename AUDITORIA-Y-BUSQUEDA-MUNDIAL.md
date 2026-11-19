@@ -127,7 +127,25 @@ Se realizaron búsquedas en varios niveles geográficos y tipos de repositorio, 
 - “Plan de Ordenamiento Territorial Ambiental para Añelo, San Patricio del Chañar y Sauzal Bonito”: https://www.argentina.gob.ar/sites/default/files/plan_de_ordenamiento_territorial_y_ambiental_para_las_localidades_des_anelo_san_patricio_del_chanar_y_sauzal_bonito_0.pdf
 - La publicación está disponible para consulta, pero deben respetarse las condiciones del CFI.
 
-### E. Alcance internacional
+
+### F. Publicaciones académicas recientes con licencia identificada — hallazgo prioritario
+
+**Libro IPEHCS / Universidad Nacional del Comahue (2025)**
+- *Experiencias colectivas y luchas de mujeres rurales en la Argentina*, editado por Verónica Trpin, Topos / IPEHCS, Cuadernos n.º 10.
+- Capítulo 6: “Huerteras en las fronteras del extractivismo: Producción de alimentos frescos en San Patricio del Chañar, Neuquén”, Verónica Trpin.
+- PDF directo: https://rdi.uncoma.edu.ar/bitstream/handle/uncomaid/19070/CUA_10_mujeres_rurales_final.pdf?isAllowed=y&sequence=1
+- El propio PDF identifica licencia CC BY-NC-SA 4.0 en sus páginas preliminares y dedica el capítulo 6 al Chañar. Se permite compartir con atribución, uso no comercial y bajo la misma licencia. Recuperar el binario y verificar páginas/hash antes de publicarlo.
+
+**Artículo RIVAR / SciELO (2025)**
+- María Daniela Rodríguez y Verónica Trpin, “Circuitos alternativos de producción de agroalimentos en un escenario de transformaciones territoriales en Neuquén, Argentina”, RIVAR, vol. 12, n.º 35, abril de 2025.
+- PDF directo: https://www.scielo.cl/pdf/rivar/v12n35/0719-4994-rivar-12-35-86.pdf
+- DOI: https://doi.org/10.35588/xt3b7810
+- Analiza específicamente San Patricio del Chañar, CFPA N.º 2, Chacra Municipal, huerteras y circuitos de producción de alimentos.
+- La política editorial de RIVAR confirma licencia CC BY 4.0, que permite distribución con atribución. Recuperar el binario y verificar páginas/hash antes de publicarlo.
+
+Estos dos títulos son los mejores candidatos académicos nuevos de esta búsqueda: tienen archivo PDF directo identificado y licencia explícita compatible con redistribución bajo sus condiciones. Todavía no se incorporaron a la carpeta pública porque el entorno de trabajo no logró descargar los binarios desde sus servidores de origen.
+
+### G. Alcance internacional
 
 La búsqueda internacional recuperó principalmente artículos académicos y registros de repositorios que estudian la localidad desde la geografía agraria, la producción, el turismo y la transformación territorial. No apareció, en esta pasada, un archivo internacional independiente que aporte una colección local distinta de las fuentes argentinas ya citadas. Esto no demuestra que no exista: indica que debe ampliarse mediante catálogos de bibliotecas, repositorios universitarios y consultas directas a autores.
 
@@ -175,8 +193,8 @@ La validación automática comprueba estructura, existencia, firma básica del P
 ## 7. Resultado actual
 
 - **Documentos públicos descargables:** 2.
-- **Registros internos del inventario:** 59.
-- **Nuevos registros de esta búsqueda:** CND-046 a CND-059.
+- **Registros internos del inventario:** 61.
+- **Nuevos registros de esta búsqueda:** CND-046 a CND-061.
 - **Portada:** reformulada para una experiencia sencilla, con letra grande y una sola columna de documentos.
 - **Fuentes externas:** quedan en documentación interna, no en la web pública.
 - **Videos y audios:** excluidos de la biblioteca.
