@@ -1,6 +1,6 @@
 {
   "nombre": "Recursos de LIBRITO · San Patricio del Chañar",
-  "version": 19,
+  "version": 20,
   "descripcion": "Índice de fotografías, mapas, planos, archivos audiovisuales y otros materiales de consulta relacionados con San Patricio del Chañar.",
   "criterio": "Se registran recursos existentes y se enlaza a sus custodios o fuentes originales. La inclusión no implica autorización para descargar, copiar, republicar, adaptar o usar comercialmente. Cada ficha informa el estado de derechos conocido y el modo de acceso. Si las condiciones no están claras, el recurso se ofrece solo como referencia externa.",
   "recursos": [
@@ -1321,6 +1321,35 @@
         "Boletín Oficial",
         "2023",
         "documentación municipal"
+      ]
+    },
+    {
+      "id": "cfi-coviar-caracterizacion-edafoclimatica-neuquen-valle-inferior-rio-neuquen-2024",
+      "titulo": "Caracterización edafoclimática de las regiones vitivinícolas · mapas y registros de San Patricio del Chañar",
+      "categoria": "Mapas, fotografías y registros técnicos",
+      "tipo": "Estudio técnico provincial con cartografía temática, perfiles topográficos y fotografías de campo",
+      "fecha": "Febrero de 2024",
+      "autor": "Consejo Federal de Inversiones (CFI) y Corporación Vitivinícola Argentina (COVIAR); equipo técnico multidisciplinario",
+      "descripcion": "Informe técnico de la provincia de Neuquén que incluye una subárea específica de San Patricio del Chañar dentro del Valle Inferior del río Neuquén. Contiene fotografías de viñedos y del paisaje local (figuras 70–75), perfiles topográficos de San Patricio del Chañar (figuras 76–78), mapas geomorfológicos, mapas de textura, profundidad efectiva, drenaje, anegamiento, salinidad y otras variables del suelo. Es una fuente especialmente útil para estudiar el relieve, las terrazas fluviales, los suelos y la transformación vitícola del territorio. Algunas láminas abarcan también Loma de la Lata y otras áreas: se debe respetar la escala y el ámbito de cada mapa. No es un relevamiento histórico ni un catastro parcelario.",
+      "url": "https://cfi.org.ar/uploads/2024/05/Neuquen_114_0.pdf",
+      "fuente": "Consejo Federal de Inversiones y Corporación Vitivinícola Argentina, Caracterización edafoclimática de las regiones vitivinícolas de la Argentina · Provincia de Neuquén, Informe Final, febrero de 2024.",
+      "acceso": "PDF completo de consulta y descarga. Las referencias específicas a San Patricio del Chañar incluyen fotografías y perfiles topográficos en las páginas impresas 184–188, y cartografía geomorfológica y edáfica en las secciones posteriores. El documento contiene numerosas figuras y anexos técnicos.",
+      "derechos_estado": "Documento institucional de acceso público; no se identificó una licencia abierta específica para todas las fotografías y láminas",
+      "derechos": "Citar al CFI, COVIAR, autores y edición. La disponibilidad pública del PDF no implica autorización automática para extraer, republicar o comercializar fotografías, mapas o figuras. Para reutilizar materiales gráficos, consultar a los organismos titulares.",
+      "licencia": "No se identifica una licencia abierta general para el documento y sus imágenes. Consulta del original; solicitar autorización para reutilización gráfica.",
+      "etiquetas": [
+        "San Patricio del Chañar",
+        "CFI",
+        "COVIAR",
+        "Valle Inferior del río Neuquén",
+        "geomorfología",
+        "suelos",
+        "edafología",
+        "terrazas fluviales",
+        "perfiles topográficos",
+        "fotografías de viñedos",
+        "cartografía temática",
+        "2024"
       ]
     }
   ]
