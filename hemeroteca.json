@@ -1923,6 +1923,106 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "Artículo y fotografías pertenecen a Diario Río Negro y sus autores. LIBRITO conserva metadatos y una descripción propia; las cifras se atribuyen a las fuentes mencionadas en la nota."
+    },
+    {
+      "id": "lm-2016-01-15-fiesta-pelon-30",
+      "titulo": "San Patricio del Chañar inicia hoy su 30ª Fiesta del Pelón",
+      "fecha": "2016-01-15",
+      "medio": "La Mañana de Neuquén",
+      "autor": "Redacción",
+      "descripcion": "Cobertura de la 30.ª edición de la Fiesta Provincial y Regional del Pelón. Describe la bendición de los frutos, la programación artística, la elección de la reina y el homenaje a productores y trabajadores rurales. Incluye una reseña histórica sobre la transformación productiva de El Chañar, desde las primeras compras de tierras y obras de riego hasta el desarrollo frutícola. Se conserva como crónica periodística de 2016; los datos históricos se atribuyen al medio y deben contrastarse con documentos primarios.",
+      "url": "https://www.lmneuquen.com/san-patricio-del-chanar-inicia-hoy-su-30-fiesta-del-pelon-n500536",
+      "etiquetas": [
+        "hemeroteca",
+        "2016",
+        "Fiesta del Pelón",
+        "trabajo rural",
+        "fruticultura",
+        "memoria local"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo y fotografías pertenecen a La Mañana de Neuquén. LIBRITO conserva metadatos y una descripción propia; el contenido completo se consulta en el medio original."
+    },
+    {
+      "id": "hcdn-2014-11-17-proyecto-interes-fiesta-pelon",
+      "titulo": "Proyecto para declarar de interés de la Cámara de Diputados la Fiesta del Pelón",
+      "fecha": "2014-11-17",
+      "medio": "Honorable Cámara de Diputados de la Nación",
+      "autor": "Proyecto de resolución · expediente 9105-D-2014",
+      "descripcion": "Registro legislativo nacional de un proyecto presentado el 17 de noviembre de 2014 para declarar de interés de la Cámara la Fiesta del Pelón de San Patricio del Chañar. Sus fundamentos relacionan la celebración con los pioneros, la producción frutícola y el trabajo rural. Se incorpora como antecedente parlamentario: la presentación de un proyecto no equivale por sí sola a una declaración aprobada.",
+      "url": "https://www.hcdn.gob.ar/comisiones/permanentes/cdhygarantias/proyecto.html?exp=9105-D-2014",
+      "etiquetas": [
+        "hemeroteca",
+        "2014",
+        "Fiesta del Pelón",
+        "legislación nacional",
+        "producción frutícola",
+        "trabajo rural"
+      ],
+      "tipo": "registro_legislativo",
+      "estado": "enlace_al_original",
+      "derechos": "Registro público de la Honorable Cámara de Diputados de la Nación. LIBRITO conserva referencia y descripción propia; no reproduce el expediente completo."
+    },
+    {
+      "id": "turismo-neuquen-2017-fiesta-pelon-31",
+      "titulo": "La XXXI Fiesta Provincial y Regional del Pelón en San Patricio del Chañar",
+      "fecha": "2017",
+      "medio": "Turismo Neuquén",
+      "autor": "Ministerio de Turismo de la Provincia del Neuquén",
+      "descripcion": "Agenda institucional que anuncia la 31.ª Fiesta Provincial y Regional del Pelón, prevista para el 13 y 14 de enero en el estadio Juan B. Jara. Conserva la programación publicada para ambas jornadas, con bendición de los frutos, talleres municipales, danzas y artistas locales y regionales. Es una fuente útil para reconstruir la continuidad y la programación de la fiesta en 2017.",
+      "url": "https://turismo.neuquen.gob.ar/este-fin-de-semana-variedad-de-fiestas-y-eventos-populares-para-disfrutar/",
+      "etiquetas": [
+        "hemeroteca",
+        "2017",
+        "Fiesta del Pelón",
+        "agenda cultural",
+        "música",
+        "tradiciones"
+      ],
+      "tipo": "agenda_institucional",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación del Ministerio de Turismo de Neuquén. LIBRITO conserva metadatos y descripción propia; no reproduce fotografías ni el contenido íntegro."
+    },
+    {
+      "id": "turismo-neuquen-2024-regreso-fiesta-pelon",
+      "titulo": "Gran concurrencia en la Fiesta del Pelón de San Patricio del Chañar",
+      "fecha": "2024",
+      "medio": "Turismo Neuquén",
+      "autor": "Ministerio de Turismo de la Provincia del Neuquén",
+      "descripcion": "Crónica institucional sobre el regreso de la Fiesta del Pelón luego de no realizarse desde 2019. Registra la participación de familias, destrezas criollas, espectáculos, concurso de asadores y el interés provincial por desarrollar propuestas turísticas compartidas con la localidad. Se incorpora como testimonio institucional de la recuperación de la celebración; la fecha se consigna por año porque la página consultada no muestra día exacto de publicación.",
+      "url": "https://turismo.neuquen.gob.ar/gran-concurrencia-en-la-fiesta-del-pelon-de-san-patricio-del-chanar/",
+      "etiquetas": [
+        "hemeroteca",
+        "2024",
+        "Fiesta del Pelón",
+        "turismo",
+        "tradiciones",
+        "vida comunitaria"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación institucional de Turismo Neuquén. LIBRITO conserva metadatos y una descripción propia; no reproduce imágenes ni el artículo completo."
+    },
+    {
+      "id": "masp-lm-2026-fiesta-pelon-historia",
+      "titulo": "De desierto a la fiesta del pelón: la evolución de San Patricio del Chañar y sus tradiciones",
+      "fecha": "2026",
+      "medio": "+P / LM Neuquén",
+      "autor": "Mariana Lesa Brown",
+      "descripcion": "Artículo de contexto publicado con motivo de la 36.ª Fiesta Provincial del Pelón. Recorre los orígenes de la celebración en 1985, su vínculo con la producción frutícola y el trabajo rural, la incorporación de la Fiesta del Trabajador Rural en 1999 y los cambios posteriores en los cultivos de la zona. Incluye referencias a variedades de pelón y estadísticas de SENASA correspondientes a 2011. Se conserva como reconstrucción periodística reciente; sus cifras históricas no deben interpretarse como datos actuales.",
+      "url": "https://masp.lmneuquen.com/fruticultura/de-desierto-la-fiesta-del-pelon-la-evolucion-san-patricio-del-chanar-y-sus-tradiciones-n1228109",
+      "etiquetas": [
+        "hemeroteca",
+        "2026",
+        "Fiesta del Pelón",
+        "historia productiva",
+        "fruticultura",
+        "trabajo rural"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo y fotografías pertenecen a +P / LM Neuquén y su autora. LIBRITO conserva metadatos y una descripción propia; la publicación completa se consulta en el medio original."
     }
   ]
 }
