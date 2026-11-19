@@ -1,6 +1,6 @@
 {
   "nombre": "Hemeroteca de LIBRITO · San Patricio del Chañar",
-  "version": 29,
+  "version": 30,
   "descripcion": "Índice de noticias y páginas periodísticas que mencionan expresamente San Patricio del Chañar, de distintos diarios, años y formatos.",
   "criterio": "Se incorpora una noticia cuando el texto identifica expresamente a San Patricio del Chañar o trata sobre la localidad. Se conserva título, medio, autoría disponible, fecha, enlace original y una descripción breve. No se reproduce el cuerpo periodístico.",
   "noticias": [
@@ -3676,6 +3676,293 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "Artículo y fotografías pertenecen a Diario Río Negro y a sus autores o fuentes acreditadas. LIBRITO conserva metadatos y una descripción propia."
+    },
+    {
+      "id": "chanar-digital-2026-10-madres-trabajadoras-vaca-muerta",
+      "titulo": "Madres y trabajadoras en el corazón de Vaca Muerta",
+      "fecha": "2026-10-17",
+      "medio": "Chañar Digital",
+      "autor": "admin",
+      "descripcion": "Entrevista a María Sandoval, camionera, y Edelmira León, responsable de Servicios Generales, ambas oriundas de San Patricio del Chañar y trabajadoras de SACDE. Sus testimonios describen trayectorias laborales femeninas dentro de una industria históricamente masculinizada y los desafíos de compatibilizar trabajo y vida familiar. Las experiencias se atribuyen a las entrevistadas y no se presentan como una muestra estadística de todas las trabajadoras de la región.",
+      "url": "https://chanardigital.com.ar/articulo/2026/10/madres-y-trabajadoras-en-el-corazon-de-vaca-muerta.php",
+      "etiquetas": [
+        "mujeres trabajadoras",
+        "Vaca Muerta",
+        "SACDE",
+        "empleo",
+        "trayectorias laborales",
+        "entrevista",
+        "2026"
+      ],
+      "tipo": "entrevista",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo, fotografías y entrevista pertenecen a Chañar Digital y a sus titulares. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "chanar-digital-2026-09-epea3-encuentro-centros-estudiantes",
+      "titulo": "La EPEA 3 presente en el encuentro provincial de Centros de Estudiantes",
+      "fecha": "2026-09-24",
+      "medio": "Chañar Digital",
+      "autor": "admin",
+      "descripcion": "Cobertura de la participación de Thiago Heredia y Lucía Leiva, estudiantes de la EPEA 3 de San Patricio del Chañar, en el primer Encuentro Provincial de Centros de Estudiantes realizado en Zapala el 14 de septiembre de 2026. La jornada reunió a más de 120 estudiantes de 53 escuelas. Se incorpora como registro de participación juvenil, educación agropecuaria y representación estudiantil local.",
+      "url": "https://chanardigital.com.ar/articulo/2026/09/la-epea-3-presente-en-el-encuentro-provincial-de-centro-de-estudiantes.php",
+      "etiquetas": [
+        "EPEA 3",
+        "educación",
+        "juventud",
+        "centros de estudiantes",
+        "participación estudiantil",
+        "2026"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo, fotografías y entrevista pertenecen a Chañar Digital y a sus titulares. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "chanar-digital-2026-07-cuervo-viejo-espiral-lugubre",
+      "titulo": "Cuervo Viejo lanza su primer disco y marca un nuevo capítulo en el rock de San Patricio del Chañar",
+      "fecha": "2026-07-01",
+      "medio": "Chañar Digital",
+      "autor": "admin",
+      "descripcion": "Nota sobre el lanzamiento de Espiral Lúgubre, primer álbum de estudio de la banda local Cuervo Viejo, integrado por siete canciones y resultado de tres años de trabajo. Identifica a Ali Amado, Claudio Zúñiga, Lucho Rivera y Javier Sepúlveda como integrantes de la formación estable. Es un registro de música contemporánea, producción cultural autogestiva y escena rock local.",
+      "url": "https://chanardigital.com.ar/articulo/2026/07/cuervo-viejo-lanza-su-primer-disco-y-marca-un-nuevo-capitulo-en-el-rock-de-san-patricio-del-chanar.php",
+      "etiquetas": [
+        "música",
+        "rock",
+        "Cuervo Viejo",
+        "Espiral Lúgubre",
+        "bandas locales",
+        "cultura",
+        "2026"
+      ],
+      "tipo": "entrevista_y_noticia_cultural",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo, fotografías y material audiovisual pertenecen a Chañar Digital, la banda y sus titulares. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "chanar-digital-2026-11-ajedrez-provincial-jovenes",
+      "titulo": "Tres jóvenes de San Patricio del Chañar clasificaron al Provincial de Ajedrez",
+      "fecha": "2026-11-09",
+      "medio": "Chañar Digital",
+      "autor": "admin",
+      "descripcion": "Crónica de la clasificación de Lautaro Laguna, Aucan Sabatel y Ezequiel Herrera al Torneo Provincial de Ajedrez tras participar de un encuentro regional en Centenario. La nota registra también la delegación local y el acompañamiento familiar y docente. Se incorpora como antecedente de deporte, juventud y actividades educativas de la localidad.",
+      "url": "https://chanardigital.com.ar/articulo/2026/11/tres-jovenes-de-san-patricio-del-chanar-clasificaron-al-provincial-de-ajedrez.php",
+      "etiquetas": [
+        "ajedrez",
+        "deporte",
+        "juventud",
+        "educación",
+        "familias",
+        "2026"
+      ],
+      "tipo": "cronica_deportiva",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo y fotografías pertenecen a Chañar Digital y sus titulares. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "chanar-digital-2026-11-rally-zona2-mountain-bike",
+      "titulo": "Rally Zona 2: el mountain bike vuelve a desafiar los paisajes de Chañar",
+      "fecha": "2026-11-02",
+      "medio": "Chañar Digital",
+      "autor": "admin",
+      "descripcion": "Anuncio de la segunda edición del Rally Zona 2 de Mountain Bike, prevista para el 8 de noviembre de 2026 en San Patricio del Chañar. La nota describe tres distancias —15, 30 y 47 kilómetros— y un circuito que recorre caminos y paisajes productivos locales. Incluye una entrevista con Daniel Garay, integrante de la organización. Es una fuente previa al evento, no una clasificación de resultados.",
+      "url": "https://chanardigital.com.ar/articulo/2026/11/rally-zona-2-el-mountain-bike-vuelve-a-desafiar-los-paisajes-de-chanar.php",
+      "etiquetas": [
+        "mountain bike",
+        "Rally Zona 2",
+        "deporte",
+        "paisaje productivo",
+        "ciclismo",
+        "2026"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo, fotografías y entrevista pertenecen a Chañar Digital y sus titulares. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "chanar-digital-2026-10-bernarda-alba-centro-cultural",
+      "titulo": "La casa de Bernarda Alba llega a San Patricio del Chañar con una tragedia que sigue vigente",
+      "fecha": "2026-10-15",
+      "medio": "Chañar Digital",
+      "autor": "admin",
+      "descripcion": "Agenda y reseña cultural de la presentación de La casa de Bernarda Alba, de Federico García Lorca, prevista para el 16 de octubre de 2026 en el Centro Cultural Erika Werro. La publicación registra una propuesta teatral en la localidad y su marco de difusión, no una reseña crítica posterior a la función.",
+      "url": "https://chanardigital.com.ar/articulo/2026/10/la-casa-de-bernarda-alba-llega-a-san-patricio-del-chanar-con-una-tragedia-que-sigue-vigente.php",
+      "etiquetas": [
+        "teatro",
+        "cultura",
+        "Centro Cultural Erika Werro",
+        "Federico García Lorca",
+        "agenda cultural",
+        "2026"
+      ],
+      "tipo": "agenda_cultural",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Chañar Digital y sus titulares. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "chanar-digital-2026-11-rally-neuquino-entrevista-bruno-campos",
+      "titulo": "Rally Neuquino en San Patricio del Chañar: Bruno Campos anticipó una fecha clave del campeonato",
+      "fecha": "2026-11-13",
+      "medio": "Chañar Digital",
+      "autor": "admin",
+      "descripcion": "Entrevista a Bruno Campos, presidente de APRINSUR, antes de la novena fecha del Campeonato Neuquino de Rally disputada del 13 al 15 de noviembre en San Patricio del Chañar. La nota detalla 41 binomios inscriptos, puntaje doble, cronograma y pruebas especiales sobre Ruta 8 y el entorno de Bodega Schroeder. Se conserva como fuente previa y local de la organización; no como clasificación final.",
+      "url": "https://chanardigital.com.ar/articulo/2026/11/rally-neuquino-en-san-patricio-del-chanar-bruno-campos-anticipo-una-fecha-clave-del-campeonato.php",
+      "etiquetas": [
+        "automovilismo",
+        "Rally Neuquino",
+        "APRINSUR",
+        "Bruno Campos",
+        "Ruta 8",
+        "Bodega Schroeder",
+        "deportes",
+        "2026"
+      ],
+      "tipo": "entrevista_deportiva",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo, fotografías y entrevista pertenecen a Chañar Digital y sus titulares. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "chanar-digital-2026-11-gaming-cup",
+      "titulo": "Chañar Gaming Cup: los videojuegos tendrán su propio torneo en San Patricio del Chañar",
+      "fecha": "2026-11-18",
+      "medio": "Chañar Digital",
+      "autor": "admin",
+      "descripcion": "Anuncio de la primera Chañar Gaming Cup, prevista para el 22 de noviembre de 2026 en el Salón Antu. La propuesta, organizada por jóvenes de la localidad, contempla torneos de videojuegos, simuladores, computadoras, sorteos y participación gratuita desde los 15 años, con autorización para menores. Se incorpora como antecedente de cultura digital, juventudes y organización comunitaria; la nota es previa al evento.",
+      "url": "https://chanardigital.com.ar/articulo/2026/11/chanar-gaming-cup-los-videojuegos-tendran-su-propio-torneo-en-san-patricio-del-chanar.php",
+      "etiquetas": [
+        "videojuegos",
+        "esports",
+        "Chañar Gaming Cup",
+        "juventud",
+        "tecnología",
+        "Salón Antu",
+        "2026"
+      ],
+      "tipo": "agenda_de_evento",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Chañar Digital y sus titulares. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "chanar-digital-2026-11-san-patricio-semifinal-copa-neuquen",
+      "titulo": "San Patricio volvió a ser gigante desde los doce pasos y está entre los cuatro mejores",
+      "fecha": "2026-11-18",
+      "medio": "Chañar Digital",
+      "autor": "admin",
+      "descripcion": "Crónica de la clasificación del Club San Patricio a las semifinales de la Copa Neuquén 2026 tras vencer a Alianza de Cutral Co por 4 a 2 en la tanda de penales, luego de empatar 1 a 1. La nota detalla el desarrollo del partido y la actuación del arquero Mateo González. Se incorpora como registro deportivo del club y su participación en la competencia provincial.",
+      "url": "https://chanardigital.com.ar/articulo/2026/11/san-patricio-volvio-a-ser-gigante-desde-los-doce-pasos-y-esta-entre-los-cuatro-mejores.php",
+      "etiquetas": [
+        "fútbol",
+        "Club San Patricio",
+        "Copa Neuquén",
+        "semifinales",
+        "deporte local",
+        "2026"
+      ],
+      "tipo": "cronica_deportiva",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Chañar Digital y sus titulares. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "chanar-digital-2026-11-bomberos-central31-cuartel",
+      "titulo": "Después de 11 años de espera, Bomberos de San Patricio del Chañar ya tiene su casa propia",
+      "fecha": "2026-11-03",
+      "medio": "Chañar Digital",
+      "autor": "admin",
+      "descripcion": "Crónica de la inauguración del cuartel propio de la Central 31 de Bomberos Voluntarios de San Patricio del Chañar, tras once años de trayectoria institucional. Describe las nuevas instalaciones, el espacio para la flota y la participación de bomberos, comisión directiva, vecinos y autoridades. Incluye entrevistas con integrantes del cuerpo y su presidente. Se complementa con la cobertura oficial provincial del 12 de noviembre, que informa la incorporación de una autobomba y la articulación entre Provincia, municipio y empresa privada.",
+      "url": "https://www.chanardigital.com.ar/articulo/2026/11/despues-de-11-anos-de-espera-bomberos-de-san-patricio-del-chanar-ya-tiene-su-casa-propia.php",
+      "etiquetas": [
+        "Bomberos Voluntarios",
+        "Central 31",
+        "cuartel",
+        "infraestructura comunitaria",
+        "seguridad",
+        "entrevista",
+        "2026"
+      ],
+      "tipo": "cronica_y_entrevista",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo, fotografías y entrevista pertenecen a Chañar Digital y sus titulares. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "chanar-digital-2026-06-capacitacion-enfermeria-region-vaca-muerta",
+      "titulo": "Capacitan a equipos de conducción de enfermería de la Región Vaca Muerta en San Patricio del Chañar",
+      "fecha": "2026-06-08",
+      "medio": "Chañar Digital",
+      "autor": "admin",
+      "descripcion": "Cobertura de la primera jornada del curso Estrategias de Fortalecimiento para Equipos de Conducción de Enfermería, realizada el 4 de junio de 2026 en San Patricio del Chañar. Participaron profesionales del Hospital Dra. Alicia Cruz de la localidad y del Hospital de Rincón de los Sauces. La nota incluye entrevistas a los capacitadores y describe contenidos sobre liderazgo, recursos humanos y planificación sanitaria regional.",
+      "url": "https://chanardigital.com.ar/articulo/2026/06/capacitan-a-equipos-de-conduccion-de-enfermeria-de-la-region-vaca-muerta-en-san-patricio-del-chanar.php",
+      "etiquetas": [
+        "salud",
+        "enfermería",
+        "Hospital Dra. Alicia Cruz",
+        "capacitación",
+        "Región Vaca Muerta",
+        "2026"
+      ],
+      "tipo": "entrevista_y_articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo, fotografías y entrevista pertenecen a Chañar Digital y sus titulares. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "neuquennews-2026-11-gonzalo-nunez-reeleccion",
+      "titulo": "Gonzalo Núñez confirmó que buscará la reelección en San Patricio del Chañar",
+      "fecha": "2026-11-18",
+      "medio": "NeuquenNews",
+      "autor": "Redacción",
+      "descripcion": "Cobertura política sobre el anuncio del intendente Gonzalo Núñez de competir por un segundo mandato municipal. La nota recoge sus argumentos sobre obras, finanzas, programas sociales y educativos, y sus declaraciones acerca del vínculo político e institucional con el Gobierno provincial. Se registra como declaración y posicionamiento del jefe comunal según el medio; no equivale a una candidatura oficializada ante la autoridad electoral ni a una evaluación independiente de gestión.",
+      "url": "https://neuquennews.com.ar/contenido/29822/gonzalo-nunez-confirmo-que-buscara-la-reeleccion-en-san-patricio-del-chanar-y-ra",
+      "etiquetas": [
+        "política local",
+        "intendencia",
+        "elecciones 2027",
+        "Gonzalo Núñez",
+        "gestión municipal",
+        "2026"
+      ],
+      "tipo": "nota_politica",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo pertenece a NeuquenNews y sus titulares. LIBRITO conserva referencia y descripción propia; las declaraciones se atribuyen al entrevistado y al medio."
+    },
+    {
+      "id": "chanar-digital-2026-10-epea3-concurso-tromen-segundo-puesto",
+      "titulo": "La EPEA 3 logró el segundo puesto en el Concurso Tromen",
+      "fecha": "2026-10-26",
+      "medio": "Chañar Digital",
+      "autor": "admin",
+      "descripcion": "Cobertura del segundo puesto obtenido por estudiantes de la EPEA 3 de San Patricio del Chañar en la categoría Mayores de la tercera edición del Concurso Tromen, realizada durante la XV Expo Bovinos en Junín de los Andes. La nota describe la experiencia educativa de crianza, alimentación, amansamiento y cuidado sanitario de animales durante cinco meses, con acompañamiento profesional. Se incorpora como registro de educación agropecuaria y participación estudiantil local.",
+      "url": "https://chanardigital.com.ar/articulo/2026/10/la-epea-3-logro-el-segundo-puesto-en-el-concurso-tromen.php",
+      "etiquetas": [
+        "EPEA 3",
+        "educación agropecuaria",
+        "Concurso Tromen",
+        "producción animal",
+        "estudiantes",
+        "Expo Bovinos",
+        "2026"
+      ],
+      "tipo": "noticia_educativa",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Chañar Digital y sus titulares. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "chanar-digital-2026-11-condena-narcomenudeo",
+      "titulo": "Condenaron a cuatro hombres por vender drogas en San Patricio del Chañar",
+      "fecha": "2026-11-13",
+      "medio": "Chañar Digital",
+      "autor": "Redacción",
+      "descripcion": "Cobertura judicial sobre cuatro condenas por comercialización de estupefacientes en San Patricio del Chañar, acordadas mediante procedimientos abreviados y homologadas por un juez. Según la nota, uno de los condenados recibió cuatro años de prisión efectiva y los otros tres penas de ejecución condicional; las sentencias quedaron firmes tras la renuncia a los plazos de impugnación. La investigación se inició con denuncias anónimas. Se incorpora como noticia judicial con atribución expresa al medio y a la información fiscal; no se reproducen aquí datos personales innecesarios.",
+      "url": "https://chanardigital.com.ar/articulo/2026/11/condenaron-a-cuatro-hombres-por-vender-drogas-en-san-patricio-del-chanar.php",
+      "etiquetas": [
+        "justicia",
+        "Ministerio Público Fiscal",
+        "narcomenudeo",
+        "sentencias",
+        "seguridad",
+        "2026"
+      ],
+      "tipo": "noticia_judicial",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Chañar Digital y sus titulares. LIBRITO conserva referencia y descripción propia; el estado procesal se expresa según la nota."
     }
   ]
 }
