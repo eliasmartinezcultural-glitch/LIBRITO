@@ -1007,3 +1007,27 @@ a:hover{text-decoration-thickness:2px}
 @media(prefers-reduced-motion:reduce){
   .inicio-hero-foto img{scroll-behavior:auto}
 }
+
+
+/* LIBRITO · Crédito destacado de desarrollo y realización · Ocarina Producciones */
+.pie-interior{align-items:center;gap:18px 28px}
+.pie-creditos{
+  display:flex;flex-direction:column;align-items:flex-end;gap:3px;
+  margin-left:auto;text-align:right;line-height:1.15
+}
+.pie-creditos strong{
+  color:#e4d6bd;font-size:10px;font-weight:700;
+  letter-spacing:.12em;text-transform:uppercase
+}
+.pie-creditos b{
+  color:#fff7e8;font-family:var(--serif);
+  font-size:clamp(21px,2.2vw,27px);font-weight:700;
+  letter-spacing:.015em
+}
+@media(max-width:760px){
+  .pie-creditos{margin-left:0;align-items:flex-start;text-align:left}
+  .pie-creditos b{font-size:23px}
+}
+@media print{
+  .pie-creditos strong,.pie-creditos b{color:#222!important}
+}
