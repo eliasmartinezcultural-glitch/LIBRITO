@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 37,
+  "version": 38,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -2736,6 +2736,153 @@
         "suelo rural",
         "ordenamiento territorial"
       ]
+    },
+    {
+      "id": "ordenanzas-1173-1175-2020-sumario-oficial",
+      "titulo": "Ordenanzas municipales 1173/20 y 1175/20 · chacras productivas y espacios públicos",
+      "autoria": "Honorable Concejo Deliberante de San Patricio del Chañar · referencias publicadas en el Boletín Oficial provincial",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2020-01-31",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Chacras productivas, sistemas de riego y drenaje, urbanización, espacios públicos e identidad local",
+      "descripcion": "El sumario oficial de la edición 3731 registra las Ordenanzas Municipales 1173 y 1175. La primera prohíbe la urbanización y los loteos para viviendas urbanas y suburbanas en chacras productivas empadronadas en los sistemas de riego y drenaje. La segunda autoriza diseñar e implementar un sistema integrado de espacios públicos, con relevamiento, planificación de obras, mantenimiento y capacitación comunitaria. El PDF consultado reproduce el sumario y no el articulado completo de estas normas; se cataloga como referencia documental, no como copia íntegra de las ordenanzas.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/Boletines/3731%2031-01-2020.pdf",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Se enlaza el ejemplar oficial del Boletín Oficial provincial. LIBRITO no aloja ni redistribuye el PDF.",
+        "referencia": "Boletín Oficial de la Provincia del Neuquén, edición 3731, 31-01-2020, página impresa 36."
+      },
+      "procedencia": "Dirección del Boletín Oficial y Archivo de la Provincia del Neuquén, edición 3731.",
+      "integridad": "PDF oficial de 36 páginas; las referencias a las ordenanzas 1173 y 1175 aparecen en el sumario de la página impresa 36. No contiene allí el texto articulado completo."
+    },
+    {
+      "id": "ordenanzas-1306-1307-2022-agua-municipal",
+      "titulo": "Ordenanzas municipales 1306/22 y 1307/22 · regulación del agua para uso industrial",
+      "autoria": "Honorable Concejo Deliberante de San Patricio del Chañar",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2022-10-27",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Normativa municipal, ambiente, transporte y reúso de agua, fiscalización y tasas",
+      "descripcion": "Publicación oficial de las Ordenanzas 1306/22 y 1307/22, sancionadas el 27 de octubre de 2022. La primera incorpora al Código Contravencional municipal un capítulo sobre seguridad e higiene ambiental y control del transporte, uso y reúso de agua con fines industriales y productivos. La segunda modifica la ordenanza tributaria para establecer una tasa de fiscalización y control vinculada al agua para uso industrial, y contempla una excepción para el servicio de agua cruda destinado al uso agrario. Se conserva como registro normativo: su inclusión no implica una valoración sobre la aplicación o los resultados de esas normas.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/Boletines/bol12211044095.pdf",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Se enlaza la publicación oficial del Boletín Oficial provincial; LIBRITO no aloja ni redistribuye el archivo.",
+        "referencia": "Boletín Oficial de la Provincia del Neuquén, edición 4095, 04-11-2022."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, edición 4095, páginas impresas 113 a 118.",
+      "integridad": "PDF oficial enlazado desde el portal provincial. Las ordenanzas 1306/22 y 1307/22 se encuentran publicadas en el mismo ejemplar."
+    },
+    {
+      "id": "legislatura-neuquen-diario-sesiones-43-aniversario-chanar-2016",
+      "titulo": "San Patricio del Chañar, 43.º aniversario · homenaje en el Diario de Sesiones",
+      "autoria": "Diputado Ramón Ángel Soto · intervención parlamentaria",
+      "institucion": "Honorable Legislatura de la Provincia del Neuquén",
+      "fecha": "2016-05-19",
+      "categoria": "Historia y memoria",
+      "tematica": "Aniversario, memoria local, primeros pobladores, Roberto Gasparri y creación de la localidad",
+      "descripcion": "Registro taquigráfico del homenaje realizado en la Legislatura provincial por el 43.º aniversario de San Patricio del Chañar. La intervención menciona a quienes participaron de los primeros pasos de la localidad, al ingeniero Roberto Gasparri y al gobernador Pedro Salvatori, a quien atribuye la creación por decreto. Es una fuente primaria para estudiar cómo se recordó públicamente la historia local en 2016; el discurso conmemorativo no sustituye la consulta de los decretos y documentos históricos originales.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://www.legislaturaneuquen.gob.ar/svrfiles/neuleg/DiariosSesion/DS_P_55_R2070_33564.pdf",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Documento legislativo disponible en el sitio oficial de la Legislatura del Neuquén. LIBRITO enlaza el original y no aloja una copia.",
+        "referencia": "XLV Período Legislativo, Reunión N.º 13, 19-05-2016, páginas impresas 2051–2052."
+      },
+      "procedencia": "Dirección de Diario de Sesiones, Honorable Legislatura de la Provincia del Neuquén.",
+      "integridad": "PDF oficial del Diario de Sesiones; el homenaje figura en el apartado II, Homenajes."
+    },
+    {
+      "id": "legislatura-proyecto-10220-2016-infraestructura-escolar-chanar",
+      "titulo": "Proyecto 10.220/2016 · pedido de obras de infraestructura escolar",
+      "autoria": "Nanci Agustina Parrilli, María Ayelén Gutiérrez y Guillermo Oscar Carnaghi",
+      "institucion": "Honorable Legislatura de la Provincia del Neuquén",
+      "fecha": "2016-10-26",
+      "categoria": "Educación y conocimiento",
+      "tematica": "Escuelas primarias 273, 191 y 342, CPEM 31, EPEA 3, jardines y edificios escolares",
+      "descripcion": "Proyecto de Declaración 10.220, expediente D-855/16, que solicita incorporar al presupuesto 2017 una nueva escuela primaria en el barrio Parque Industrial, dos aulas para la Escuela 273, reparación de su cerco y salones de usos múltiples para la Escuela 191 y el CPEM 31. Sus fundamentos también registran necesidades de jardines, secundarias y mantenimiento escolar, y citan un informe local que señalaba que en 2016 había 80 niños de cuatro años sin escolaridad. Importante: es un proyecto y una exposición de fundamentos; no demuestra por sí mismo que las obras solicitadas se hayan ejecutado ni que todas las cifras hayan sido auditadas de manera independiente.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://www.legislaturaneuquen.gob.ar/svrfiles/neuleg/DiariosSesion/DS_P_55_R2091_51425.pdf",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Documento legislativo disponible en el sitio oficial de la Legislatura provincial. LIBRITO enlaza el original y no aloja una copia.",
+        "referencia": "Diario de Sesiones, XLV Período Legislativo, Reunión N.º 34, 02-11-2016; Proyecto 10.220, expediente D-855/16."
+      },
+      "procedencia": "Honorable Legislatura de la Provincia del Neuquén, Diario de Sesiones.",
+      "integridad": "PDF oficial. El proyecto y sus fundamentos aparecen en las páginas impresas 5602–5603."
+    },
+    {
+      "id": "neuquen-decreto-1929-2017-creacion-escuela-364-chanar",
+      "titulo": "Decreto provincial 1929/2017 · creación de la Escuela Primaria N.º 364",
+      "autoria": "Poder Ejecutivo de la Provincia del Neuquén",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2017-12-01",
+      "categoria": "Educación y conocimiento",
+      "tematica": "Educación primaria, Escuela N.º 364, edificio escolar y organización educativa local",
+      "descripcion": "Decreto provincial que crea, a partir del 12 de junio de 2017, la Escuela Primaria N.º 364 en San Patricio del Chañar. La norma detalla cinco secciones de grado, un cargo de dirección y cuatro cargos de auxiliares de servicio. Entre sus antecedentes indica que el establecimiento comenzó a funcionar en espacios del Centro Cultural Municipal, mientras se organizaba su funcionamiento escolar.",
+      "formato": "PÁGINA WEB",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/LeyesDecretosDetalle?id=384467",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Texto de una norma provincial consultable en el portal oficial de InfoLEG Neuquén. LIBRITO enlaza la fuente original.",
+        "referencia": "Decreto provincial 1929/2017, publicado el 01-12-2017; Boletín Oficial, edición 3605."
+      },
+      "procedencia": "Poder Ejecutivo de la Provincia del Neuquén; portal InfoLEG provincial.",
+      "integridad": "Ficha oficial de la norma con texto completo disponible en la página de consulta."
+    },
+    {
+      "id": "neuquen-decreto-1004-2017-escuela-primaria-273",
+      "titulo": "Decreto provincial 1004/2017 · cargos para la Escuela Primaria N.º 273",
+      "autoria": "Poder Ejecutivo de la Provincia del Neuquén",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2017-06-23",
+      "categoria": "Educación y conocimiento",
+      "tematica": "Educación primaria, Escuela N.º 273, cargos docentes y organización escolar",
+      "descripcion": "Norma provincial que crea cargos en las plantas funcionales de varias escuelas primarias. Entre ellas, la Escuela Primaria N.º 273 de San Patricio del Chañar, para habilitar una sección de primer año del primer ciclo en el turno mañana. El texto permite documentar una decisión administrativa concreta sobre la organización escolar local, dentro de una norma que también alcanza a establecimientos de otras localidades.",
+      "formato": "PÁGINA WEB",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/LeyesDecretosDetalle?Id=381053",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Texto de una norma provincial consultable en el portal oficial de InfoLEG Neuquén. LIBRITO enlaza la fuente original.",
+        "referencia": "Decreto provincial 1004/2017, 23-06-2017; Boletín Oficial, edición 3582."
+      },
+      "procedencia": "Poder Ejecutivo de la Provincia del Neuquén; portal InfoLEG provincial.",
+      "integridad": "Ficha oficial de la norma con texto completo disponible en la página de consulta."
+    },
+    {
+      "id": "neuquen-decreto-389-2021-mantenimiento-edificios-escolares-chanar",
+      "titulo": "Decreto provincial 389/2021 · mantenimiento de edificios escolares",
+      "autoria": "Poder Ejecutivo de la Provincia del Neuquén",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2021-03-12",
+      "categoria": "Educación y conocimiento",
+      "tematica": "Infraestructura educativa, mantenimiento escolar, edificios públicos y servicios",
+      "descripcion": "Decreto que autoriza el llamado a licitación pública para contratar empresas destinadas al mantenimiento menor y diario de diez edificios escolares de San Patricio del Chañar, por doce meses, con opción de prórroga. La norma enumera trabajos de plomería, electricidad, cerrajería, albañilería, gas, calefacción, carpintería, techos e instalaciones sanitarias. Se incorpora como antecedente administrativo del mantenimiento escolar; no acredita por sí solo qué trabajos se realizaron finalmente.",
+      "formato": "PÁGINA WEB",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gov.ar/LeyesDecretosDetalle?Id=398251",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Texto de una norma provincial consultable en el portal oficial de InfoLEG Neuquén. LIBRITO enlaza la fuente original.",
+        "referencia": "Decreto provincial 389/2021, 12-03-2021; Boletín Oficial, edición 3878."
+      },
+      "procedencia": "Poder Ejecutivo de la Provincia del Neuquén; portal InfoLEG provincial.",
+      "integridad": "Ficha oficial de la norma con texto completo disponible en la página de consulta."
     }
   ]
 }
