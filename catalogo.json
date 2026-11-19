@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 48,
+  "version": 49,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -3840,6 +3840,43 @@
         "historia agraria",
         "siglo XIX",
         "siglo XX"
+      ]
+    },
+    {
+      "id": "yujnovsky-francisco-host-norpatagonia-chaco-1873-1887-2020",
+      "titulo": "Las exploraciones de Francisco Host a Norpatagonia y al Chaco Austral (1873–1887)",
+      "autoria": "Inés Yujnovsky",
+      "institucion": "Universidad Nacional de San Martín · Centro de Documentación de la Inmigración Alemana (Centro DIHA)",
+      "fecha": "2020",
+      "categoria": "Historia y memoria",
+      "tematica": "Expedición militar y científica de 1879, dibujos de Francisco Host, archivo Estanislao Zeballos, río Neuquén, campamentos y mensuras históricas",
+      "descripcion": "Estudio académico publicado en Cuadernos del Archivo, año IV, n.º 8, páginas 9–34. Analiza dibujos y mapas producidos por Francisco Host durante sus exploraciones. Identifica el cuaderno de dibujos de 1879 conservado en el Archivo Estanislao Zeballos del Complejo Museográfico Provincial Enrique Udaondo (Luján), con piezas sobre las Juntas del Limay y Neuquén, campamentos, pasos fluviales y trabajos de mensura. Describe en particular el dibujo «Repartición en el Campamento del Mangrullo» (folio 367), con una escena de intercambio entre soldados y personas indígenas. Es una guía documental para localizar y estudiar material original de 1879. La autora no establece que ese campamento del Mangrullo sea exactamente el «Mangrullo Chañar» del paraje actual; LIBRITO mantiene esa identificación como una hipótesis pendiente de comprobación.",
+      "formato": "Artículo académico · publicación digital",
+      "acceso": "origen",
+      "urlOriginal": "https://centrodiha.org/cuadernos/08/files/basic-html/page11.html",
+      "urlFicha": "https://centrodiha.org/publicaciones-impresas/",
+      "estado": "Disponible en origen",
+      "accionExterna": "Leer artículo completo",
+      "autorizacion": {
+        "estado": "solo_enlace",
+        "base": "La publicación indica derechos reservados. LIBRITO enlaza la versión digital y conserva metadatos y descripción propia; no reproduce ni redistribuye el artículo ni sus imágenes.",
+        "referencia": "Yujnovsky, Inés. «Las exploraciones de Francisco Host a Norpatagonia y al Chaco Austral 1873–1887», Cuadernos del Archivo, año IV, n.º 8, 2020, pp. 9–34. ISBN ePDF 978-3946139-84-3."
+      },
+      "procedencia": "Centro DIHA, Publicaciones del Centro de Documentación de la Inmigración Alemana en la Argentina; publicación del año 2020.",
+      "integridad": "Se verificaron el índice editorial, las páginas del artículo y las referencias archivísticas al cuaderno de dibujos de Francisco Host de 1879, Archivo Estanislao Zeballos, folio 367 y otros folios. La atribución geográfica del «Campamento del Mangrullo» al paraje Chañar no está demostrada en el artículo.",
+      "etiquetas": [
+        "2020",
+        "Inés Yujnovsky",
+        "Francisco Host",
+        "1879",
+        "Archivo Estanislao Zeballos",
+        "Complejo Museográfico Enrique Udaondo",
+        "Neuquén",
+        "Mangrullo",
+        "fortines",
+        "mensura",
+        "dibujo histórico",
+        "expedición"
       ]
     }
   ]
