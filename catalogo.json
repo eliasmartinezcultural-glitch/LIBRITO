@@ -1747,6 +1747,94 @@
       },
       "procedencia": "Boletín Oficial de la Provincia del Neuquén, base oficial de Leyes y Decretos.",
       "integridad": "Ficha de registro localizada; el acceso directo presentó error temporal. El título, fecha, objeto y modificación por Ley 1195 constan en el resultado oficial indexado."
+    },
+    {
+      "id": "prosap-consulta-publica-riego-chanar-2012",
+      "titulo": "Modernización del Sistema de Riego de San Patricio del Chañar · consulta pública",
+      "autoria": "Programa de Servicios Agrícolas Provinciales (PROSAP) · Gobierno de la Provincia del Neuquén",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2012-07-13",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Historia del riego, infraestructura hídrica, participación pública y desarrollo productivo",
+      "descripcion": "Publicación oficial que informa la consulta pública del proyecto de modernización del sistema de riego local, financiado mediante el programa PROSAP y préstamo BIRF 7597-AR. Describe el objetivo de mejorar la distribución y aplicación del agua, ampliar la superficie bajo riego e incorporar infraestructura y tecnología. Convoca a una audiencia pública para el 16 de agosto de 2012 en la Cámara de Industria, Comercio, Producción, Turismo y Afines local. El aviso documenta la instancia de participación y el proyecto anunciado; no equivale a un informe de obra terminada.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gob.ar/Boletines/3306%2013-07-2012.pdf",
+      "urlFicha": "https://infoleg.neuquen.gob.ar/Boletines/3306%2013-07-2012.pdf",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Edición oficial del Boletín Oficial provincial. LIBRITO enlaza el documento y no aloja una copia.",
+        "referencia": "Boletín Oficial de la Provincia del Neuquén, edición 3306, 13-07-2012, páginas 24–25."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén; publicación del PROSAP y del Gobierno provincial.",
+      "integridad": "PDF oficial completo, consulta pública localizada en páginas 24–25."
+    },
+    {
+      "id": "prosap-licitacion-internacional-riego-chanar-2012",
+      "titulo": "Licitación internacional · modernización del sistema de riego de San Patricio del Chañar",
+      "autoria": "Ministerio de Desarrollo Territorial de la Provincia del Neuquén · PROSAP · BIRF",
+      "institucion": "Boletín Oficial de la Provincia del Neuquén",
+      "fecha": "2012-12-28",
+      "categoria": "Normativa y documentos públicos",
+      "tematica": "Infraestructura de riego, canales, drenaje, licitación pública y producción agrícola",
+      "descripcion": "Aviso de Licitación Pública Internacional BM-NQP-7597-009-O-01/11 para la modernización del sistema de riego de San Patricio del Chañar, con financiamiento del préstamo BIRF 7597/AR. Detalla dos lotes: canal principal del Río y Barragán, canal principal del Dique, canal Secundario Norte, reemplazo de compuertas y canales de desagüe y drenaje. La publicación fija un plazo previsto de 730 días desde el acta de inicio. Es un documento de contratación y alcance previsto, no una certificación de finalización.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://infoleg.neuquen.gob.ar/Boletines/3331%2028-12-2012.pdf",
+      "urlFicha": "https://infoleg.neuquen.gob.ar/Boletines/3331%2028-12-2012.pdf",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Edición oficial del Boletín Oficial provincial; LIBRITO conserva referencia y descripción propia.",
+        "referencia": "Boletín Oficial de la Provincia del Neuquén, edición 3331, 28-12-2012, página 21."
+      },
+      "procedencia": "Boletín Oficial de la Provincia del Neuquén, llamado a licitación del PROSAP y Ministerio de Desarrollo Territorial.",
+      "integridad": "PDF oficial completo; aviso localizado en página 21."
+    },
+    {
+      "id": "uai-prosap-auditoria-riego-chanar-2016",
+      "titulo": "Auditoría PROSAP II · verificación de las obras de riego de San Patricio del Chañar",
+      "autoria": "Unidad de Auditoría Interna del Ministerio de Agroindustria de la Nación",
+      "institucion": "Ministerio de Agroindustria · Unidad para el Cambio Rural",
+      "fecha": "2016-11-30",
+      "categoria": "Informes y estadísticas",
+      "tematica": "Obras de riego, infraestructura hidráulica, productores, inversión pública y auditoría",
+      "descripcion": "Informe definitivo UAI 028-001/2016 sobre el Programa PROSAP II, con una sección específica de la modernización del sistema de riego de San Patricio del Chañar. Registra una verificación in situ de los lotes 1 y 2 entre el 17 y el 19 de octubre de 2016, describe el área del proyecto, unas 8.120 hectáreas cultivadas y 145 explotaciones beneficiarias, y detalla el alcance previsto de 51 kilómetros de canales y más de dos kilómetros de drenajes. Incluye un anexo fotográfico de ambos lotes. El informe es una auditoría del programa y no debe interpretarse como certificación final de todas las obras.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://www.argentina.gob.ar/sites/default/files/informe_definitivo_uai_nro_028-001-2016.pdf",
+      "urlFicha": "https://www.argentina.gob.ar/",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Informe de auditoría publicado en el portal oficial nacional. LIBRITO enlaza el original y no redistribuye una copia.",
+        "referencia": "Informe Definitivo UAI N.º 028-001/2016, Programa 41 PROSAP II BIRF 7597-AR, 55 páginas."
+      },
+      "procedencia": "Unidad de Auditoría Interna del Ministerio de Agroindustria de la Nación; verificación de obras en Neuquén, octubre de 2016.",
+      "integridad": "PDF oficial completo de 55 páginas, con apartado local y anexo fotográfico de los lotes 1 y 2."
+    },
+    {
+      "id": "neuquen-informa-discurso-sapag-obras-chanar-2011",
+      "titulo": "Discurso del gobernador Jorge Sapag durante una recorrida de obras en San Patricio del Chañar",
+      "autoria": "Jorge Augusto Sapag · gobernador de la Provincia del Neuquén",
+      "institucion": "Neuquén Informa · Gobierno de la Provincia del Neuquén",
+      "fecha": "2011-02-03",
+      "categoria": "Historia y memoria",
+      "tematica": "Memoria institucional, obras públicas, Roberto Gasparri, infraestructura urbana y modernización del riego",
+      "descripcion": "Transcripción institucional del discurso pronunciado durante una recorrida de obras en San Patricio del Chañar. Incluye referencias al homenaje a Roberto Gasparri, obras de infraestructura urbana, alumbrado, la Escuela Especial 19 y el anuncio del proyecto PROSAP para modernizar el sistema de riego. Las cifras, previsiones y valoraciones se conservan como declaraciones del gobernador en esa fecha, no como comprobación independiente de su ejecución.",
+      "formato": "Transcripción web",
+      "acceso": "origen",
+      "urlOriginal": "https://www.neuqueninforma.gob.ar/amp/noticias/2011/02/03/10504-discurso-del-gobernador-jorge-sapag-durante-una-recorrida-de-obras-en-san-patricio-del-chanar-3-de-febrero-de-2011",
+      "urlFicha": "https://www.neuqueninforma.gob.ar/",
+      "estado": "Disponible en origen",
+      "autorizacion": {
+        "estado": "enlace_a_fuente_publica",
+        "base": "Transcripción publicada por el servicio oficial de prensa provincial; LIBRITO enlaza la fuente y no reproduce el texto íntegro.",
+        "referencia": "Neuquén Informa, 03-02-2011."
+      },
+      "procedencia": "Neuquén Informa, Secretaría de Prensa y Comunicación del Gobierno de la Provincia del Neuquén.",
+      "integridad": "Transcripción web oficial consultada; declaraciones atribuidas al gobernador."
     }
   ]
 }
