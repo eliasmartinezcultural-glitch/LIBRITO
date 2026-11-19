@@ -1,6 +1,6 @@
 {
   "nombre": "Hemeroteca de LIBRITO · San Patricio del Chañar",
-  "version": 27,
+  "version": 28,
   "descripcion": "Índice de noticias y páginas periodísticas que mencionan expresamente San Patricio del Chañar, de distintos diarios, años y formatos.",
   "criterio": "Se incorpora una noticia cuando el texto identifica expresamente a San Patricio del Chañar o trata sobre la localidad. Se conserva título, medio, autoría disponible, fecha, enlace original y una descripción breve. No se reproduce el cuerpo periodístico.",
   "noticias": [
@@ -3472,6 +3472,189 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "Artículo publicado por Prensa Obrera. El sitio declara distribución bajo Licencia Creative Commons Atribución 4.0 Internacional. LIBRITO conserva referencia y descripción propia; consultar condiciones de la licencia en el medio original."
+    },
+    {
+      "id": "chanar-digital-2026-11-10-reclamo-agua-zona-rural",
+      "titulo": "Vecinos de la zona rural de San Patricio del Chañar llevan tres días sin agua y reclaman respuestas",
+      "fecha": "2026-11-10",
+      "medio": "Chañar Digital",
+      "autor": "Redacción",
+      "descripcion": "Cobertura de reclamos de familias del sector de chacras por interrupciones del suministro de agua potable. La nota recoge testimonios vecinales y reproduce un comunicado municipal que informó que se investigaba si el problema se debía a una falla eléctrica o a la bomba del punto de captación del cruce. Se registra como reclamo y respuesta inicial; no acredita por sí sola la causa definitiva ni la resolución del servicio.",
+      "url": "https://chanardigital.com.ar/articulo/2026/11/vecinos-de-la-zona-rural-de-san-patricio-del-chanar-llevan-tres-dias-sin-agua-y-reclaman-respuestas.php",
+      "etiquetas": [
+        "agua potable",
+        "zona rural",
+        "chacras",
+        "servicios públicos",
+        "reclamo vecinal",
+        "2026"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Chañar Digital. LIBRITO conserva metadatos y una descripción propia; las declaraciones se atribuyen a sus fuentes."
+    },
+    {
+      "id": "chanar-digital-2026-11-16-san-patricio-copa-neuquen",
+      "titulo": "San Patricio ganó por penales y está en cuartos",
+      "fecha": "2026-11-16",
+      "medio": "Chañar Digital",
+      "autor": "Redacción",
+      "descripcion": "Crónica deportiva de la clasificación del equipo San Patricio frente a Independiente de Neuquén por la Copa Neuquén. El partido terminó 2 a 2 y se definió 5 a 4 por penales; la nota destaca la actuación del arquero Mateo González y el pase a cuartos de final. Se incorpora como registro de deporte local y actividad del club.",
+      "url": "https://chanardigital.com.ar/articulo/2026/11/san-patricio-gano-por-penales-y-esta-en-cuartos.php",
+      "etiquetas": [
+        "deportes",
+        "fútbol",
+        "Club San Patricio",
+        "Copa Neuquén",
+        "2026"
+      ],
+      "tipo": "cronica_deportiva",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Chañar Digital. LIBRITO conserva metadatos y una descripción propia."
+    },
+    {
+      "id": "chanar-digital-2026-09-08-congreso-prevencion-suicidio",
+      "titulo": "San Patricio del Chañar será sede del VIII Congreso Nacional de Prevención del Suicidio",
+      "fecha": "2026-09-08",
+      "medio": "Chañar Digital",
+      "autor": "Redacción",
+      "descripcion": "Anuncio del VIII Congreso Nacional de Prevención del Suicidio, previsto en el Campus Educativo Municipal, con participación de profesionales, organizaciones e instituciones locales y provinciales. La nota menciona ejes de salud mental, prevención, redes comunitarias, consumos problemáticos y ámbitos escolares. Se registra como actividad institucional y comunitaria; no sustituye informes sanitarios ni estadísticas epidemiológicas.",
+      "url": "https://www.chanardigital.com.ar/articulo/2026/09/san-patricio-del-chanar-sera-sede-del-viii-congreso-nacional-de-prevencion-del-suicidio.php",
+      "etiquetas": [
+        "salud comunitaria",
+        "prevención",
+        "salud mental",
+        "educación",
+        "Campus Educativo",
+        "instituciones",
+        "2026"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Chañar Digital. LIBRITO conserva metadatos y una descripción propia."
+    },
+    {
+      "id": "chanar-digital-2026-02-18-fiesta-pelon-36",
+      "titulo": "Multitudinaria celebración en San Patricio del Chañar por la 36° Fiesta Provincial del Pelón",
+      "fecha": "2026-02-18",
+      "medio": "Chañar Digital",
+      "autor": "Redacción",
+      "descripcion": "Crónica posterior a la 36.ª Fiesta Provincial del Pelón, realizada durante tres jornadas en febrero de 2026. Describe la bendición de los frutos, espectáculos de artistas y grupos locales, danzas, gastronomía, artesanos, emprendedores y destrezas criollas. Es un registro de la programación cultural y de las expresiones comunitarias de la edición 2026.",
+      "url": "https://chanardigital.com.ar/articulo/2026/02/multitudinaria-celebracion-en-san-patricio-del-chanar-por-la-36-fiesta-provincial-del-pelon.php",
+      "etiquetas": [
+        "Fiesta Provincial del Pelón",
+        "trabajador rural",
+        "bendición de los frutos",
+        "música",
+        "danza",
+        "artesanos",
+        "gastronomía",
+        "2026"
+      ],
+      "tipo": "cronica",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo y fotografías pertenecen a Chañar Digital y a sus autores o fuentes acreditadas. LIBRITO conserva referencia y descripción propia."
+    },
+    {
+      "id": "neuquen-informa-2026-07-10-sabores-amigos",
+      "titulo": "San Patricio del Chañar realizará la primera Feria Regional de Turismo “Sabores y Amigos”",
+      "fecha": "2026-07-10",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación",
+      "descripcion": "Anuncio oficial de la primera Feria Regional de Turismo Sabores y Amigos, prevista en el predio de la Fiesta del Pelón. La propuesta articuló turismo, gastronomía, vinos neuquinos, producción local, cultura y prestadores turísticos. Se registra como antecedente del lanzamiento de una nueva actividad de promoción turística; la nota es previa al evento y no acredita por sí sola resultados posteriores.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2026/07/10/260413-san-patricio-del-chanar-realizara-la-primera-feria-regional-de-turismo-sabores-y-amigos",
+      "etiquetas": [
+        "turismo",
+        "Sabores y Amigos",
+        "gastronomía",
+        "vinos",
+        "producción local",
+        "emprendedores",
+        "2026"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación e imágenes pertenecen al Gobierno de la Provincia del Neuquén. LIBRITO conserva metadatos y una descripción propia."
+    },
+    {
+      "id": "neuquen-informa-2026-03-06-escuela-364-edificio",
+      "titulo": "Se inauguró el nuevo edificio de la Escuela N° 364 de San Patricio del Chañar",
+      "fecha": "2026-03-06",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación",
+      "descripcion": "Cobertura oficial de la inauguración del edificio propio de la Escuela Primaria N.º 364. La nota informa que la institución había sido creada en 2017, funcionaba en espacios cedidos y que la obra, iniciada en 2022 y paralizada en 2023, fue retomada y finalizada. Se incorpora como registro de infraestructura educativa e historia institucional local.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2026/03/06/255471-se-inauguro-el-nuevo-edificio-de-la-escuela-n-364-de-san-patricio-del-chanar",
+      "etiquetas": [
+        "educación",
+        "Escuela 364",
+        "infraestructura escolar",
+        "edificio propio",
+        "2026"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación e imágenes pertenecen al Gobierno de la Provincia del Neuquén. LIBRITO conserva metadatos y una descripción propia."
+    },
+    {
+      "id": "neuquen-informa-2026-06-16-cef10-mejoras",
+      "titulo": "Comenzaron trabajos para la mejora del CEF 10",
+      "fecha": "2026-06-16",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación",
+      "descripcion": "Anuncio oficial del inicio de obras en el Centro de Educación Física N.º 10 de San Patricio del Chañar. La intervención incluye la renovación del playón deportivo y mejoras en instalaciones eléctricas exteriores. Se registra como noticia de infraestructura educativa y deportiva; los datos corresponden al anuncio de inicio y no certifican la finalización de los trabajos.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2026/06/16/259183-comenzaron-trabajos-para-la-mejora-del-cef-10",
+      "etiquetas": [
+        "deporte",
+        "CEF 10",
+        "infraestructura",
+        "playón deportivo",
+        "educación física",
+        "2026"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Publicación e imágenes pertenecen al Gobierno de la Provincia del Neuquén. LIBRITO conserva metadatos y una descripción propia."
+    },
+    {
+      "id": "noticiasnqn-2026-11-10-rally-neuquino-chanar",
+      "titulo": "San Patricio del Chañar será sede de una nueva fecha del Rally Neuquino",
+      "fecha": "2026-11-10",
+      "medio": "NoticiasNQN",
+      "autor": "Neuquén Deportes",
+      "descripcion": "Anuncio de la novena fecha del Rally Neuquino 2026 en San Patricio del Chañar, con cronograma de exhibición de vehículos, rampa, pruebas en la zona de la barda y premiación en el Estadio Municipal. La nota permite documentar el circuito deportivo y la utilización de sectores locales como Ruta 8, calles urbanas y el entorno de Bodega Schroeder.",
+      "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/10/360167-san-patricio-del-chanar-sera-sede-de-una-nueva-fecha-del-rally-neuquino",
+      "etiquetas": [
+        "deportes",
+        "automovilismo",
+        "Rally Neuquino",
+        "Ruta 8",
+        "barda",
+        "Bodega Schroeder",
+        "2026"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a NoticiasNQN y sus autores o fuentes acreditadas. LIBRITO conserva metadatos y una descripción propia."
+    },
+    {
+      "id": "cutralco-al-instante-2026-11-16-rally-resultados-chanar",
+      "titulo": "Salazar ganó la general y Llanos se consagró tricampeón de la A6 en San Patricio del Chañar",
+      "fecha": "2026-11-16",
+      "medio": "Cutral Co al Instante",
+      "autor": "Redacción",
+      "descripcion": "Crónica de los resultados de la novena fecha del Rally Neuquino 2026 disputada en caminos de San Patricio del Chañar. Informa la clasificación general encabezada por Gastón Salazar y la consagración anticipada de Daniel Llanos en la clase A6, además de resultados de otras categorías. Se incorpora como registro deportivo posterior al evento; los tiempos y resultados se atribuyen al medio.",
+      "url": "https://www.cutralcoalinstante.com/2026/11/16/salazar-gano-la-general-y-llanos-se-consagro-tricampeon-de-la-a6-en-san-patricio-del-chanar/",
+      "etiquetas": [
+        "deportes",
+        "automovilismo",
+        "Rally Neuquino",
+        "resultados",
+        "campeonato 2026",
+        "San Patricio del Chañar"
+      ],
+      "tipo": "cronica_deportiva",
+      "estado": "enlace_al_original",
+      "derechos": "Artículo e imágenes pertenecen a Cutral Co al Instante y sus autores o fuentes acreditadas. LIBRITO conserva metadatos y una descripción propia."
     }
   ]
 }
