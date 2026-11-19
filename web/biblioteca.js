@@ -7,7 +7,7 @@ const normalizar=v=>texto(v).toLocaleLowerCase("es").normalize("NFD").replace(/[
 const permitido=r=>typeof r==="string"&&/^documentos\/[A-Za-z0-9._/-]+\.pdf$/i.test(r)&&!r.split("/").includes("..");
 const urlSegura=r=>typeof r==="string"&&/^https?:\/\/[A-Za-z0-9.-]+(?::\d+)?(?:[/?#][^\s]*)?$/i.test(r);
 function disponible(i){
- if(!i||i.formato!=="PDF")return false;
+ if(!i||!["PDF","JPG","JPEG","PNG","WEBP"].includes(text(i.formato).toUpperCase()))return false;
  if(i.estado==="Publicado"&&permitido(i.archivo)&&i.autorizacion&&i.autorizacion.estado==="confirmada")return true;
  return i.estado==="Disponible en origen"&&["origen","ficha"].includes(i.acceso)&&urlSegura(i.urlOriginal);
 }
@@ -19,12 +19,12 @@ function tarjeta(item){
  const datos=[texto(item.autoria),texto(item.institucion),texto(item.fecha).slice(0,4)].filter(Boolean);if(datos.length)card.append(nodo("p","documento-datos",datos.join(" · ")));
  if(texto(item.descripcion))card.append(nodo("p","documento-descripcion",item.descripcion));
  const pistas=nodo("div","documento-pistas");
- const etiquetas=[texto(item.formato).toUpperCase()||"PDF",Number.isInteger(item.paginas)&&item.paginas>0?item.paginas+(item.paginas===1?" página":" páginas"):"",item.acceso==="origen"||item.acceso==="ficha"?"PDF en su fuente original":"Alojado en LIBRITO",texto(item.categoria)];
+ const etiquetas=[texto(item.formato).toUpperCase()||"PDF",Number.isInteger(item.paginas)&&item.paginas>0?item.paginas+(item.paginas===1?" página":" páginas"):"",item.acceso==="origen"||item.acceso==="ficha"?(texto(item.formato).toUpperCase()==="PDF"?"PDF en su fuente original":"Imagen en su fuente original"):"Alojado en LIBRITO",texto(item.categoria)];
  if(item.autorizacion&&item.autorizacion.estado==="licencia_confirmada")etiquetas.push(texto(item.autorizacion.base).split(".")[0]);
  for(const dato of etiquetas.filter(Boolean))pistas.append(nodo("span","",dato));card.append(pistas);
  const acciones=nodo("div","documento-acciones");
  if(item.acceso==="origen"||item.acceso==="ficha"){
-  const abrir=nodo("a","accion accion-leer",texto(item.accionExterna)||(item.acceso==="ficha"?"Ver ficha y descarga":"Abrir PDF original"));
+  const abrir=nodo("a","accion accion-leer",texto(item.accionExterna)||(item.acceso==="ficha"?"Ver ficha y descarga":(texto(item.formato).toUpperCase()==="PDF"?"Abrir PDF original":"Abrir imagen original")));
   abrir.href=item.urlOriginal;abrir.target="_blank";abrir.rel="noopener noreferrer";abrir.setAttribute("aria-label",abrir.textContent+": "+texto(item.titulo));acciones.append(abrir);
  }else{
   const leer=nodo("a","accion accion-leer","Leer e imprimir"),bajar=nodo("a","accion accion-descargar","Descargar PDF");
@@ -36,7 +36,7 @@ function tarjeta(item){
  for(const l of lineas)detalle.append(nodo("p","",l));
  if(urlSegura(item.urlFicha)){const p=nodo("p","");const a=nodo("a","","Ver ficha de la fuente");a.href=item.urlFicha;a.target="_blank";a.rel="noopener noreferrer";p.append(a);detalle.append(p)}
  if(lineas.length||urlSegura(item.urlFicha))card.append(detalle);
- if(item.acceso==="origen"||item.acceso==="ficha"){const aviso=nodo("p","documento-aviso","Este documento se abre en el sitio que lo publica. LIBRITO conserva la referencia y sus créditos, no una copia del archivo.");card.append(aviso)}
+ if(item.acceso==="origen"||item.acceso==="ficha"){const aviso=nodo("p","documento-aviso","Este material se abre en el sitio que lo publica. LIBRITO conserva la referencia y sus créditos, no una copia del archivo.");card.append(aviso)}
  return card;
 }
 function dibujar(){const termino=normalizar(buscador.value.trim());const resultados=documentos.filter(item=>{const cat=categoriaActiva==="Todas"||item.categoria===categoriaActiva;const indice=normalizar([item.titulo,item.autoria,item.institucion,item.tematica,item.descripcion,item.categoria,...(Array.isArray(item.etiquetas)?item.etiquetas:[])].join(" "));return cat&&indice.includes(termino)});contador.textContent=resultados.length+(resultados.length===1?" material disponible":" materiales disponibles");lista.replaceChildren();if(!resultados.length){estado(documentos.length?"No encontramos ese material":"Todavía no hay documentos publicados","Probá con otra palabra o borrá la búsqueda.");return}for(const item of resultados)lista.append(tarjeta(item))}
