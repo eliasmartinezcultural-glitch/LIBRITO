@@ -1,6 +1,6 @@
 {
   "nombre": "Hemeroteca de LIBRITO · San Patricio del Chañar",
-  "version": 8,
+  "version": 9,
   "descripcion": "Índice de noticias y páginas periodísticas que mencionan expresamente San Patricio del Chañar, de distintos diarios, años y formatos.",
   "criterio": "Se incorpora una noticia cuando el texto identifica expresamente a San Patricio del Chañar o trata sobre la localidad. Se conserva título, medio, autoría disponible, fecha, enlace original y una descripción breve. No se reproduce el cuerpo periodístico.",
   "noticias": [
@@ -1176,6 +1176,115 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "Artículo e imágenes pertenecen a Diario Río Negro. LIBRITO conserva referencia y descripción propia; los reclamos se atribuyen expresamente al entrevistado."
+    },
+    {
+      "id": "neuquen-informa-2026-01-28-relevamiento-escuelas",
+      "titulo": "Relevaron trabajos en escuelas de Centenario, San Patricio del Chañar, Añelo y Los Chihuidos",
+      "fecha": "2026-01-28",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación",
+      "descripcion": "Cobertura del relevamiento de obras escolares de verano. En San Patricio del Chañar se informaron tareas en la Escuela Primaria N.º 191 y el CPEM N.º 31, entre otras intervenciones regionales.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2026/01/28/254939-relevaron-trabajos-en-escuelas-de-centenario-san-patricio-del-chanar-anelo-y-los-chihuidos",
+      "etiquetas": [
+        "educación",
+        "escuelas",
+        "infraestructura",
+        "CPEM 31",
+        "Escuela 191"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el medio que la publicó; no se copia ni republica."
+    },
+    {
+      "id": "neuquen-informa-2026-06-27-visita-epet26",
+      "titulo": "Figueroa visitó junto a los estudiantes de la EPET N.º 26 la obra del nuevo edificio escolar",
+      "fecha": "2026-06-27",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación",
+      "descripcion": "Crónica de una recorrida por la construcción del nuevo edificio de la EPET N.º 26 de San Patricio del Chañar, con participación de estudiantes y docentes. La nota describe el proyecto y la situación de la institución.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2026/06/27/259822-figueroa-visito-junto-a-los-estudiantes-de-la-epet-n-26-la-obra-del-nuevo-edificio-escolar",
+      "etiquetas": [
+        "educación",
+        "EPET 26",
+        "escuela técnica",
+        "infraestructura"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el medio que la publicó; no se copia ni republica."
+    },
+    {
+      "id": "neuquen-informa-2026-07-20-centro-dia",
+      "titulo": "Comenzó la obra del Centro de Día en San Patricio del Chañar",
+      "fecha": "2026-07-20",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación",
+      "descripcion": "Información sobre el inicio de la obra de un Centro de Día en la localidad, destinado a actividades grupales y terapias. La publicación describe el proyecto y su articulación entre Provincia y Municipio.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2026/07/20/260695-comenzo-la-obra-del-centro-de-dia-en-san-patricio-del-chanar",
+      "etiquetas": [
+        "salud",
+        "comunidad",
+        "infraestructura",
+        "Centro de Día"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el medio que la publicó; no se copia ni republica."
+    },
+    {
+      "id": "neuquen-informa-2026-09-26-avance-epet26",
+      "titulo": "La obra del edificio de la EPET 26 ya supera el 70 por ciento de ejecución",
+      "fecha": "2026-09-26",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación",
+      "descripcion": "Actualización sobre el avance de la construcción del edificio de la EPET N.º 26 de San Patricio del Chañar. La nota informa la superficie proyectada y el estado de ejecución comunicado por el Gobierno provincial.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2026/09/26/264493-la-obra-del-edificio-de-la-epet-26-ya-supera-el-70-por-ciento-de-ejecucion",
+      "etiquetas": [
+        "educación",
+        "EPET 26",
+        "infraestructura",
+        "obra pública"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el medio que la publicó; no se copia ni republica."
+    },
+    {
+      "id": "neuquen-informa-2026-10-09-adjudicacion-centro-deportivo",
+      "titulo": "Provincia adjudicó la construcción de un nuevo Centro Deportivo Comunitario en San Patricio del Chañar",
+      "fecha": "2026-10-09",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación",
+      "descripcion": "Publicación sobre la adjudicación de la obra del Centro Deportivo Comunitario, con espacios previstos para actividades deportivas, recreativas, culturales y sociales. Es una etapa posterior a la convocatoria a licitación informada en agosto de 2026.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2026/10/09/265377-provincia-adjudico-la-construccion-de-un-nuevo-centro-deportivo-comunitario-en-san-patricio-del-chanar",
+      "etiquetas": [
+        "deporte",
+        "cultura",
+        "infraestructura",
+        "participación comunitaria"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el medio que la publicó; no se copia ni republica."
+    },
+    {
+      "id": "neuquen-informa-2025-01-29-relevamiento-escuelas",
+      "titulo": "Equipos de Educación recorrieron edificios de Añelo, San Patricio del Chañar y Vista Alegre",
+      "fecha": "2025-01-29",
+      "medio": "Neuquén Informa",
+      "autor": "Secretaría de Prensa y Comunicación",
+      "descripcion": "Cobertura de una recorrida por establecimientos educativos de la región. El artículo incluye un apartado específico sobre trabajos de reparación y mejoras en la Escuela Primaria N.º 273 de San Patricio del Chañar.",
+      "url": "https://www.neuqueninforma.gob.ar/noticias/2025/01/29/247842-equipos-de-educacion-recorrieron-edificios-de-anelo-san-patricio-del-chanar-y-vista-alegre",
+      "etiquetas": [
+        "educación",
+        "Escuela 273",
+        "infraestructura escolar",
+        "mantenimiento"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el medio que la publicó; no se copia ni republica."
     }
   ]
 }
