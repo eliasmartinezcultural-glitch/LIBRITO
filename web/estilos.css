@@ -144,3 +144,41 @@ h2{margin:0;color:var(--verde-oscuro);font:normal clamp(30px,4vw,42px)/1.12 var(
  .documento,.noticia{break-inside:avoid;border:1px solid #999;margin-bottom:8px;box-shadow:none}
  .documento-detalle{display:block}
 }
+
+/* Arquitectura de dos secciones: portada y espacios independientes */
+.encabezado-interior{justify-content:space-between;gap:14px}
+.volver{display:inline-flex;align-items:center;justify-content:center;min-height:42px;padding:8px 14px;border:1px solid rgba(255,255,255,.35);border-radius:7px;color:#fff;text-decoration:none;font-size:13px;font-weight:700}
+.volver:hover{background:rgba(255,255,255,.1)}
+.inicio-presentacion{margin-top:34px;padding-block:clamp(38px,7vw,78px)}
+.puertas-principales{grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;padding:0 0 34px}
+.puertas-principales .puerta{min-height:245px;padding:28px;border-radius:7px 30px 7px 30px}
+.puertas-principales .puerta-titulo{font-size:clamp(34px,5vw,48px);margin-top:12px}
+.puertas-principales .puerta-ayuda{max-width:300px;font-size:15px;line-height:1.5}
+.puertas-principales .puerta-numero{top:25px;left:28px}
+.puerta-entrada{display:flex;align-items:center;gap:10px;margin-top:19px;color:var(--verde);font-size:14px;font-weight:800}
+.puerta-entrada span{font-size:22px;transition:transform .18s}
+.puerta:hover .puerta-entrada span{transform:translateX(5px)}
+.puertas-principales .puerta:after{right:26px;bottom:24px;font-size:22px;opacity:.2}
+.puerta-obras{background:linear-gradient(135deg,#f8f4e9,#e9eee4)!important}
+.puerta-hemeroteca{background:linear-gradient(135deg,#f7eee4,#efe2d7)!important}
+.nota-inicio{margin:10px 0 34px}
+.pagina-seccion{max-width:920px}
+.cabecera-seccion{margin:30px 0 8px;padding:34px 0 27px;border-bottom:1px solid var(--linea)}
+.cabecera-seccion h1{margin-bottom:12px;font-size:clamp(42px,7vw,60px)}
+.cabecera-seccion .bajada{max-width:700px}
+.pagina-seccion .coleccion{border-top:0;padding-top:28px}
+.pagina-seccion .hemeroteca{margin-top:0;padding-top:28px}
+.seccion-hemeroteca .cabecera-hemeroteca{border-bottom-color:#dfcbb9}
+.seccion-hemeroteca .hemeroteca-filtros{background:linear-gradient(120deg,#f0e4d8,#f7f0e7);border-color:#e0cdbd}
+.seccion-hemeroteca .noticia{background:#fffdfa}
+.pie-interior a{color:#f3dfb9;text-underline-offset:3px}
+@media(max-width:650px){
+ .inicio-presentacion{margin-top:20px}
+ .puertas-principales{grid-template-columns:1fr;gap:11px}
+ .puertas-principales .puerta{min-height:190px;padding:23px}
+ .puertas-principales .puerta-numero{top:20px;left:23px}
+ .puertas-principales .puerta-titulo{font-size:36px}
+ .puertas-principales .puerta-ayuda{font-size:14px}
+ .cabecera-seccion{margin-top:20px;padding:25px 0 22px}
+ .volver{min-height:38px;padding:7px 10px;font-size:12px}
+}
