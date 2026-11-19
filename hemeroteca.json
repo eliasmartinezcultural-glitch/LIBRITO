@@ -1,6 +1,6 @@
 {
   "nombre": "Hemeroteca de LIBRITO · San Patricio del Chañar",
-  "version": 1,
+  "version": 2,
   "descripcion": "Índice de noticias y páginas periodísticas que mencionan expresamente San Patricio del Chañar, de distintos diarios, años y formatos.",
   "criterio": "Se incorpora una noticia cuando el texto identifica expresamente a San Patricio del Chañar o trata sobre la localidad. Se conserva título, medio, autoría disponible, fecha, enlace original y una descripción breve. No se reproduce el cuerpo periodístico.",
   "noticias": [
@@ -479,6 +479,59 @@
       "tipo": "articulo_web",
       "estado": "enlace_al_original",
       "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+    },
+    {
+      "id": "rn-1999-09-27",
+      "titulo": "Meschini logró la reelección en Vista Alegre y Bertoya en el Chañar",
+      "fecha": "1999-09-27",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Crónica electoral que menciona la elección municipal de San Patricio del Chañar y el contexto político local de 1999.",
+      "url": "https://www.rionegro.com.ar/meschini-logro-la-reeleccion-en-vista-alegre-y-bertoya-en-el-chanar-ASHRN19990927351028990927/",
+      "etiquetas": [
+        "historia",
+        "elecciones",
+        "vida institucional"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Se conserva referencia bibliográfica y descripción propia; consultar noticia en el medio original."
+    },
+    {
+      "id": "lm-2008-11-21",
+      "titulo": "Cortaron la Ruta 7 para que expropien un loteo privado",
+      "fecha": "2008-11-21",
+      "medio": "La Mañana de Neuquén",
+      "autor": "Redacción",
+      "descripcion": "Crónica sobre una protesta vecinal y un reclamo por tierras y loteos en el acceso a San Patricio del Chañar.",
+      "url": "https://www.lmneuquen.com/cortaron-la-ruta-7-que-expropien-un-loteo-privado-n11064",
+      "etiquetas": [
+        "historia",
+        "territorio",
+        "vivienda",
+        "participación vecinal"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Se conserva referencia bibliográfica y descripción propia; consultar noticia en el medio original."
+    },
+    {
+      "id": "lm-2009-09-15",
+      "titulo": "Regularizan entrega de terrenos en El Chañar",
+      "fecha": "2009-09-15",
+      "medio": "La Mañana de Neuquén",
+      "autor": "Redacción",
+      "descripcion": "Nota sobre la regularización de lotes y la política de acceso a terrenos en San Patricio del Chañar durante 2009.",
+      "url": "https://www.lmneuquen.com/regularizan-entrega-terrenos-el-chanar-n40373",
+      "etiquetas": [
+        "historia",
+        "territorio",
+        "vivienda",
+        "municipio"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "Se conserva referencia bibliográfica y descripción propia; consultar noticia en el medio original."
     }
   ]
 }
