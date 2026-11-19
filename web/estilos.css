@@ -96,3 +96,7 @@ h2{margin:0;color:var(--verde-oscuro);font:normal clamp(29px,4.5vw,36px)/1.2 var
  .documento{break-inside:avoid;border:1px solid #999;margin-bottom:10px}
  .documento-detalle{display:block}
 }
+/* Jerarquía de colección: primero las descargas reales */
+.grupo-titulo{margin:8px 0 -7px;color:var(--verde-oscuro);font:normal 25px/1.2 var(--serif)}
+.grupo-titulo.grupo-externo{margin-top:23px;padding-top:18px;border-top:1px solid var(--linea)}
+.grupo-ayuda{margin:0 0 3px;color:var(--suave);font-size:14px}
