@@ -108,6 +108,7 @@
 
   function tarjeta(item) {
     const card = nodo("article", "documento");
+    card.id = "obra-" + texto(item.id).replace(/[^a-zA-Z0-9_-]/g, "-");
     card.append(nodo("p", "documento-meta", (texto(item.categoria) || "Biblioteca") + " · " + formato(item)));
     if (urlSegura(item.imagen)) {
       const figura = nodo("figure", "documento-imagen");
@@ -139,6 +140,15 @@
       card.append(nodo("p", "estado-acceso externo", "Este material permanece en su fuente original"));
     }
     card.append(acciones);
+    const compartir = nodo("div", "acciones-compartir");
+    const enlaceFicha = location.href.split("#")[0] + "#" + card.id;
+    const wa = nodo("a", "boton-compartir whatsapp", "Enviar por WhatsApp");
+    wa.href = "https://wa.me/?text=" + encodeURIComponent("Te comparto este material de LIBRITO: " + (texto(item.titulo) || "Obra") + " · " + enlaceFicha);
+    wa.target = "_blank"; wa.rel = "noopener noreferrer";
+    const copiar = nodo("button", "boton-compartir copiar", "Copiar enlace");
+    copiar.type = "button"; copiar.dataset.copiarUrl = enlaceFicha;
+    const estadoCopia = nodo("span", "estado-copiar", ""); estadoCopia.setAttribute("aria-live", "polite");
+    compartir.append(wa, copiar, estadoCopia); card.append(compartir);
 
     const detalles = nodo("details", "documento-detalle");
     detalles.append(nodo("summary", "", "Autoría, fuente y condiciones"));
@@ -229,6 +239,7 @@
       documentos = validos;
       total.textContent = String(documentos.length);
       dibujar();
+      if (location.hash && location.hash.startsWith("#obra-")) requestAnimationFrame(() => document.getElementById(decodeURIComponent(location.hash.slice(1)))?.scrollIntoView({behavior:"smooth",block:"start"}));
 
       if (documentos.length !== catalogo.documentos.length) {
         console.warn("LIBRITO Obras: registros omitidos por datos incompletos o enlaces inválidos:",
