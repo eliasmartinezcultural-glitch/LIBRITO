@@ -1763,3 +1763,92 @@ a:hover{text-decoration-thickness:2px}
 @media(max-width:760px){.recursos-lista{grid-template-columns:1fr}.puertas-principales{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:650px){.recursos-controles{grid-template-columns:1fr}.recursos-filtros{padding:15px}.recurso{padding:17px}.puertas-principales{grid-template-columns:1fr}}
 @media print{.recursos-filtros,.recursos-contador,.acciones-compartir,.seccion-recursos .accion,.recurso-derechos summary{display:none!important}.recursos-lista{display:block}.recurso{break-inside:avoid;margin-bottom:12px;box-shadow:none}.recurso-derechos{display:block}}
+
+/* Ajuste de proporciones de portada: solo tamaño, espaciado y alineación visual. */
+.inicio-presentacion{
+ margin-top:24px;
+ margin-bottom:18px;
+ padding:clamp(26px,4vw,46px) clamp(24px,4.5vw,54px);
+}
+.inicio-presentacion h1{
+ max-width:760px;
+ margin-bottom:12px;
+ font-size:clamp(34px,4.4vw,50px);
+ line-height:1.08;
+}
+.inicio-presentacion .bajada{
+ max-width:650px;
+ margin-bottom:12px;
+ font-size:clamp(15px,1.55vw,17px);
+ line-height:1.5;
+}
+.inicio-presentacion .regla{
+ max-width:650px;
+ padding:10px 14px;
+ font-size:12px;
+ line-height:1.5;
+}
+.puertas-principales{
+ grid-template-columns:repeat(3,minmax(0,1fr));
+ gap:15px;
+ padding-bottom:28px;
+}
+.puertas-principales .puerta{
+ min-width:0;
+ min-height:205px;
+ padding:23px 22px 21px;
+ border-radius:7px 23px 7px 23px;
+}
+.puertas-principales .puerta-numero{
+ top:21px;
+ left:22px;
+ font-size:10px;
+ letter-spacing:.09em;
+}
+.puertas-principales .puerta-titulo{
+ margin-top:10px;
+ font-size:clamp(27px,3vw,36px);
+ line-height:1.05;
+}
+.puertas-principales .puerta-ayuda{
+ max-width:100%;
+ margin-top:8px;
+ font-size:13px;
+ line-height:1.45;
+}
+.puertas-principales .puerta-entrada{
+ margin-top:14px;
+ font-size:13px;
+}
+.puertas-principales .puerta:after{
+ right:20px;
+ bottom:19px;
+}
+@media(max-width:760px){
+ .inicio-presentacion{padding:28px 26px}
+ .puertas-principales{grid-template-columns:repeat(2,minmax(0,1fr));gap:13px}
+ .puertas-principales .puerta{min-height:190px;padding:22px 20px}
+ .puertas-principales .puerta:nth-child(3){grid-column:1/-1;width:calc(50% - 7px);justify-self:center}
+ .puertas-principales .puerta-ayuda{font-size:13px}
+}
+@media(max-width:650px){
+ .inicio-presentacion{margin-top:18px;padding:25px 20px}
+ .inicio-presentacion h1{font-size:clamp(32px,8vw,39px)}
+ .inicio-presentacion .bajada{font-size:15px;line-height:1.48}
+ .inicio-presentacion .regla{font-size:12px}
+ .puertas-principales{grid-template-columns:1fr;gap:11px}
+ .puertas-principales .puerta{grid-column:auto;width:auto;min-height:164px;padding:21px 20px}
+ .puertas-principales .puerta-numero{top:18px;left:20px}
+ .puertas-principales .puerta-titulo{font-size:31px}
+ .puertas-principales .puerta-ayuda{font-size:13px;max-width:100%}
+ .puertas-principales .puerta-entrada{margin-top:12px}
+}
+/* La introducción de Recursos conserva el mismo ritmo visual que las demás secciones. */
+.seccion-recursos .cabecera-recursos{padding-top:27px;padding-bottom:22px}
+.seccion-recursos .cabecera-recursos h1{font-size:clamp(36px,5vw,48px);margin-bottom:9px}
+.seccion-recursos .cabecera-recursos .bajada{font-size:clamp(15px,1.7vw,17px);line-height:1.5}
+.seccion-recursos .cabecera-recursos .regla{font-size:12px;line-height:1.5}
+@media(max-width:650px){
+ .seccion-recursos .cabecera-recursos{padding-top:20px;padding-bottom:18px}
+ .seccion-recursos .cabecera-recursos h1{font-size:36px}
+}
