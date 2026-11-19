@@ -1,0 +1,484 @@
+{
+  "nombre": "Hemeroteca de LIBRITO · San Patricio del Chañar",
+  "version": 1,
+  "descripcion": "Índice de noticias y páginas periodísticas que mencionan expresamente San Patricio del Chañar, de distintos diarios, años y formatos.",
+  "criterio": "Se incorpora una noticia cuando el texto identifica expresamente a San Patricio del Chañar o trata sobre la localidad. Se conserva título, medio, autoría disponible, fecha, enlace original y una descripción breve. No se reproduce el cuerpo periodístico.",
+  "noticias": [
+    {
+      "id": "rn-2000-05-22",
+      "titulo": "Prometen dinero para el Chañar en su cumpleaños",
+      "fecha": "2000-05-22",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Aniversario 27, escuela primaria, trabajo rural y proyectos de industrialización.",
+      "url": "https://www.rionegro.com.ar/prometen-dinero-para-el-chanar-en-su-cumpleanos-HAHRN00052220221004/",
+      "etiquetas": [
+        "historia",
+        "aniversario",
+        "educación",
+        "producción"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+    },
+    {
+      "id": "rn-2001-07-04",
+      "titulo": "Sin dinero para asistencia social en El Chañar",
+      "fecha": "2001-07-04",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Crisis de empresas frutícolas, empleo rural y asistencia social municipal en 2001.",
+      "url": "https://www.rionegro.com.ar/sin-dinero-para-asistencia-social-en-el-chanar-LXHRN0107041904704/",
+      "etiquetas": [
+        "historia",
+        "trabajo rural",
+        "fruticultura",
+        "vida social"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+    },
+    {
+      "id": "rn-2001-07-13",
+      "titulo": "Ajuste en El Chañar para absorber la ayuda social",
+      "fecha": "2001-07-13",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Seguimiento periodístico de la situación de ex trabajadores de Gasparri y las cuentas municipales.",
+      "url": "https://www.rionegro.com.ar/ajuste-en-el-chanar-para-absorber-la-ayuda-social-OYHRN01071319131014/",
+      "etiquetas": [
+        "historia",
+        "trabajo rural",
+        "fruticultura",
+        "municipio"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+    },
+    {
+      "id": "rn-2002-05-21",
+      "titulo": "El Chañar palpita su aniversario mientras busca salida al exterior",
+      "fecha": "2002-05-21",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Aniversario 29, industrialización de frutas, exportaciones y proyectos productivos locales.",
+      "url": "https://www.rionegro.com.ar/el-chanar-palpita-su-aniversario-mientras-busca-salida-al-exterior-EWHRN0205212021703/",
+      "etiquetas": [
+        "historia",
+        "aniversario",
+        "producción",
+        "exportaciones"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+    },
+    {
+      "id": "rn-2002-08-10",
+      "titulo": "Huertas de El Chañar darán de comer a 120 familias",
+      "fecha": "2002-08-10",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Experiencia de huertas familiares vinculada a la ex escuela EMETA, capacitación y producción de alimentos.",
+      "url": "https://www.rionegro.com.ar/huertas-de-el-chanar-daran-de-comer-a-120-familias-BLHRN0208105101015/",
+      "etiquetas": [
+        "educación",
+        "huertas",
+        "producción familiar",
+        "alimentación"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+    },
+    {
+      "id": "rn-2002-09-02",
+      "titulo": "Las heladas todavía no fueron tan dañinas en El Chañar",
+      "fecha": "2002-09-02",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Registro de heladas primaverales y preocupación de productores por fruta de carozo y pepita.",
+      "url": "https://www.rionegro.com.ar/las-heladas-todavia-no-fueron-tan-daninas-en-el-chanar-NVHRN02090219022104/",
+      "etiquetas": [
+        "agricultura",
+        "clima",
+        "fruticultura"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+    },
+    {
+      "id": "rn-2003-04-20",
+      "titulo": "Historia del negocio de las chacras llave en mano",
+      "fecha": "2003-04-20",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Investigación periodística sobre colonización de tierras, créditos y expansión de chacras y bodegas.",
+      "url": "https://www.rionegro.com.ar/historia-del-negocio-de-las-chacras-llave-en-mano-20-4-03-OAHRN03042019202042/",
+      "etiquetas": [
+        "historia",
+        "chacras",
+        "vitivinicultura",
+        "economía"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+    },
+    {
+      "id": "rn-2003-05-21",
+      "titulo": "30 años: El Chañar busca el cambio hacia un municipio ecológico",
+      "fecha": "2003-05-21",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Aniversario 30, planta de tratamiento de residuos y debates sobre producción y ambiente.",
+      "url": "https://www.rionegro.com.ar/30-anos-el-chanar-busca-el-cambio-hacia-un-municipio-ecologico-21-5-03-GAHRN03052120211006/",
+      "etiquetas": [
+        "historia",
+        "aniversario",
+        "ambiente",
+        "residuos"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+    },
+    {
+      "id": "rn-2004-05-24",
+      "titulo": "Colorido festejo en el aniversario de El Chañar",
+      "fecha": "2004-05-24",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Aniversario 31, participación de estudiantes, murgas, carrozas y homenajes a pioneros.",
+      "url": "https://www.rionegro.com.ar/colorido-festejo-en-el-aniversario-de-el-chanar-KCHRN04052419242006/",
+      "etiquetas": [
+        "historia",
+        "aniversario",
+        "escuelas",
+        "memoria"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+    },
+    {
+      "id": "rn-2005-05-22",
+      "titulo": "Un aniversario colorido y con muchas demandas en El Chañar",
+      "fecha": "2005-05-22",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Aniversario local y reclamos vinculados con inversiones, salud, educación y trabajo.",
+      "url": "https://www.rionegro.com.ar/un-aniversario-colorido-y-con-muchas-demandas-en-el-chanar-KCHRN0505222322108/",
+      "etiquetas": [
+        "historia",
+        "aniversario",
+        "vida social",
+        "educación",
+        "salud"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+    },
+    {
+      "id": "rn-2006-05-22",
+      "titulo": "Conflicto en la única guardería pública de El Chañar",
+      "fecha": "2006-05-22",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Registro sobre la UAF Amiguitos, cuidado infantil y condiciones de trabajo de mujeres obreras rurales.",
+      "url": "https://www.rionegro.com.ar/conflicto-en-la-unica-guarderia-publica-de-el-chanar-NGHRN06052219221004/",
+      "etiquetas": [
+        "historia",
+        "infancias",
+        "educación",
+        "trabajo rural"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+    },
+    {
+      "id": "lm-2009-11-13",
+      "titulo": "El Chañar homenajeará a Gasparri",
+      "fecha": "2009-11-13",
+      "medio": "La Mañana de Neuquén",
+      "autor": "Redacción",
+      "descripcion": "Anuncio de homenaje a Roberto Gasparri, presentación del libro El Visionario y memoria local.",
+      "url": "https://www.lmneuquen.com/el-chanar-homenajeara-gasparri-n46353",
+      "etiquetas": [
+        "historia",
+        "memoria",
+        "Roberto Gasparri",
+        "libros"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+    },
+    {
+      "id": "lm-2010-05-20",
+      "titulo": "El sueño de los pioneros y el rol del Estado en el impulso del desarrollo",
+      "fecha": "2010-05-20",
+      "medio": "La Mañana de Neuquén",
+      "autor": "Redacción",
+      "descripcion": "Artículo de aniversario sobre expansión frutícola, Roberto Gasparri y desarrollo vitivinícola.",
+      "url": "https://www.lmneuquen.com/el-sueno-los-pioneros-y-el-rol-del-estado-el-impulso-del-desarrollo-n65648",
+      "etiquetas": [
+        "historia",
+        "pioneros",
+        "fruticultura",
+        "vitivinicultura"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+    },
+    {
+      "id": "lm-2010-09-21",
+      "titulo": "Un futuro con muy pocas opciones",
+      "fecha": "2010-09-21",
+      "medio": "La Mañana de Neuquén",
+      "autor": "Georgina Gonzáles",
+      "descripcion": "Nota sobre la oferta de educación secundaria y las opciones para jóvenes de la localidad en 2010.",
+      "url": "https://www.lmneuquen.com/un-futuro-muy-pocas-opciones-n84042",
+      "etiquetas": [
+        "educación",
+        "juventud",
+        "escuelas"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+    },
+    {
+      "id": "lm-2011-02-01",
+      "titulo": "Apoyo escolar para revertir deserción",
+      "fecha": "2011-02-01",
+      "medio": "La Mañana de Neuquén",
+      "autor": "Redacción",
+      "descripcion": "Clases gratuitas de apoyo escolar en Matemática, Lengua, Inglés e Historia para estudiantes locales.",
+      "url": "https://www.lmneuquen.com/apoyo-escolar-revertir-desercion-n96970",
+      "etiquetas": [
+        "educación",
+        "escuelas",
+        "estudiantes"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+    },
+    {
+      "id": "lm-2014-02-16",
+      "titulo": "El boom petrolero suma un nuevo eje productivo en el Chañar",
+      "fecha": "2014-02-16",
+      "medio": "La Mañana de Neuquén",
+      "autor": "Adriano Calalesina",
+      "descripcion": "Transformaciones demográficas y productivas, de agricultura y vitivinicultura a hidrocarburos.",
+      "url": "https://www.lmneuquen.com/el-boom-petrolero-suma-un-nuevo-eje-productivo-el-chanar-n215432",
+      "etiquetas": [
+        "historia",
+        "economía",
+        "territorio",
+        "producción"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+    },
+    {
+      "id": "rn-2021-05-21",
+      "titulo": "Aniversario de San Patricio del Chañar: Fruticultura y vinos de calidad",
+      "fecha": "2021-05-21",
+      "medio": "Diario Río Negro",
+      "autor": "Gabriel Dal Piva",
+      "descripcion": "Artículo sobre fruticultura, bodegas, vinos y cambios en la matriz productiva local.",
+      "url": "https://www.rionegro.com.ar/aniversario-de-san-patricio-del-chanar-fruticultura-y-vinos-de-calidad-1824302/",
+      "etiquetas": [
+        "aniversario",
+        "fruticultura",
+        "vitivinicultura"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+    },
+    {
+      "id": "rn-2022-05-21",
+      "titulo": "Aniversario de San Patricio del Chañar: En el camino de la reactivación",
+      "fecha": "2022-05-21",
+      "medio": "Diario Río Negro",
+      "autor": "Miguel Vergara",
+      "descripcion": "Nota de aniversario sobre actividad económica, inversiones y generación de empleo.",
+      "url": "https://www.rionegro.com.ar/sociedad/aniversario-de-san-patricio-del-chanar-en-el-camino-de-la-reactivacion-2308802/",
+      "etiquetas": [
+        "aniversario",
+        "economía",
+        "trabajo"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+    },
+    {
+      "id": "lm-2022-05-28",
+      "titulo": "El Chañar no quiere calles con nombres de funcionarios",
+      "fecha": "2022-05-28",
+      "medio": "La Mañana de Neuquén",
+      "autor": "Redacción",
+      "descripcion": "Página de diario digitalizada sobre la ordenanza 1255/21 y la participación ciudadana al nombrar espacios públicos.",
+      "url": "https://media.lmneuquen.com/adjuntos/195/documentos/007/165/0007165470.pdf",
+      "etiquetas": [
+        "municipio",
+        "normativa",
+        "participación ciudadana"
+      ],
+      "tipo": "pagina_digitalizada",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+    },
+    {
+      "id": "lm-2023-11-02",
+      "titulo": "El juicio por jurados tuvo su estreno en El Chañar",
+      "fecha": "2023-11-02",
+      "medio": "La Mañana de Neuquén",
+      "autor": "Redacción",
+      "descripcion": "Página de diario digitalizada sobre el primer juicio por jurados en el ámbito municipal.",
+      "url": "https://media.lmneuquen.com/adjuntos/195/documentos/007/615/0007615353.pdf",
+      "etiquetas": [
+        "justicia",
+        "vida comunitaria",
+        "municipio"
+      ],
+      "tipo": "pagina_digitalizada",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+    },
+    {
+      "id": "rn-2025-05-21",
+      "titulo": "Aniversario de San Patricio del Chañar: Un camino lleno de logros",
+      "fecha": "2025-05-21",
+      "medio": "Diario Río Negro",
+      "autor": "Leandro Bertoya",
+      "descripcion": "Artículo de aniversario firmado por un ex jefe comunal. Se conserva como relato de autor identificado, no como fuente neutral.",
+      "url": "https://www.rionegro.com.ar/sociedad/aniversario-de-san-patricio-del-chanar-un-camino-lleno-de-logros/",
+      "etiquetas": [
+        "aniversario",
+        "historia",
+        "memoria",
+        "opinión"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+    },
+    {
+      "id": "rn-2025-05-21b",
+      "titulo": "San Patricio del Chañar y su reinvención productiva constante",
+      "fecha": "2025-05-21",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Artículo sobre evolución de la agricultura, vitivinicultura y otras actividades productivas.",
+      "url": "https://www.rionegro.com.ar/sociedad/san-patricio-del-chanar-y-su-reinvencion-productiva-constante/",
+      "etiquetas": [
+        "aniversario",
+        "producción",
+        "agricultura",
+        "vitivinicultura"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+    },
+    {
+      "id": "rn-2025-05-21c",
+      "titulo": "San Patricio del Chañar: educación, diversidad productiva y desarrollo sostenible",
+      "fecha": "2025-05-21",
+      "medio": "Diario Río Negro",
+      "autor": "Silvia Fernández Machado",
+      "descripcion": "Artículo sobre educación, formación profesional y prioridades de desarrollo local.",
+      "url": "https://www.rionegro.com.ar/sociedad/educacion-diversidad-productiva-y-desarrollo-sostenible/",
+      "etiquetas": [
+        "educación",
+        "desarrollo",
+        "producción"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+    },
+    {
+      "id": "rn-2026-05-21",
+      "titulo": "Aniversario de San Patricio del Chañar: el desafío de expandirse sin resignar su perfil verde y productivo",
+      "fecha": "2026-05-21",
+      "medio": "Diario Río Negro",
+      "autor": "Silvia Fernández Machado",
+      "descripcion": "Artículo sobre crecimiento urbano, infraestructura, planificación y perfil productivo local.",
+      "url": "https://www.rionegro.com.ar/sociedad/aniversario-de-san-patricio-del-chanar-el-desafio-de-expandirse-sin-resignar-su-perfil-verde-y-productivo/",
+      "etiquetas": [
+        "aniversario",
+        "urbanismo",
+        "territorio",
+        "producción"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+    },
+    {
+      "id": "rn-2026-05-21b",
+      "titulo": "Aniversario de San Patricio del Chañar: la educación suma nuevos edificios",
+      "fecha": "2026-05-21",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Nota sobre obras educativas locales, incluida la EPET 26 y otras escuelas.",
+      "url": "https://www.rionegro.com.ar/sociedad/aniversario-de-san-patricio-del-chanar-la-educacion-suma-nuevos-edificios/",
+      "etiquetas": [
+        "educación",
+        "escuelas",
+        "infraestructura"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+    },
+    {
+      "id": "rn-2026-05-21c",
+      "titulo": "Aniversario de San Patricio del Chañar: la obra que permitirá convertir frutas y hortalizas en productos con sello local",
+      "fecha": "2026-05-21",
+      "medio": "Diario Río Negro",
+      "autor": "Redacción",
+      "descripcion": "Nota sobre la sala municipal de elaboración de alimentos y agregado de valor a la producción.",
+      "url": "https://www.rionegro.com.ar/sociedad/aniversario-de-san-patricio-del-chanar-la-obra-que-permitira-convertir-frutas-y-hortalizas-en-productos-con-sello-local/",
+      "etiquetas": [
+        "producción",
+        "alimentos",
+        "economía local"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+    },
+    {
+      "id": "rn-2026-05-21d",
+      "titulo": "Aniversario de San Patricio del Chañar: “Mi vida cambió”, la historia detrás de una fábrica que apuesta al trabajo local",
+      "fecha": "2026-05-21",
+      "medio": "Diario Río Negro",
+      "autor": "Silvia Fernández Machado",
+      "descripcion": "Perfil sobre una trabajadora local, capacitación, talleres municipales y empleo en una fábrica textil.",
+      "url": "https://www.rionegro.com.ar/sociedad/aniversario-de-san-patricio-del-chanar-mi-vida-cambio-la-historia-detras-de-una-fabrica-que-apuesta-al-trabajo-local/",
+      "etiquetas": [
+        "historias de vida",
+        "trabajo",
+        "capacitación"
+      ],
+      "tipo": "articulo_web",
+      "estado": "enlace_al_original",
+      "derechos": "LIBRITO conserva metadatos y una descripción propia. La noticia completa se consulta en el sitio del medio; no se copia ni republica."
+    }
+  ]
+}
