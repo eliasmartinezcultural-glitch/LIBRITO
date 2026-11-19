@@ -1,6 +1,6 @@
 {
   "nombre": "Biblioteca Digital Chañarense",
-  "version": 35,
+  "version": 36,
   "descripcion": "Catálogo de obras, documentos, investigaciones, mapas y trabajos sobre San Patricio del Chañar. Las fichas distinguen materiales alojados de referencias disponibles en sus fuentes originales.",
   "regla": "LIBRITO reúne y facilita el acceso a toda obra pertinente sobre San Patricio del Chañar. Las copias locales se distinguen de los enlaces y referencias; nunca se presume permiso de redistribución por el solo hecho de que un archivo sea público.",
   "categorias": [
@@ -2639,6 +2639,38 @@
         "planta funcional",
         "auxiliares de servicio",
         "decreto"
+      ]
+    },
+    {
+      "id": "legislatura-neuquen-proyecto-11627-2018-45-aniversario-chanar",
+      "titulo": "Proyecto de Declaración 11.627/2018 · 45º aniversario de San Patricio del Chañar",
+      "autoria": "Legisladores de la Provincia del Neuquén",
+      "institucion": "Honorable Legislatura de la Provincia del Neuquén",
+      "fecha": "2018-04-18",
+      "categoria": "Historia y memoria",
+      "tematica": "Fundación, historia institucional, primeros propietarios, riego y primeras autoridades",
+      "descripcion": "Proyecto de declaración presentado ante la Legislatura provincial por los aniversarios de varias localidades, entre ellas San Patricio del Chañar. Sus fundamentos incluyen una reseña local que refiere el origen del nombre, la llegada de la firma Gasparri, antecedentes de la concesión y puesta en marcha del riego, y la puesta en funciones de la Comisión de Fomento el 8 de abril de 1974. Se conserva como documento parlamentario y como fuente de los fundamentos presentados; no sustituye mensuras, decretos ni actas originales.",
+      "formato": "PDF",
+      "acceso": "origen",
+      "urlOriginal": "https://www.legislaturaneuquen.gob.ar/SVRFILES/hln/documentos/VerTaqui/XLVII/ApendiceReunion8/Proyecto11627.pdf",
+      "estado": "Disponible en origen",
+      "accionExterna": "Consultar proyecto legislativo",
+      "autorizacion": {
+        "estado": "solo_referencia",
+        "base": "Se enlaza el documento parlamentario original publicado por la Legislatura provincial.",
+        "referencia": "Legislatura del Neuquén, Proyecto 11.627, expediente D-270/18, 18/04/2018."
+      },
+      "procedencia": "Repositorio de proyectos y documentos de la Honorable Legislatura del Neuquén.",
+      "integridad": "PDF oficial consultado; el apartado dedicado al 45º aniversario de San Patricio del Chañar aparece en las páginas impresas 1–2.",
+      "etiquetas": [
+        "2018",
+        "45 aniversario",
+        "Legislatura",
+        "Gasparri",
+        "riego",
+        "Comisión de Fomento",
+        "8 de abril de 1974",
+        "memoria histórica"
       ]
     }
   ]
