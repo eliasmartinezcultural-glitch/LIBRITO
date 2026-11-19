@@ -1,0 +1,81 @@
+{
+  "nombre": "Recursos de LIBRITO · San Patricio del Chañar",
+  "version": 1,
+  "descripcion": "Índice de fotografías, mapas, planos, archivos audiovisuales y otros materiales de consulta relacionados con San Patricio del Chañar.",
+  "criterio": "Se registran recursos existentes y se enlaza a sus custodios o fuentes originales. La inclusión no implica autorización para descargar, copiar, republicar, adaptar o usar comercialmente. Cada ficha informa el estado de derechos conocido y el modo de acceso. Si las condiciones no están claras, el recurso se ofrece solo como referencia externa.",
+  "recursos": [
+    {
+      "id": "catastro-neuquen-mapa-localidad-chanar",
+      "titulo": "Mapa de San Patricio del Chañar",
+      "categoria": "Mapas y planos",
+      "tipo": "Mapa urbano institucional",
+      "fecha": "Fecha de edición no indicada en la ficha consultada",
+      "autor": "Dirección Provincial de Catastro e Información Territorial · Provincia del Neuquén",
+      "descripcion": "Plano oficial de la localidad con trazado urbano, espacios verdes, rutas y referencias de servicios. Es una representación territorial de consulta; no debe confundirse con un plano histórico ni utilizarse como mensura legal.",
+      "url": "https://dpc.neuquen.gov.ar/MapasYPlanos/Localidades/san_patricio_chagnar.jpg",
+      "fuente": "https://dpc.neuquen.gov.ar/Mapa",
+      "acceso": "Visualización del archivo en el sitio oficial de Catastro.",
+      "derechos_estado": "Condiciones expresas publicadas por el organismo",
+      "derechos": "La Mapoteca Digital informa que su cartografía está registrada bajo RE-2019-08844421-APN-DNDA#MJ. Permite descarga e impresión para uso personal; prohíbe la reproducción total o parcial con fines comerciales sin autorización expresa. Consultar siempre las condiciones vigentes en el organismo.",
+      "licencia": "No es una licencia abierta. Uso personal sujeto a las condiciones del organismo; otros usos requieren autorización.",
+      "etiquetas": [
+        "mapa",
+        "localidad",
+        "cartografía",
+        "catastro",
+        "servicios"
+      ]
+    },
+    {
+      "id": "catastro-neuquen-mapoteca-digital",
+      "titulo": "Mapoteca Digital de la Provincia del Neuquén",
+      "categoria": "Mapas y planos",
+      "tipo": "Colección cartográfica institucional",
+      "fecha": "Colección con mapas de distintos períodos",
+      "autor": "Dirección Provincial de Catastro e Información Territorial · Provincia del Neuquén",
+      "descripcion": "Portal oficial para consultar cartografía provincial, mapas de localidades y mapas históricos. Incluye el mapa de San Patricio del Chañar y piezas históricas de Neuquén de 1880, 1887, 1901, 1906, 1919 y 1941. La cobertura territorial de cada mapa debe revisarse individualmente: que sea un mapa de Neuquén no significa que represente en detalle el actual Chañar.",
+      "url": "https://dpc.neuquen.gov.ar/Mapa",
+      "fuente": "https://dpc.neuquen.gov.ar/dpcasp/mapoteca_digital/mapas_historicos.asp",
+      "acceso": "Consulta en el portal oficial. Los archivos se abren desde cada ficha de mapa.",
+      "derechos_estado": "Condiciones expresas publicadas por el organismo",
+      "derechos": "La cartografía está registrada bajo RE-2019-08844421-APN-DNDA#MJ. El organismo permite descargar e imprimir mapas para uso personal y prohíbe su reproducción total o parcial con fines comerciales sin autorización expresa. No alojamos copias.",
+      "licencia": "No es una licencia abierta. Uso personal sujeto a las condiciones del organismo; otros usos requieren autorización.",
+      "etiquetas": [
+        "mapoteca",
+        "mapas históricos",
+        "Neuquén",
+        "cartografía",
+        "1880",
+        "1887",
+        "1901",
+        "1906",
+        "1919",
+        "1941"
+      ]
+    },
+    {
+      "id": "municipalidad-chanar-galeria-nuestra-ciudad",
+      "titulo": "Galería institucional: Nuestra Ciudad",
+      "categoria": "Fotografías",
+      "tipo": "Galería fotográfica institucional",
+      "fecha": "Fechas variables; consultar cada publicación",
+      "autor": "Municipalidad de San Patricio del Chañar",
+      "descripcion": "Página institucional con imágenes de espacios y lugares de la localidad, entre ellos el balneario, la plaza, la chacra municipal, el dique compensador, el centro cultural, el estadio y otros sitios. Las fotografías sirven como referencias visuales de consulta; no se presume que estén autorizadas para reutilización.",
+      "url": "https://sanpatricio.gob.ar/nuestra",
+      "fuente": "https://sanpatricio.gob.ar/",
+      "acceso": "Consulta externa en la página municipal. No se copian ni alojan las imágenes.",
+      "derechos_estado": "Derechos y licencia de las imágenes no identificados de forma suficiente",
+      "derechos": "LIBRITO enlaza a la página de origen únicamente para consulta. Antes de descargar, reproducir, adaptar, publicar o utilizar una imagen, solicitar autorización a la Municipalidad y respetar los derechos de las personas fotografiadas cuando corresponda.",
+      "licencia": "No determinada. Solo referencia externa hasta que el titular informe condiciones de uso.",
+      "etiquetas": [
+        "fotografías",
+        "lugares",
+        "balneario",
+        "plaza",
+        "dique",
+        "patrimonio",
+        "municipalidad"
+      ]
+    }
+  ]
+}
